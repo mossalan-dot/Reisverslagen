@@ -1,0 +1,13 @@
+id: ruysch-coenraad
+naam: Coenraad Ruysch
+geboren:
+  jaar: 1650
+overleden:
+  jaar: 1731
+externe_ids: {}
+opmerkingen: >-
+  VOORBEELDRECORD ter demonstratie van het datamodel; biografische gegevens
+  nog controleren en aanvullen vanuit appendix Gemaakt op reis.
+bronnen:
+  - gemaakt-op-reis
+controle_nodig: true

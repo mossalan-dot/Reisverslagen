@@ -1,0 +1,28 @@
+id: hooft-dagboek
+titel_aanduiding: Reisdagboek van Arnout Hellemans Hooft, 1649-1651
+reizen:
+  - hooft-educatiereis-1649
+auteurs:
+  - hooft-arnout-hellemans
+instelling: allard-pierson
+signatuur: ""
+taal: Nederlands
+datering: 1649-1651
+manuscripttype: onbekend
+digitalisering:
+  status: onbekend
+transcriptie:
+  status: volledig
+  door: E.M. Grabowsky en P.J. Verkruijsse (in editie)
+edities:
+  - >-
+    E.M. Grabowsky en P.J. Verkruijsse (ed.), 'Een naekt beeldt op een marmore
+    matras seer schoon'. Het dagboek van een 'grand tour' (1649-1651)
+    (Hilversum 2001).
+opmerkingen: >-
+  VOORBEELDRECORD; bewaarplaats, signatuur, manuscripttype en
+  digitaliseringsstatus controleren bij de instelling en aanvullen met
+  permalink en repertoriumnummer.
+bronnen:
+  - gemaakt-op-reis
+controle_nodig: true

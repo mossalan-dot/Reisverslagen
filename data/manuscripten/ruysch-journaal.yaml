@@ -1,0 +1,21 @@
+id: ruysch-journaal
+titel_aanduiding: Reisjournaal van Coenraad Ruysch, 1674-1677
+reizen:
+  - ruysch-educatiereis-1674
+auteurs:
+  - ruysch-coenraad
+taal: Nederlands
+datering: 1674-1677
+manuscripttype: onbekend
+digitalisering:
+  status: onbekend
+transcriptie:
+  status: volledig
+  url: https://alanmoss.nl
+  door: Alan Moss
+opmerkingen: >-
+  VOORBEELDRECORD; bewaarplaats en signatuur invullen (instelling-record
+  aanmaken), transcriptie-url preciseren en repertoriumnummer toevoegen.
+bronnen:
+  - gemaakt-op-reis
+controle_nodig: true

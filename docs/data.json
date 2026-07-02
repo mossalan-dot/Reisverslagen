@@ -1,0 +1,201 @@
+{
+ "gegenereerd": "2026-07-02",
+ "reizigers": [
+  {
+   "id": "hooft-arnout-hellemans",
+   "naam": "Arnout Hellemans Hooft",
+   "geboren": {
+    "jaar": 1629,
+    "plaats": "Amsterdam"
+   },
+   "overleden": {
+    "jaar": 1680,
+    "plaats": "Amsterdam"
+   },
+   "herkomst": "Amsterdam",
+   "familie": "Zoon van P.C. Hooft en Leonora Hellemans",
+   "externe_ids": {},
+   "literatuur": [
+    "E.M. Grabowsky en P.J. Verkruijsse (ed.), 'Een naekt beeldt op een marmore matras seer schoon'. Het dagboek van een 'grand tour' (1649-1651) (Hilversum 2001)."
+   ],
+   "opmerkingen": "VOORBEELDRECORD ter demonstratie van het datamodel; biografische gegevens nog controleren en aanvullen vanuit appendix Gemaakt op reis.",
+   "bronnen": [
+    "gemaakt-op-reis"
+   ],
+   "controle_nodig": true
+  },
+  {
+   "id": "ruysch-coenraad",
+   "naam": "Coenraad Ruysch",
+   "geboren": {
+    "jaar": 1650
+   },
+   "overleden": {
+    "jaar": 1731
+   },
+   "externe_ids": {},
+   "opmerkingen": "VOORBEELDRECORD ter demonstratie van het datamodel; biografische gegevens nog controleren en aanvullen vanuit appendix Gemaakt op reis.",
+   "bronnen": [
+    "gemaakt-op-reis"
+   ],
+   "controle_nodig": true
+  }
+ ],
+ "reizen": [
+  {
+   "id": "hooft-educatiereis-1649",
+   "titel": "Educatiereis van Arnout Hellemans Hooft (1649-1651)",
+   "reizigers": [
+    "hooft-arnout-hellemans"
+   ],
+   "reistype": "educatiereis",
+   "vertrek": 1649,
+   "terugkeer": 1651,
+   "gebieden": [
+    "Duitse landen",
+    "Zwitserland",
+    "Italië",
+    "Frankrijk",
+    "Zuidelijke Nederlanden"
+   ],
+   "route": [
+    {
+     "plaats": "Amsterdam",
+     "land_modern": "Nederland",
+     "geo": {
+      "lat": 52.3728,
+      "lon": 4.8936
+     }
+    },
+    {
+     "plaats": "Venetië",
+     "land_modern": "Italië",
+     "geo": {
+      "lat": 45.4408,
+      "lon": 12.3155
+     }
+    },
+    {
+     "plaats": "Rome",
+     "land_modern": "Italië",
+     "geo": {
+      "lat": 41.8933,
+      "lon": 12.4829
+     }
+    },
+    {
+     "plaats": "Parijs",
+     "land_modern": "Frankrijk",
+     "geo": {
+      "lat": 48.8566,
+      "lon": 2.3522
+     }
+    }
+   ],
+   "opmerkingen": "VOORBEELDRECORD; route is hier slechts met enkele hoofdhaltes aangeduid en moet worden uitgewerkt op basis van het dagboek.",
+   "bronnen": [
+    "gemaakt-op-reis"
+   ],
+   "controle_nodig": true
+  },
+  {
+   "id": "ruysch-educatiereis-1674",
+   "titel": "Educatiereis van Coenraad Ruysch (1674-1677)",
+   "reizigers": [
+    "ruysch-coenraad"
+   ],
+   "reistype": "educatiereis",
+   "vertrek": 1674,
+   "terugkeer": 1677,
+   "gebieden": [
+    "Duitse landen",
+    "Italië",
+    "Frankrijk"
+   ],
+   "reisgenoten": "Reisde met zijn neef Dirck van Hoogeveen.",
+   "opmerkingen": "VOORBEELDRECORD; periode, route en gezelschap controleren vanuit appendix Gemaakt op reis.",
+   "bronnen": [
+    "gemaakt-op-reis"
+   ],
+   "controle_nodig": true
+  }
+ ],
+ "manuscripten": [
+  {
+   "id": "hooft-dagboek",
+   "titel_aanduiding": "Reisdagboek van Arnout Hellemans Hooft, 1649-1651",
+   "reizen": [
+    "hooft-educatiereis-1649"
+   ],
+   "auteurs": [
+    "hooft-arnout-hellemans"
+   ],
+   "instelling": "allard-pierson",
+   "signatuur": "",
+   "taal": "Nederlands",
+   "datering": "1649-1651",
+   "manuscripttype": "onbekend",
+   "digitalisering": {
+    "status": "onbekend"
+   },
+   "transcriptie": {
+    "status": "volledig",
+    "door": "E.M. Grabowsky en P.J. Verkruijsse (in editie)"
+   },
+   "edities": [
+    "E.M. Grabowsky en P.J. Verkruijsse (ed.), 'Een naekt beeldt op een marmore matras seer schoon'. Het dagboek van een 'grand tour' (1649-1651) (Hilversum 2001)."
+   ],
+   "opmerkingen": "VOORBEELDRECORD; bewaarplaats, signatuur, manuscripttype en digitaliseringsstatus controleren bij de instelling en aanvullen met permalink en repertoriumnummer.",
+   "bronnen": [
+    "gemaakt-op-reis"
+   ],
+   "controle_nodig": true
+  },
+  {
+   "id": "ruysch-journaal",
+   "titel_aanduiding": "Reisjournaal van Coenraad Ruysch, 1674-1677",
+   "reizen": [
+    "ruysch-educatiereis-1674"
+   ],
+   "auteurs": [
+    "ruysch-coenraad"
+   ],
+   "taal": "Nederlands",
+   "datering": "1674-1677",
+   "manuscripttype": "onbekend",
+   "digitalisering": {
+    "status": "onbekend"
+   },
+   "transcriptie": {
+    "status": "volledig",
+    "url": "https://alanmoss.nl",
+    "door": "Alan Moss"
+   },
+   "opmerkingen": "VOORBEELDRECORD; bewaarplaats en signatuur invullen (instelling-record aanmaken), transcriptie-url preciseren en repertoriumnummer toevoegen.",
+   "bronnen": [
+    "gemaakt-op-reis"
+   ],
+   "controle_nodig": true
+  }
+ ],
+ "instellingen": [
+  {
+   "id": "allard-pierson",
+   "naam": "Allard Pierson (Universiteit van Amsterdam)",
+   "plaats": "Amsterdam",
+   "land": "Nederland",
+   "type": "bibliotheek",
+   "website": "https://allardpierson.nl",
+   "opmerkingen": "Erfgoedinstelling van de Universiteit van Amsterdam; omvat de Bijzondere Collecties van de voormalige Universiteitsbibliotheek Amsterdam. Oudere literatuur verwijst vaak naar \"UB Amsterdam\"."
+  },
+  {
+   "id": "nationaal-archief",
+   "naam": "Nationaal Archief",
+   "plaats": "Den Haag",
+   "land": "Nederland",
+   "type": "archief",
+   "website": "https://www.nationaalarchief.nl",
+   "opmerkingen": "Tot 2002 Algemeen Rijksarchief (ARA); oudere literatuur en het repertorium van Lindeman, Scherf en Dekker gebruiken die naam."
+  }
+ ]
+}

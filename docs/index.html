@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reisverslagen — compendium van handgeschreven reisverslagen uit de Nederlanden</title>
+<style>
+  :root {
+    --inkt: #2b2620; --papier: #faf7f1; --kaart: #ffffff; --rand: #e3dcd0;
+    --accent: #7a2e2e; --accent-licht: #f3e6e6; --dempen: #7a715f;
+    --groen: #2e6b46; --groen-licht: #e2efe7; --amber: #8a6116; --amber-licht: #f6ecd8;
+    --grijs: #6b6b6b; --grijs-licht: #eeeae3;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--papier); color: var(--inkt);
+    font: 16px/1.55 Georgia, 'Times New Roman', serif; }
+  header { background: var(--inkt); color: #f3efe7; padding: 1.6rem 1rem 1.3rem; }
+  .kolom { max-width: 60rem; margin: 0 auto; padding: 0 1rem; }
+  header .kolom { padding: 0; max-width: 58rem; }
+  h1 { margin: 0; font-size: 1.6rem; font-weight: normal; letter-spacing: .02em; }
+  header p { margin: .35rem 0 0; color: #cfc7b8; font-size: .95rem; }
+  nav { background: var(--kaart); border-bottom: 1px solid var(--rand);
+    position: sticky; top: 0; z-index: 5; }
+  nav .kolom { display: flex; gap: .25rem; flex-wrap: wrap; padding: 0 1rem; }
+  nav button { border: none; background: none; font: inherit; font-size: .95rem;
+    padding: .7rem .9rem; cursor: pointer; color: var(--dempen);
+    border-bottom: 3px solid transparent; }
+  nav button.actief { color: var(--accent); border-bottom-color: var(--accent); }
+  nav button:hover { color: var(--inkt); }
+  .balk { display: flex; gap: .6rem; flex-wrap: wrap; align-items: center; margin: 1.1rem 0 .9rem; }
+  .balk input[type=search] { flex: 1 1 14rem; font: inherit; padding: .45rem .65rem;
+    border: 1px solid var(--rand); border-radius: 4px; background: var(--kaart); }
+  .balk select { font: inherit; font-size: .9rem; padding: .4rem .5rem;
+    border: 1px solid var(--rand); border-radius: 4px; background: var(--kaart); }
+  .balk label { font-size: .85rem; color: var(--dempen); }
+  .teller { color: var(--dempen); font-size: .88rem; margin: 0 0 .8rem; }
+  ul.lijst { list-style: none; margin: 0 0 2rem; padding: 0; display: grid; gap: .6rem; }
+  ul.lijst li { background: var(--kaart); border: 1px solid var(--rand);
+    border-radius: 6px; padding: .75rem .95rem; cursor: pointer; }
+  ul.lijst li:hover { border-color: var(--accent); }
+  .kop { font-size: 1.05rem; color: var(--accent); }
+  .sub { color: var(--dempen); font-size: .88rem; margin-top: .15rem; }
+  .badges { margin-top: .4rem; display: flex; gap: .35rem; flex-wrap: wrap; }
+  .badge { font-family: system-ui, sans-serif; font-size: .72rem; padding: .1rem .5rem;
+    border-radius: 999px; white-space: nowrap; }
+  .b-volledig { background: var(--groen-licht); color: var(--groen); }
+  .b-gedeeltelijk { background: var(--amber-licht); color: var(--amber); }
+  .b-geen, .b-onbekend { background: var(--grijs-licht); color: var(--grijs); }
+  .b-controle { background: var(--accent-licht); color: var(--accent); }
+  .b-editie { background: var(--groen-licht); color: var(--groen); }
+  article { background: var(--kaart); border: 1px solid var(--rand); border-radius: 6px;
+    padding: 1.3rem 1.5rem; margin: 1.1rem 0 2rem; }
+  article h2 { margin: 0 0 .2rem; font-size: 1.35rem; font-weight: normal; color: var(--accent); }
+  article .soort { font-family: system-ui, sans-serif; font-size: .75rem;
+    text-transform: uppercase; letter-spacing: .08em; color: var(--dempen); }
+  dl { display: grid; grid-template-columns: minmax(9rem, 12rem) 1fr; gap: .35rem .9rem; margin: 1rem 0; }
+  dt { color: var(--dempen); font-size: .88rem; padding-top: .1rem; }
+  dd { margin: 0; }
+  dd ul { margin: 0; padding-left: 1.1rem; }
+  a { color: var(--accent); }
+  .terug { display: inline-block; margin-top: 1rem; font-size: .95rem;
+    background: none; border: none; color: var(--accent); font: inherit;
+    cursor: pointer; padding: 0; text-decoration: underline; }
+  .suggestie { margin-top: 1.2rem; padding-top: .9rem; border-top: 1px dashed var(--rand);
+    font-size: .88rem; color: var(--dempen); }
+  .leeg { color: var(--dempen); font-style: italic; margin: 2rem 0; }
+  footer { border-top: 1px solid var(--rand); color: var(--dempen);
+    font-size: .85rem; padding: 1.2rem 0 2.5rem; margin-top: 1rem; }
+  @media (max-width: 600px) { dl { grid-template-columns: 1fr; } dt { margin-top: .4rem; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="kolom">
+    <h1>Reisverslagen</h1>
+    <p>Compendium van handgeschreven reisverslagen van reizigers uit de Nederlanden — zeventiende eeuw</p>
+  </div>
+</header>
+<nav><div class="kolom" id="tabbladen"></div></nav>
+<main class="kolom" id="hoofd"></main>
+<footer><div class="kolom" id="voet"></div></footer>
+
+<script>
+const DATA = {"gegenereerd": "2026-07-02", "reizigers": [{"id": "hooft-arnout-hellemans", "naam": "Arnout Hellemans Hooft", "geboren": {"jaar": 1629, "plaats": "Amsterdam"}, "overleden": {"jaar": 1680, "plaats": "Amsterdam"}, "herkomst": "Amsterdam", "familie": "Zoon van P.C. Hooft en Leonora Hellemans", "externe_ids": {}, "literatuur": ["E.M. Grabowsky en P.J. Verkruijsse (ed.), 'Een naekt beeldt op een marmore matras seer schoon'. Het dagboek van een 'grand tour' (1649-1651) (Hilversum 2001)."], "opmerkingen": "VOORBEELDRECORD ter demonstratie van het datamodel; biografische gegevens nog controleren en aanvullen vanuit appendix Gemaakt op reis.", "bronnen": ["gemaakt-op-reis"], "controle_nodig": true}, {"id": "ruysch-coenraad", "naam": "Coenraad Ruysch", "geboren": {"jaar": 1650}, "overleden": {"jaar": 1731}, "externe_ids": {}, "opmerkingen": "VOORBEELDRECORD ter demonstratie van het datamodel; biografische gegevens nog controleren en aanvullen vanuit appendix Gemaakt op reis.", "bronnen": ["gemaakt-op-reis"], "controle_nodig": true}], "reizen": [{"id": "hooft-educatiereis-1649", "titel": "Educatiereis van Arnout Hellemans Hooft (1649-1651)", "reizigers": ["hooft-arnout-hellemans"], "reistype": "educatiereis", "vertrek": 1649, "terugkeer": 1651, "gebieden": ["Duitse landen", "Zwitserland", "Italië", "Frankrijk", "Zuidelijke Nederlanden"], "route": [{"plaats": "Amsterdam", "land_modern": "Nederland", "geo": {"lat": 52.3728, "lon": 4.8936}}, {"plaats": "Venetië", "land_modern": "Italië", "geo": {"lat": 45.4408, "lon": 12.3155}}, {"plaats": "Rome", "land_modern": "Italië", "geo": {"lat": 41.8933, "lon": 12.4829}}, {"plaats": "Parijs", "land_modern": "Frankrijk", "geo": {"lat": 48.8566, "lon": 2.3522}}], "opmerkingen": "VOORBEELDRECORD; route is hier slechts met enkele hoofdhaltes aangeduid en moet worden uitgewerkt op basis van het dagboek.", "bronnen": ["gemaakt-op-reis"], "controle_nodig": true}, {"id": "ruysch-educatiereis-1674", "titel": "Educatiereis van Coenraad Ruysch (1674-1677)", "reizigers": ["ruysch-coenraad"], "reistype": "educatiereis", "vertrek": 1674, "terugkeer": 1677, "gebieden": ["Duitse landen", "Italië", "Frankrijk"], "reisgenoten": "Reisde met zijn neef Dirck van Hoogeveen.", "opmerkingen": "VOORBEELDRECORD; periode, route en gezelschap controleren vanuit appendix Gemaakt op reis.", "bronnen": ["gemaakt-op-reis"], "controle_nodig": true}], "manuscripten": [{"id": "hooft-dagboek", "titel_aanduiding": "Reisdagboek van Arnout Hellemans Hooft, 1649-1651", "reizen": ["hooft-educatiereis-1649"], "auteurs": ["hooft-arnout-hellemans"], "instelling": "allard-pierson", "signatuur": "", "taal": "Nederlands", "datering": "1649-1651", "manuscripttype": "onbekend", "digitalisering": {"status": "onbekend"}, "transcriptie": {"status": "volledig", "door": "E.M. Grabowsky en P.J. Verkruijsse (in editie)"}, "edities": ["E.M. Grabowsky en P.J. Verkruijsse (ed.), 'Een naekt beeldt op een marmore matras seer schoon'. Het dagboek van een 'grand tour' (1649-1651) (Hilversum 2001)."], "opmerkingen": "VOORBEELDRECORD; bewaarplaats, signatuur, manuscripttype en digitaliseringsstatus controleren bij de instelling en aanvullen met permalink en repertoriumnummer.", "bronnen": ["gemaakt-op-reis"], "controle_nodig": true}, {"id": "ruysch-journaal", "titel_aanduiding": "Reisjournaal van Coenraad Ruysch, 1674-1677", "reizen": ["ruysch-educatiereis-1674"], "auteurs": ["ruysch-coenraad"], "taal": "Nederlands", "datering": "1674-1677", "manuscripttype": "onbekend", "digitalisering": {"status": "onbekend"}, "transcriptie": {"status": "volledig", "url": "https://alanmoss.nl", "door": "Alan Moss"}, "opmerkingen": "VOORBEELDRECORD; bewaarplaats en signatuur invullen (instelling-record aanmaken), transcriptie-url preciseren en repertoriumnummer toevoegen.", "bronnen": ["gemaakt-op-reis"], "controle_nodig": true}], "instellingen": [{"id": "allard-pierson", "naam": "Allard Pierson (Universiteit van Amsterdam)", "plaats": "Amsterdam", "land": "Nederland", "type": "bibliotheek", "website": "https://allardpierson.nl", "opmerkingen": "Erfgoedinstelling van de Universiteit van Amsterdam; omvat de Bijzondere Collecties van de voormalige Universiteitsbibliotheek Amsterdam. Oudere literatuur verwijst vaak naar \"UB Amsterdam\"."}, {"id": "nationaal-archief", "naam": "Nationaal Archief", "plaats": "Den Haag", "land": "Nederland", "type": "archief", "website": "https://www.nationaalarchief.nl", "opmerkingen": "Tot 2002 Algemeen Rijksarchief (ARA); oudere literatuur en het repertorium van Lindeman, Scherf en Dekker gebruiken die naam."}]};
+
+const SOORTEN = {
+  manuscript: { meervoud: "manuscripten", label: "Manuscripten", enkel: "Manuscript" },
+  reiziger:   { meervoud: "reizigers",    label: "Reizigers",    enkel: "Reiziger" },
+  reis:       { meervoud: "reizen",       label: "Reizen",       enkel: "Reis" },
+  instelling: { meervoud: "instellingen", label: "Instellingen", enkel: "Instelling" },
+};
+const TABVOLGORDE = ["manuscript", "reiziger", "reis", "instelling"];
+const SUGGESTIE_EMAIL = "mossalan@gmail.com";
+
+const index = {};
+for (const [soort, def] of Object.entries(SOORTEN)) {
+  index[soort] = new Map(DATA[def.meervoud].map(r => [r.id, r]));
+}
+
+const staat = { tab: "manuscript", zoek: "", fDig: "", fTrans: "", fEditie: "", detail: null };
+
+function esc(t) {
+  return String(t).replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+function zoektekst(r) {
+  if (!r._zoek) r._zoek = JSON.stringify(r).toLowerCase();
+  return r._zoek;
+}
+function badge(tekst, klasse) {
+  return '<span class="badge b-' + klasse + '">' + esc(tekst) + "</span>";
+}
+function statusBadge(naam, obj) {
+  const s = obj && obj.status ? obj.status : "onbekend";
+  return badge(naam + ": " + s, s);
+}
+function naamVan(soort, id) {
+  const r = index[soort].get(id);
+  if (!r) return id;
+  return r.naam || r.titel || r.titel_aanduiding || id;
+}
+function koppeling(soort, id) {
+  return '<a href="#/' + soort + "/" + encodeURIComponent(id) + '">' + esc(naamVan(soort, id)) + "</a>";
+}
+function jaren(r) {
+  const g = r.geboren && r.geboren.jaar, o = r.overleden && r.overleden.jaar;
+  if (!g && !o) return "";
+  return (g || "?") + "–" + (o || "?");
+}
+function periode(r) {
+  if (r.vertrek && r.terugkeer) return r.vertrek + "–" + r.terugkeer;
+  return r.vertrek || r.terugkeer || "";
+}
+
+// ---- kaartjes in de lijstweergave ----
+function kaartje(soort, r) {
+  let sub = "", badges = "";
+  if (soort === "manuscript") {
+    const inst = r.instelling ? naamVan("instelling", r.instelling) : "bewaarplaats onbekend";
+    sub = inst + (r.signatuur ? ", " + r.signatuur : "") + (r.datering ? " · " + r.datering : "");
+    badges = statusBadge("digitalisering", r.digitalisering) + statusBadge("transcriptie", r.transcriptie)
+      + (r.edities && r.edities.length ? badge("editie", "editie") : "");
+  } else if (soort === "reiziger") {
+    sub = [jaren(r), r.herkomst].filter(Boolean).join(" · ");
+  } else if (soort === "reis") {
+    sub = [periode(r), r.reistype, (r.gebieden || []).join(", ")].filter(Boolean).join(" · ");
+  } else if (soort === "instelling") {
+    const n = DATA.manuscripten.filter(m => m.instelling === r.id).length;
+    sub = [r.plaats, r.land, n + " manuscript" + (n === 1 ? "" : "en")].filter(Boolean).join(" · ");
+  }
+  if (r.controle_nodig) badges += badge("controle nodig", "controle");
+  return '<li onclick="location.hash=\'#/' + soort + "/" + encodeURIComponent(r.id) + '\'">' +
+    '<div class="kop">' + esc(naamVan(soort, r.id)) + "</div>" +
+    (sub ? '<div class="sub">' + esc(sub) + "</div>" : "") +
+    (badges ? '<div class="badges">' + badges + "</div>" : "") + "</li>";
+}
+
+// ---- detailweergave ----
+function rij(label, inhoud, alHtml) {
+  if (inhoud === undefined || inhoud === null || inhoud === "" ||
+      (Array.isArray(inhoud) && !inhoud.length)) return "";
+  let html;
+  if (Array.isArray(inhoud)) {
+    html = "<ul>" + inhoud.map(x => "<li>" + (alHtml ? x : esc(x)) + "</li>").join("") + "</ul>";
+  } else {
+    html = alHtml ? inhoud : esc(inhoud);
+  }
+  return "<dt>" + esc(label) + "</dt><dd>" + html + "</dd>";
+}
+function urlRij(label, url) {
+  if (!url) return "";
+  return rij(label, '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(url) + "</a>", true);
+}
+function statusRij(label, obj) {
+  if (!obj) return "";
+  let d = esc(obj.status || "onbekend");
+  if (obj.door) d += " — " + esc(obj.door);
+  if (obj.url) d += ' — <a href="' + esc(obj.url) + '" target="_blank" rel="noopener">' + esc(obj.url) + "</a>";
+  if (obj.iiif_manifest) d += ' — <a href="' + esc(obj.iiif_manifest) + '" target="_blank" rel="noopener">IIIF-manifest</a>';
+  return rij(label, d, true);
+}
+
+function detail(soort, r) {
+  let rijen = "";
+  if (soort === "reiziger") {
+    const geb = r.geboren ? [r.geboren.datum || r.geboren.jaar, r.geboren.plaats].filter(Boolean).join(", ") : "";
+    const ovl = r.overleden ? [r.overleden.datum || r.overleden.jaar, r.overleden.plaats].filter(Boolean).join(", ") : "";
+    rijen += rij("Geboren", geb) + rij("Overleden", ovl) + rij("Herkomst", r.herkomst) +
+      rij("Religie", r.religie) + rij("Beroep/functie", r.beroep_functie) + rij("Familie", r.familie);
+    if (r.externe_ids && Object.keys(r.externe_ids).length) {
+      rijen += rij("Externe identifiers",
+        Object.entries(r.externe_ids).map(([k, v]) => esc(k) + ": " + esc(v)).join(" · "), true);
+    }
+    const reizenVan = DATA.reizen.filter(x => (x.reizigers || []).includes(r.id));
+    rijen += rij("Reizen", reizenVan.map(x => koppeling("reis", x.id)), true);
+    const mss = DATA.manuscripten.filter(m => (m.auteurs || []).includes(r.id));
+    rijen += rij("Manuscripten", mss.map(m => koppeling("manuscript", m.id)), true);
+    rijen += rij("Literatuur", r.literatuur);
+  } else if (soort === "reis") {
+    rijen += rij("Reizigers", (r.reizigers || []).map(id => koppeling("reiziger", id)), true) +
+      rij("Reistype", r.reistype) + rij("Vertrek", r.vertrek) + rij("Terugkeer", r.terugkeer) +
+      rij("Gebieden", (r.gebieden || []).join(", ")) + rij("Reisgezelschap", r.reisgenoten);
+    if (r.route && r.route.length) {
+      rijen += rij("Route", r.route.map(h =>
+        esc([h.plaats, h.land_modern].filter(Boolean).join(" (") + (h.land_modern ? ")" : "")) +
+        (h.datum ? " — " + esc(h.datum) : "")), true);
+    }
+    const mss = DATA.manuscripten.filter(m => (m.reizen || []).includes(r.id));
+    rijen += rij("Manuscripten", mss.map(m => koppeling("manuscript", m.id)), true);
+  } else if (soort === "manuscript") {
+    rijen += rij("Auteur(s)", (r.auteurs || []).map(id => koppeling("reiziger", id)), true) +
+      rij("Beschreven reis/reizen", (r.reizen || []).map(id => koppeling("reis", id)), true) +
+      rij("Bewaarplaats", r.instelling ? koppeling("instelling", r.instelling) : "", true) +
+      rij("Collectie", r.collectie) + rij("Signatuur", r.signatuur) +
+      urlRij("Permalink", r.permalink) +
+      rij("Datering", r.datering) + rij("Taal", r.taal) +
+      rij("Manuscripttype", r.manuscripttype) + rij("Omvang", r.omvang) +
+      statusRij("Digitalisering", r.digitalisering) +
+      statusRij("Transcriptie", r.transcriptie) +
+      rij("Edities", r.edities) +
+      rij("Repertorium Lindeman/Scherf/Dekker", r.repertorium_lsd) +
+      rij("Literatuur", r.literatuur) +
+      rij("Laatst gecontroleerd", r.laatst_gecontroleerd);
+  } else if (soort === "instelling") {
+    rijen += rij("Plaats", [r.plaats, r.land].filter(Boolean).join(", ")) +
+      rij("Type", r.type) + urlRij("Website", r.website);
+    const mss = DATA.manuscripten.filter(m => m.instelling === r.id);
+    rijen += rij("Manuscripten in deze instelling", mss.map(m => koppeling("manuscript", m.id)), true);
+  }
+  rijen += rij("Opmerkingen", r.opmerkingen) + rij("Bronnen", r.bronnen);
+
+  const onderwerp = encodeURIComponent("Suggestie compendium reisverslagen: " + r.id);
+  return "<article>" +
+    '<div class="soort">' + SOORTEN[soort].enkel + (r.controle_nodig ? " · " + badge("controle nodig", "controle") : "") + "</div>" +
+    "<h2>" + esc(naamVan(soort, r.id)) + "</h2>" +
+    "<dl>" + rijen + "</dl>" +
+    '<div class="suggestie">Aanvulling of correctie? <a href="mailto:' + SUGGESTIE_EMAIL +
+    "?subject=" + onderwerp + '">Geef een suggestie door</a> onder vermelding van record-id <code>' +
+    esc(r.id) + "</code>.</div>" +
+    '<button class="terug" onclick="history.back()">← Terug</button>' +
+    "</article>";
+}
+
+// ---- lijstweergave met filters ----
+function lijst() {
+  const soort = staat.tab, def = SOORTEN[soort];
+  let records = DATA[def.meervoud].slice();
+  if (staat.zoek) {
+    const q = staat.zoek.toLowerCase();
+    records = records.filter(r => zoektekst(r).includes(q));
+  }
+  if (soort === "manuscript") {
+    if (staat.fDig) records = records.filter(r => ((r.digitalisering || {}).status || "onbekend") === staat.fDig);
+    if (staat.fTrans) records = records.filter(r => ((r.transcriptie || {}).status || "onbekend") === staat.fTrans);
+    if (staat.fEditie === "met") records = records.filter(r => r.edities && r.edities.length);
+    if (staat.fEditie === "zonder") records = records.filter(r => !r.edities || !r.edities.length);
+  }
+  records.sort((a, b) => naamVan(soort, a.id).localeCompare(naamVan(soort, b.id), "nl"));
+
+  let filters = "";
+  if (soort === "manuscript") {
+    const opties = s => ["", "geen", "gedeeltelijk", "volledig", "onbekend"].map(o =>
+      '<option value="' + o + '"' + (s === o ? " selected" : "") + ">" + (o || "alle") + "</option>").join("");
+    filters =
+      "<label>digitalisering <select onchange=\"zetFilter('fDig', this.value)\">" + opties(staat.fDig) + "</select></label>" +
+      "<label>transcriptie <select onchange=\"zetFilter('fTrans', this.value)\">" + opties(staat.fTrans) + "</select></label>" +
+      "<label>editie <select onchange=\"zetFilter('fEditie', this.value)\">" +
+      ["", "met", "zonder"].map(o => '<option value="' + o + '"' + (staat.fEditie === o ? " selected" : "") + ">" +
+        (o || "alle") + "</option>").join("") + "</select></label>";
+  }
+  return '<div class="balk">' +
+    '<input type="search" placeholder="Zoek in ' + def.meervoud + '…" value="' + esc(staat.zoek) +
+    '" oninput="zetZoek(this.value)">' + filters + "</div>" +
+    '<p class="teller">' + records.length + " van " + DATA[def.meervoud].length + " " + def.meervoud + "</p>" +
+    (records.length ? '<ul class="lijst">' + records.map(r => kaartje(soort, r)).join("") + "</ul>"
+      : '<p class="leeg">Geen resultaten.</p>');
+}
+
+function zetZoek(w) { staat.zoek = w; teken(false); }
+function zetFilter(naam, w) { staat[naam] = w; teken(false); }
+
+function tabbladen() {
+  document.getElementById("tabbladen").innerHTML = TABVOLGORDE.map(s => {
+    const def = SOORTEN[s];
+    return '<button class="' + (staat.tab === s && !staat.detail ? "actief" : "") +
+      '" onclick="location.hash=\'#/' + def.meervoud + '\'">' + def.label +
+      " (" + DATA[def.meervoud].length + ")</button>";
+  }).join("");
+}
+
+function teken(focusHerstel) {
+  tabbladen();
+  const hoofd = document.getElementById("hoofd");
+  if (staat.detail) {
+    const r = index[staat.detail.soort].get(staat.detail.id);
+    hoofd.innerHTML = r ? detail(staat.detail.soort, r)
+      : '<p class="leeg">Record niet gevonden.</p>';
+    if (focusHerstel !== false) window.scrollTo(0, 0);
+  } else {
+    hoofd.innerHTML = lijst();
+    if (focusHerstel === false) {
+      const veld = hoofd.querySelector("input[type=search]");
+      if (veld) { veld.focus(); veld.setSelectionRange(veld.value.length, veld.value.length); }
+    }
+  }
+}
+
+function lees() {
+  const deel = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/");
+  staat.detail = null;
+  const perMeervoud = Object.fromEntries(Object.entries(SOORTEN).map(([s, d]) => [d.meervoud, s]));
+  if (deel[0] && perMeervoud[deel[0]]) {
+    staat.tab = perMeervoud[deel[0]];
+  } else if (deel[0] && SOORTEN[deel[0]] && deel[1]) {
+    staat.tab = deel[0];
+    staat.detail = { soort: deel[0], id: deel[1] };
+  }
+  teken();
+}
+
+document.getElementById("voet").innerHTML =
+  "Gegevens gegenereerd op " + esc(DATA.gegenereerd) + " · " +
+  '<a href="data.json">volledige dataset (JSON)</a> · ' +
+  'Gebaseerd op o.a. het repertorium van Lindeman, Scherf en Dekker (1994) en de appendices in ' +
+  "Alan Moss, <em>Gemaakt op reis</em> (2022). Records gemarkeerd met “controle nodig” zijn nog niet geverifieerd.";
+
+window.addEventListener("hashchange", lees);
+lees();
+</script>
+</body>
+</html>
