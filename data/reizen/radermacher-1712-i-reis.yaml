@@ -1,0 +1,18 @@
+id: radermacher-1712-i-reis
+titel: Plezierreis van Samuel Radermacher (1712 I)
+reizigers:
+- radermacher-samuel
+reistype: plezierreis
+vertrek: 23 april 1712
+terugkeer: 23 april 1712
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 23 april 1712
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 23 april 1712
+bronnen:
+- gemaakt-op-reis

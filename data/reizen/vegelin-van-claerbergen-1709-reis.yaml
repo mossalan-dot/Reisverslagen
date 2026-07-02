@@ -1,0 +1,21 @@
+id: vegelin-van-claerbergen-1709-reis
+titel: Militaire reis van Johan Vegelin van Claerbergen (1709)
+reizigers:
+- vegelin-van-claerbergen-johan
+reistype: militaire reis
+vertrek: 15 juni 1709
+terugkeer: 8 juli 1709
+reisdagen: 23
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Harlingen
+  land_modern: Nederland
+  datum: 15 juni 1709
+- plaats: Joure
+  land_modern: Nederland
+  datum: 8 juli 1709
+bronnen:
+- gemaakt-op-reis

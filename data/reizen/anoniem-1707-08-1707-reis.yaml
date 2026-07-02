@@ -1,0 +1,20 @@
+id: anoniem-1707-08-1707-reis
+titel: Plezierreis van een onbekende reiziger (1707-08)
+reistype: plezierreis
+vertrek: 6 mei 1707
+terugkeer: 9 juni 1708
+reisdagen: 393
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Italië. Incompleet
+route:
+- plaats: Amsterdam
+  land_modern: Nederland
+  datum: 6 mei 1707
+- plaats: Rome
+  land_modern: Italië
+  datum: 9 juni 1708
+bronnen:
+- gemaakt-op-reis

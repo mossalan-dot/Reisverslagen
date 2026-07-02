@@ -1,0 +1,26 @@
+id: anoniem-1677-96-1696-reis
+titel: Plezierreis van een onbekende reiziger (1696)
+reistype: plezierreis
+vertrek: '1696'
+terugkeer: '1696'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Slowakije
+- Hongarije
+- Slowakije
+- Oostenrijk
+- Tsjechië
+- Polen
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Amsterdam
+  land_modern: Nederland
+  datum: '1696'
+- plaats: Amsterdam
+  land_modern: Nederland
+  datum: '1696'
+bronnen:
+- gemaakt-op-reis

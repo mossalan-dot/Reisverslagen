@@ -1,0 +1,24 @@
+id: vinne-1652-55-reis
+titel: Educatiereis van Vincent Laurensz. van der Vinne (1652-55)
+reizigers:
+- vinne-vincent-laurensz-van-der
+reistype: educatiereis
+vertrek: 21 augustus 1652
+terugkeer: 22 oktober 1655
+reisdagen: 1141
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Frankrijk
+- Zwitserland
+- Frankrijk
+- Nederlandse Republiek
+route:
+- plaats: Haarlem
+  land_modern: Nederland
+  datum: 21 augustus 1652
+- plaats: Haarlem
+  land_modern: Nederland
+  datum: 22 oktober 1655
+bronnen:
+- gemaakt-op-reis

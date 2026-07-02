@@ -1,0 +1,19 @@
+id: hinlopen-1673-reis
+titel: Militaire reis van Gerard Hinlopen (1673)
+reizigers:
+- hinlopen-gerard
+reistype: militaire reis
+vertrek: 5 februari 1673
+terugkeer: 24 februari 1673
+reisdagen: 7
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Amsterdam
+  land_modern: Nederland
+  datum: 5 februari 1673
+- plaats: Hoorn
+  land_modern: Nederland
+  datum: 24 februari 1673
+bronnen:
+- gemaakt-op-reis

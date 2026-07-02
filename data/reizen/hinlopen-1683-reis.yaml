@@ -1,0 +1,21 @@
+id: hinlopen-1683-reis
+titel: Plezierreis van Gerard Hinlopen (1683)
+reizigers:
+- hinlopen-gerard
+reistype: plezierreis
+vertrek: 4 juni 1683
+terugkeer: 26 juni 1683
+reisdagen: 22
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederland
+  datum: 4 juni 1683
+- plaats: Hoorn
+  land_modern: Nederland
+  datum: 26 juni 1683
+bronnen:
+- gemaakt-op-reis

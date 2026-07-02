@@ -1,0 +1,19 @@
+id: alting-1656-59-reis
+titel: Educatiereis van Menso Alting (1656-59)
+reizigers:
+- alting-menso
+reistype: educatiereis
+vertrek: 29 februari 1656
+terugkeer: '1659'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Groningen
+  land_modern: Nederland
+  datum: 29 februari 1656
+- plaats: Groningen
+  datum: '1659'
+bronnen:
+- gemaakt-op-reis

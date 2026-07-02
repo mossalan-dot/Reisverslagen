@@ -1,0 +1,25 @@
+id: huygens-1620-reis
+titel: Diplomatieke reis van Constantijn sr. Huygens (1620)
+reizigers:
+- huygens-constantijn-sr
+reistype: diplomatieke reis
+vertrek: 25 april 1620
+terugkeer: 7 augustus 1620
+reisdagen: 102
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Zwitserland
+- Italië
+- Zwitserland
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 25 april 1620
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 7 augustus 1620
+bronnen:
+- gemaakt-op-reis

@@ -1,0 +1,21 @@
+id: rechteren-1679-reis
+titel: Educatiereis van Adolf Hendrik van Rechteren (1679)
+reizigers:
+- rechteren-adolf-hendrik-van
+reistype: educatiereis
+vertrek: 31 maart 1679
+terugkeer: 4 mei 1679
+reisdagen: 34
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk. Incompleet
+route:
+- plaats: Arnhem
+  land_modern: Nederland
+  datum: 31 maart 1679
+- plaats: Angers
+  land_modern: Frankrijk
+  datum: 4 mei 1679
+bronnen:
+- gemaakt-op-reis

@@ -1,0 +1,19 @@
+id: radermacher-1712-ii-reis
+titel: Plezierreis van Samuel Radermacher (1712 II)
+reizigers:
+- radermacher-samuel
+reistype: plezierreis
+vertrek: 9 mei 1712
+terugkeer: 23 mei 1712
+reisdagen: 14
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Dordrecht
+  land_modern: Nederland
+  datum: 9 mei 1712
+- plaats: Gouda
+  land_modern: Nederland
+  datum: 23 mei 1712
+bronnen:
+- gemaakt-op-reis

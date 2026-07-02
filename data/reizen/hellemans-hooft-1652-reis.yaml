@@ -1,0 +1,21 @@
+id: hellemans-hooft-1652-reis
+titel: Plezierreis van Arnout Hellemans Hooft (1652)
+reizigers:
+- hellemans-hooft-arnout
+reistype: plezierreis
+vertrek: 15 september 1652
+terugkeer: 26 september 1652
+reisdagen: 11
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Utrecht
+  land_modern: Nederland
+  datum: 15 september 1652
+- plaats: Utrecht
+  land_modern: Nederland
+  datum: 26 september 1652
+bronnen:
+- gemaakt-op-reis

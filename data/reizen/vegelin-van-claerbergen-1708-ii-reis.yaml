@@ -1,0 +1,19 @@
+id: vegelin-van-claerbergen-1708-ii-reis
+titel: Zakenreis van Johan Vegelin van Claerbergen (1708 II)
+reizigers:
+- vegelin-van-claerbergen-johan
+reistype: handelsreis
+vertrek: 25 juni 1708
+terugkeer: 28 juli 1708
+reisdagen: 33
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Harlingen
+  land_modern: Nederland
+  datum: 25 juni 1708
+- plaats: Joure
+  land_modern: Nederland
+  datum: 28 juli 1708
+bronnen:
+- gemaakt-op-reis

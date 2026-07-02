@@ -1,0 +1,27 @@
+id: court-1641-reis
+titel: Educatiereis van Pieter de la Court (1641)
+reizigers:
+- court-pieter-de-la
+reistype: educatiereis
+vertrek: 25 september 1641
+terugkeer: 30 september 1643
+reisdagen: 725
+gebieden:
+- Nederlandse Republiek
+- Engeland
+- Frankrijk
+- Zwitserland
+- Duitsland
+- Zuidelijke Nederlanden
+- Frankrijk
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Brielle
+  land_modern: Nederland
+  datum: 25 september 1641
+- plaats: Rotterdam
+  land_modern: Nederland
+  datum: 30 september 1643
+bronnen:
+- gemaakt-op-reis

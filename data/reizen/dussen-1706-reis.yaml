@@ -1,0 +1,20 @@
+id: dussen-1706-reis
+titel: Diplomatieke reis van Cornelis van der Dussen (1706)
+reizigers:
+- dussen-cornelis-van-der
+reistype: diplomatieke reis
+vertrek: 7 januari 1706
+terugkeer: 5 juni 1706
+reisdagen: 148
+gebieden:
+- Nederlandse Republiek
+- Engeland. Incompleet
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 7 januari 1706
+- plaats: Londen
+  land_modern: Engeland
+  datum: 5 juni 1706
+bronnen:
+- gemaakt-op-reis

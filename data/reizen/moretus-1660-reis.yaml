@@ -1,0 +1,22 @@
+id: moretus-1660-reis
+titel: Plezierreis van Balthasar II Moretus (1660)
+reizigers:
+- moretus-balthasar-ii
+reistype: plezierreis
+vertrek: 26 augustus 1660
+terugkeer: 7 oktober 1660
+reisdagen: 41
+gebieden:
+- Zuidelijke Nederlanden
+- Frankrijk
+- Frankrijk
+- Zuidelijke Nederlanden
+route:
+- plaats: Antwerpen
+  land_modern: België
+  datum: 26 augustus 1660
+- plaats: Antwerpen
+  land_modern: België
+  datum: 7 oktober 1660
+bronnen:
+- gemaakt-op-reis

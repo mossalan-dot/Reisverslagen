@@ -1,0 +1,20 @@
+id: mey-1651-reis
+titel: Diplomatieke reis van George de Mey (1651)
+reizigers:
+- mey-george-de
+reistype: diplomatieke reis
+vertrek: 20 december 1651
+terugkeer: 12 juli 1652
+reisdagen: 202
+gebieden:
+- Nederlandse Republiek
+- Engeland. Incompleet
+route:
+- plaats: Rotterdam
+  land_modern: Nederland
+  datum: 20 december 1651
+- plaats: Londen
+  land_modern: Engeland
+  datum: 12 juli 1652
+bronnen:
+- gemaakt-op-reis

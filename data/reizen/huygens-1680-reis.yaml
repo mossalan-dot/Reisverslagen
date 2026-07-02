@@ -1,0 +1,22 @@
+id: huygens-1680-reis
+titel: Zakenreis van Constantijn jr. Huygens (1680)
+reizigers:
+- huygens-constantijn-jr
+reistype: handelsreis
+vertrek: 13 september 1680
+terugkeer: 12 november 1680
+reisdagen: 59
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 13 september 1680
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 12 november 1680
+bronnen:
+- gemaakt-op-reis

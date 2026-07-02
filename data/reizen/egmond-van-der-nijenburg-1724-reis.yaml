@@ -1,0 +1,21 @@
+id: egmond-van-der-nijenburg-1724-reis
+titel: Plezierreis van Dirk van Egmond van de(r) Nijenburg (1724)
+reizigers:
+- egmond-van-de-r-nijenburg-dirk-van
+reistype: plezierreis
+vertrek: 21 juli 1724
+terugkeer: 28 augustus 1724
+reisdagen: 37
+gebieden:
+- Nederlandse Republiek
+- Engeland
+- Nederlandse Republiek
+route:
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 21 juli 1724
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 28 augustus 1724
+bronnen:
+- gemaakt-op-reis

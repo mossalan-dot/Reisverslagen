@@ -15,13 +15,21 @@ Algemene regels:
 | Veld | Verplicht | Toelichting |
 |---|---|---|
 | `id` | ja | |
-| `naam` | ja | Weergavenaam, bijv. `Arnout Hellemans Hooft` |
+| `naam` | ja | Lemma-vorm, bijv. `Hooft, Arnout Hellemans` (sorteert vanzelf goed) |
+| `naamsvarianten` | nee | Lijst van naam- en spellingsvarianten |
 | `geboren` | nee | `{jaar, datum, plaats}` |
 | `overleden` | nee | `{jaar, datum, plaats}` |
 | `herkomst` | nee | Stad/gewest van herkomst |
 | `religie` | nee | |
 | `beroep_functie` | nee | Beroep of latere maatschappelijke functie(s) |
 | `familie` | nee | Relevante familierelaties |
+| `korte_typering` | nee | Eén regel: leefdata, eerste reis, religie (naar appendix A *Gemaakt op reis*) |
+| `biografie` | nee | Beknopte biografische schets |
+| `reizen_vermeld` | nee | Gedocumenteerde reizen als lopende tekst (nog niet als reis-records ingevoerd) |
+| `verslagen_vermeld` | nee | Verwijzingen naar verslagen als lopende tekst |
+| `addenda` | nee | Relevante addenda (lijst) |
+| `correspondentie` | nee | Relevante correspondentie (lijst) |
+| `poezie` | nee | Relevante poëzie (lijst) |
 | `externe_ids` | nee | `{wikidata, viaf, dbnl, ecartico, ...}` — alleen de code, geen url |
 | `literatuur` | nee | Lijst van verwijzingen |
 | `opmerkingen` | nee | |
@@ -34,7 +42,8 @@ Algemene regels:
 |---|---|---|
 | `id` | ja | |
 | `titel` | ja | Bijv. `Educatiereis van Arnout Hellemans Hooft` |
-| `reizigers` | ja | Lijst van reiziger-id's |
+| `reizigers` | nee | Lijst van reiziger-id's (leeg bij anonieme reizen) |
+| `reisdagen` | nee | Aantal reisdagen (of schatting) |
 | `reistype` | nee | Eén uit: `educatiereis`, `pelgrimsreis`, `diplomatieke reis`, `handelsreis`, `militaire reis`, `plezierreis`, `gemengd`, `overig`, `onbekend` |
 | `vertrek` | nee | Jaar of datum |
 | `terugkeer` | nee | Jaar of datum |
@@ -61,10 +70,15 @@ Algemene regels:
 | `datering` | nee | Ontstaanstijd van het handschrift |
 | `manuscripttype` | nee | Eén uit: `klad`, `net`, `kopie`, `brieven`, `overig`, `onbekend` |
 | `omvang` | nee | Bijv. `1 deel, 213 fol.` |
+| `beschrijving` | nee | Korte inhoudsbeschrijving van verslag en reis |
 | `digitalisering` | nee | `{status, url, iiif_manifest}` — status: `geen`, `gedeeltelijk`, `volledig`, `onbekend` |
 | `transcriptie` | nee | `{status, url, door}` — status als hierboven |
-| `edities` | nee | Lijst van gedrukte of digitale edities |
+| `edities` | nee | Lijst van gedrukte of digitale edities en transcripties |
 | `repertorium_lsd` | nee | Nummer in Lindeman/Scherf/Dekker |
+| `corpus_gor` | nee | Corpusnummer in *Gemaakt op reis* (bijv. `M. 001`) |
+| `addenda` | nee | Relevante addenda, binnen en buiten het manuscript (lijst) |
+| `correspondentie` | nee | Relevante correspondentie (lijst) |
+| `poezie` | nee | Relevante poëzie (lijst) |
 | `literatuur` | nee | |
 | `laatst_gecontroleerd` | nee | Datum waarop vindplaats/signatuur voor het laatst is geverifieerd |
 | `opmerkingen` | nee | |

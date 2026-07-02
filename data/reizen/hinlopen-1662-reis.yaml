@@ -1,0 +1,21 @@
+id: hinlopen-1662-reis
+titel: Plezierreis van Gerard Hinlopen (1662)
+reizigers:
+- hinlopen-gerard
+reistype: plezierreis
+vertrek: 26 mei 1662
+terugkeer: 20 juni 1662
+reisdagen: 24
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederland
+  datum: 26 mei 1662
+- plaats: Hoorn
+  land_modern: Nederland
+  datum: 20 juni 1662
+bronnen:
+- gemaakt-op-reis

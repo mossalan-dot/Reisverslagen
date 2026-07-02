@@ -1,0 +1,23 @@
+id: huygens-1676-reis
+titel: Militaire reis van Constantijn jr. Huygens (1676)
+reizigers:
+- huygens-constantijn-jr
+reistype: militaire reis
+vertrek: 10 april 1676
+terugkeer: 15 september 1676
+reisdagen: 155
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 10 april 1676
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 15 september 1676
+bronnen:
+- gemaakt-op-reis

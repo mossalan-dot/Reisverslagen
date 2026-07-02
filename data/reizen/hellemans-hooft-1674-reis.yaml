@@ -1,0 +1,19 @@
+id: hellemans-hooft-1674-reis
+titel: Plezierreis van Arnout Hellemans Hooft (1674)
+reizigers:
+- hellemans-hooft-arnout
+reistype: plezierreis
+vertrek: 22 juni 1674
+terugkeer: 30 juni 1674
+reisdagen: 8
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Utrecht
+  land_modern: Nederland
+  datum: 22 juni 1674
+- plaats: Amsterdam
+  land_modern: Nederland
+  datum: 30 juni 1674
+bronnen:
+- gemaakt-op-reis

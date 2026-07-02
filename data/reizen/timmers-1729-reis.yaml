@@ -1,0 +1,20 @@
+id: timmers-1729-reis
+titel: Plezierreis van Ignatia Geertruida Timmers (1729)
+reizigers:
+- timmers-ignatia-geertruida
+reistype: plezierreis
+vertrek: 18 augustus 1729
+terugkeer: 9 september 1729
+reisdagen: 21
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Rotterdam
+  land_modern: Nederland
+  datum: 18 augustus 1729
+- plaats: Schiedam
+  datum: 9 september 1729
+bronnen:
+- gemaakt-op-reis

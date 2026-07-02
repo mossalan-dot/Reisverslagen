@@ -1,0 +1,20 @@
+id: huygens-1655-reis
+titel: Reis van Lodewijk Huygens (1655)
+reizigers:
+- huygens-lodewijk
+reistype: onbekend
+vertrek: 9 juli 1655
+terugkeer: 14 augustus 1655
+reisdagen: 35
+gebieden:
+- Nederlandse Republiek
+- Frankrijk. Educatie. Incompleet
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 9 juli 1655
+- plaats: Orléans
+  land_modern: Frankrijk
+  datum: 14 augustus 1655
+bronnen:
+- gemaakt-op-reis

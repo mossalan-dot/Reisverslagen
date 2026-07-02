@@ -1,0 +1,26 @@
+id: gronovius-1679-82-reis
+titel: Educatiereis van Laurens Gronovius (1679-82)
+reizigers:
+- gronovius-laurens
+reistype: educatiereis
+vertrek: 3 mei 1679
+terugkeer: 21 april 1682
+reisdagen: 1068
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Zwitserland
+- Frankrijk
+- Italië
+- Frankrijk
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 3 mei 1679
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 21 april 1682
+bronnen:
+- gemaakt-op-reis

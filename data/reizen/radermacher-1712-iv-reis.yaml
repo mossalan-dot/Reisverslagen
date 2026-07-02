@@ -1,0 +1,19 @@
+id: radermacher-1712-iv-reis
+titel: Plezierreis van Samuel Radermacher (1712 IV)
+reizigers:
+- radermacher-samuel
+reistype: plezierreis
+vertrek: 8 juni 1712
+terugkeer: 22 juni 1712
+reisdagen: 14
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 8 juni 1712
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 22 juni 1712
+bronnen:
+- gemaakt-op-reis

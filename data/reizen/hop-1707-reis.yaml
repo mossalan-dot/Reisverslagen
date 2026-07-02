@@ -1,0 +1,23 @@
+id: hop-1707-reis
+titel: Militaire reis van Cornelis Hop (1707)
+reizigers:
+- hop-cornelis
+reistype: militaire reis
+vertrek: 27 januari 1707
+terugkeer: 31 maart 1707
+reisdagen: 64
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 27 januari 1707
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 31 maart 1707
+bronnen:
+- gemaakt-op-reis

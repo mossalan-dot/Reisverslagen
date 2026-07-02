@@ -1,0 +1,17 @@
+id: anoniem-1677-96-1683-reis
+titel: Plezierreis van een onbekende reiziger (1683)
+reistype: plezierreis
+vertrek: 2 juni 1683
+terugkeer: '1683'
+gebieden:
+- Nederlandse Republiek
+- Engeland. Incompleet
+route:
+- plaats: Brielle
+  land_modern: Nederland
+  datum: 2 juni 1683
+- plaats: Londen
+  land_modern: Engeland
+  datum: '1683'
+bronnen:
+- gemaakt-op-reis

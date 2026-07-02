@@ -1,0 +1,21 @@
+id: zoete-van-laecke-1656-reis
+titel: Educatiereis van François de Zoete van Laecke en Philips de Zoete van Laecke (1656)
+reizigers:
+- zoete-van-laecke-francois-de
+- zoete-van-laecke-philips-de
+reistype: educatiereis
+vertrek: 9 december 1656
+terugkeer: 21 april 1658
+reisdagen: 492
+gebieden:
+- Nederlandse Republiek
+- Frankrijk. Incompleet
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 9 december 1656
+- plaats: Parijs
+  land_modern: Frankrijk
+  datum: 21 april 1658
+bronnen:
+- gemaakt-op-reis

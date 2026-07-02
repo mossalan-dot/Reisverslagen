@@ -1,0 +1,25 @@
+id: hellemans-hooft-1649-51-reis
+titel: Educatiereis van Arnout Hellemans Hooft (1649-51)
+reizigers:
+- hellemans-hooft-arnout
+reistype: educatiereis
+vertrek: 1 september 1649
+terugkeer: 10 november 1651
+reisdagen: 789
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Italië
+- Zwitserland
+- Frankrijk
+- Nederlandse Republiek
+route:
+- plaats: Amsterdam
+  land_modern: Nederland
+  datum: 1 september 1649
+- plaats: Amsterdam
+  land_modern: Nederland
+  datum: 10 november 1651
+bronnen:
+- gemaakt-op-reis

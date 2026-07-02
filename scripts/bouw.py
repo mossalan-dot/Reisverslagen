@@ -103,7 +103,8 @@ def hoofd():
     instellingen = laad_map("instellingen")
 
     reiziger_ids = controleer(reizigers, "reiziger", ["naam"])
-    reis_ids = controleer(reizen, "reis", ["titel", "reizigers"])
+    # 'reizigers' is niet verplicht: anonieme reizen bestaan
+    reis_ids = controleer(reizen, "reis", ["titel"])
     manuscript_ids = controleer(manuscripten, "manuscript", ["titel_aanduiding"])
     instelling_ids = controleer(instellingen, "instelling", ["naam"])
 

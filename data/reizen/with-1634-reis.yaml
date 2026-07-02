@@ -1,0 +1,21 @@
+id: with-1634-reis
+titel: Educatiereis van Gijsbert de With (1634)
+reizigers:
+- with-gijsbert-de
+reistype: educatiereis
+vertrek: 30 augustus 1634
+terugkeer: 5 augustus 1635
+reisdagen: 335
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Nederlandse Republiek
+route:
+- plaats: Dordrecht
+  land_modern: Nederland
+  datum: 30 augustus 1634
+- plaats: Dordrecht
+  land_modern: Nederland
+  datum: 5 augustus 1635
+bronnen:
+- gemaakt-op-reis

@@ -171,6 +171,10 @@ function urlRij(label, url) {
   if (!url) return "";
   return rij(label, '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(url) + "</a>", true);
 }
+function tekstRij(label, tekst) {
+  if (!tekst) return "";
+  return rij(label, esc(tekst).replace(/\n\n/g, "<br><br>"), true);
+}
 function statusRij(label, obj) {
   if (!obj) return "";
   let d = esc(obj.status || "onbekend");
@@ -185,8 +189,10 @@ function detail(soort, r) {
   if (soort === "reiziger") {
     const geb = r.geboren ? [r.geboren.datum || r.geboren.jaar, r.geboren.plaats].filter(Boolean).join(", ") : "";
     const ovl = r.overleden ? [r.overleden.datum || r.overleden.jaar, r.overleden.plaats].filter(Boolean).join(", ") : "";
-    rijen += rij("Geboren", geb) + rij("Overleden", ovl) + rij("Herkomst", r.herkomst) +
-      rij("Religie", r.religie) + rij("Beroep/functie", r.beroep_functie) + rij("Familie", r.familie);
+    rijen += rij("Naamsvarianten", (r.naamsvarianten || []).join("; ")) +
+      rij("Geboren", geb) + rij("Overleden", ovl) + rij("Herkomst", r.herkomst) +
+      rij("Religie", r.religie) + rij("Beroep/functie", r.beroep_functie) + rij("Familie", r.familie) +
+      tekstRij("Typering", r.korte_typering) + tekstRij("Biografie", r.biografie);
     if (r.externe_ids && Object.keys(r.externe_ids).length) {
       rijen += rij("Externe identifiers",
         Object.entries(r.externe_ids).map(([k, v]) => esc(k) + ": " + esc(v)).join(" · "), true);
@@ -195,10 +201,14 @@ function detail(soort, r) {
     rijen += rij("Reizen", reizenVan.map(x => koppeling("reis", x.id)), true);
     const mss = DATA.manuscripten.filter(m => (m.auteurs || []).includes(r.id));
     rijen += rij("Manuscripten", mss.map(m => koppeling("manuscript", m.id)), true);
-    rijen += rij("Literatuur", r.literatuur);
+    rijen += rij("Reizen (vermeld)", r.reizen_vermeld) +
+      rij("Verslagen (vermeld)", r.verslagen_vermeld) +
+      rij("Addenda", r.addenda) + rij("Correspondentie", r.correspondentie) +
+      rij("Poëzie", r.poezie) + rij("Literatuur", r.literatuur);
   } else if (soort === "reis") {
     rijen += rij("Reizigers", (r.reizigers || []).map(id => koppeling("reiziger", id)), true) +
       rij("Reistype", r.reistype) + rij("Vertrek", r.vertrek) + rij("Terugkeer", r.terugkeer) +
+      rij("Reisdagen", r.reisdagen) +
       rij("Gebieden", (r.gebieden || []).join(", ")) + rij("Reisgezelschap", r.reisgenoten);
     if (r.route && r.route.length) {
       rijen += rij("Route", r.route.map(h =>
@@ -215,10 +225,14 @@ function detail(soort, r) {
       urlRij("Permalink", r.permalink) +
       rij("Datering", r.datering) + rij("Taal", r.taal) +
       rij("Manuscripttype", r.manuscripttype) + rij("Omvang", r.omvang) +
+      tekstRij("Beschrijving", r.beschrijving) +
       statusRij("Digitalisering", r.digitalisering) +
       statusRij("Transcriptie", r.transcriptie) +
       rij("Edities", r.edities) +
       rij("Repertorium Lindeman/Scherf/Dekker", r.repertorium_lsd) +
+      rij("Corpusnummer Gemaakt op reis", r.corpus_gor) +
+      rij("Addenda", r.addenda) + rij("Correspondentie", r.correspondentie) +
+      rij("Poëzie", r.poezie) +
       rij("Literatuur", r.literatuur) +
       rij("Laatst gecontroleerd", r.laatst_gecontroleerd);
   } else if (soort === "instelling") {

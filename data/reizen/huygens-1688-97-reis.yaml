@@ -1,0 +1,21 @@
+id: huygens-1688-97-reis
+titel: Zakenreis van Constantijn jr. Huygens (1688-97)
+reizigers:
+- huygens-constantijn-jr
+reistype: handelsreis
+vertrek: 21 oktober 1688
+terugkeer: 2 september 1696
+reisdagen: 2831
+gebieden:
+- Nederlandse Republiek
+- Engeland
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 21 oktober 1688
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 2 september 1696
+bronnen:
+- gemaakt-op-reis

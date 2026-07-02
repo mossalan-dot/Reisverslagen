@@ -1,0 +1,19 @@
+id: hop-1702-reis
+titel: Militaire reis van Cornelis Hop (1702)
+reizigers:
+- hop-cornelis
+reistype: militaire reis
+vertrek: 4 augustus 1702
+terugkeer: 19 augustus 1702
+reisdagen: 15
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 4 augustus 1702
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 19 augustus 1702
+bronnen:
+- gemaakt-op-reis

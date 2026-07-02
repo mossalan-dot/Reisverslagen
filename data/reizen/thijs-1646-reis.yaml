@@ -1,0 +1,20 @@
+id: thijs-1646-reis
+titel: Diplomatieke reis van Johan Thijs (1646)
+reizigers:
+- thijs-johan
+reistype: diplomatieke reis
+vertrek: 1 augustus 1646
+terugkeer: 25 september 1646
+reisdagen: 54
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 1 augustus 1646
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 25 september 1646
+bronnen:
+- gemaakt-op-reis

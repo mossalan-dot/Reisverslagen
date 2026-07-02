@@ -1,0 +1,23 @@
+id: huygens-1677-reis
+titel: Militaire reis van Constantijn jr. Huygens (1677)
+reizigers:
+- huygens-constantijn-jr
+reistype: militaire reis
+vertrek: 19 maart 1677
+terugkeer: 23 september 1677
+reisdagen: 184
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+- Zuidelijke Nederlanden
+- Nederlandse Republiek. Incompleet
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 19 maart 1677
+- plaats: Bergen
+  land_modern: België
+  datum: 23 september 1677
+bronnen:
+- gemaakt-op-reis

@@ -1,0 +1,18 @@
+id: anoniem-1649-54-1653-54-reis
+titel: Zakenreis van een onbekende reiziger (1653-54)
+reistype: handelsreis
+vertrek: 11 september 1653
+terugkeer: 1 maart 1654
+reisdagen: 170
+gebieden:
+- Spanje
+- Italië
+route:
+- plaats: Cádiz
+  land_modern: Spanje
+  datum: 11 september 1653
+- plaats: Rome
+  land_modern: Italië
+  datum: 1 maart 1654
+bronnen:
+- gemaakt-op-reis

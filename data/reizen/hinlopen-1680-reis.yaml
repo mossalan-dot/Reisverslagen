@@ -1,0 +1,19 @@
+id: hinlopen-1680-reis
+titel: Plezierreis van Gerard Hinlopen (1680)
+reizigers:
+- hinlopen-gerard
+reistype: plezierreis
+vertrek: 17 juli 1680
+terugkeer: 29 juli 1680
+reisdagen: 12
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederland
+  datum: 17 juli 1680
+- plaats: Hoorn
+  land_modern: Nederland
+  datum: 29 juli 1680
+bronnen:
+- gemaakt-op-reis

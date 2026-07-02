@@ -1,0 +1,25 @@
+id: ockinga-1664-reis
+titel: Educatiereis van Jarich van Ockinga (1664)
+reizigers:
+- ockinga-jarich-van
+reistype: educatiereis
+vertrek: 1 juni 1664
+terugkeer: 20 juli 1665
+reisdagen: 399
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+- Zwitserland
+- Frankrijk
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Leeuwarden
+  land_modern: Nederland
+  datum: 1 juni 1664
+- plaats: Amsterdam
+  land_modern: Nederland
+  datum: 20 juli 1665
+bronnen:
+- gemaakt-op-reis

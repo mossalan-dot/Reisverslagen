@@ -1,0 +1,21 @@
+id: anoniem-1677-96-1677-79-reis
+titel: Plezierreis van een onbekende reiziger (1677-79)
+reistype: plezierreis
+vertrek: 21 december 1677
+terugkeer: '1679'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Italië
+- Zwitserland
+- Frankrijk. Incompleet
+route:
+- plaats: Amsterdam
+  land_modern: Nederland
+  datum: 21 december 1677
+- plaats: Lyon
+  land_modern: Frankrijk
+  datum: '1679'
+bronnen:
+- gemaakt-op-reis

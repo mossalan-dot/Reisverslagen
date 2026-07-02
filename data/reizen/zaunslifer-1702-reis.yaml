@@ -1,0 +1,22 @@
+id: zaunslifer-1702-reis
+titel: Militaire reis van Petrus Zaunslifer (1702)
+reizigers:
+- zaunslifer-petrus
+reistype: militaire reis
+vertrek: 3 mei 1702
+terugkeer: 19 november 1702
+reisdagen: 196
+gebieden:
+- Nederlandse Republiek
+- Engeland
+- Spanje
+- Nederlandse Republiek
+route:
+- plaats: Hellevoetsluis
+  land_modern: Nederland
+  datum: 3 mei 1702
+- plaats: Hellevoetsluis
+  land_modern: Nederland
+  datum: 19 november 1702
+bronnen:
+- gemaakt-op-reis

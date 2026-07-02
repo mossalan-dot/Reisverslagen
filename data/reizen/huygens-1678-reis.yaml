@@ -1,0 +1,21 @@
+id: huygens-1678-reis
+titel: Militaire reis van Constantijn jr. Huygens (1678)
+reizigers:
+- huygens-constantijn-jr
+reistype: militaire reis
+vertrek: 2 maart 1678
+terugkeer: 20 augustus 1678
+reisdagen: 168
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 2 maart 1678
+- plaats: Den Haag
+  land_modern: Nederland
+  datum: 20 augustus 1678
+bronnen:
+- gemaakt-op-reis

@@ -1,0 +1,21 @@
+id: hinlopen-1675-i-reis
+titel: Plezierreis van Gerard Hinlopen (1675 I)
+reizigers:
+- hinlopen-gerard
+reistype: plezierreis
+vertrek: 2 mei 1675
+terugkeer: 25 mei 1675
+reisdagen: 23
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederland
+  datum: 2 mei 1675
+- plaats: Edam
+  land_modern: Nederland
+  datum: 25 mei 1675
+bronnen:
+- gemaakt-op-reis

@@ -1,0 +1,21 @@
+id: court-1733-reis
+titel: Plezierreis van Adriana de la Court(-Sweder) (1733)
+reizigers:
+- court-sweder-adriana-de-la
+reistype: plezierreis
+vertrek: 2 juni 1733
+terugkeer: 14 juli 1733
+reisdagen: 42
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 2 juni 1733
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 14 juli 1733
+bronnen:
+- gemaakt-op-reis

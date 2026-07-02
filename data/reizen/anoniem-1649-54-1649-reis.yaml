@@ -1,0 +1,19 @@
+id: anoniem-1649-54-1649-reis
+titel: Zakenreis van een onbekende reiziger (1649)
+reistype: handelsreis
+vertrek: 22 maart 1649
+terugkeer: 4 december 1649
+reisdagen: 252
+gebieden:
+- Nederlandse Republiek
+- Portugal
+- Nederlandse Republiek
+route:
+- plaats: Dordrecht
+  land_modern: Nederland
+  datum: 22 maart 1649
+- plaats: Dordrecht
+  land_modern: Nederland
+  datum: 4 december 1649
+bronnen:
+- gemaakt-op-reis

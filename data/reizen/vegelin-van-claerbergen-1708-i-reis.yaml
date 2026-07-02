@@ -1,0 +1,19 @@
+id: vegelin-van-claerbergen-1708-i-reis
+titel: Zakenreis van Johan Vegelin van Claerbergen (1708 I)
+reizigers:
+- vegelin-van-claerbergen-johan
+reistype: handelsreis
+vertrek: 21 april 1708
+terugkeer: 29 april 1708
+reisdagen: 8
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Joure
+  land_modern: Nederland
+  datum: 21 april 1708
+- plaats: Joure
+  land_modern: Nederland
+  datum: 29 april 1708
+bronnen:
+- gemaakt-op-reis

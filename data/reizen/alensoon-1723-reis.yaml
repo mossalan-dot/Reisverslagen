@@ -1,0 +1,25 @@
+id: alensoon-1723-reis
+titel: Educatiereis van Jan Alensoon (1723)
+reizigers:
+- alensoon-jan
+reistype: educatiereis
+vertrek: 5 september 1723
+terugkeer: 20 september 1724
+reisdagen: 375
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+- Italië
+- Zwitserland
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 5 september 1723
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 20 september 1724
+bronnen:
+- gemaakt-op-reis

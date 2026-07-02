@@ -1,0 +1,21 @@
+id: bleiswijck-1669-reis
+titel: Educatiereis van Franco van Bleiswijck (1669)
+reizigers:
+- bleiswijck-franco-van
+reistype: educatiereis
+vertrek: 27 september 1669
+terugkeer: 18 december 1669
+reisdagen: 81
+gebieden:
+- Nederlandse Republiek
+- Engeland
+- Frankrijk. Incompleet
+route:
+- plaats: Delft
+  land_modern: Nederland
+  datum: 27 september 1669
+- plaats: Calais
+  land_modern: Frankrijk
+  datum: 18 december 1669
+bronnen:
+- gemaakt-op-reis

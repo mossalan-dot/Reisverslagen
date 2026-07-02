@@ -1,13 +1,33 @@
 id: ruysch-coenraad
-naam: Coenraad Ruysch
+naam: Ruysch, Coenraad
 geboren:
   jaar: 1650
+  datum: 22 oktober 1650
+  plaats: Dordrecht
 overleden:
   jaar: 1731
-externe_ids: {}
-opmerkingen: >-
-  VOORBEELDRECORD ter demonstratie van het datamodel; biografische gegevens
-  nog controleren en aanvullen vanuit appendix Gemaakt op reis.
+  datum: 23 maart 1731
+  plaats: Leiden
+korte_typering: Dordrecht, 22 oktober 1650 – Leiden, 23 maart 1731. Maakte in 1674-77 een
+  educatiereis naar Frankrijk, Zwitserland en Italië (23 jaar).
+biografie: Zoon van Nicolaas Ruysch (1610-70) en Maria Paedts (1621-70). Studeerde in Leiden
+  en promoveerde in Poitiers. Maakte tussen 1674 en 1677 een educatiereis naar Duitsland,
+  Frankrijk, Zwitserland en Italië met zijn neef Dirck van Hoogeveen. Was kapitein van de
+  schutterij en vroedschap in Leiden in 1679. Maakte een reis naar Engeland in 1679 en 1680
+  met Diderik van Leijden van Leeuwen (1628-82). Werd tussen 1684 en 1730 meermaals beëdigd
+  als burgemeester. Nam tussen 1687 en 1720 herhaaldelijk zitting in het college van de gecommitteerde
+  Raden van Holland en West-Friesland. Was lid van de Staten-Generaal in 1696 en 1697.
+reizen_vermeld:
+- Mei 1674-najaar 1677, Duitsland, Frankrijk, Zwitserland en Italië; 1679-80, Engeland.
+verslagen_vermeld:
+- Ruysch 1674; Ruysch 1674-1677; Ruysch 2017.
+addenda:
+- Zie appendix B.
+correspondentie:
+- Zie appendix B. Twee Franse brieven van Constantijn Huygens (1596-1687), 1) Den Haag, 12
+  januari 1680; 3 februari (ePistolarium).
+literatuur:
+- Frank-van Westrienen 1983, 331-332; Prak 1985, 277; 410; Verhoeven 2009a, 338; Jansen 2011,
+  91-93.
 bronnen:
-  - gemaakt-op-reis
-controle_nodig: true
+- gemaakt-op-reis

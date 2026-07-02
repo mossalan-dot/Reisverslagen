@@ -1,0 +1,23 @@
+id: pomerede-1648-reis
+titel: Educatiereis van Egbert de Pomerede (1648)
+reizigers:
+- pomerede-egbert-de
+reistype: educatiereis
+vertrek: 13 april 1648
+terugkeer: '1650'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Zwitserland
+- Italië
+- Zwitserland
+- Frankrijk
+- Nederlandse Republiek
+route:
+- plaats: Vlissingen
+  datum: 13 april 1648
+- plaats: Middelburg
+  land_modern: Nederland
+  datum: '1650'
+bronnen:
+- gemaakt-op-reis

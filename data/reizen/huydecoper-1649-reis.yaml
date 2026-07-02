@@ -1,0 +1,17 @@
+id: huydecoper-1649-reis
+titel: Educatiereis van Joan Huydecoper (1649)
+reistype: educatiereis
+vertrek: 28 april 1649
+terugkeer: 21 mei 1649
+reisdagen: 23
+gebieden:
+- Frankrijk. Incompleet
+route:
+- plaats: Saumur
+  land_modern: Frankrijk
+  datum: 28 april 1649
+- plaats: Lyon
+  land_modern: Frankrijk
+  datum: 21 mei 1649
+bronnen:
+- gemaakt-op-reis

@@ -1,0 +1,17 @@
+id: anoniem-1649-54-1652-53-reis
+titel: Zakenreis van een onbekende reiziger (1652-53)
+reistype: handelsreis
+vertrek: 2 oktober 1652
+terugkeer: 15 april 1653
+reisdagen: 193
+gebieden:
+- Spanje
+route:
+- plaats: Cádiz
+  land_modern: Spanje
+  datum: 2 oktober 1652
+- plaats: Cádiz
+  land_modern: Spanje
+  datum: 15 april 1653
+bronnen:
+- gemaakt-op-reis

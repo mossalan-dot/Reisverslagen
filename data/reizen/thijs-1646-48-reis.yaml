@@ -1,0 +1,22 @@
+id: thijs-1646-48-reis
+titel: Educatiereis van Johan Thijs (1646-48)
+reizigers:
+- thijs-johan
+reistype: educatiereis
+vertrek: 25 oktober 1646
+terugkeer: 1 mei 1648
+reisdagen: 546
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Engeland
+- Nederlandse Republiek
+route:
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 25 oktober 1646
+- plaats: Leiden
+  land_modern: Nederland
+  datum: 1 mei 1648
+bronnen:
+- gemaakt-op-reis

@@ -1,0 +1,21 @@
+id: bleiswijck-1667-reis
+titel: Plezierreis van Franco van Bleiswijck (1667)
+reizigers:
+- bleiswijck-franco-van
+reistype: plezierreis
+vertrek: 4 juli 1667
+terugkeer: 26 juli 1667
+reisdagen: 22
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Delft
+  land_modern: Nederland
+  datum: 4 juli 1667
+- plaats: Delft
+  land_modern: Nederland
+  datum: 26 juli 1667
+bronnen:
+- gemaakt-op-reis
