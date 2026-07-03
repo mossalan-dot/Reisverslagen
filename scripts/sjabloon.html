@@ -195,7 +195,7 @@ function detail(s,r){
       rij("Kinderen",g.kinderen)+rij("Broers/zussen",g.broers_zussen)+rij("Andere familie",g.andere_familie);
     const reizenVan=DATA.reizen.filter(x=>(x.reizigers||[]).includes(r.id));
     rijen+=rij("Reizen",reizenVan.map(x=>link("reis",x.id)),true);
-    rijen+=rij("Literatuur",r.literatuur);
+    rijen+=rij("Literatuur",r.literatuur)+rij("Volledige titels",r.literatuur_volledig);
     extra+=sectie("Opleiding",r.opleiding,e=>{
       const m=[e.universiteit,e.richting,e.datum].filter(Boolean).join(" · ");
       return '<div class="item"><div class="t">'+esc(e.universiteit||e.richting||"Opleiding")+'</div>'+(m?'<div class="m">'+esc(m)+'</div>':'')+(e.opmerking?'<div class="m">'+esc(e.opmerking)+'</div>':'')+'</div>';});
@@ -208,19 +208,20 @@ function detail(s,r){
     if(r.route&&r.route.length)rijen+=rij("Route",r.route.map(h=>esc([h.plaats,h.land_modern].filter(Boolean).join(", "))+(h.datum?" — "+esc(h.datum):"")),true);
     if(r.manuscript)rijen+=rij("Manuscript",link("manuscript",r.manuscript),true);
     if(r.beschrijving)rijen+=rij("Beschrijving",para(r.beschrijving),true);
-    rijen+=rij("Literatuur",r.literatuur);
+    rijen+=rij("Literatuur",r.literatuur)+rij("Volledige titels",r.literatuur_volledig);
     if(r.reisgezellen&&r.reisgezellen.length)extra+=sectie("Reisgezellen",r.reisgezellen,g=>'<div class="item"><div class="t">'+esc(g.naam||"Reisgezel")+(g.jaren?" ("+esc(g.jaren)+")":"")+'</div>'+(g.opmerkingen?'<div class="m">'+esc(g.opmerkingen)+'</div>':'')+'</div>');
     extra+=sectie("Correspondentie",rv.brieven,briefBlok);
     extra+=sectie("Poëzie",rv.poezie,gedichtBlok);
     extra+=sectie("Addenda",rv.addenda,addendumBlok);
   }else if(s==="manuscript"){
-    rijen+=rij("Auteur(s)",(r.auteurs||[]).map(id=>link("reiziger",id)),true)+
+    rijen+=rij("Volledige titel",r.formele_titel)+
+      rij("Auteur(s)",(r.auteurs||[]).map(id=>link("reiziger",id)),true)+
       rij("Beschreven reis",(r.reizen||[]).map(id=>link("reis",id)),true)+
       rij("Bewaarplaats",r.instelling?link("instelling",r.instelling):"",true)+
       rij("Signatuur",r.signatuur)+rij("Taal",r.taal)+rij("Omvang",r.omvang)+
       rij("Incompleet",r.incompleet?"ja":"")+
       rij("Corpusnummer (Gemaakt op reis)",r.corpus_gor)+rij("Repertorium LSD",r.repertorium_lsd)+
-      rij("Edities",r.edities);
+      rij("Edities",r.edities)+rij("Volledige titels",r.literatuur_volledig);
     if(r.beschrijving)rijen+=rij("Beschrijving",para(r.beschrijving),true);
     rijen+=rij("Opmerkingen",r.opmerkingen);
   }else{

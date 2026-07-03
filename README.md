@@ -16,6 +16,8 @@ Het compendium wil per manuscript de **actuele vindplaats** geven (instelling, s
 
 De gegevens worden opgebouwd uit de database met `scripts/import_filemaker.py`; de database-export zelf hoort niet in de repository.
 
+De volledige bibliografie uit het proefschrift staat in `data/bibliografie.yaml` (geëxtraheerd met `scripts/extract_bibliografie.py`). Bij het bouwen koppelt `bouw.py` daaruit de volledige titels aan de corpus-manuscripten en aan de literatuurverwijzingen die eenduidig te herleiden zijn.
+
 ## Opzet
 
 De gegevens staan als leesbare YAML-bestanden in de map `data/`, verdeeld over vier entiteiten:

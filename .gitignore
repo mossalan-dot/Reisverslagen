@@ -1,0 +1,5 @@
+
+# Bronbestanden (blijven buiten de repository)
+*.pages
+*.xlsx
+main.xml
