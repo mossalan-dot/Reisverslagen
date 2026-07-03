@@ -1,0 +1,44 @@
+name: Publiceer website
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  publiceer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Controleer of deploy-secrets aanwezig zijn
+        id: secrets
+        env:
+          HOST: ${{ secrets.DEPLOY_HOST }}
+        run: |
+          if [ -z "$HOST" ]; then
+            echo "aanwezig=nee" >> "$GITHUB_OUTPUT"
+            echo "Geen DEPLOY_HOST-secret ingesteld; publicatie overgeslagen (zie PUBLICEREN.md)."
+          else
+            echo "aanwezig=ja" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Bouw de website
+        if: steps.secrets.outputs.aanwezig == 'ja'
+        run: |
+          pip install pyyaml
+          python3 scripts/bouw.py
+
+      - name: Zet SSH-sleutel klaar
+        if: steps.secrets.outputs.aanwezig == 'ja'
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.DEPLOY_SLEUTEL }}" > ~/.ssh/deploysleutel
+          chmod 600 ~/.ssh/deploysleutel
+          ssh-keyscan -H "${{ secrets.DEPLOY_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Upload naar de server
+        if: steps.secrets.outputs.aanwezig == 'ja'
+        run: |
+          rsync -av --delete -e "ssh -i ~/.ssh/deploysleutel" \
+            docs/ "${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_PAD }}"

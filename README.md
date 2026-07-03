@@ -34,7 +34,7 @@ Het script `scripts/bouw.py` controleert alle gegevens (verplichte velden, geldi
 python3 scripts/bouw.py
 ```
 
-De uitvoer bestaat uit `docs/index.html` (de complete website in één bestand, zonder externe afhankelijkheden) en `docs/data.json` (de volledige dataset als open data). De map `docs/` kan rechtstreeks op elke webserver worden gezet of via GitHub Pages worden gepubliceerd.
+De uitvoer bestaat uit `docs/index.html` (de complete website in één bestand, zonder externe afhankelijkheden) en `docs/data.json` (de volledige dataset als open data). De map `docs/` kan rechtstreeks op elke webserver worden gezet of via GitHub Pages worden gepubliceerd — zie [PUBLICEREN.md](PUBLICEREN.md) voor de mogelijkheden, inclusief automatische publicatie naar een eigen server.
 
 ## Bijdragen
 
