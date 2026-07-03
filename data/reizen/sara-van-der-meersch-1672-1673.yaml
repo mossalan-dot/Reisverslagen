@@ -1,0 +1,40 @@
+id: sara-van-der-meersch-1672-1673
+titel: Vlucht naar Hamburg
+reizigers:
+- sara-van-der-meersch
+reistype: overig
+jaren: 1672-1673
+vertrek: 20-06-1672
+terugkeer: 01-10-1673
+reisdagen: '468'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 20-06-1672
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 01-10-1673
+beschrijving: Vluchtte tijdens het Rampjaar met haar ouders en haar zussen naar Hamburg.
+reisgezellen:
+- naam: Abraham van der Meersch
+  jaren: 1643–1728
+  opmerkingen: journaalschrijver, vader
+- naam: Elisabeth Bouttens
+  jaren: 1643–1707
+  opmerkingen: moeder
+- naam: Catharina van der Meersch
+  jaren: 1666–1723
+  opmerkingen: zus
+- naam: Anna van der Meersch
+  jaren: 1669–1724
+  opmerkingen: zus
+addenda:
+- beschrijving: Reisverslag van Abraham van der Meersch
+  bron: Van der Meersch 1672-1673
+literatuur:
+- Visser en Zilverberg 1991, 153-187.
+bronnen:
+- gemaakt-op-reis-database

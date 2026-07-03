@@ -1,0 +1,35 @@
+id: abraham-van-der-meersch-sr-1700
+titel: Zakenreis naar de Zuidelijke Nederlanden
+reizigers:
+- abraham-van-der-meersch-sr
+reistype: handelsreis
+jaren: '1700'
+vertrek: 13-04-1700
+terugkeer: 17-05-1700
+reisdagen: '34'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 13-04-1700
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 17-05-1700
+beschrijving: Maakte in 1687 een reisje naar Lille in het gezelschap van zijn vrouw Elisabeth
+  Bouttens (1643-1706), kinderen Catharina en Pieter en reisde in 1700 naar de Zuidelijke Nederlanden
+  met zijn zoon Pieter.
+reisgezellen:
+- naam: Pieter van der Meersch
+  jaren: '1677'
+  opmerkingen: (mogelijke) journaalschrijver, zoon
+addenda:
+- beschrijving: Reisverslag van Pieter van der Meersch
+  bron: Van der Meersch 1700
+- beschrijving: Kasboekaantekeningen
+  bron: Van der Meersch 1700, 15.
+literatuur:
+- Visser en Zilverberg 1991, 153-187, Lindeman, Scherf en Dekker 2016, 88.
+bronnen:
+- gemaakt-op-reis-database

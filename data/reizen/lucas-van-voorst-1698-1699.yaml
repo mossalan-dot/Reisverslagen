@@ -1,0 +1,30 @@
+id: lucas-van-voorst-1698-1699
+titel: Educatiereis naar Frankrijk, Zwitserland en Italië
+reizigers:
+- lucas-van-voorst
+reistype: educatiereis
+jaren: 1698-1699
+vertrek: 15-04-1698
+terugkeer: 01-05-1699
+reisdagen: '381'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Duitsland
+- Frankrijk
+- Italië
+- Oostenrijk
+- Zwitserland
+route:
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 15-04-1698
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 01-05-1699
+beschrijving: Maakte in 1698 en 1699 een educatiereis naar Frankrijk, Zwitserland, Italië, Oostenrijk
+  en Duitsland samen met Joannes Kool.
+reisgezellen:
+- naam: Joannes Guillam Kool
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,27 @@
+id: samuel-radermacher
+naam: Radermacher, Samuel
+volledige_naam: Samuel Radermacher
+geslacht: Man
+geboren:
+  jaar: 1693
+  datum: 15-03-1693
+  plaats: Middelburg
+  provincie: Zeeland
+overleden:
+  jaar: 1761
+  datum: 29-10-1761
+  plaats: Middelburg
+  provincie: Zeeland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte een plezierreisje naar Leiden in 1712. Eerste reis: 23-04-1712 (19 jaar)'
+biografie: Zoon van Daniël Radermacher en Maria Beeckman. Was griffier en meermaals schepen,
+  thesaurier en burgemeester van Middelburg tussen 1726 en 1759. Was vanaf 1730 bewindhebber
+  van de VOC.
+genealogie:
+  vader: Daniël Radermacher
+  moeder: Maria Beeckman
+literatuur:
+- NNBW, II, 1157.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,49 @@
+id: maria-van-assendelft-i-1696
+titel: Plezierreis naar Nijmegen, Kleef en Paleis Het Loo
+reizigers:
+- maria-van-assendelft-i
+reistype: plezierreis
+jaren: '1696'
+vertrek: 14-07-1696
+terugkeer: 22-07-1696
+reisdagen: '8'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 14-07-1696
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 22-07-1696
+beschrijving: In 1696 maakte zij samen met haar echtgenoot, haar broer Adriaan (1664-1742),
+  diens echtgenote Maria Magdalena van Beresteijn (1667-1715) en kinderen een plezierreisje
+  naar Nijmegen, Kleef en paleis Het Loo.
+reisgezellen:
+- naam: Willem van Assendelft
+  jaren: '1744'
+  opmerkingen: echtgenoot
+- naam: Adriaan Gerrits van Assendelft
+  jaren: 1664–1742
+  opmerkingen: journaalschrijver, broer
+- naam: Maria Magdalena van Assendelft-van Beresteijn
+  jaren: 1667–1715
+  opmerkingen: schoonzus
+- naam: Maria van Assendelft
+  opmerkingen: nicht
+- naam: Catharina van Assendelft
+  opmerkingen: nicht
+addenda:
+- type: Reisverslag
+  auteur: Adriaan Gerrits van Assendelft
+  beschrijving: Reisverslag van Adriaan Gerrits van Assendelft
+  datum: '1696'
+  taal: Nederlands
+  bron: Van Assendelft 1696
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- NNBW, VII, 43; Moss 2018a.
+bronnen:
+- gemaakt-op-reis-database

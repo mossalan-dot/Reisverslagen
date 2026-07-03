@@ -1,0 +1,55 @@
+id: joannes-hudde-1649-1651
+titel: Educatiereis naar Italië, Zwitserland en Frankrijk
+reizigers:
+- joannes-hudde
+reistype: educatiereis
+jaren: 1649-1651
+vertrek: 01-09-1649
+terugkeer: 10-11-1651
+reisdagen: '800'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Frankrijk
+- Italië
+- Oostenrijk
+- Zwitserland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 01-09-1649
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 10-11-1651
+beschrijving: Maakte tussen 1649 en 1651 een educatiereis naar Italië, Zwitserland en Frankrijk
+  in het gezelschap van Arnout Hellemans Hooft (1629-1680), de dichter Reyer Anslo (1626-1669),
+  zijn neef Rombout Hudde (1620-1679), IJsbrand Kieft, Blom en Ooms.
+reisgezellen:
+- naam: Arnout Hellemans Hooft
+  jaren: 1629–1680
+  opmerkingen: journaalschrijver
+- naam: Reyer Anslo
+  jaren: 1626–1669
+  opmerkingen: dichter
+- naam: Rombout Hudde
+  jaren: 1620–1679
+  opmerkingen: neef
+- naam: IJsbrand Kieft
+- naam: Dirck Blom
+- naam: Ooms
+- naam: Hendrik Clerits
+  opmerkingen: knecht van Arnout Hellemans Hooft
+addenda:
+- type: Reisverslag
+  auteur: Arnout Hellemans Hooft
+  beschrijving: Reisverslag van Arnout Hellemans Hooft
+  datum: 1649-1651
+  taal: Nederlands
+  bron: Hellemans Hooft 2001
+  transcriptie: Ja
+  foto: Ja
+literatuur:
+- BWN, VIII, 1395-1397; NNBW, I, 1172-1176; RAA; Mac Lean 1971, 144-162; Vermij 1995, 25-35;
+  Klever 1997, 53-60; Hellemans Hooft 2001, 22; Houtzager 2005, 155-163
+bronnen:
+- gemaakt-op-reis-database

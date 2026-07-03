@@ -1,0 +1,26 @@
+id: gerard-hinlopen-1673
+titel: Memoires vant gepasseerde int uijttrecken van 3 van onse compagnie burgers naa Amsterdam
+reizigers:
+- gerard-hinlopen
+reistype: militaire reis
+jaren: '1673'
+vertrek: 05-02-1673
+terugkeer: 24-02-1673
+reisdagen: '19'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 05-02-1673
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 24-02-1673
+manuscript: gerard-hinlopen-1673-hs
+beschrijving: Kort verslag van een militaire expeditie in 1673 van Gerard Hinlopen, lid van
+  de Hoornse schutterij. Hinlopen was opgeroepen om naar Amsterdam te marcheren ter bescherming
+  tegen de Fransen.
+literatuur:
+- Hinlopen 2009, 1-58; Blom 2010, 172-193; Van den Boogert 2015.
+bronnen:
+- gemaakt-op-reis-database

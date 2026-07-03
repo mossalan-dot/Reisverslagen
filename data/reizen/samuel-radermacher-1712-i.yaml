@@ -1,0 +1,22 @@
+id: samuel-radermacher-1712-i
+titel: Somer-agtermiddag speelreisje den 23 april 1712
+reizigers:
+- samuel-radermacher
+reistype: plezierreis
+jaren: 1712 I
+vertrek: 23-04-1712
+terugkeer: 23-04-1712
+reisdagen: '1'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 23-04-1712
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 23-04-1712
+manuscript: samuel-radermacher-1712-i-hs
+beschrijving: Kort verslag van een plezierreisje van Samuel Radermacher naar Leiden in 1712.
+bronnen:
+- gemaakt-op-reis-database

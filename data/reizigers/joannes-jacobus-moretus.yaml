@@ -1,0 +1,33 @@
+id: joannes-jacobus-moretus
+naam: Moretus, Joannes Jacobus
+volledige_naam: Joannes Jacobus Moretus
+naamsvarianten:
+- Johannes Jacobus Moerentorf
+geslacht: Man
+geboren:
+  jaar: 1647
+  datum: 20-07-1647
+  plaats: Antwerpen
+  provincie: Zuidelijke Nederlanden
+overleden:
+  jaar: 1718
+  datum: 25-02-1718
+  plaats: Antwerpen
+  provincie: Zuidelijke Nederlanden
+religie: Katholiek, jezuïet
+is_auteur: false
+korte_typering: 'Maakte in 1668 een reis naar Den Bosch. Eerste reis: 14-09-1668 (21 jaar)'
+biografie: Zoon van Balthasar II Moretus (1615-1674) en Anna Goos (1645-1674), broer van Balthasar
+  III (1646-1696), Franciscus (1656-1705) en Maria Isabella (1655-1676). Werd jezuïet. Maakte
+  in 1668 een reis naar Den Bosch met zijn ouders, broers en zussen.
+genealogie:
+  vader: Balthasar II Moretus (1615-1674)
+  moeder: Anna Goos (1627-1691)
+  broers_zussen:
+  - Balthasar III (1646-1696)
+  - Franciscus (1656-1705)
+  - Maria Isabella (1655-1676)
+literatuur:
+- Voet 1969, 227.
+bronnen:
+- gemaakt-op-reis-database

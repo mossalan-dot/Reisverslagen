@@ -1,0 +1,32 @@
+id: enno-lodewijk-van-oost-friesland
+naam: Oost-Friesland, Enno Lodewijk van
+volledige_naam: Enno Lodewijk van Oost-Friesland
+titel: Graaf van Oost-Friesland
+geslacht: Man
+geboren:
+  jaar: 1632
+  datum: 29-10-1632
+  plaats: Aurich
+  provincie: Duitsland
+overleden:
+  jaar: 1660
+  datum: 04-04-1660
+  plaats: Aurich
+  provincie: Duitsland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte tussen 1646 en 1650 een educatiereis. Eerste reis: 01-01-1646 (14 jaar)'
+biografie: Zoon van Ulrich II (1605-1648), graaf van Oost-Friesland en Juliana van Hessen-Darmstadt
+  (1606-1660). Reisde naar Frankrijk in 1646 om van zijn slechte manieren af te komen. Verbleef
+  met Constantijn Huygens jr. (1628-1697) in Genève in 1649 en 1650.
+genealogie:
+  vader: Ulrich II (1605-1648), graaf van Oost-Friesland
+  moeder: Juliana van Hessen-Darmstadt (1606-1660)
+portretten:
+- titel: Portret van Enno Lodewijk, graaf van Oost-Friesland
+  bron: Wikipedia
+  link: https://en.wikipedia.org/wiki/Enno_Louis,_Prince_of_East_Frisia#/media/File:Ennoludwig.jpg
+literatuur:
+- Frank-van Westrienen 1983, 69-70.
+bronnen:
+- gemaakt-op-reis-database

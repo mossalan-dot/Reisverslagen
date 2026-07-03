@@ -1,0 +1,36 @@
+id: pieter-van-der-meersch-1687
+titel: Reis naar Lille
+reizigers:
+- pieter-van-der-meersch
+reistype: handelsreis
+jaren: '1687'
+vertrek: 04-07-1687
+reisdagen: '-615984'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 04-07-1687
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+beschrijving: Reisde met zijn ouders en zus Catharina naar Lille in 1687.
+reisgezellen:
+- naam: Abraham van der Meersch
+  jaren: 1643–1728
+  opmerkingen: vader
+- naam: Elisabeth Bouttens
+  jaren: 1643–1707
+  opmerkingen: moeder
+- naam: Catharina van der Meersch
+  jaren: 1666–1723
+  opmerkingen: zus
+addenda:
+- beschrijving: Kasboek
+  bron: Kasboek
+literatuur:
+- Visser en Zilverberg 1991, 153-187.
+bronnen:
+- gemaakt-op-reis-database

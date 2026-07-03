@@ -1,0 +1,34 @@
+id: jan-martensz-merens-1600
+titel: Reisbeschrijving van een reis door Frankrijk naar Italië en terug door Duitsland in 1600
+reizigers:
+- jan-martensz-merens
+reistype: educatiereis
+jaren: '1600'
+vertrek: 15-03-1600
+terugkeer: 13-10-1600
+reisdagen: '212'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Zwitserland
+- Italië
+- Oostenrijk
+- Duitsland
+route:
+- plaats: Calais
+  land_modern: Frankrijk
+  datum: 15-03-1600
+- plaats: Stavoren
+  land_modern: Nederlandse Republiek
+  datum: 13-10-1600
+manuscript: jan-martensz-merens-1600-hs
+beschrijving: Verslag van een reis van Jan Martenz. Merens (1574-1642) naar Frankrijk en Italië
+  in 1600. Na een langer verblijf in Calais reisde Merens zuidelijk naar Parijs, Orléans en
+  Lyon. Hij maakte een uitstapje naar Genève en vervolgde zijn weg naar Montpellier en Marseille.
+  Hij trok per boot naar Livorno en bezocht Florence en Rome. Hij keerde terug via de oostkust
+  en deed Ancona en Venetië aan. Merens stak de Alpen over en reisde noordelijk via Frankfurt
+  en Bremen. Hij doorkruiste Groningen en arriveerde in Stavoren.
+literatuur:
+- Merens 1939, 193-207; Avery 1991, 147-154.
+bronnen:
+- gemaakt-op-reis-database

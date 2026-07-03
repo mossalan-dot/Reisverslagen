@@ -1,0 +1,40 @@
+id: constantijn-huygens-jr-1673
+titel: Reisjournaal van 1673
+reizigers:
+- constantijn-huygens-jr
+reistype: militaire reis
+jaren: '1673'
+vertrek: 29-09-1673
+terugkeer: 06-12-1673
+reisdagen: '68'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Duitsland
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 29-09-1673
+- plaats: Herentals
+  land_modern: Zuidelijke Nederlanden
+  datum: 06-12-1673
+manuscript: constantijn-huygens-jr-1673-hs
+beschrijving: Verslag van een militaire reis van Constantijn Huygens jr. door de Zuidelijke
+  Nederlanden en Duitsland, als secretaris van stadhouder Willem III (1650-1702). De terugweg
+  wordt niet beschreven.
+addenda:
+- beschrijving: Gezicht op de stad Düren, gezien vanuit het zuiden, oktober/november 1673
+  bron: RKD
+- beschrijving: Gezicht op Königshoven met centraal de St. Petruskerk, 26 oktober 1673
+  bron: RKD
+- beschrijving: Panorama met links Solingen, rechts van het midden Keulen en uiterst rechts
+    het Siebengebirge, vermoedelijk 27 oktober 1673
+  bron: RKD
+- beschrijving: Gezicht op Bonn, vanuit het zuidwesten, 9 november 1673
+  bron: RKD
+literatuur:
+- BWN, VIII, 1516-1517; NNBW, I, 1190; RKD; Heijbroek 1983; Heijbroek 1987, 167-172; Keesing
+  1996, 14-19; Schenkeveld-van der Dussen 1998, 178-185; Dekker 1999, 94-109; Dekker 2000a,
+  94-102; Dekker 2000b, 133-144; Leerintveld 2013; Dekker 2013a; Dekker 2016.
+bronnen:
+- gemaakt-op-reis-database

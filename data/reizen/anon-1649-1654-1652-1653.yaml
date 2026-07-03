@@ -1,0 +1,25 @@
+id: anon-1649-1654-1652-1653
+titel: Volcht mijn Spaensche Reijs te landen gedaen Anno 1652
+reizigers:
+- anon-1649-1654
+reistype: handelsreis
+jaren: 1652-1653
+vertrek: 02-10-1652
+terugkeer: 15-04-1653
+reisdagen: '195'
+gebieden:
+- Spanje
+route:
+- plaats: Cádiz
+  land_modern: Spanje
+  datum: 02-10-1652
+- plaats: Cádiz
+  land_modern: Spanje
+  datum: 15-04-1653
+manuscript: anon-1649-1654-1652-1653-hs
+beschrijving: Tweede verslag uit 1652-1653 van een tweede zakenreis van de bovengenoemde anonymus.
+  De auteur reisde dit keer door Spanje, waar hij onder andere Jerez en Madrid aandeed.
+literatuur:
+- Rietbergen 1992, 99-112.
+bronnen:
+- gemaakt-op-reis-database

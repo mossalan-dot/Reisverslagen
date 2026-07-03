@@ -1,0 +1,34 @@
+id: pieter-goos
+naam: Goos, Pieter
+volledige_naam: Pieter Goos
+naamsvarianten:
+- Pierre Goos, Petrus Goos
+geslacht: Man
+geboren:
+  jaar: 1645
+  datum: 07-01-1645
+  plaats: Antwerpen
+  provincie: Zuidelijke Nederlanden
+overleden:
+  jaar: 1708
+  datum: 12-01-1708
+  plaats: Antwerpen
+  provincie: Zuidelijke NEderlanden
+religie: Katholiek
+is_auteur: false
+korte_typering: 'Maakte in 1664-1665 een educatiereis naar Italië. Eerste reis: 30-09-1664 (19
+  jaar)'
+biografie: Zoon van Jacob Goos (1590-1666) en Susanna van der Goes, neef van Balthasar Moretus
+  III (1646-1696). Lid van de Antwerpse elite. Maakte in 1664 en 1665 een educatiereis naar
+  Italië in het gezelschap van zijn oom Hendrik Hillewerve (1621-1694), Jan Tholinx jr. (1631-1705),
+  Theodoor Andries van Kessel en neef Balthasar Moretus III.
+genealogie:
+  vader: Jacob Goos (1590-1666)
+  moeder: Susanna van der Goes
+  andere_familie:
+  - neef Balthasar Moretus III (1646-1696)
+  - oom Hendrik Hillewerve (1621-1694)
+literatuur:
+- Sabbe 1928, 173-203.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,30 @@
+id: gerard-hinlopen-1678
+titel: Speel-Reijs met mijn jagt naar Uijtregt, Zuijd-Holland & Gelderland
+reizigers:
+- gerard-hinlopen
+reistype: plezierreis
+jaren: '1678'
+vertrek: 26-07-1678
+terugkeer: 09-08-1678
+reisdagen: '14'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 26-07-1678
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 09-08-1678
+manuscript: gerard-hinlopen-1678-hs
+beschrijving: Kort verslag van een plezierreis per boot naar Utrecht, Zuid-Holland en Gelderland
+  van Gerard Hinlopen in 1678 in het gezelschap van zijn neef Nanning Hinlopen en Voljard Schellinger.
+  De reis liep naar Utrecht, Dordrecht en Nijmegen en terug via Den Haag en Amsterdam.
+reisgezellen:
+- naam: Nanning Hinlopen
+  opmerkingen: neef
+- naam: Voljard Schellinger
+literatuur:
+- Hinlopen 2009, 1-58; Blom 2010, 172-193; Van den Boogert 2015.
+bronnen:
+- gemaakt-op-reis-database

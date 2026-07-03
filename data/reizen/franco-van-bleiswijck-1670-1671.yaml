@@ -1,0 +1,64 @@
+id: franco-van-bleiswijck-1670-1671
+titel: Reisverslag naar Frankrijk, Zwitserland en Duitsland
+reizigers:
+- franco-van-bleiswijck
+reistype: educatiereis
+jaren: 1670-1671
+vertrek: 15-5-1670
+terugkeer: 5-5-1671
+reisdagen: '355'
+gebieden:
+- Frankrijk
+- Zwitserland
+- Duitsland
+- Nederlandse Republiek
+route:
+- plaats: Saint-Cloud
+  land_modern: Frankrijk
+  datum: 15-5-1670
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 5-5-1671
+manuscript: franco-van-bleiswijck-1670-1671-hs
+beschrijving: Onvoltooid verslag van een educatiereis van Franco van Bleiswijck naar Frankrijk,
+  Zwitserland en Duitsland. Het manuscript heeft waterschade opgelopen en is moeilijk leesbaar.
+  Het verslag vangt aan in Saint-Cloud bij Parijs en beschrijft vervolgens bezienswaardigheden
+  in en rondom Parijs. Na een bezoek aan Zuid-Frankrijk trok de auteur naar Zwitserland en reisde
+  via Duitsland terug naar Delft.
+addenda:
+- type: 'Paratekst: aantekeningen'
+  auteur: Franco van Bleiswijck
+  beschrijving: Aantekeningen in het Frans, getiteld ‘Estat des affaires de la Porte’
+  datum: 1670-1671
+  taal: Frans
+  bron: p. 11-14
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Franco van Bleiswijck
+  beschrijving: Franstalige aantekening over de winst van Franse kerken, getiteld ‘Extrait du
+    Revenu des Eglises de France’
+  datum: 1670-1671
+  taal: Frans
+  bron: p. 15-18
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Franco van Bleiswijck
+  beschrijving: Informatie in het Frans over het faubourg Saint-Germain in Parijs (p. [20-23]),
+  datum: 1670-1671
+  taal: Frans
+  bron: p. 20-23
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: apodemica'
+  auteur: Franco van Bleiswijck
+  beschrijving: Franstalige apodemische instructies over bezienswaardigheden in Parijs, getiteld
+    ‘On peut voir a Paris’
+  datum: 1670-1671
+  taal: Frans
+  bron: p. 25-27, overgenomen uit reisgids
+  transcriptie: Nee
+  foto: Ja
+bronnen:
+- gemaakt-op-reis-database

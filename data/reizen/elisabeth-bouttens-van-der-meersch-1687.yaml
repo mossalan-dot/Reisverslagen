@@ -1,0 +1,36 @@
+id: elisabeth-bouttens-van-der-meersch-1687
+titel: Zakenreis naar Lille
+reizigers:
+- elisabeth-bouttens-van-der-meersch
+reistype: handelsreis
+jaren: '1687'
+vertrek: 04-07-1687
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 04-07-1687
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+beschrijving: In 1687 ondernam ze met haar echtgenoot en zonen Arent (1683-1768) en Pieter (º1677)
+  nog een tweede reis naar Lille.
+reisgezellen:
+- naam: Abraham van der Meersch
+  jaren: 1643–1728
+  opmerkingen: echtgenoot
+- naam: Pieter van der Meersch
+  jaren: '1677'
+  opmerkingen: zoon
+- naam: Catharina van der Meersch
+  jaren: 1666–1723
+  opmerkingen: dochter
+addenda:
+- beschrijving: Kasboek
+  bron: Van der Meersach 1687
+literatuur:
+- Visser en Zilverberg 1991, 153-187.
+bronnen:
+- gemaakt-op-reis-database

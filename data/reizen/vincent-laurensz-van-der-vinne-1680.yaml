@@ -1,0 +1,26 @@
+id: vincent-laurensz-van-der-vinne-1680
+titel: Reisverslag naar Utrecht en Rotterdam
+reizigers:
+- vincent-laurensz-van-der-vinne
+reistype: plezierreis
+jaren: '1680'
+vertrek: 01-08-1680
+terugkeer: 03-08-1680
+reisdagen: '2'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Haarlem
+  land_modern: Nederlandse Republiek
+  datum: 01-08-1680
+- plaats: Haarlem
+  land_modern: Nederlandse Republiek
+  datum: 03-08-1680
+manuscript: vincent-laurensz-van-der-vinne-1680-hs
+beschrijving: Kort fragment van een plezierreis van Vincent Laurensz. van der Vinne naar Utrecht
+  en Rotterdam in 1680.
+literatuur:
+- BWN, XIX, 233; RKD; Caljé-van den Berg 1973; Houbraken 1976, 210-214; Van der Vinne 1979;
+  Sliggers en Goudriaan 1987, 148-208; Biesboer 2016, 95-105.
+bronnen:
+- gemaakt-op-reis-database

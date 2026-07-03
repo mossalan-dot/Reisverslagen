@@ -1,0 +1,39 @@
+id: ernst-frederik-vegelin-van-claerbergen-1668-1670
+titel: Ma journal de France l’an 1668 et 1669
+reizigers:
+- ernst-frederik-vegelin-van-claerbergen
+reistype: plezierreis
+jaren: 1668-1670
+vertrek: 08-09-1668
+terugkeer: 27-04-1670
+reisdagen: '596'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+route:
+- plaats: Leeuwarden
+  land_modern: Nederlandse Republiek
+  datum: 08-09-1668
+- plaats: Rotterdam
+  land_modern: Nederlandse Republiek
+  datum: 27-04-1670
+manuscript: ernst-frederik-vegelin-van-claerbergen-1668-1670-hs
+beschrijving: Onvolledig verslag van een educatiereis van Ernst Frederik Vegelin van Claerbergen
+  (º1648) naar Frankrijk in 1668-1670. Aan de paginering is af te leiden dat verschillende katernen
+  ontbreken. Vegelin van Claerbergen reisde van Leeuwarden naar Parijs, waar hij langere tijd
+  verbleef.
+addenda:
+- beschrijving: Opmerkingen over Frankrijk, getiteld ‘Mores animadversiones et consuetudines
+    Parisienses, Parisiis 1669’
+  bron: pp. 193-215
+- beschrijving: Opmerkingen over Parijs in het Frans, getiteld ‘On peut voir a Paris’
+  bron: pp. 295-300
+- beschrijving: Anekdotes die de schrijver uit gesprekken haalde, getiteld ‘Les utilitez de
+    ma conversation pendant mon voyage’
+  bron: pp. 613-744
+- beschrijving: Provenanceaantekening
+  bron: p. 751
+literatuur:
+- Sterringa 2004, 27-37.
+bronnen:
+- gemaakt-op-reis-database

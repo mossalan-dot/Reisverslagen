@@ -1,0 +1,26 @@
+id: petrus-zaunslifer
+naam: Zaunslifer, Petrus
+volledige_naam: Petrus Zaunslifer
+geslacht: Man
+geboren:
+  jaar: 1677
+  datum: 01-01-1677
+  plaats: Oostzaan
+  provincie: Holland
+overleden:
+  jaar: 1739
+  datum: 14-05-1739
+  plaats: Amsterdam
+  provincie: Holland
+is_auteur: true
+korte_typering: 'Maakte in 1702 een militaire reis naar Spanje. Eerste reis: 03-05-1702 (25
+  jaar)'
+biografie: Zoon van predikant Johannes Albertusz. Zaunslifer. Studeerde in Leiden. Diende in
+  1702 als predikant op het schip van viceadmiraal Philips van der Goes (1651-1707) en reisde
+  naar Spanje. Werd in 1707 predikant van Zoelen en in 1717 van Vianen.
+genealogie:
+  vader: Johannes Albertusz. Zaunslifer
+literatuur:
+- BWN, XXI, 35; NNBW, III, 1510.
+bronnen:
+- gemaakt-op-reis-database

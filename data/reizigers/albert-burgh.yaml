@@ -1,0 +1,32 @@
+id: albert-burgh
+naam: Burgh, Albert
+volledige_naam: Albert Burgh
+geslacht: Man
+geboren:
+  jaar: 1650
+  datum: 01-01-1650
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1708
+  datum: 01-01-1708
+religie: Protestants, daarna katholiek
+is_auteur: false
+korte_typering: 'Maakte rond 1674-1675 een educatiereis naar Italië. Eerste reis: 01-01-1674
+  (24 jaar)'
+biografie: Zoon van thesaurier-generaal Coenraad Burgh (1619-1699), heer van Kortenhoef, en
+  Christina Hellemans Hooft (1628-1681). Leerling of bekende van Baruch Spinoza (1632-1677)
+  in Leiden. Maakte een educatiereis tussen 1674 en 1675 en bekeerde zich tot het katholicisme,
+  tot groot schandaal van de Republiek en de Nederlandse gemeenschap in Italië. Maakte noviciaat
+  in het klooster van de Reformella van de Zalige Minderbroeder Bonaventura de Barcinone en
+  nam de naam Franciscus de Hollandia aan. Ontving in 1682 de priesterweiding en bekleedde enkele
+  ambten bij de minderbroeders. Werd meermaals kandidaat gesteld voor het apostolisch vicarisschap
+  in Neercassel.
+genealogie:
+  vader: Coenraad Burgh (1619-1699), heer van Kortenhoef
+  moeder: Christina Hellemans Hooft (1628-1681)
+literatuur:
+- Allard 1876, 66-76; Kaiser 1923, 61-94; Emmen 1944, 202-306; Geurts 1960, 139-152; Israel
+  2001, 218-229; Totaro 2002, 27-38; Curley 2010, 11-28; Kardel en Maquet 2018, 398-403.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,35 @@
+id: reinhard-van-rechteren
+naam: Rechteren, Reinhard van
+volledige_naam: Reinhard van Rechteren
+titel: Heer van Westerveld.
+geslacht: Man
+geboren:
+  jaar: 1659
+  datum: 01-01-1659
+overleden:
+  jaar: 1732
+  datum: 01-01-1732
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte rond 1685 een reis naar Venetië. Eerste reis: 01-01-1685 (26 jaar)'
+biografie: Zoon van Joachim Adolf (1627-1686), heer van Rechteren, en Margaretha van Haersolte
+  (1628-1682), vrouwe van Westerveld, broer van Adolf Hendrik (1656-1741) en Johan Willem (1658-1718).
+  Reisde rond 1685 naar Italië en trad in dienst bij het leger van de republiek Venetië. Bekleedde
+  verschillende militaire functies in de Republiek tussen 1699 en 1727.
+genealogie:
+  vader: Joachim Adolf (1627-1686) van Rechteren
+  moeder: Margaretha van Haersolte (1628-1682), vrouwe van Westerveld
+  broers_zussen:
+  - Adolf Hendrik (1656-1741)
+  - Johan Willem (1658-1718)
+portretten:
+- titel: Portret van Reinhard van Rechteren
+  vervaardiger: Hendrick ten Oever (1639-1716)
+  jaar: '1684'
+  bron: RKD
+  link: https://rkd.nl/explore/images/26929
+  beschrijving: 'paneel, olieverf
+
+    staande rechthoek met afgeronde bovenkant 116 x 86 cm'
+bronnen:
+- gemaakt-op-reis-database

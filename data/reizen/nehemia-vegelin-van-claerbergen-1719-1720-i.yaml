@@ -1,0 +1,31 @@
+id: nehemia-vegelin-van-claerbergen-1719-1720-i
+titel: Journalen van een reis van Nehemia Vegelin van Claerbergen naar Vlaanderen, Frankrijk,
+  Spanje, Italië, Zwitserland en Duitsland. Voyage de Italie
+reizigers:
+- nehemia-vegelin-van-claerbergen
+reistype: educatiereis
+jaren: 1719-1720 I
+vertrek: 18-12-1719
+terugkeer: 01-01-1720
+reisdagen: '14'
+gebieden:
+- Frankrijk
+- Italië
+route:
+- plaats: Antibes
+  land_modern: Frankrijk
+  datum: 18-12-1719
+- plaats: Rome
+  land_modern: Italië
+  datum: 01-01-1720
+manuscript: nehemia-vegelin-van-claerbergen-1719-1720-i-hs
+beschrijving: FA Van Eysinga – Vegelin van Claerbergen 5036
+brieven:
+- opmerking: Brieven aan Nehemia tussen 1720 en 1739 (5038).
+addenda:
+- beschrijving: Bul wegens het behalen van de graad van doctor in de rechten
+  bron: FA Van Eysinga – Vegelin van Claerbergen 5033
+literatuur:
+- LSD; RAA; De Boer 1905, 279-299; De Vries 1922; Botke 1998, 32-48.
+bronnen:
+- gemaakt-op-reis-database

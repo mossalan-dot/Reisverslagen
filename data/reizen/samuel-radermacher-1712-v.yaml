@@ -1,0 +1,23 @@
+id: samuel-radermacher-1712-v
+titel: Land-togt den 27 Junij Ao 1712
+reizigers:
+- samuel-radermacher
+reistype: plezierreis
+jaren: 1712 V
+vertrek: 27-06-1712
+terugkeer: 27-06-1712
+reisdagen: '1'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 27-06-1712
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 27-06-1712
+manuscript: samuel-radermacher-1712-v-hs
+beschrijving: Kort verslag van een plezierreisje van Samuel Radermacher naar Den Haag en Delft
+  in 1712.
+bronnen:
+- gemaakt-op-reis-database

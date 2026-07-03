@@ -1,0 +1,40 @@
+id: dirck-van-hoogeveen-1674-1677
+titel: Educatiereis naar Duitsland, Zwitserland, Italië en Frankrijk
+reizigers:
+- dirck-van-hoogeveen
+reistype: educatiereis
+jaren: 1674-1677
+vertrek: 03-05-1674
+reisdagen: '-611174'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Zwitserland
+- Frankrijk
+- Italië
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 03-05-1674
+- plaats: Leden
+  land_modern: Nederlandse Republiek
+beschrijving: Maakte in 1674-1677 een educatiereis naar Duitsland, Frankrijk, Italië en Zwitserland
+  in het gezelschap van zijn neef Coenraad Ruysch (1650-1731).
+reisgezellen:
+- naam: Coenraad Ruysch
+  jaren: 1650–1731
+  opmerkingen: journaalschrijver, neef
+addenda:
+- type: Reisverslag
+  auteur: Coenraad Ruysch
+  beschrijving: Reisverslag van Coenraad Ruysch
+  datum: 1674-1677
+  relatie: neef-neef
+  taal: Nederlands
+  bron: Ruysch 2017
+  transcriptie: Ja
+  foto: Ja
+literatuur:
+- Jansen 2011, 92-95.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,54 @@
+id: adriaan-van-assendelft-1696
+titel: Journaal of dagregister vande reijs gedaan bij mrs. Adriaan van Assendelft en Willem
+  van Assendelft met haar beijder huijsvrouwen mitsgaders juffrouwen Catarina van Assendelft
+  en Maria van Assendelft.
+reizigers:
+- adriaan-van-assendelft
+reistype: plezierreis
+jaren: '1696'
+vertrek: 14-07-1696
+terugkeer: 22-07-1696
+reisdagen: '8'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 14-07-1696
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 22-07-1696
+manuscript: adriaan-van-assendelft-1696-hs
+beschrijving: Verslag van Adriaan van Assendelft (1664-1742) van een plezierreisje naar Nijmegen,
+  Kleef en paleis Het Loo in 1696 in het gezelschap van zijn echtgenote Magdalena van Beresteijn
+  (1667-1715), zijn dochters Catarina en Maria, zijn zus Maria van Assendelft (1646-1744) en
+  zijn zwager Willem (†1744).
+reisgezellen:
+- naam: Maria Magdalena van Assendelft-van Beresteijn
+  jaren: 1667–1715
+  opmerkingen: echtgenote
+- naam: Catarina van Assendelft
+  opmerkingen: dochter
+- naam: Maria van Assendelft
+  opmerkingen: dochter
+- naam: Maria van Assendelft
+  jaren: '1744'
+  opmerkingen: zus
+- naam: Willem van Assendelft
+  jaren: '1744'
+  opmerkingen: zwager
+addenda:
+- type: 'Paratekst: kasboek(aantekeningen)'
+  auteur: Adriaan van Assendelft
+  beschrijving: Kasboek
+  datum: '1696'
+  taal: Nederlands
+  bron: p. 13-14
+  locatie: Delft
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Moss 2018a.
+bronnen:
+- gemaakt-op-reis-database

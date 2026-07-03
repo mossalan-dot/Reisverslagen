@@ -1,0 +1,30 @@
+id: anon-1677-1696-1683
+titel: Reijse in Engeland ao. 1683 gedaan
+reizigers:
+- anon-1677-1696
+reistype: plezierreis
+jaren: '1683'
+vertrek: 02-06-1683
+terugkeer: 01-01-1683
+reisdagen: '-152'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+route:
+- plaats: Brielle
+  land_modern: Nederlandse Republiek
+  datum: 02-06-1683
+- plaats: Londen
+  land_modern: Engeland
+  datum: 01-01-1683
+manuscript: anon-1677-1696-1683-hs
+beschrijving: Onvoltooid reisverslag naar Engeland in 1683. De anonymus stak in Brielle over
+  naar Harwich en reisde naar Londen. Tijdens zijn verblijf in Londen maakte hij verschillende
+  uitstapjes naar de universiteitssteden Cambridge en Oxford en de steden Bristol, Bath en Salisbury.
+  Het verslag eindigt in Londen.
+addenda:
+- beschrijving: Apodemische instructies en waarschuwingen, getiteld ‘Onderrigt van t geen een
+    Reiziger dient waar te neemen
+  bron: ff. 1r-7v
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,26 @@
+id: johan-vegelin-van-claerbergen-1708-ii
+titel: Beschrijvinge van de reijs gedaen in Hollant en Brabant op de verpaghtinge der Tienden
+  voor 1709 door J.V.VC
+reizigers:
+- johan-vegelin-van-claerbergen
+reistype: handelsreis
+jaren: 1708 II
+vertrek: 25-06-1708
+terugkeer: 28-07-1708
+reisdagen: '33'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Harlingen
+  land_modern: Nederlandse Republiek
+  datum: 25-06-1708
+- plaats: Joure
+  land_modern: Nederlandse Republiek
+  datum: 28-07-1708
+manuscript: johan-vegelin-van-claerbergen-1708-ii-hs
+beschrijving: Ongepagineerd verslag van een zakenreis van Johan Vegelin van Claerbergen naar
+  Den Haag en Breda als restmeester.
+literatuur:
+- BWN, XIX, 63; RAA; Gildermacher en Van der Vaart 2007; Spyksma 2010, 63-65.
+bronnen:
+- gemaakt-op-reis-database

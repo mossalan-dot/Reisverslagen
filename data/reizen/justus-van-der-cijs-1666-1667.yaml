@@ -1,0 +1,47 @@
+id: justus-van-der-cijs-1666-1667
+titel: Educatiereis naar Frankrijk en Engeland
+reizigers:
+- justus-van-der-cijs
+reistype: educatiereis
+jaren: 1666-1667
+vertrek: 27-09-1666
+terugkeer: 21-11-1667
+reisdagen: '420'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+- Zwitserland
+- Engeland
+route:
+- plaats: Brielle
+  land_modern: Nederlandse Republiek
+  datum: 27-09-1666
+- plaats: Brielle
+  land_modern: Nederlandse Republiek
+  datum: 21-11-1667
+beschrijving: Reisde tussen 1666 en 1667 naar Frankrijk en Engeland met Cornelis de Jonge van
+  Ellemeet (1641-1721), Pieter Pieterson en (vanaf Parijs) Cornelis de Jonge van Oosterland
+  (1645-1694).
+reisgezellen:
+- naam: Cornelis de Jonge van Ellemeet heer van Ellemeet, in Elkerzee, van Poortvliet, Kloetinge,
+    Schipluiden, Hodenpijl, St. Maartensrecht en Dalem.
+  jaren: 1646–1721
+  opmerkingen: journaalschrijver
+- naam: Pieter Pieterson
+  opmerkingen: neef van de vorige
+- naam: Cornelis de Jonge van Oosterland heer van Oosterland
+  jaren: 1645–1694
+  opmerkingen: neef van no. 1, vanaf Parijs
+addenda:
+- type: Reisverslag
+  auteur: Cornelis de Jonge van Ellemeet
+  beschrijving: Reisverslag van Cornelis de Jonge van Ellemeet
+  datum: 1666-1667
+  bron: De Jonge van Ellemeet 1666-1667
+  transcriptie: Nee
+  foto: Ja
+- beschrijving: Lijst van de route
+  bron: De Jonge van Ellemeet 1666-1667, pp. 146-149
+bronnen:
+- gemaakt-op-reis-database

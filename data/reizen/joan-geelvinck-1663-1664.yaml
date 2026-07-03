@@ -1,0 +1,32 @@
+id: joan-geelvinck-1663-1664
+titel: Reijsbeschrijvinge van Joan Geelvinck in Vranckrijk in ao. 1663 aengevangen
+reizigers:
+- joan-geelvinck
+reistype: educatiereis
+jaren: 1663-1664
+vertrek: 08-09-1663
+terugkeer: 19-12-1664
+reisdagen: '468'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+- Zwitserland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 08-09-1663
+- plaats: Parijs
+  land_modern: Frankrijk
+  datum: 19-12-1664
+manuscript: joan-geelvinck-1663-1664-hs
+beschrijving: Onvoltooid verslag van een educatiereis van Joan Geelvinck naar Frankrijk in 1663-1664.
+  Geelvinck reisde door de Zuidelijke Nederlanden naar Parijs en bezocht de steden rond de Loire,
+  waarbij hij langere tijd in Saumur, Angers en Blois verbleef. Hij reisde via Nantes, Bordeaux
+  en Toulouse naar Zuid-Frankrijk en keerde noordwaarts via Lyon en Genève. Het verslag eindigt
+  in Parijs. Geelvinck verbleef langere tijd in Parijs (25 september-5 oktober 1663; 7-30 augustus
+  1664), Saumur (15 oktober 1663-18 februari 1664), Angers (18 februari-26 maart), Nantes (28
+  maart-10 april), Bordeaux (20-29 april), Montpellier (14-21 mei), Marseille (28 mei-3 juni),
+  Lyon (1-15 juli) en Blois (3 september-15 december).
+bronnen:
+- gemaakt-op-reis-database

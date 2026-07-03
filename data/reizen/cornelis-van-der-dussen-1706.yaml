@@ -1,0 +1,46 @@
+id: cornelis-van-der-dussen-1706
+titel: Dagboek van zijn reis naar Londen
+reizigers:
+- cornelis-van-der-dussen
+reistype: diplomatieke reis
+jaren: '1706'
+vertrek: 07-01-1706
+terugkeer: 05-06-1706
+reisdagen: '149'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 07-01-1706
+- plaats: Londen
+  land_modern: Engeland
+  datum: 05-06-1706
+manuscript: cornelis-van-der-dussen-1706-hs
+beschrijving: Onvoltooid reisverslag van een diplomatieke reis van Cornelis van der Dussen (1684-1754)
+  naar Engeland in 1706. In Londen werkt hij als persoonlijk secretaris van de gezant Willem
+  Buys (1661-1749). Vanuit Londen maakte Van der Dussen uitstapjes naar Cambridge en Oxford.
+  Hij verbleef langere tijd in Londen (11 januari-20 maart 1706; 15 april-1 juni) en Oxford
+  (31 maart-6 april).
+reisgezellen:
+- naam: Willem Buys
+  jaren: 1661–1749
+  opmerkingen: extraordinaris envoyé
+addenda:
+- type: Verbaal/rapport/minuut
+  auteur: Willem Buys
+  beschrijving: Verbaal van de extraordinaris envoyé mr. Willem Buys wegens zijn zending naar
+    Engeland in verband met de coördinatie van de Britse en Nederlandse strijdkrachten in de
+    Spaanse Successie Oorlog.1706 januari 7 - 1706 april 28
+  datum: 28-04-1706
+  relatie: gezant-SG
+  taal: Nederlands
+  bron: SG 8656
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- Coster 2016, 4-32.
+bronnen:
+- gemaakt-op-reis-database

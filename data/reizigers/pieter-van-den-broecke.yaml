@@ -1,0 +1,18 @@
+id: pieter-van-den-broecke
+naam: Broecke, Pieter van den
+volledige_naam: Pieter van den Broecke
+geslacht: Man
+geboren:
+  jaar: 1585
+  datum: 25-02-1585
+  plaats: Antwerpen
+  provincie: Zuidelijke Nederlanden
+overleden:
+  jaar: 1640
+  datum: 01-12-1640
+  plaats: nabij Malakka
+  provincie: Maleisië
+is_auteur: true
+korte_typering: Maakte een reis naar Angola in 1605. (-1585 jaar)
+bronnen:
+- gemaakt-op-reis-database

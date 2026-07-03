@@ -1,0 +1,30 @@
+id: gabriel-andre-de-montaigne-1694-1705
+titel: Memorial biographique de Gabriël André de Montaigne à Maestricht
+reizigers:
+- gabriel-andre-de-montaigne
+reistype: pelgrimsreis
+jaren: 1694-1705
+vertrek: 01-01-1694
+terugkeer: 01-01-1705
+reisdagen: '4017'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Italië
+- Frankrijk
+route:
+- plaats: Maastricht
+  land_modern: Nederlandse Republiek
+  datum: 01-01-1694
+- plaats: Maastricht
+  land_modern: Nederlandse Republiek
+  datum: 01-01-1705
+manuscript: gabriel-andre-de-montaigne-1694-1705-hs
+beschrijving: Verschillende verslagen naar Rome, Keulen en Frankrijk tussen 1694 en 1705.
+addenda:
+- beschrijving: Doodsbrief
+- beschrijving: Latijns handschrift met stichtelijke inhoud, getiteld 'Exercitio meditationes'
+literatuur:
+- LSD
+bronnen:
+- gemaakt-op-reis-database

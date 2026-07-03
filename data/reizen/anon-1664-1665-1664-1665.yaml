@@ -1,0 +1,53 @@
+id: anon-1664-1665-1664-1665
+titel: Beschrijving door … van een reis naar Leeuwarden over Noord- en Zuid Holland en Zeeland
+  naar België en Frankrijk en terug over Zwitserland en Duitsland
+reizigers:
+- anon-1664-1665
+reistype: educatiereis
+jaren: 1664-1665
+vertrek: 01-06-1664
+terugkeer: 20-07-1665
+reisdagen: '414'
+gebieden:
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+- Duitsland
+- Frankrijk
+- Zwitserland
+route:
+- plaats: Leeuwarden
+  land_modern: Nederlandse Republiek
+  datum: 01-06-1664
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 20-07-1665
+manuscript: anon-1664-1665-1664-1665-hs
+beschrijving: Ongepagineerd verslag van een educatiereis van Leeuwarden via Zeeland en de Zuidelijke
+  Nederlanden naar Frankrijk in 1664-1665, met een rondreis door de Loirestreek, een verblijf
+  van ca. vier maanden in Blois en een verblijf van ca. vier maanden in Parijs. Na een bezoek
+  aan Grenoble keerde de anonymus terug via Genève en Duitsland tot aan Amsterdam. De reiziger
+  verbleef langere tijd in Brussel (14-20 juni 1664), Moret-sur-Loing (28 juli-7 augustus),
+  Blois (14 augustus-14 december), Parijs (19 december-1 mei 1665), Straatsburg (30 mei-5 juni),
+  Mannheim en Mainz (7 juni-4 juli).
+addenda:
+- beschrijving: Franse scherminstructies, getiteld ‘Exercice de la pique, premierement estant
+    pique plantée à commencer’, en een aanvullende tip in het Nederlands
+  bron: '[77-78]'
+- beschrijving: Medische recepten
+  bron: '[79]'
+- beschrijving: Korte biografieën in het Frans van de leden van de Académie Française, getiteld
+    ‘Catalogue des Academiciens’, waarschijnlijk overgenomen uit Paul Pellisson-Fontaniers Histoire
+    de l’Académie françoise […] [1653]
+  bron: '[81-85]'
+- beschrijving: Bibliografie met boeken van leden van de Académie Française en boeken over het
+    Frans, getiteld ‘Quelques bone liures’
+  bron: '[86-87]'
+- beschrijving: Aanvullende curiosa, nl. a) een Franstalig apocrief epitaaf-raadsel dat de eigenaars
+    van een graf bespot als een incestueus echtpaar (zie Taylor 1938, 26)
+  bron: '[88]'
+- beschrijving: Een Frans gedicht over een discussie tussen een priester en de duivel
+  bron: '[88-89]'
+- beschrijving: Een Frans gedicht, mogelijk over kardinaal Richelieu (1585-1642)
+  bron: '[89]'
+bronnen:
+- gemaakt-op-reis-database

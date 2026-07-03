@@ -1,0 +1,42 @@
+id: francois-van-aerssen-1641
+titel: Diplomatieke reis naar Engeland
+reizigers:
+- francois-van-aerssen
+reistype: diplomatieke reis
+jaren: '1641'
+vertrek: 1-1-1641
+terugkeer: 18-6-1641
+reisdagen: '168'
+gebieden:
+- Engeland
+- Nederlandse Republiek
+reisgezellen:
+- naam: Jan Wolfert van Brederode heer van Brederode, Vianen, Noordeloos en Ameide
+  jaren: 1599–1655
+  opmerkingen: gezant
+- naam: Johan van Kerckhoven heer van Heenvliet
+  opmerkingen: gezant
+addenda:
+- type: Verbaal/rapport/minuut
+  auteur: Jan Wolferd van Brederode, François van Aerssen van Sommelsdijk en Johan van Kerckhoven
+  beschrijving: Verbaal van de extraordinaris ambassadeurs Jan Wolferd van Brederode, François
+    van Aerssen van Sommelsdijk en Johan van Kerckhoven, heer van Heenvliet, wegens hun zending
+    naar Engeland in verband met het huwelijk van prins Willem II en Maria Stuart, 1641 januari
+    1 - 1641 juni 18
+  datum: 18-06-1641
+  relatie: gezant-SG
+  taal: Nederlands
+  bron: SG 8391-8392
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+- type: Verbaal/rapport/minuut
+  auteur: François van Aerssen
+  beschrijving: Concept-verbaal
+  relatie: gezant-SG
+  taal: Nederlands
+  bron: LO 56-57
+  transcriptie: Nee
+  foto: Nee
+bronnen:
+- gemaakt-op-reis-database

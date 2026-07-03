@@ -1,0 +1,31 @@
+id: menso-alting-1661-1662
+titel: Educatiereis naar Zwitserland en Frankrijk
+reizigers:
+- menso-alting
+reistype: educatiereis
+jaren: 1661-1662
+vertrek: 1-10-1661
+terugkeer: 1-4-1662
+reisdagen: '182'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Zwitserland
+- Frankrijk
+route:
+- plaats: Groningen
+  land_modern: Nederlandse Republiek
+  datum: 1-10-1661
+- plaats: Groningen
+  land_modern: Nederlandse Republiek
+  datum: 1-4-1662
+manuscript: menso-alting-1661-1662-hs
+beschrijving: Verslag van Menso Alting uit 1661-1662 van een educatiereis naar Zwitserland en
+  Frankrijk. Het verslag bevat verschillende inscripties en tekeningen van monumenten.
+addenda:
+- beschrijving: Ingevoegd blad
+  bron: f. 96-97
+- beschrijving: Tekening
+  bron: f. 98r
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,73 @@
+id: job-ludolf-1683-1684
+titel: Diplomatieke reis naar Engeland en Frankrijk
+reizigers:
+- job-ludolf
+reistype: diplomatieke reis
+jaren: 1683-1684
+vertrek: '1683'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Engeland
+beschrijving: Ondernam in 1683 en 1684 een reis naar de Republiek, Engeland en Frankrijk om
+  te lobbyen voor handelscontact met Ethiopië.
+brieven:
+- verzender: Job Ludolf
+  ontvanger: Isaac Vossius (1618-1689)
+  datum: 29-09-1683
+  plaats_verzender: Londen
+  land_verzender: EN
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: EMLO
+  link: http://emlo.bodleian.ox.ac.uk/profile/work/5b40bdfb-51a8-4974-bf3f-bb170145c3da?sort=date-a&rows=50&dat_to_year=1674&people=vossius&dat_from_year=1674&baseurl=/forms/advanced&start=6&type=advanced&numFound=9
+- verzender: Job Ludolf
+  ontvanger: Isaac Vossius (1618-1689)
+  datum: 29-09-1683
+  plaats_verzender: Londen
+  land_verzender: EN
+  relatie: geleerde-geleerde
+  taal: LatijnLatijn
+  bron: EMLO
+  link: http://emlo.bodleian.ox.ac.uk/profile/work/5b40bdfb-51a8-4974-bf3f-bb170145c3da?sort=date-a&rows=50&dat_to_year=1674&people=vossius&dat_from_year=1674&baseurl=/forms/advanced&start=6&type=advanced&numFound=9
+- verzender: Job Ludolf
+  ontvanger: Isaac Vossius (1618-1689)
+  datum: 27-10-1683
+  plaats_verzender: Londen
+  land_verzender: EN
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: EMLO
+  link: http://emlo.bodleian.ox.ac.uk/profile/work/5b40bdfb-51a8-4974-bf3f-bb170145c3da?sort=date-a&rows=50&dat_to_year=1674&people=vossius&dat_from_year=1674&baseurl=/forms/advanced&start=6&type=advanced&numFound=9
+- verzender: Job Ludolf
+  ontvanger: Isaac Vossius (1618-1689)
+  datum: 27-10-1683
+  plaats_verzender: Londen
+  land_verzender: EN
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: EMLO
+  link: http://emlo.bodleian.ox.ac.uk/profile/work/5b40bdfb-51a8-4974-bf3f-bb170145c3da?sort=date-a&rows=50&dat_to_year=1674&people=vossius&dat_from_year=1674&baseurl=/forms/advanced&start=6&type=advanced&numFound=9
+- verzender: Job Ludolf
+  ontvanger: Elias Ashmole (1617-1692)
+  datum: 24-10-1683
+  plaats_verzender: Londen
+  land_verzender: EN
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: EMLO
+  link: http://emlo.bodleian.ox.ac.uk/profile/work/5b40bdfb-51a8-4974-bf3f-bb170145c3da?sort=date-a&rows=50&dat_to_year=1674&people=vossius&dat_from_year=1674&baseurl=/forms/advanced&start=6&type=advanced&numFound=9
+- verzender: Job Ludolf
+  ontvanger: Elias Ashmole (1617-1692)
+  datum: 21-12-1683
+  plaats_verzender: Parijs
+  land_verzender: FR
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: EMLO
+  link: http://emlo.bodleian.ox.ac.uk/profile/work/5b40bdfb-51a8-4974-bf3f-bb170145c3da?sort=date-a&rows=50&dat_to_year=1674&people=vossius&dat_from_year=1674&baseurl=/forms/advanced&start=6&type=advanced&numFound=9
+literatuur:
+- BWN, XI, 704-708; Fellman 1976, 377-380; Waterman 1978, 3-11; Tubach 1993, 317-325; Fellman
+  2002, 207-221.
+bronnen:
+- gemaakt-op-reis-database

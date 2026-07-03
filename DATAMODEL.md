@@ -1,58 +1,57 @@
 # Datamodel
 
-Vier entiteiten, elk als YAML-bestand in de bijbehorende map onder `data/`. De bestandsnaam is vrij, maar gebruik bij voorkeur de `id` als naam (bijv. `data/reizigers/hooft-arnout-hellemans.yaml`).
+Vier entiteiten, elk als YAML-bestand in de bijbehorende map onder `data/`. De bestandsnaam is de `id` (bijv. `data/reizigers/coenraad-ruysch.yaml`). De verrijkingen (portretten, opleiding, reisgezellen, brieven, poëzie, addenda) staan **genest** in het reiziger- of reisbestand waar ze bij horen; ze zijn geen aparte bestanden.
 
 Algemene regels:
 
-- **`id`** is verplicht, uniek binnen de hele dataset, en bestaat uit kleine letters, cijfers en koppeltekens (bijv. `hooft-arnout-hellemans`). Verwijzingen tussen entiteiten lopen altijd via deze id's.
-- Onbekende gegevens: laat het veld weg of leeg. Gebruik geen "?" in datavelden; twijfel hoort in `opmerkingen`.
-- **`controle_nodig: true`** markeert een record waarvan de gegevens nog geverifieerd moeten worden (bijv. verouderde signatuur uit het repertorium).
-- **`bronnen`** (lijst) vermeldt waar de gegevens vandaan komen, bijv. `repertorium-lsd`, `gemaakt-op-reis`, `eigen-onderzoek`, of een vrije literatuurverwijzing.
-- Jaartallen als getal (`1649`); preciezere dateringen als tekst (`"1649-05-17"`, `"circa 1650"`).
+- **`id`** is verplicht, uniek binnen de hele dataset, en bestaat uit kleine letters, cijfers en koppeltekens. Verwijzingen tussen entiteiten lopen via deze id's.
+- Onbekende gegevens: laat het veld weg of leeg.
+- **`controle_nodig: true`** markeert een record dat nog geverifieerd moet worden.
+- **`bronnen`** (lijst) vermeldt de herkomst, bijv. `gemaakt-op-reis-database`.
+- De gegevens worden gegenereerd met `scripts/import_filemaker.py`; handmatige wijzigingen in `data/` blijven bewaard zolang er niet opnieuw wordt geïmporteerd.
 
 ## Reiziger (`data/reizigers/`)
 
 | Veld | Verplicht | Toelichting |
 |---|---|---|
 | `id` | ja | |
-| `naam` | ja | Lemma-vorm, bijv. `Hooft, Arnout Hellemans` (sorteert vanzelf goed) |
-| `naamsvarianten` | nee | Lijst van naam- en spellingsvarianten |
-| `geboren` | nee | `{jaar, datum, plaats}` |
-| `overleden` | nee | `{jaar, datum, plaats}` |
-| `herkomst` | nee | Stad/gewest van herkomst |
+| `naam` | ja | Lemma-vorm `Achternaam, Voornaam tussenvoegsel` (sorteersleutel) |
+| `volledige_naam` | nee | Weergavenaam in leesvolgorde |
+| `naamsvarianten` | nee | Lijst van naam-, spellings- en doopnaamvarianten |
+| `titel`, `achtervoegsel` | nee | Adellijke/andere titel |
+| `geslacht` | nee | `Man` / `Vrouw` |
+| `geboren` / `overleden` | nee | `{jaar, datum, plaats, provincie}` |
 | `religie` | nee | |
-| `beroep_functie` | nee | Beroep of latere maatschappelijke functie(s) |
-| `familie` | nee | Relevante familierelaties |
-| `korte_typering` | nee | Eén regel: leefdata, eerste reis, religie (naar appendix A *Gemaakt op reis*) |
-| `biografie` | nee | Beknopte biografische schets |
-| `reizen_vermeld` | nee | Gedocumenteerde reizen als lopende tekst (nog niet als reis-records ingevoerd) |
-| `verslagen_vermeld` | nee | Verwijzingen naar verslagen als lopende tekst |
-| `addenda` | nee | Relevante addenda (lijst) |
-| `correspondentie` | nee | Relevante correspondentie (lijst) |
-| `poezie` | nee | Relevante poëzie (lijst) |
-| `externe_ids` | nee | `{wikidata, viaf, dbnl, ecartico, ...}` — alleen de code, geen url |
-| `literatuur` | nee | Lijst van verwijzingen |
-| `opmerkingen` | nee | |
-| `bronnen` | nee | Lijst |
-| `controle_nodig` | nee | `true`/`false` |
+| `is_auteur` | nee | `true` als de reiziger zelf een verslag schreef |
+| `korte_typering` | nee | Eén regel: eerste reis, leeftijd |
+| `biografie` | nee | Biografische schets |
+| `genealogie` | nee | `{vader, moeder, echtgenoten[], kinderen[], broers_zussen[], andere_familie[]}` |
+| `opleiding` | nee | Lijst van `{universiteit, richting, datum, incipit, opmerking, bron}` |
+| `portretten` | nee | Lijst van `{titel, geportretteerde, vervaardiger, jaar, bron, link, beschrijving}` |
+| `literatuur` | nee | Lijst |
+| `bronnen`, `controle_nodig` | nee | |
 
 ## Reis (`data/reizen/`)
 
 | Veld | Verplicht | Toelichting |
 |---|---|---|
 | `id` | ja | |
-| `titel` | ja | Bijv. `Educatiereis van Arnout Hellemans Hooft` |
+| `titel` | ja | Eigentijdse titel of moderne aanduiding |
 | `reizigers` | nee | Lijst van reiziger-id's (leeg bij anonieme reizen) |
-| `reisdagen` | nee | Aantal reisdagen (of schatting) |
-| `reistype` | nee | Eén uit: `educatiereis`, `pelgrimsreis`, `diplomatieke reis`, `handelsreis`, `militaire reis`, `plezierreis`, `gemengd`, `overig`, `onbekend` |
-| `vertrek` | nee | Jaar of datum |
-| `terugkeer` | nee | Jaar of datum |
-| `gebieden` | nee | Lijst van bezochte landen/regio's (grofmazig, voor filtering) |
-| `route` | nee | Lijst van plaatsen: `{plaats, land_modern, datum, geo: {lat, lon}, geonames, wikidata}` |
-| `reisgenoten` | nee | Vrije tekst voor gezelschap dat geen eigen record heeft |
-| `opmerkingen` | nee | |
-| `bronnen` | nee | |
-| `controle_nodig` | nee | |
+| `reistype` | nee | `educatiereis`, `diplomatieke reis`, `plezierreis`, `handelsreis`, `militaire reis`, `pelgrimsreis`, `overig`, `onbekend` |
+| `jaren` | nee | Bijv. `1674-1677` |
+| `vertrek` / `terugkeer` | nee | Datum of jaar |
+| `reisdagen` | nee | |
+| `gebieden` | nee | Lijst van bezochte landen/regio's |
+| `route` | nee | Lijst van `{plaats, land_modern, datum, geo: {lat, lon}}` |
+| `manuscript` | nee | Manuscript-id (indien een handschrift bewaard is) |
+| `beschrijving` | nee | Inhoudsbeschrijving van reis en verslag |
+| `reisgezellen` | nee | Lijst van `{naam, jaren, opmerkingen}` |
+| `brieven` | nee | Lijst van `{verzender, ontvanger, datum, plaats/land verzender/ontvanger, relatie, taal, bron, link, opmerking, tekst}` |
+| `poezie` | nee | Lijst van `{titel, dichter, aan, datum, locatie, taal, bron, link, beschrijving, tekst}` |
+| `addenda` | nee | Lijst van `{type, auteur, beschrijving, datum, relatie, taal, bron, link, locatie, transcriptie, foto}` |
+| `literatuur` | nee | |
+| `bronnen`, `controle_nodig` | nee | |
 
 ## Manuscript (`data/manuscripten/`)
 
@@ -61,29 +60,21 @@ Algemene regels:
 | `id` | ja | |
 | `titel_aanduiding` | ja | Eigentijdse titel of moderne aanduiding |
 | `reizen` | nee | Lijst van reis-id's die het manuscript beschrijft |
-| `auteurs` | nee | Lijst van reiziger-id's (schrijver kan afwijken van reiziger, bijv. kopiist) |
-| `instelling` | nee | Instelling-id van de huidige bewaarplaats (weglaten indien onbekend of particulier bezit; licht toe in `opmerkingen`) |
-| `collectie` | nee | Archief-/collectienaam binnen de instelling |
+| `auteurs` | nee | Lijst van reiziger-id's |
+| `instelling` | nee | Instelling-id van de huidige bewaarplaats |
 | `signatuur` | nee | Actuele signatuur of inventarisnummer |
 | `permalink` | nee | Stabiele url naar de beschrijving bij de instelling |
-| `taal` | nee | Bijv. `Nederlands`, `Frans` |
-| `datering` | nee | Ontstaanstijd van het handschrift |
-| `manuscripttype` | nee | Eén uit: `klad`, `net`, `kopie`, `brieven`, `overig`, `onbekend` |
-| `omvang` | nee | Bijv. `1 deel, 213 fol.` |
-| `beschrijving` | nee | Korte inhoudsbeschrijving van verslag en reis |
-| `digitalisering` | nee | `{status, url, iiif_manifest}` — status: `geen`, `gedeeltelijk`, `volledig`, `onbekend` |
-| `transcriptie` | nee | `{status, url, door}` — status als hierboven |
-| `edities` | nee | Lijst van gedrukte of digitale edities en transcripties |
-| `repertorium_lsd` | nee | Nummer in Lindeman/Scherf/Dekker |
+| `taal` | nee | |
+| `omvang` | nee | Bijv. `ff. 100` |
+| `incompleet` | nee | `true` bij een onvolledig handschrift |
+| `beschrijving` | nee | |
 | `corpus_gor` | nee | Corpusnummer in *Gemaakt op reis* (bijv. `M. 001`) |
-| `addenda` | nee | Relevante addenda, binnen en buiten het manuscript (lijst) |
-| `correspondentie` | nee | Relevante correspondentie (lijst) |
-| `poezie` | nee | Relevante poëzie (lijst) |
-| `literatuur` | nee | |
-| `laatst_gecontroleerd` | nee | Datum waarop vindplaats/signatuur voor het laatst is geverifieerd |
-| `opmerkingen` | nee | |
-| `bronnen` | nee | |
-| `controle_nodig` | nee | |
+| `repertorium_lsd` | nee | Nummer in Lindeman/Scherf/Dekker |
+| `edities` | nee | Lijst van edities |
+| `digitalisering` | nee | `{status, url, iiif_manifest}` — status: `geen`, `gedeeltelijk`, `volledig`, `onbekend` |
+| `transcriptie` | nee | `{status, url, door}` |
+| `laatst_gecontroleerd` | nee | Datum waarop vindplaats/signatuur is geverifieerd |
+| `opmerkingen`, `bronnen`, `controle_nodig` | nee | |
 
 ## Instelling (`data/instellingen/`)
 
@@ -91,8 +82,7 @@ Algemene regels:
 |---|---|---|
 | `id` | ja | |
 | `naam` | ja | Actuele naam |
-| `plaats` | nee | |
-| `land` | nee | |
-| `type` | nee | Eén uit: `archief`, `bibliotheek`, `museum`, `particulier`, `overig` |
+| `plaats`, `land` | nee | |
+| `type` | nee | `archief`, `bibliotheek`, `museum`, `particulier`, `overig` |
 | `website` | nee | |
-| `opmerkingen` | nee | O.a. naamgeschiedenis en fusies (bijv. voormalige rijksarchieven) |
+| `opmerkingen` | nee | O.a. naamgeschiedenis en fusies |

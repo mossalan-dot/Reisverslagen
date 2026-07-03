@@ -5,340 +5,301 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Reisverslagen — compendium van handgeschreven reisverslagen uit de Nederlanden</title>
 <style>
-  :root {
-    --inkt: #2b2620; --papier: #faf7f1; --kaart: #ffffff; --rand: #e3dcd0;
-    --accent: #7a2e2e; --accent-licht: #f3e6e6; --dempen: #7a715f;
-    --groen: #2e6b46; --groen-licht: #e2efe7; --amber: #8a6116; --amber-licht: #f6ecd8;
-    --grijs: #6b6b6b; --grijs-licht: #eeeae3;
-  }
-  * { box-sizing: border-box; }
-  body { margin: 0; background: var(--papier); color: var(--inkt);
-    font: 16px/1.55 Georgia, 'Times New Roman', serif; }
-  header { background: var(--inkt); color: #f3efe7; padding: 1.6rem 1rem 1.3rem; }
-  .kolom { max-width: 60rem; margin: 0 auto; padding: 0 1rem; }
-  header .kolom { padding: 0; max-width: 58rem; }
-  h1 { margin: 0; font-size: 1.6rem; font-weight: normal; letter-spacing: .02em; }
-  header p { margin: .35rem 0 0; color: #cfc7b8; font-size: .95rem; }
-  nav { background: var(--kaart); border-bottom: 1px solid var(--rand);
-    position: sticky; top: 0; z-index: 5; }
-  nav .kolom { display: flex; gap: .25rem; flex-wrap: wrap; padding: 0 1rem; }
-  nav button { border: none; background: none; font: inherit; font-size: .95rem;
-    padding: .7rem .9rem; cursor: pointer; color: var(--dempen);
-    border-bottom: 3px solid transparent; }
-  nav button.actief { color: var(--accent); border-bottom-color: var(--accent); }
-  nav button:hover { color: var(--inkt); }
-  .balk { display: flex; gap: .6rem; flex-wrap: wrap; align-items: center; margin: 1.1rem 0 .9rem; }
-  .balk input[type=search] { flex: 1 1 14rem; font: inherit; padding: .45rem .65rem;
-    border: 1px solid var(--rand); border-radius: 4px; background: var(--kaart); }
-  .balk select { font: inherit; font-size: .9rem; padding: .4rem .5rem;
-    border: 1px solid var(--rand); border-radius: 4px; background: var(--kaart); }
-  .balk label { font-size: .85rem; color: var(--dempen); }
-  .teller { color: var(--dempen); font-size: .88rem; margin: 0 0 .8rem; }
-  ul.lijst { list-style: none; margin: 0 0 2rem; padding: 0; display: grid; gap: .6rem; }
-  ul.lijst li { background: var(--kaart); border: 1px solid var(--rand);
-    border-radius: 6px; padding: .75rem .95rem; cursor: pointer; }
-  ul.lijst li:hover { border-color: var(--accent); }
-  .kop { font-size: 1.05rem; color: var(--accent); }
-  .sub { color: var(--dempen); font-size: .88rem; margin-top: .15rem; }
-  .badges { margin-top: .4rem; display: flex; gap: .35rem; flex-wrap: wrap; }
-  .badge { font-family: system-ui, sans-serif; font-size: .72rem; padding: .1rem .5rem;
-    border-radius: 999px; white-space: nowrap; }
-  .b-volledig { background: var(--groen-licht); color: var(--groen); }
-  .b-gedeeltelijk { background: var(--amber-licht); color: var(--amber); }
-  .b-geen, .b-onbekend { background: var(--grijs-licht); color: var(--grijs); }
-  .b-controle { background: var(--accent-licht); color: var(--accent); }
-  .b-editie { background: var(--groen-licht); color: var(--groen); }
-  article { background: var(--kaart); border: 1px solid var(--rand); border-radius: 6px;
-    padding: 1.3rem 1.5rem; margin: 1.1rem 0 2rem; }
-  article h2 { margin: 0 0 .2rem; font-size: 1.35rem; font-weight: normal; color: var(--accent); }
-  article .soort { font-family: system-ui, sans-serif; font-size: .75rem;
-    text-transform: uppercase; letter-spacing: .08em; color: var(--dempen); }
-  dl { display: grid; grid-template-columns: minmax(9rem, 12rem) 1fr; gap: .35rem .9rem; margin: 1rem 0; }
-  dt { color: var(--dempen); font-size: .88rem; padding-top: .1rem; }
-  dd { margin: 0; }
-  dd ul { margin: 0; padding-left: 1.1rem; }
-  a { color: var(--accent); }
-  .terug { display: inline-block; margin-top: 1rem; font-size: .95rem;
-    background: none; border: none; color: var(--accent); font: inherit;
-    cursor: pointer; padding: 0; text-decoration: underline; }
-  .suggestie { margin-top: 1.2rem; padding-top: .9rem; border-top: 1px dashed var(--rand);
-    font-size: .88rem; color: var(--dempen); }
-  .leeg { color: var(--dempen); font-style: italic; margin: 2rem 0; }
-  footer { border-top: 1px solid var(--rand); color: var(--dempen);
-    font-size: .85rem; padding: 1.2rem 0 2.5rem; margin-top: 1rem; }
-  @media (max-width: 600px) { dl { grid-template-columns: 1fr; } dt { margin-top: .4rem; } }
+  :root{--inkt:#2b2620;--papier:#faf7f1;--kaart:#fff;--rand:#e3dcd0;--accent:#7a2e2e;
+    --accent-licht:#f3e6e6;--dempen:#7a715f;--groen:#2e6b46;--groen-licht:#e2efe7;
+    --amber:#8a6116;--amber-licht:#f6ecd8;--grijs:#6b6b6b;--grijs-licht:#eeeae3;--blauw:#2a5b7a;--blauw-licht:#e2ecf3;}
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--papier);color:var(--inkt);font:16px/1.55 Georgia,'Times New Roman',serif;}
+  header{background:var(--inkt);color:#f3efe7;padding:1.5rem 1rem 1.2rem;}
+  .kolom{max-width:62rem;margin:0 auto;padding:0 1rem;}
+  h1{margin:0;font-size:1.55rem;font-weight:normal;letter-spacing:.02em;}
+  header p{margin:.35rem 0 0;color:#cfc7b8;font-size:.92rem;}
+  nav{background:var(--kaart);border-bottom:1px solid var(--rand);position:sticky;top:0;z-index:5;}
+  nav .kolom{display:flex;gap:.15rem;flex-wrap:wrap;}
+  nav button{border:none;background:none;font:inherit;font-size:.93rem;padding:.7rem .8rem;cursor:pointer;
+    color:var(--dempen);border-bottom:3px solid transparent;}
+  nav button.actief{color:var(--accent);border-bottom-color:var(--accent);}
+  nav button:hover{color:var(--inkt);}
+  .balk{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin:1.1rem 0 .8rem;}
+  .balk input[type=search]{flex:1 1 15rem;font:inherit;padding:.45rem .65rem;border:1px solid var(--rand);border-radius:4px;background:var(--kaart);}
+  .balk select{font:inherit;font-size:.9rem;padding:.4rem .5rem;border:1px solid var(--rand);border-radius:4px;background:var(--kaart);}
+  .balk label{font-size:.85rem;color:var(--dempen);}
+  .teller{color:var(--dempen);font-size:.87rem;margin:0 0 .8rem;}
+  ul.lijst{list-style:none;margin:0 0 2rem;padding:0;display:grid;gap:.55rem;}
+  ul.lijst li{background:var(--kaart);border:1px solid var(--rand);border-radius:6px;padding:.7rem .9rem;cursor:pointer;}
+  ul.lijst li:hover{border-color:var(--accent);}
+  .kop{font-size:1.03rem;color:var(--accent);}
+  .sub{color:var(--dempen);font-size:.87rem;margin-top:.15rem;}
+  .badges{margin-top:.4rem;display:flex;gap:.35rem;flex-wrap:wrap;}
+  .badge{font-family:system-ui,sans-serif;font-size:.72rem;padding:.1rem .5rem;border-radius:999px;white-space:nowrap;}
+  .b-groen{background:var(--groen-licht);color:var(--groen);}
+  .b-amber{background:var(--amber-licht);color:var(--amber);}
+  .b-grijs{background:var(--grijs-licht);color:var(--grijs);}
+  .b-accent{background:var(--accent-licht);color:var(--accent);}
+  .b-blauw{background:var(--blauw-licht);color:var(--blauw);}
+  article{background:var(--kaart);border:1px solid var(--rand);border-radius:6px;padding:1.3rem 1.5rem;margin:1.1rem 0 2rem;}
+  article h2{margin:0 0 .2rem;font-size:1.35rem;font-weight:normal;color:var(--accent);}
+  article .soort{font-family:system-ui,sans-serif;font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--dempen);}
+  dl{display:grid;grid-template-columns:minmax(8rem,11rem) 1fr;gap:.35rem .9rem;margin:1rem 0;}
+  dt{color:var(--dempen);font-size:.87rem;padding-top:.1rem;}
+  dd{margin:0;}
+  dd ul{margin:0;padding-left:1.1rem;}
+  a{color:var(--accent);}
+  h3.sectie{font-size:1.05rem;font-weight:normal;color:var(--inkt);border-bottom:1px solid var(--rand);
+    padding-bottom:.25rem;margin:1.6rem 0 .6rem;}
+  .kaartjes{display:grid;gap:.5rem;}
+  .item{border:1px solid var(--rand);border-radius:5px;padding:.55rem .75rem;background:var(--papier);}
+  .item .t{color:var(--accent);}
+  .item .m{font-size:.85rem;color:var(--dempen);margin-top:.1rem;}
+  details{margin-top:.35rem;}
+  details summary{cursor:pointer;font-size:.85rem;color:var(--blauw);font-family:system-ui,sans-serif;}
+  .brieftekst{white-space:pre-wrap;font-size:.9rem;background:var(--kaart);border:1px solid var(--rand);
+    border-radius:4px;padding:.6rem .8rem;margin-top:.4rem;max-height:24rem;overflow:auto;}
+  .terug{display:inline-block;margin-top:1rem;font-size:.95rem;background:none;border:none;color:var(--accent);
+    font:inherit;cursor:pointer;padding:0;text-decoration:underline;}
+  .suggestie{margin-top:1.2rem;padding-top:.9rem;border-top:1px dashed var(--rand);font-size:.87rem;color:var(--dempen);}
+  .leeg{color:var(--dempen);font-style:italic;margin:2rem 0;}
+  footer{border-top:1px solid var(--rand);color:var(--dempen);font-size:.84rem;padding:1.2rem 0 2.5rem;margin-top:1rem;}
+  @media(max-width:600px){dl{grid-template-columns:1fr;}dt{margin-top:.4rem;}}
 </style>
 </head>
 <body>
-<header>
-  <div class="kolom">
-    <h1>Reisverslagen</h1>
-    <p>Compendium van handgeschreven reisverslagen van reizigers uit de Nederlanden — zeventiende eeuw</p>
-  </div>
-</header>
+<header><div class="kolom"><h1>Reisverslagen</h1>
+<p>Compendium van handgeschreven reisverslagen van reizigers uit de Nederlanden</p></div></header>
 <nav><div class="kolom" id="tabbladen"></div></nav>
 <main class="kolom" id="hoofd"></main>
 <footer><div class="kolom" id="voet"></div></footer>
-
 <script>
 const DATA = __DATA_JSON__;
+let VOL = null; // volledige dataset (nageladen), voor lange teksten
 
 const SOORTEN = {
-  manuscript: { meervoud: "manuscripten", label: "Manuscripten", enkel: "Manuscript" },
-  reiziger:   { meervoud: "reizigers",    label: "Reizigers",    enkel: "Reiziger" },
-  reis:       { meervoud: "reizen",       label: "Reizen",       enkel: "Reis" },
-  instelling: { meervoud: "instellingen", label: "Instellingen", enkel: "Instelling" },
+  manuscript:{mv:"manuscripten",label:"Manuscripten",enkel:"Manuscript"},
+  reiziger:{mv:"reizigers",label:"Reizigers",enkel:"Reiziger"},
+  reis:{mv:"reizen",label:"Reizen",enkel:"Reis"},
+  instelling:{mv:"instellingen",label:"Instellingen",enkel:"Instelling"},
 };
-const TABVOLGORDE = ["manuscript", "reiziger", "reis", "instelling"];
-const SUGGESTIE_EMAIL = "mossalan@gmail.com";
+const TABS=["manuscript","reiziger","reis","instelling"];
+const EMAIL="mossalan@gmail.com";
+const index={};
+for(const[s,d]of Object.entries(SOORTEN)) index[s]=new Map(DATA[d.mv].map(r=>[r.id,r]));
+const staat={tab:"reiziger",zoek:"",f1:"",f2:"",detail:null};
 
-const index = {};
-for (const [soort, def] of Object.entries(SOORTEN)) {
-  index[soort] = new Map(DATA[def.meervoud].map(r => [r.id, r]));
-}
+function esc(t){return String(t).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+function zoektekst(r){if(!r._z)r._z=JSON.stringify(r).toLowerCase();return r._z;}
+function badge(t,k){return '<span class="badge b-'+k+'">'+esc(t)+'</span>';}
+function naamVan(s,id){const r=index[s].get(id);if(!r)return id;return r.naam||r.titel||r.titel_aanduiding||id;}
+function link(s,id){return '<a href="#/'+s+'/'+encodeURIComponent(id)+'">'+esc(naamVan(s,id))+'</a>';}
+function ext(url,label){return '<a href="'+esc(url)+'" target="_blank" rel="noopener">'+esc(label||url)+'</a>';}
+function jaren(r){const g=r.geboren&&r.geboren.jaar,o=r.overleden&&r.overleden.jaar;if(!g&&!o)return"";return (g||"?")+"–"+(o||"?");}
 
-const staat = { tab: "manuscript", zoek: "", fDig: "", fTrans: "", fEditie: "", detail: null };
-
-function esc(t) {
-  return String(t).replace(/[&<>"']/g, c => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-}
-function zoektekst(r) {
-  if (!r._zoek) r._zoek = JSON.stringify(r).toLowerCase();
-  return r._zoek;
-}
-function badge(tekst, klasse) {
-  return '<span class="badge b-' + klasse + '">' + esc(tekst) + "</span>";
-}
-function statusBadge(naam, obj) {
-  const s = obj && obj.status ? obj.status : "onbekend";
-  return badge(naam + ": " + s, s);
-}
-function naamVan(soort, id) {
-  const r = index[soort].get(id);
-  if (!r) return id;
-  return r.naam || r.titel || r.titel_aanduiding || id;
-}
-function koppeling(soort, id) {
-  return '<a href="#/' + soort + "/" + encodeURIComponent(id) + '">' + esc(naamVan(soort, id)) + "</a>";
-}
-function jaren(r) {
-  const g = r.geboren && r.geboren.jaar, o = r.overleden && r.overleden.jaar;
-  if (!g && !o) return "";
-  return (g || "?") + "–" + (o || "?");
-}
-function periode(r) {
-  if (r.vertrek && r.terugkeer) return r.vertrek + "–" + r.terugkeer;
-  return r.vertrek || r.terugkeer || "";
-}
-
-// ---- kaartjes in de lijstweergave ----
-function kaartje(soort, r) {
-  let sub = "", badges = "";
-  if (soort === "manuscript") {
-    const inst = r.instelling ? naamVan("instelling", r.instelling) : "bewaarplaats onbekend";
-    sub = inst + (r.signatuur ? ", " + r.signatuur : "") + (r.datering ? " · " + r.datering : "");
-    badges = statusBadge("digitalisering", r.digitalisering) + statusBadge("transcriptie", r.transcriptie)
-      + (r.edities && r.edities.length ? badge("editie", "editie") : "");
-  } else if (soort === "reiziger") {
-    sub = [jaren(r), r.herkomst].filter(Boolean).join(" · ");
-  } else if (soort === "reis") {
-    sub = [periode(r), r.reistype, (r.gebieden || []).join(", ")].filter(Boolean).join(" · ");
-  } else if (soort === "instelling") {
-    const n = DATA.manuscripten.filter(m => m.instelling === r.id).length;
-    sub = [r.plaats, r.land, n + " manuscript" + (n === 1 ? "" : "en")].filter(Boolean).join(" · ");
+// ---- lijstkaartjes ----
+function kaartje(s,r){
+  let sub="",badges="";
+  if(s==="manuscript"){
+    const inst=r.instelling?naamVan("instelling",r.instelling):"bewaarplaats onbekend";
+    sub=[inst,r.signatuur].filter(Boolean).join(", ");
+    if(r.corpus_gor)badges+=badge("GOR "+r.corpus_gor,"grijs");
+    if(r.repertorium_lsd)badges+=badge("LSD "+r.repertorium_lsd,"grijs");
+    if(r.incompleet)badges+=badge("incompleet","amber");
+    if((r.edities||[]).length)badges+=badge("editie","groen");
+  }else if(s==="reiziger"){
+    sub=[jaren(r),r.religie,(r.geboren&&r.geboren.plaats)].filter(Boolean).join(" · ");
+    const nr=DATA.reizen.filter(x=>(x.reizigers||[]).includes(r.id)).length;
+    if(nr)badges+=badge(nr+" reis"+(nr>1?"zen":""),"blauw");
+    if((r.portretten||[]).length)badges+=badge((r.portretten.length)+" portret"+(r.portretten.length>1?"ten":""),"grijs");
+  }else if(s==="reis"){
+    sub=[r.jaren,r.reistype,(r.gebieden||[]).join(", ")].filter(Boolean).join(" · ");
+    const b=(r.brieven||[]).length,a=(r.addenda||[]).length,p=(r.poezie||[]).length;
+    if(b)badges+=badge(b+" brief"+(b>1?"ven":""),"blauw");
+    if(p)badges+=badge(p+" gedicht"+(p>1?"en":""),"blauw");
+    if(a)badges+=badge(a+" addend"+(a>1?"a":"um"),"grijs");
+  }else{
+    const n=DATA.manuscripten.filter(m=>m.instelling===r.id).length;
+    sub=[r.plaats,r.land,n+" manuscript"+(n===1?"":"en")].filter(Boolean).join(" · ");
   }
-  if (r.controle_nodig) badges += badge("controle nodig", "controle");
-  return '<li onclick="location.hash=\'#/' + soort + "/" + encodeURIComponent(r.id) + '\'">' +
-    '<div class="kop">' + esc(naamVan(soort, r.id)) + "</div>" +
-    (sub ? '<div class="sub">' + esc(sub) + "</div>" : "") +
-    (badges ? '<div class="badges">' + badges + "</div>" : "") + "</li>";
+  if(r.controle_nodig)badges+=badge("controle nodig","accent");
+  return '<li onclick="location.hash=\'#/'+s+'/'+encodeURIComponent(r.id)+'\'">'+
+    '<div class="kop">'+esc(naamVan(s,r.id))+'</div>'+(sub?'<div class="sub">'+esc(sub)+'</div>':'')+
+    (badges?'<div class="badges">'+badges+'</div>':'')+'</li>';
 }
 
-// ---- detailweergave ----
-function rij(label, inhoud, alHtml) {
-  if (inhoud === undefined || inhoud === null || inhoud === "" ||
-      (Array.isArray(inhoud) && !inhoud.length)) return "";
-  let html;
-  if (Array.isArray(inhoud)) {
-    html = "<ul>" + inhoud.map(x => "<li>" + (alHtml ? x : esc(x)) + "</li>").join("") + "</ul>";
-  } else {
-    html = alHtml ? inhoud : esc(inhoud);
+// ---- detail-hulpjes ----
+function rij(label,inhoud,alHtml){
+  if(inhoud==null||inhoud===""||(Array.isArray(inhoud)&&!inhoud.length))return"";
+  let h=Array.isArray(inhoud)?"<ul>"+inhoud.map(x=>"<li>"+(alHtml?x:esc(x))+"</li>").join("")+"</ul>":(alHtml?inhoud:esc(inhoud));
+  return "<dt>"+esc(label)+"</dt><dd>"+h+"</dd>";
+}
+function datum(d){if(!d)return"";return [d.datum||d.jaar,[d.plaats,d.provincie].filter(Boolean).join(", ")].filter(Boolean).join(", ");}
+function para(t){return esc(t).replace(/\n\n/g,"<br><br>").replace(/\n/g,"<br>");}
+
+function volReis(id){ // volledige reis (met lange teksten) indien geladen
+  if(VOL&&VOL._reis)return VOL._reis.get(id)||index.reis.get(id);
+  return index.reis.get(id);
+}
+
+function briefBlok(b){
+  const kop=[b.verzender,b.ontvanger].filter(Boolean).join(" → ")||"Brief";
+  const meta=[b.datum,[b.plaats_verzender,b.plaats_ontvanger].filter(Boolean).join(" → "),b.taal].filter(Boolean).join(" · ");
+  let h='<div class="item"><div class="t">'+esc(kop)+'</div>';
+  if(meta)h+='<div class="m">'+esc(meta)+'</div>';
+  if(b.bron||b.link)h+='<div class="m">'+[b.bron?esc(b.bron):"",b.link?ext(b.link,"link"):""].filter(Boolean).join(" · ")+'</div>';
+  if(b.tekst){
+    const laden=b._ingekort?' <em>(volledige tekst wordt geladen…)</em>':'';
+    h+='<details><summary>transcriptie</summary><div class="brieftekst">'+para(b.tekst)+laden+'</div></details>';
   }
-  return "<dt>" + esc(label) + "</dt><dd>" + html + "</dd>";
+  return h+'</div>';
 }
-function urlRij(label, url) {
-  if (!url) return "";
-  return rij(label, '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(url) + "</a>", true);
-}
-function tekstRij(label, tekst) {
-  if (!tekst) return "";
-  return rij(label, esc(tekst).replace(/\n\n/g, "<br><br>"), true);
-}
-function statusRij(label, obj) {
-  if (!obj) return "";
-  let d = esc(obj.status || "onbekend");
-  if (obj.door) d += " — " + esc(obj.door);
-  if (obj.url) d += ' — <a href="' + esc(obj.url) + '" target="_blank" rel="noopener">' + esc(obj.url) + "</a>";
-  if (obj.iiif_manifest) d += ' — <a href="' + esc(obj.iiif_manifest) + '" target="_blank" rel="noopener">IIIF-manifest</a>';
-  return rij(label, d, true);
-}
-
-function detail(soort, r) {
-  let rijen = "";
-  if (soort === "reiziger") {
-    const geb = r.geboren ? [r.geboren.datum || r.geboren.jaar, r.geboren.plaats].filter(Boolean).join(", ") : "";
-    const ovl = r.overleden ? [r.overleden.datum || r.overleden.jaar, r.overleden.plaats].filter(Boolean).join(", ") : "";
-    rijen += rij("Naamsvarianten", (r.naamsvarianten || []).join("; ")) +
-      rij("Geboren", geb) + rij("Overleden", ovl) + rij("Herkomst", r.herkomst) +
-      rij("Religie", r.religie) + rij("Beroep/functie", r.beroep_functie) + rij("Familie", r.familie) +
-      tekstRij("Typering", r.korte_typering) + tekstRij("Biografie", r.biografie);
-    if (r.externe_ids && Object.keys(r.externe_ids).length) {
-      rijen += rij("Externe identifiers",
-        Object.entries(r.externe_ids).map(([k, v]) => esc(k) + ": " + esc(v)).join(" · "), true);
-    }
-    const reizenVan = DATA.reizen.filter(x => (x.reizigers || []).includes(r.id));
-    rijen += rij("Reizen", reizenVan.map(x => koppeling("reis", x.id)), true);
-    const mss = DATA.manuscripten.filter(m => (m.auteurs || []).includes(r.id));
-    rijen += rij("Manuscripten", mss.map(m => koppeling("manuscript", m.id)), true);
-    rijen += rij("Reizen (vermeld)", r.reizen_vermeld) +
-      rij("Verslagen (vermeld)", r.verslagen_vermeld) +
-      rij("Addenda", r.addenda) + rij("Correspondentie", r.correspondentie) +
-      rij("Poëzie", r.poezie) + rij("Literatuur", r.literatuur);
-  } else if (soort === "reis") {
-    rijen += rij("Reizigers", (r.reizigers || []).map(id => koppeling("reiziger", id)), true) +
-      rij("Reistype", r.reistype) + rij("Vertrek", r.vertrek) + rij("Terugkeer", r.terugkeer) +
-      rij("Reisdagen", r.reisdagen) +
-      rij("Gebieden", (r.gebieden || []).join(", ")) + rij("Reisgezelschap", r.reisgenoten);
-    if (r.route && r.route.length) {
-      rijen += rij("Route", r.route.map(h =>
-        esc([h.plaats, h.land_modern].filter(Boolean).join(" (") + (h.land_modern ? ")" : "")) +
-        (h.datum ? " — " + esc(h.datum) : "")), true);
-    }
-    const mss = DATA.manuscripten.filter(m => (m.reizen || []).includes(r.id));
-    rijen += rij("Manuscripten", mss.map(m => koppeling("manuscript", m.id)), true);
-  } else if (soort === "manuscript") {
-    rijen += rij("Auteur(s)", (r.auteurs || []).map(id => koppeling("reiziger", id)), true) +
-      rij("Beschreven reis/reizen", (r.reizen || []).map(id => koppeling("reis", id)), true) +
-      rij("Bewaarplaats", r.instelling ? koppeling("instelling", r.instelling) : "", true) +
-      rij("Collectie", r.collectie) + rij("Signatuur", r.signatuur) +
-      urlRij("Permalink", r.permalink) +
-      rij("Datering", r.datering) + rij("Taal", r.taal) +
-      rij("Manuscripttype", r.manuscripttype) + rij("Omvang", r.omvang) +
-      tekstRij("Beschrijving", r.beschrijving) +
-      statusRij("Digitalisering", r.digitalisering) +
-      statusRij("Transcriptie", r.transcriptie) +
-      rij("Edities", r.edities) +
-      rij("Repertorium Lindeman/Scherf/Dekker", r.repertorium_lsd) +
-      rij("Corpusnummer Gemaakt op reis", r.corpus_gor) +
-      rij("Addenda", r.addenda) + rij("Correspondentie", r.correspondentie) +
-      rij("Poëzie", r.poezie) +
-      rij("Literatuur", r.literatuur) +
-      rij("Laatst gecontroleerd", r.laatst_gecontroleerd);
-  } else if (soort === "instelling") {
-    rijen += rij("Plaats", [r.plaats, r.land].filter(Boolean).join(", ")) +
-      rij("Type", r.type) + urlRij("Website", r.website);
-    const mss = DATA.manuscripten.filter(m => m.instelling === r.id);
-    rijen += rij("Manuscripten in deze instelling", mss.map(m => koppeling("manuscript", m.id)), true);
+function gedichtBlok(p){
+  const meta=[p.dichter,p.datum,p.locatie,p.taal].filter(Boolean).join(" · ");
+  let h='<div class="item"><div class="t">'+esc(p.titel||"Gedicht")+'</div>';
+  if(meta)h+='<div class="m">'+esc(meta)+'</div>';
+  if(p.beschrijving)h+='<div class="m">'+esc(p.beschrijving)+'</div>';
+  if(p.bron||p.link)h+='<div class="m">'+[p.bron?esc(p.bron):"",p.link?ext(p.link,"link"):""].filter(Boolean).join(" · ")+'</div>';
+  if(p.tekst){
+    const laden=p._ingekort?' <em>(volledige tekst wordt geladen…)</em>':'';
+    h+='<details><summary>tekst</summary><div class="brieftekst">'+para(p.tekst)+laden+'</div></details>';
   }
-  rijen += rij("Opmerkingen", r.opmerkingen) + rij("Bronnen", r.bronnen);
-
-  const onderwerp = encodeURIComponent("Suggestie compendium reisverslagen: " + r.id);
-  return "<article>" +
-    '<div class="soort">' + SOORTEN[soort].enkel + (r.controle_nodig ? " · " + badge("controle nodig", "controle") : "") + "</div>" +
-    "<h2>" + esc(naamVan(soort, r.id)) + "</h2>" +
-    "<dl>" + rijen + "</dl>" +
-    '<div class="suggestie">Aanvulling of correctie? <a href="mailto:' + SUGGESTIE_EMAIL +
-    "?subject=" + onderwerp + '">Geef een suggestie door</a> onder vermelding van record-id <code>' +
-    esc(r.id) + "</code>.</div>" +
-    '<button class="terug" onclick="history.back()">← Terug</button>' +
-    "</article>";
+  return h+'</div>';
+}
+function addendumBlok(a){
+  const meta=[a.type,a.auteur,a.datum].filter(Boolean).join(" · ");
+  let h='<div class="item"><div class="t">'+esc(a.beschrijving||a.type||"Addendum")+'</div>';
+  if(meta)h+='<div class="m">'+esc(meta)+'</div>';
+  const r2=[a.bron?esc(a.bron):"",a.transcriptie==="Ja"?"transcriptie":"",a.foto==="Ja"?"foto":"",a.link?ext(a.link,"link"):""].filter(Boolean).join(" · ");
+  if(r2)h+='<div class="m">'+r2+'</div>';
+  return h+'</div>';
+}
+function portretBlok(p){
+  const meta=[p.vervaardiger,p.jaar,p.bron].filter(Boolean).join(" · ");
+  let h='<div class="item"><div class="t">'+(p.link?ext(p.link,p.titel||"Portret"):esc(p.titel||"Portret"))+'</div>';
+  if(meta)h+='<div class="m">'+esc(meta)+'</div>';
+  if(p.beschrijving)h+='<div class="m">'+esc((p.beschrijving||"").slice(0,200))+'</div>';
+  return h+'</div>';
+}
+function sectie(titel,items,fn){
+  if(!items||!items.length)return"";
+  return '<h3 class="sectie">'+esc(titel)+' ('+items.length+')</h3><div class="kaartjes">'+items.map(fn).join("")+'</div>';
 }
 
-// ---- lijstweergave met filters ----
-function lijst() {
-  const soort = staat.tab, def = SOORTEN[soort];
-  let records = DATA[def.meervoud].slice();
-  if (staat.zoek) {
-    const q = staat.zoek.toLowerCase();
-    records = records.filter(r => zoektekst(r).includes(q));
+function detail(s,r){
+  let rijen="",extra="";
+  if(s==="reiziger"){
+    const g=r.genealogie||{};
+    rijen+=rij("Volledige naam",r.volledige_naam)+rij("Naamsvarianten",(r.naamsvarianten||[]).join("; "))+
+      rij("Titel",r.titel)+rij("Geslacht",r.geslacht)+
+      rij("Geboren",datum(r.geboren))+rij("Overleden",datum(r.overleden))+rij("Religie",r.religie)+
+      rij("Typering",r.korte_typering);
+    if(r.biografie)rijen+=rij("Biografie",para(r.biografie),true);
+    rijen+=rij("Vader",g.vader)+rij("Moeder",g.moeder)+rij("Echtgeno(o)t(e)",g.echtgenoten)+
+      rij("Kinderen",g.kinderen)+rij("Broers/zussen",g.broers_zussen)+rij("Andere familie",g.andere_familie);
+    const reizenVan=DATA.reizen.filter(x=>(x.reizigers||[]).includes(r.id));
+    rijen+=rij("Reizen",reizenVan.map(x=>link("reis",x.id)),true);
+    rijen+=rij("Literatuur",r.literatuur);
+    extra+=sectie("Opleiding",r.opleiding,e=>{
+      const m=[e.universiteit,e.richting,e.datum].filter(Boolean).join(" · ");
+      return '<div class="item"><div class="t">'+esc(e.universiteit||e.richting||"Opleiding")+'</div>'+(m?'<div class="m">'+esc(m)+'</div>':'')+(e.opmerking?'<div class="m">'+esc(e.opmerking)+'</div>':'')+'</div>';});
+    extra+=sectie("Portretten en afbeeldingen",r.portretten,portretBlok);
+  }else if(s==="reis"){
+    const rv=volReis(r.id);
+    rijen+=rij("Reiziger(s)",(r.reizigers||[]).map(id=>link("reiziger",id)),true)+
+      rij("Reistype",r.reistype)+rij("Jaren",r.jaren)+rij("Vertrek",r.vertrek)+rij("Terugkeer",r.terugkeer)+
+      rij("Reisdagen",r.reisdagen)+rij("Gebieden",(r.gebieden||[]).join(", "));
+    if(r.route&&r.route.length)rijen+=rij("Route",r.route.map(h=>esc([h.plaats,h.land_modern].filter(Boolean).join(", "))+(h.datum?" — "+esc(h.datum):"")),true);
+    if(r.manuscript)rijen+=rij("Manuscript",link("manuscript",r.manuscript),true);
+    if(r.beschrijving)rijen+=rij("Beschrijving",para(r.beschrijving),true);
+    rijen+=rij("Literatuur",r.literatuur);
+    if(r.reisgezellen&&r.reisgezellen.length)extra+=sectie("Reisgezellen",r.reisgezellen,g=>'<div class="item"><div class="t">'+esc(g.naam||"Reisgezel")+(g.jaren?" ("+esc(g.jaren)+")":"")+'</div>'+(g.opmerkingen?'<div class="m">'+esc(g.opmerkingen)+'</div>':'')+'</div>');
+    extra+=sectie("Correspondentie",rv.brieven,briefBlok);
+    extra+=sectie("Poëzie",rv.poezie,gedichtBlok);
+    extra+=sectie("Addenda",rv.addenda,addendumBlok);
+  }else if(s==="manuscript"){
+    rijen+=rij("Auteur(s)",(r.auteurs||[]).map(id=>link("reiziger",id)),true)+
+      rij("Beschreven reis",(r.reizen||[]).map(id=>link("reis",id)),true)+
+      rij("Bewaarplaats",r.instelling?link("instelling",r.instelling):"",true)+
+      rij("Signatuur",r.signatuur)+rij("Taal",r.taal)+rij("Omvang",r.omvang)+
+      rij("Incompleet",r.incompleet?"ja":"")+
+      rij("Corpusnummer (Gemaakt op reis)",r.corpus_gor)+rij("Repertorium LSD",r.repertorium_lsd)+
+      rij("Edities",r.edities);
+    if(r.beschrijving)rijen+=rij("Beschrijving",para(r.beschrijving),true);
+    rijen+=rij("Opmerkingen",r.opmerkingen);
+  }else{
+    rijen+=rij("Plaats",[r.plaats,r.land].filter(Boolean).join(", "))+rij("Type",r.type)+
+      rij("Website",r.website?ext(r.website):"",true)+rij("Opmerkingen",r.opmerkingen);
+    const mss=DATA.manuscripten.filter(m=>m.instelling===r.id);
+    rijen+=rij("Manuscripten",mss.map(m=>link("manuscript",m.id)),true);
   }
-  if (soort === "manuscript") {
-    if (staat.fDig) records = records.filter(r => ((r.digitalisering || {}).status || "onbekend") === staat.fDig);
-    if (staat.fTrans) records = records.filter(r => ((r.transcriptie || {}).status || "onbekend") === staat.fTrans);
-    if (staat.fEditie === "met") records = records.filter(r => r.edities && r.edities.length);
-    if (staat.fEditie === "zonder") records = records.filter(r => !r.edities || !r.edities.length);
-  }
-  records.sort((a, b) => naamVan(soort, a.id).localeCompare(naamVan(soort, b.id), "nl"));
-
-  let filters = "";
-  if (soort === "manuscript") {
-    const opties = s => ["", "geen", "gedeeltelijk", "volledig", "onbekend"].map(o =>
-      '<option value="' + o + '"' + (s === o ? " selected" : "") + ">" + (o || "alle") + "</option>").join("");
-    filters =
-      "<label>digitalisering <select onchange=\"zetFilter('fDig', this.value)\">" + opties(staat.fDig) + "</select></label>" +
-      "<label>transcriptie <select onchange=\"zetFilter('fTrans', this.value)\">" + opties(staat.fTrans) + "</select></label>" +
-      "<label>editie <select onchange=\"zetFilter('fEditie', this.value)\">" +
-      ["", "met", "zonder"].map(o => '<option value="' + o + '"' + (staat.fEditie === o ? " selected" : "") + ">" +
-        (o || "alle") + "</option>").join("") + "</select></label>";
-  }
-  return '<div class="balk">' +
-    '<input type="search" placeholder="Zoek in ' + def.meervoud + '…" value="' + esc(staat.zoek) +
-    '" oninput="zetZoek(this.value)">' + filters + "</div>" +
-    '<p class="teller">' + records.length + " van " + DATA[def.meervoud].length + " " + def.meervoud + "</p>" +
-    (records.length ? '<ul class="lijst">' + records.map(r => kaartje(soort, r)).join("") + "</ul>"
-      : '<p class="leeg">Geen resultaten.</p>');
+  const onderwerp=encodeURIComponent("Compendium reisverslagen: "+r.id);
+  return "<article><div class='soort'>"+SOORTEN[s].enkel+(r.controle_nodig?" · "+badge("controle nodig","accent"):"")+"</div>"+
+    "<h2>"+esc(naamVan(s,r.id))+"</h2><dl>"+rijen+"</dl>"+extra+
+    "<div class='suggestie'>Aanvulling of correctie? <a href='mailto:"+EMAIL+"?subject="+onderwerp+"'>Geef een suggestie door</a> onder vermelding van <code>"+esc(r.id)+"</code>.</div>"+
+    "<button class='terug' onclick='history.back()'>← Terug</button></article>";
 }
 
-function zetZoek(w) { staat.zoek = w; teken(false); }
-function zetFilter(naam, w) { staat[naam] = w; teken(false); }
-
-function tabbladen() {
-  document.getElementById("tabbladen").innerHTML = TABVOLGORDE.map(s => {
-    const def = SOORTEN[s];
-    return '<button class="' + (staat.tab === s && !staat.detail ? "actief" : "") +
-      '" onclick="location.hash=\'#/' + def.meervoud + '\'">' + def.label +
-      " (" + DATA[def.meervoud].length + ")</button>";
-  }).join("");
+// ---- lijstweergave ----
+function lijst(){
+  const s=staat.tab,def=SOORTEN[s];
+  let recs=DATA[def.mv].slice();
+  if(staat.zoek){const q=staat.zoek.toLowerCase();recs=recs.filter(r=>zoektekst(r).includes(q));}
+  let filters="";
+  if(s==="reis"){
+    const typen=[...new Set(DATA.reizen.map(r=>r.reistype).filter(Boolean))].sort();
+    if(staat.f1)recs=recs.filter(r=>r.reistype===staat.f1);
+    filters='<label>reistype <select onchange="zetF(\'f1\',this.value)"><option value="">alle</option>'+
+      typen.map(t=>'<option'+(staat.f1===t?' selected':'')+'>'+esc(t)+'</option>').join("")+'</select></label>';
+  }else if(s==="manuscript"){
+    const inst=[...new Set(DATA.manuscripten.map(r=>r.instelling).filter(Boolean))].sort((a,b)=>naamVan("instelling",a).localeCompare(naamVan("instelling",b),"nl"));
+    if(staat.f1)recs=recs.filter(r=>r.instelling===staat.f1);
+    if(staat.f2==="editie")recs=recs.filter(r=>(r.edities||[]).length);
+    filters='<label>bewaarplaats <select onchange="zetF(\'f1\',this.value)"><option value="">alle</option>'+
+      inst.map(i=>'<option value="'+esc(i)+'"'+(staat.f1===i?' selected':'')+'>'+esc(naamVan("instelling",i))+'</option>').join("")+'</select></label>'+
+      '<label>editie <select onchange="zetF(\'f2\',this.value)"><option value="">alle</option><option value="editie"'+(staat.f2==="editie"?" selected":"")+'>met editie</option></select></label>';
+  }else if(s==="reiziger"){
+    if(staat.f1)recs=recs.filter(r=>(r.geslacht||"")===staat.f1);
+    filters='<label>geslacht <select onchange="zetF(\'f1\',this.value)"><option value="">alle</option>'+
+      ["Man","Vrouw"].map(t=>'<option'+(staat.f1===t?' selected':'')+'>'+t+'</option>').join("")+'</select></label>';
+  }
+  recs.sort((a,b)=>naamVan(s,a.id).localeCompare(naamVan(s,b.id),"nl"));
+  return '<div class="balk"><input type="search" placeholder="Zoek in '+def.mv+'…" value="'+esc(staat.zoek)+'" oninput="zetZoek(this.value)">'+filters+'</div>'+
+    '<p class="teller">'+recs.length+" van "+DATA[def.mv].length+" "+def.mv+'</p>'+
+    (recs.length?'<ul class="lijst">'+recs.map(r=>kaartje(s,r)).join("")+'</ul>':'<p class="leeg">Geen resultaten.</p>');
 }
+function zetZoek(w){staat.zoek=w;teken(false);}
+function zetF(n,w){staat[n]=w;teken(false);}
 
-function teken(focusHerstel) {
+function tabbladen(){
+  document.getElementById("tabbladen").innerHTML=TABS.map(s=>{const d=SOORTEN[s];
+    return '<button class="'+(staat.tab===s&&!staat.detail?"actief":"")+'" onclick="location.hash=\'#/'+d.mv+'\'">'+d.label+" ("+DATA[d.mv].length+")</button>";}).join("");
+}
+function teken(focusHerstel){
   tabbladen();
-  const hoofd = document.getElementById("hoofd");
-  if (staat.detail) {
-    const r = index[staat.detail.soort].get(staat.detail.id);
-    hoofd.innerHTML = r ? detail(staat.detail.soort, r)
-      : '<p class="leeg">Record niet gevonden.</p>';
-    if (focusHerstel !== false) window.scrollTo(0, 0);
-  } else {
-    hoofd.innerHTML = lijst();
-    if (focusHerstel === false) {
-      const veld = hoofd.querySelector("input[type=search]");
-      if (veld) { veld.focus(); veld.setSelectionRange(veld.value.length, veld.value.length); }
-    }
+  const h=document.getElementById("hoofd");
+  if(staat.detail){
+    const r=index[staat.detail.soort].get(staat.detail.id);
+    h.innerHTML=r?detail(staat.detail.soort,r):'<p class="leeg">Niet gevonden.</p>';
+    if(focusHerstel!==false)window.scrollTo(0,0);
+  }else{
+    h.innerHTML=lijst();
+    if(focusHerstel===false){const v=h.querySelector("input[type=search]");if(v){v.focus();v.setSelectionRange(v.value.length,v.value.length);}}
   }
 }
-
-function lees() {
-  const deel = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/");
-  staat.detail = null;
-  const perMeervoud = Object.fromEntries(Object.entries(SOORTEN).map(([s, d]) => [d.meervoud, s]));
-  if (deel[0] && perMeervoud[deel[0]]) {
-    staat.tab = perMeervoud[deel[0]];
-  } else if (deel[0] && SOORTEN[deel[0]] && deel[1]) {
-    staat.tab = deel[0];
-    staat.detail = { soort: deel[0], id: deel[1] };
-  }
+function lees(){
+  const deel=decodeURIComponent(location.hash.replace(/^#\/?/,"")).split("/");
+  staat.detail=null;
+  const perMv=Object.fromEntries(Object.entries(SOORTEN).map(([s,d])=>[d.mv,s]));
+  if(deel[0]&&perMv[deel[0]]){staat.tab=perMv[deel[0]];staat.zoek="";staat.f1="";staat.f2="";}
+  else if(deel[0]&&SOORTEN[deel[0]]&&deel[1]){staat.tab=deel[0];staat.detail={soort:deel[0],id:deel[1]};}
   teken();
 }
+document.getElementById("voet").innerHTML="Gegevens gegenereerd op "+esc(DATA.gegenereerd)+" · "+
+  '<a href="data.json">volledige dataset (JSON)</a> · Gebaseerd op de onderzoeksdatabase en het proefschrift '+
+  '<em>Gemaakt op reis</em> (Alan Moss, 2022) en het repertorium van Lindeman, Scherf en Dekker (1994).';
 
-document.getElementById("voet").innerHTML =
-  "Gegevens gegenereerd op " + esc(DATA.gegenereerd) + " · " +
-  '<a href="data.json">volledige dataset (JSON)</a> · ' +
-  'Gebaseerd op o.a. het repertorium van Lindeman, Scherf en Dekker (1994) en de appendices in ' +
-  "Alan Moss, <em>Gemaakt op reis</em> (2022). Records gemarkeerd met “controle nodig” zijn nog niet geverifieerd.";
+// volledige dataset nalaadt voor lange brief-/gedichtteksten
+fetch("data.json").then(r=>r.json()).then(v=>{VOL=v;VOL._reis=new Map(v.reizen.map(x=>[x.id,x]));
+  if(staat.detail&&staat.detail.soort==="reis")teken(true);}).catch(()=>{});
 
-window.addEventListener("hashchange", lees);
+window.addEventListener("hashchange",lees);
 lees();
 </script>
 </body>

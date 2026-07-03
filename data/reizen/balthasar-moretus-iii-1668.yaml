@@ -1,0 +1,47 @@
+id: balthasar-moretus-iii-1668
+titel: Reijse ghedaen door Balthasar Moretus den Jonghen in compagnie van sijne Moeder, jouffr.
+  Anna Goos, sijn Broeder Joannes Jacobus ende sijne suster Maria Isabella
+reizigers:
+- balthasar-moretus-iii
+reistype: plezierreis
+jaren: '1668'
+vertrek: 14-09-1668
+terugkeer: 05-10-1668
+reisdagen: '21'
+gebieden:
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 14-09-1668
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 05-10-1668
+manuscript: balthasar-moretus-iii-1668-hs
+beschrijving: Verslag van een plezierreis van Balthasar Moretus III naar Den Bosch, Zeeland
+  en Brugge in 1668 in het gezelschap van zijn vader Balthasar Moretus II (1615-1674), moeder
+  Anna Goos (1627-1691), zijn broers Joannes Jacobus (1647-1718) en Franciscus (1656-1705) en
+  zijn zus Maria Isabella (1655-1676). Franciscus, Maria Isabella en Anna Goos keerden terug
+  bij Scherpenheuvel. Moretus reisde van Antwerpen naar Den Bosch en Dordrecht en keerde via
+  Zeeland naar Brugge en Gent.
+reisgezellen:
+- naam: Balthasar Moretus II
+  jaren: 1615–1674
+  opmerkingen: vader
+- naam: Anna Goos
+  jaren: 1627–1691
+  opmerkingen: moeder
+- naam: Joannes Jacobus Moretus
+  jaren: 1647–1718
+  opmerkingen: broer
+- naam: Franciscus Moretus
+  jaren: 1656–1705
+  opmerkingen: broer
+- naam: Maria Isabella Moretus
+  jaren: 1655–1676
+  opmerkingen: zus
+literatuur:
+- Sabbe 1926; Van Broeckhoven 1970.
+bronnen:
+- gemaakt-op-reis-database

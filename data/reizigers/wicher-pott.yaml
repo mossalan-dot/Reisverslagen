@@ -1,0 +1,37 @@
+id: wicher-pott
+naam: Pott, Wicher
+volledige_naam: Wicher Pott
+naamsvarianten:
+- Wicherus Pott
+geslacht: Man
+geboren:
+  jaar: 1661
+  datum: 01-10-1661
+  plaats: Groningen
+  provincie: Stad en Ommelanden
+overleden:
+  jaar: 1716
+  datum: 13-12-1716
+  plaats: Groningen
+  provincie: Stad en Ommelanden
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte een educatiereis naar Engeland, Frankrijk, Italië en Zwitserland tussen
+  1684 en 1686. Eerste reis: 01-07-1684 (23 jaar)'
+biografie: Zoon van Pieter Pott en Margaretha Froon. Studeerde in Leiden. Maakte tussen 1684
+  en 1686 een educatiereis naar Engeland, Frankrijk, Italië, Zwitserland en Duitsland. Promoveerde
+  in 1686 in Padua. Zijn verslag, in zijn correspondentie aangeduid als de Notula, is zoek.
+  Was ambtsman van het Goorecht, raadsheer in Groningen en lid van de Staten-Generaal in 1706
+  en 1709.
+genealogie:
+  vader: Pieter Pott
+  moeder: Margaretha Froon
+opleiding:
+- universiteit: Padua
+  datum: 19-06-1686
+  incipit: Wicher Pott Groninga-Belgus
+  bron: Poelhekke 1961, 332.
+literatuur:
+- Poelhekke 1961, 339; Frank-van Westrienen 1983, 331; Herfkens 1998, 20-30.
+bronnen:
+- gemaakt-op-reis-database

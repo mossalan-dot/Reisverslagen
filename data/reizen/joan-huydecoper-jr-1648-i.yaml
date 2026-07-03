@@ -1,0 +1,85 @@
+id: joan-huydecoper-jr-1648-i
+titel: Itineris mei descriptio No. 2
+reizigers:
+- joan-huydecoper-jr
+reistype: educatiereis
+jaren: 1648 I
+vertrek: 05-05-1648
+terugkeer: 24-05-1648
+reisdagen: '19'
+gebieden:
+- Frankrijk
+- Zwitserland
+route:
+- plaats: Genève
+  land_modern: Zwitserland
+  datum: 05-05-1648
+- plaats: Bordeaux
+  land_modern: Frankrijk
+  datum: 24-05-1648
+manuscript: joan-huydecoper-jr-1648-i-hs
+beschrijving: "Ongedateerd eerste verslag van een educatiereis naar Zwitserland en Frankrijk\
+  \ van Joan Huydecoper in 1648. De reis wordt beschreven van Genève tot Bordeaux. Huydecoper\
+  \ reisde naar het zuiden en bezocht Grenoble, Orange en Montpellier en volgde vanaf Toulouse\
+  \ de Garonne naar Bordeaux. \n\nHet eerste deel, van Amsterdam tot Genève, en de delen na\
+  \ het bezoek aan Lyon zijn verloren gegaan."
+addenda:
+- type: 'Paratekst: overig'
+  beschrijving: Titelblad met latere informatie over de reis
+  taal: Nederlands
+  bron: '*1'
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Joan Huydecoper jr.
+  beschrijving: Losse katern met overgenomen inscripties, onder andere van grafmonumenten
+  datum: 1648-1649
+  taal: Nederlands
+  bron: FA Huydecoper 66
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: correspondentie(lijsten)'
+  auteur: Joan Huydecoper jr.
+  beschrijving: Afschriften van de briefwisseling van Joan Huydecoper in het Frans en Nederlands,
+    inclusief kasboekaantekeningen
+  datum: 1648-1649
+  taal: Frans en Nederlands
+  bron: FA Huydecoper 68
+  transcriptie: Deels
+  foto: Ja
+- type: 'Paratekst: kasboek(aantekeningen)'
+  auteur: Joan Huydecoper jr.
+  beschrijving: Losse katern met kasboekaantekeningen
+  datum: 1648-1649
+  taal: Nederlands
+  bron: FA Huydecoper 68
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Joan Huydecoper jr.
+  beschrijving: Losse dagboekaantekeningen uit Nederland
+  datum: 1648-1649
+  taal: Nederlands
+  bron: FA Huydecoper 68
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: herbergaantekeningen'
+  auteur: Joan Huydecoper jr.
+  beschrijving: Lijst van herbergen
+  datum: 1648-1649
+  taal: Nederlands
+  bron: FA Huydecoper 68
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Joan Huydecoper jr.
+  beschrijving: Overgenomen inscripties, onder andere van grafmonumenten
+  datum: 1648-1649
+  taal: Nederlands
+  bron: FA Huydecoper 67
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Elias 1902, 518-519; Kooijmans 1996, 59-68; Kooijmans 1997, 113-218.
+bronnen:
+- gemaakt-op-reis-database

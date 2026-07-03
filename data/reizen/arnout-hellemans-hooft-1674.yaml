@@ -1,0 +1,29 @@
+id: arnout-hellemans-hooft-1674
+titel: Reisverslag door de Nederlandse Republiek
+reizigers:
+- arnout-hellemans-hooft
+reistype: pelgrimsreis
+jaren: '1674'
+vertrek: 22-06-1674
+terugkeer: 30-06-1674
+reisdagen: '8'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 22-06-1674
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 30-06-1674
+manuscript: arnout-hellemans-hooft-1674-hs
+beschrijving: Kort verslag van een reis van Arnout Hellemans Hooft naar Utrecht, Noord-Brabant
+  en Zuid-Holland in 1674 in het gezelschap van zijn zoon Pieter Aernoutszn. Hooft (1656-1684).
+reisgezellen:
+- naam: Pieter Aernoutszn. Hooft
+  jaren: 1656–1684
+  opmerkingen: zoon
+literatuur:
+- Hellemans Hooft 2001, 1-33; Witte 2002, 177-182; Van de Pol 2011, 43-78; Moss 2015, 92-93.
+bronnen:
+- gemaakt-op-reis-database

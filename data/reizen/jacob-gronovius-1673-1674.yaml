@@ -1,0 +1,109 @@
+id: jacob-gronovius-1673-1674
+titel: Journaal ende verblijf in Italie. Oct 1673 tot 5 maert 1675 van Jacobus Gronovius
+reizigers:
+- jacob-gronovius
+reistype: educatiereis
+jaren: 1673-1674
+vertrek: 01-10-1673
+terugkeer: 05-03-1674
+reisdagen: '155'
+gebieden:
+- Italië
+route:
+- plaats: Florence
+  land_modern: Italië
+  datum: 01-10-1673
+- plaats: Pisa
+  land_modern: Italië
+  datum: 05-03-1674
+manuscript: jacob-gronovius-1673-1674-hs
+beschrijving: Onvoltooid verslag van een academische reis van Jacob Gronovius naar Italië in
+  1673-1674. Gronovius ging in Spanje scheep en arriveerde in Livorno. In Italië bezocht hij
+  plaatsen rondom Florence en Pisa. In Florence verbleef hij ca. zes weken. Het verslag eindigt
+  in Pisa.
+brieven:
+- verzender: Antonio Magliabechi (1633-1714)
+  ontvanger: Jacob Gronovius
+  datum: 11-10-1673
+  plaats_verzender: Florence
+  land_verzender: IT
+  plaats_ontvanger: Madrid
+  land_ontvanger: SP
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: München, UB München, 4º Cod Ms. 777
+- verzender: Antonio Magliabechi (1633-1714)
+  ontvanger: Jacob Gronovius
+  datum: 01-01-1674
+  plaats_verzender: Florence
+  land_verzender: IT
+  plaats_ontvanger: Madrid
+  land_ontvanger: SP
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: München, UB München, 4º Cod Ms. 777
+- verzender: Antonio Magliabechi (1633-1714)
+  ontvanger: Jacob Gronovius
+  datum: 15-01-1674
+  plaats_verzender: Florence
+  land_verzender: IT
+  plaats_ontvanger: Madrid
+  land_ontvanger: SP
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: München, UB München, 4º Cod Ms. 777
+- verzender: Antonio Magliabechi (1633-1714)
+  ontvanger: Jacob Gronovius
+  datum: 02-02-1674
+  plaats_verzender: Florence
+  land_verzender: IT
+  plaats_ontvanger: Madrid
+  land_ontvanger: SP
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: München, UB München, 4º Cod Ms. 777
+- verzender: Antonio Magliabechi (1633-1714)
+  ontvanger: Jacob Gronovius
+  datum: 06-03-1674
+  plaats_verzender: Florence
+  land_verzender: IT
+  plaats_ontvanger: Madrid
+  land_ontvanger: SP
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: München, UB München, 4º Cod Ms. 777
+- verzender: Antonio Magliabechi (1633-1714)
+  ontvanger: Jacob Gronovius
+  datum: 26-03-1674
+  plaats_verzender: Florence
+  land_verzender: IT
+  plaats_ontvanger: Madrid
+  land_ontvanger: SP
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: München, UB München, 4º Cod Ms. 777
+- verzender: Antonio Magliabechi (1633-1714)
+  ontvanger: Jacob Gronovius
+  datum: 30-10-1674
+  plaats_verzender: Florence
+  land_verzender: IT
+  plaats_ontvanger: Madrid
+  land_ontvanger: SP
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: München, UB München, 4º Cod Ms. 777
+addenda:
+- type: 'Paratekst: aantekeningen'
+  auteur: Jacob Gronovius
+  beschrijving: Latijnse inscriptie, waaronder een epitaaf uit het Palazzo Comunale in Città
+    di Castello, overgenomen op 17 december 1673
+  datum: 17-12-1673
+  taal: Latijn
+  bron: f. 14r
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- BWN, VII, 440-444; NNBW, I, 986-989; Wallinga 1997a, 245-271; Wallinga 1997b, 459-495; Heenes
+  2013.
+bronnen:
+- gemaakt-op-reis-database

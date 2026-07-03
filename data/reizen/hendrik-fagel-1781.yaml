@@ -1,0 +1,31 @@
+id: hendrik-fagel-1781
+titel: Journal d’un voyage que nous fimes à Pyrmont en 1781
+reizigers:
+- hendrik-fagel
+reistype: overig
+jaren: '1781'
+vertrek: 26-06-1781
+terugkeer: 30-06-1781
+reisdagen: '4'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 26-06-1781
+- plaats: Osnabrück
+  land_modern: Duitsland
+  datum: 30-06-1781
+manuscript: hendrik-fagel-1781-hs
+beschrijving: Verslag van Hendrik Fagel van een reis naar het kuuroord in Bad Pyrmont in Duitsland
+  omwille van de gezondheid van zijn moeder Anna Maria Boreel (1739-1781). Het verslag eindigt
+  in Osnabrück.
+reisgezellen:
+- naam: Anna Maria Boreel
+  jaren: 1739–1781
+  opmerkingen: moeder
+literatuur:
+- BWN VI, 24-25; NNBW, III, 391-392; RAA.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,32 @@
+id: gerard-hinlopen-1680
+titel: Reijse met mijn speel-jagt gedaen naar de steden Breda en des Hertogenbosch
+reizigers:
+- gerard-hinlopen
+reistype: plezierreis
+jaren: '1680'
+vertrek: 17-07-1680
+terugkeer: 29-07-1680
+reisdagen: '12'
+gebieden:
+- Kort verslag van een plezierreis per boot naar Breda en Den Bosch van Gerard Hinlopen in 1680
+  in het gezelschap van dijkgraaf Johan Raat en Jacob Blauw. De reis ging naar Breda en Den
+  Bosch en terug via Den Haag en Amsterdam.
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 17-07-1680
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 29-07-1680
+manuscript: gerard-hinlopen-1680-hs
+beschrijving: Kort verslag van een plezierreis per boot naar Breda en Den Bosch van Gerard Hinlopen
+  in 1680 in het gezelschap van dijkgraaf Johan Raat en Jacob Blauw. De reis ging naar Breda
+  en Den Bosch en terug via Den Haag en Amsterdam.
+reisgezellen:
+- naam: Johan Raat
+- naam: Jacob Blauw
+literatuur:
+- Hinlopen 2009, 1-58; Blom 2010, 172-193; Van den Boogert 2015.
+bronnen:
+- gemaakt-op-reis-database

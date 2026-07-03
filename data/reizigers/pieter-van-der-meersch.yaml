@@ -1,0 +1,30 @@
+id: pieter-van-der-meersch
+naam: Meersch, Pieter van der
+volledige_naam: Pieter van der Meersch
+geslacht: Man
+geboren:
+  jaar: 1677
+  datum: 01-01-1677
+  plaats: Amsterdam
+  provincie: Holland
+religie: Doopsgezind
+is_auteur: true
+korte_typering: 'Reisde naar Lille in 1687. Eerste reis: 04-07-1687 (10 jaar)'
+biografie: Zoon van Abraham van der Meersch (1643-1728) en Elisabeth Bouttens (1643-1707), broer
+  van Anna (1669-1724), Sara (†1674), Catharina (1666-1723), Pieter (º1677), Abraham jr. (1676-1719)
+  en Arent (1683-1768). Reisde met zijn ouders en zus Catharina naar Lille in 1687. Maakte een
+  handelsreis naar Zeeland en de Zuidelijke Nederlanden in 1700 in het gezelschap van zijn vader.
+  Opende met zijn broer Pieter in 1707 een zeepziederij in Amersfoort.
+genealogie:
+  vader: Abraham van der Meersch (1643-1728)
+  moeder: Elisabeth Bouttens (1643-1707)
+  broers_zussen:
+  - Anna (1669-1724)
+  - Sara (†1674)
+  - Arent (1683-1768)
+  - Catharina (1666-1723)
+  - Abraham jr. (1676-1719)
+literatuur:
+- Visser en Zilverberg 1991, 153-187.
+bronnen:
+- gemaakt-op-reis-database

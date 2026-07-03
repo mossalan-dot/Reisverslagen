@@ -1,0 +1,38 @@
+id: cornelis-de-jonge-van-oosterland
+naam: Jonge van Oosterland, Cornelis de
+volledige_naam: Cornelis de Jonge van Oosterland
+titel: Heer van Oosterland.
+geslacht: Man
+geboren:
+  jaar: 1645
+  datum: 09-01-1645
+  plaats: Middelburg
+  provincie: Zeeland
+overleden:
+  jaar: 1694
+  datum: 31-12-1694
+  plaats: Middelburg
+  provincie: Zeeland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1666-1667 een educatiereis naar Frankrijk en Engeland. Eerste reis:
+  01-01-1669 (24 jaar)'
+biografie: Zoon van Johan Bonifacius de Jonge (1614-1654) en Levina Stavenisse (1622-1656).
+  Maakte in 1666 en 1667 een educatiereis naar Frankrijk en Engeland in het gezelschap van Pieter
+  Pieterson, Justus van der Cijs en neef Cornelis de Jonge van Ellemeet (1646-1721). Was raad
+  en schepen van Middelburg.
+genealogie:
+  vader: Johan Bonifacius de Jonge (1614-1654)
+  moeder: Levina Stavenisse (1622-1656)
+  andere_familie:
+  - neef Cornelis de Jonge van Ellemeet (1646-1721)
+portretten:
+- titel: Portret van van een man, mogelijk Cornelis de Jonge van Oosterland
+  vervaardiger: navolger van Nicolaes Maes
+  jaar: '16651675'
+  bron: RKD
+  link: https://rkd.nl/explore/images/26190
+literatuur:
+- De Vos 1982, 150.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,41 @@
+id: job-ludolf-1646-1648
+titel: Educatiereis naar Frankrijk en Engeland
+reizigers:
+- job-ludolf
+reistype: educatiereis
+jaren: 1646-1648
+vertrek: 25-10-1646
+terugkeer: 01-05-1648
+reisdagen: '554'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Engeland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 25-10-1646
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 01-05-1648
+beschrijving: Reisde tussen 1646 en 1648 naar Frankrijk en Engeland in het gezelschap van Johan
+  Thijs (1621-1653)
+reisgezellen:
+- naam: Johan Thijs
+  jaren: 1621–1653
+  opmerkingen: journaalschrijver
+brieven:
+- verzender: Johan Thijs (1621-1653)
+  ontvanger: Claude de Saumaise (1588-1653)
+  datum: 01-01-1647
+  taal: Latijn
+  bron: Leiden, UBL, PAP 7
+  link: http://emlo.bodleian.ox.ac.uk/profile/work/5b40bdfb-51a8-4974-bf3f-bb170145c3da?sort=date-a&rows=50&dat_to_year=1674&people=vossius&dat_from_year=1674&baseurl=/forms/advanced&start=6&type=advanced&numFound=9
+addenda:
+- beschrijving: Reisverslag van Johan Thijs
+  bron: De Jonge 1975
+literatuur:
+- BWN, XI, 704-708; Fellman 1976, 377-380; Waterman 1978, 3-11; Tubach 1993, 317-325; Fellman
+  2002, 207-221.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,49 @@
+id: allard-de-la-court-1740
+titel: Plezierreis naar de Zuidelijke Nederlanden
+reizigers:
+- allard-de-la-court
+reistype: plezierreis
+jaren: '1740'
+vertrek: 13-08-1740
+terugkeer: 01-09-1740
+reisdagen: '19'
+gebieden:
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 13-08-1740
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 01-09-1740
+beschrijving: Maakte in 1740 een plezierreis naar de Zuidelijke Nederlanden met zijn zussen,
+  echtgenote Catharina Backer (1689-1766) en neef en nicht Bogaerd.
+reisgezellen:
+- naam: Adriana de la Court-Sweder
+  jaren: 1696–1748
+  opmerkingen: zus
+- naam: Catharina Adriana de la Court-Meerman
+  jaren: 1691–1752
+  opmerkingen: zus
+- naam: Catharina Backer-de la Court
+  jaren: 1689–1766
+  opmerkingen: echtgenote en nicht
+- naam: Bogaerd
+  opmerkingen: neef
+- naam: Bogaerd
+  opmerkingen: nicht
+addenda:
+- type: Reisverslag
+  auteur: Adriana de la Court
+  beschrijving: Reisverslag van Adriana de la Court
+  datum: '1740'
+  taal: Nederlands
+  bron: De la Court 1740
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- BWN, III, 792; NNBW, II, 55; Fock 1980, 73-86; Roberts 1995, 17-26; Sluiter 1998, 47-54; RKD;
+  DVL.
+bronnen:
+- gemaakt-op-reis-database

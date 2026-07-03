@@ -1,0 +1,40 @@
+id: hendrik-fagel-1786-1787
+titel: Journaal van zijn reizen door Italië
+reizigers:
+- hendrik-fagel
+reistype: plezierreis
+jaren: 1786-1787
+vertrek: 19-10-1786
+terugkeer: 23-06-1787
+reisdagen: '247'
+gebieden:
+- Italië
+- Zwitserland
+route:
+- plaats: Genève
+  land_modern: Zwitserland
+  datum: 19-10-1786
+manuscript: hendrik-fagel-1786-1787-hs
+beschrijving: Verslag van Hendrik Fagel van een reis door Zwitserland en Italië samen met zijn
+  toekomstige echtgenote Agneta Maria Catherina Boreel (1770-1824) en haar oom. Bevat ook een
+  tweede verslag van zijn verblijf in Rome. Het handschrift is incompleet. Boreel schreef ook
+  een verslag.
+reisgezellen:
+- naam: Agneta Maria Catharina Boreel
+  jaren: 1770–1824
+  opmerkingen: journaalschrijver, toekomstige echtgenote
+- naam: Boreel
+  opmerkingen: oom
+addenda:
+- type: Reisverslag
+  auteur: Agneta Boreel-Fagel
+  beschrijving: Reisverslag van Agneta Boreel-Fagel
+  datum: '1786'
+  taal: Nederlands
+  bron: Boreel 1786
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- BWN VI, 24-25; NNBW, III, 391-392; RAA.
+bronnen:
+- gemaakt-op-reis-database

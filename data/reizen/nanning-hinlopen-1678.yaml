@@ -1,0 +1,36 @@
+id: nanning-hinlopen-1678
+titel: Plezierreis naar Utrecht, Zuid-Holland en Gelderland
+reizigers:
+- nanning-hinlopen
+reistype: plezierreis
+jaren: '1678'
+vertrek: 26-07-1678
+terugkeer: 09-08-1678
+reisdagen: '14'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 26-07-1678
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 09-08-1678
+beschrijving: Maakte in 1678 een plezierreis per boot naar Utrecht, Zuid-Holland en Gelderland
+  in het gezelschap van zijn neef Gerard Hinlopen (1644-1691) en Voljard Schellinger.
+reisgezellen:
+- naam: Gerard Hinlopen
+  jaren: 1644–1691
+  opmerkingen: journaalschrijver, neef
+- naam: Voljard Schellinger
+addenda:
+- type: Reisverslag
+  auteur: Gerard Hinlopen
+  beschrijving: Reisverslag van Gerard Hinlopen
+  datum: '1678'
+  taal: Nederlands
+  bron: Hinlopen 1678
+  transcriptie: Nee
+  foto: Ja
+bronnen:
+- gemaakt-op-reis-database

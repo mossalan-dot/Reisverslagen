@@ -1,0 +1,36 @@
+id: balthasar-bekker-1683
+titel: Beschrijving van de reise door de Vereenigde Neederlanden, Engeland en Vrankrijk gedaan
+  door D. B. Bekker en eenige vrienden.
+reizigers:
+- balthasar-bekker
+reistype: plezierreis
+jaren: '1683'
+vertrek: 4-7-1683
+terugkeer: 6-9-1683
+reisdagen: '64'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Engeland
+- Frankrijk
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 4-7-1683
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 6-9-1683
+manuscript: balthasar-bekker-1683-hs
+beschrijving: Uitvoerig verslag uit 1683 van predikant Balthasar Bekker (1634-1698) naar Engeland
+  en Frankrijk in het gezelschap van de heren Sermes en Miering. Hij stak in Duinkerken over
+  naar Dover en bezocht in Groot-Brittannië onder andere Londen en de universiteitssteden Oxford
+  en Cambridge. Vanuit Calais trok hij langs Franse westkust en het Loiregebied naar Parijs.
+  Via de Zuidelijke Nederlanden keerde hij terug naar Amsterdam. Bekker verbleef langere tijd
+  in Londen (27 juli-2 augustus 1683).
+reisgezellen:
+- naam: Sermes
+- naam: Miering
+literatuur:
+- Van Sluis 1998, 125-139.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,25 @@
+id: hendrik-fagel-1787
+titel: Relation d’un voyage aux Lacs de la Lombardie et de là en Suisse par le St. Gothard
+reizigers:
+- hendrik-fagel
+reistype: plezierreis
+jaren: '1787'
+vertrek: '1787'
+gebieden:
+- Italië
+- Zwitserland
+manuscript: hendrik-fagel-1787-hs
+beschrijving: Verslag van Hendrik Fagel van een reis naar de Italiaanse meren en terug naar
+  Genève, gericht aan ‘mon cher R.’, ene Ryder.
+addenda:
+- type: Kladversie
+  auteur: Hendrik Fagel
+  beschrijving: Kladschrift
+  datum: '1787'
+  taal: Nederlands
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- BWN VI, 24-25; NNBW, III, 391-392; RAA.
+bronnen:
+- gemaakt-op-reis-database

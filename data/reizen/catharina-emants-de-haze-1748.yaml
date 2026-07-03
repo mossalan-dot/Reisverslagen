@@ -1,0 +1,53 @@
+id: catharina-emants-de-haze-1748
+titel: Plezierreis naar Den Haag
+reizigers:
+- catharina-emants-de-haze
+reistype: plezierreis
+jaren: '1748'
+vertrek: 25-06-1748
+terugkeer: 28-06-1748
+reisdagen: '3'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Middelburg
+  land_modern: Nederlandse Republiek
+  datum: 25-06-1748
+- plaats: Oudenbosch
+  land_modern: Nederlandse Republiek
+  datum: 28-06-1748
+beschrijving: In 1748 maakte zij een plezierreisje naar Den Haag in het gezelschap van haar
+  echtgenoot, de families Thibaut en Bomme en Cornelia Carolina de Vassy.
+reisgezellen:
+- naam: Leendert Bomme
+- naam: Bomme
+  opmerkingen: zoon van de vorige
+- naam: Bomme
+  opmerkingen: zoon
+- naam: Thibaut
+- naam: Thibaut
+  opmerkingen: echtgenote van de vorige
+- naam: Thibaut
+  opmerkingen: dochter
+- naam: Thibaut
+  opmerkingen: dochter
+- naam: Elias de Haze 1689
+  jaren: '1752'
+  opmerkingen: echtgenoot
+- naam: Cornelia Carolina de Vassy
+  opmerkingen: journaalschrijver
+- naam: Claas van der Zalm
+  opmerkingen: schipper
+addenda:
+- type: Reisverslag
+  auteur: Cornelia Carolina de Vassy
+  beschrijving: Reisverslag van Cornelia Carolina de Vassy
+  datum: '1748'
+  taal: Nederlands
+  bron: De Vassy 1748
+  transcriptie: Ja
+  foto: Ja
+literatuur:
+- Moss 2018a.
+bronnen:
+- gemaakt-op-reis-database

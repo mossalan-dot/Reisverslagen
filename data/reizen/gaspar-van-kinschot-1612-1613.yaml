@@ -1,0 +1,39 @@
+id: gaspar-van-kinschot-1612-1613
+titel: Educatiereis naar Frankrijk
+reizigers:
+- gaspar-van-kinschot
+reistype: educatiereis
+jaren: 1612-1613
+vertrek: 01-04-1612
+terugkeer: 08-10-1613
+reisdagen: '555'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Duitsland
+- Frankrijk
+- Zwitserland
+route:
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 01-04-1612
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 08-10-1613
+beschrijving: Maakte waarschijnlijk een educatiereis naar Frankrijk in 1612 en 1613 in het gezelschap
+  van Cornelis van Beveren (1591-1663), Van Blockhusen, Wouter van Clootwijck en diens zwager.
+reisgezellen:
+- naam: Cornelis van Beveren
+  jaren: 1591–1663
+  opmerkingen: journaalschrijver
+- naam: Wouter van Clootwijck
+- naam: van Clootwijck
+  opmerkingen: zwager van de vorige
+- naam: van Blockhusen
+addenda:
+- beschrijving: Reisverslag van Cornelis van Beveren
+  bron: Van Beveren 1612-1613
+literatuur:
+- Verhoeven 2010, 615-634.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,29 @@
+id: johannes-aegidius-van-egmond-van-der-nijenburg-1724
+titel: Plezierreis naar Engeland
+reizigers:
+- johannes-aegidius-van-egmond-van-der-nijenburg
+reistype: plezierreis
+jaren: '1724'
+vertrek: 21-07-1724
+terugkeer: 28-08-1724
+reisdagen: '38'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 21-07-1724
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 28-08-1724
+beschrijving: Maakte in juli 1724 een reis naar Engeland met zijn broer Dirk (1695-1740).
+reisgezellen:
+- naam: Dirk van Egmond van der Nijenburg
+  jaren: 1695–1740
+  opmerkingen: journaalschrijver, broer
+literatuur:
+- BWN, V, 67; NNBW, II, 432; Millies 1842; Van der Feen de Lille 1898, 197-198; Vlaardingerbroek
+  2012, 107-136; Van den Boogert 2017, 107-131.
+bronnen:
+- gemaakt-op-reis-database

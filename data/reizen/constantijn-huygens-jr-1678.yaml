@@ -1,0 +1,82 @@
+id: constantijn-huygens-jr-1678
+titel: Reisjournaal van 1678
+reizigers:
+- constantijn-huygens-jr
+reistype: militaire reis
+jaren: '1678'
+vertrek: 02-03-1678
+terugkeer: 20-08-1678
+reisdagen: '171'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 02-03-1678
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 20-08-1678
+manuscript: constantijn-huygens-jr-1678-hs
+beschrijving: Verslag van een militaire reis van Constantijn Huygens jr. door de Zuidelijke
+  Nederlanden, als secretaris van stadhouder Willem III. Huygens verbleef lange tijd in Huis
+  Honselaarsdijk.
+brieven:
+- verzender: Constantijn Huygens jr.
+  ontvanger: Christiaan Huygens (1628-1695)
+  datum: 30-07-1678
+  plaats_verzender: Vilvoorden
+  land_verzender: ZN
+  plaats_ontvanger: Parijs
+  land_ontvanger: FR
+  relatie: broer-broer
+  taal: Frans
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: 'au Camp de Vilvorden le 30 Juillet 1678.
+
+    Nous avions creû d''auoir de vos nouvelles il y eut mardy dernier huict jours, mais il ne
+    vint rien ce jour la ce qui nous surprit d''autant plus que madlle de Haucourt avoit eu,
+    ce dit on auis qu''une piece d''estoffe que vostre Gouvernante auoit prise auec elle auoit
+    esté delivrée.
+
+    Mardy dernier j''ay esté obligé de partir pour l''armée, auant que les lettres fussent venues,
+    tellement que je ne scay encore rien touchant vostre voyage.
+
+    Cependant je doibs vous dire que depuis vostre depart j''ay encore travaillé a la microscopie
+    et me suis servy avec succes des methodes que je vay vous dire pour faire les petits verres.
+
+    Pour les detascher du fer sans les pouvoir perdre, ce qui m''arrivoit tres souvent j''ay
+    fait dans un petit morceau de cuivre un creux de la maniere que j''ay marqué icy, et faisant
+    entrer la petite boule dans  ce creux, je mets dessus une placque de nostre cuivre à enchasser
+    et la tenant pressee dessus je retire la queue du fil d''archal qui laisse la petite boule
+    dans le creux, sans que cela manque.
+
+    Pour la mettre en suitte dans le petit trou qu''on fait avec l''aiguille avec seureté, et
+    sans pouvoir la perdre j''ay fait un petit cercle de cuivre qui a les bords hauts de l''epaisseur
+    de deux escalings que je mets a l''entour du petit trou, et y ayant mis la petite boule
+    je l''adjuste en suitte dans le trou sans apprehension de la voir eschapper.
+
+    Finalement m''estant souvenu de ce que vous m''aviez dit que Hartsoecker avoit proposé j''ay
+    essayé de faire les petites boules en mouillant un peu le bout du petit fer, et en y attachant
+    par ce moyen un morceau de verre, sans me servir de ce fil de verre que nous faisions a
+    la lampe, et j''ay trouvé que cela alloit bien mieux que de l''autre maniere et que par
+    ce moyen je pouvois faire ces boules aussi petites que je voulois, mesme bien plus qu''il
+    est necessaire, et qu''elles estoyent tenoyent moins fort au dit fer et par consequent estoyent
+    plus rondes, comme en effet, j''en ay fait de la petitesse de vostre moindre et qui me semblent
+    representer plus distinctement.
+
+    Voyla ce que j''ay creu devoir vous communiquer des effets de ma diligence, dites moy, comment
+    l''invention a esté receue par vos Curieux.
+
+    On commence a mieux esperer de la Paix depuis qu''il est venu des lettres d''Angleterre,
+    portant que la France semble de vouloir consentir a l''evacuation.'
+addenda:
+- beschrijving: Pentekening van een kar op een weg
+  bron: RKD
+literatuur:
+- BWN, VIII, 1516-1517; NNBW, I, 1190; RKD; Heijbroek 1983; Heijbroek 1987, 167-172; Keesing
+  1996, 14-19; Schenkeveld-van der Dussen 1998, 178-185; Dekker 1999, 94-109; Dekker 2000a,
+  94-102; Dekker 2000b, 133-144; Leerintveld 2013; Dekker 2013a; Dekker 2016.
+bronnen:
+- gemaakt-op-reis-database

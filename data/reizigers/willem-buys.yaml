@@ -1,0 +1,40 @@
+id: willem-buys
+naam: Buys, Willem
+volledige_naam: Willem Buys
+geslacht: Man
+geboren:
+  jaar: 1661
+  datum: 27-5-1661
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1749
+  datum: 18-2-1749
+  plaats: Amsterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Reisde en studeerde in Frankrijk rond 1679-1684. Eerste reis: 01-01-1679 (18
+  jaar)'
+biografie: Zoon van Paulus Louwrens en Eva Buys. Studeerde rechten in Leiden en Orléans en werd
+  in 1684 advocaat van het Hof van Holland. Werd in 1691 stadsadvocaat en directeur van de Sociëteit
+  van Suriname en de kolonie Berbice tussen 1701 en 1717. Verbeterde de diplomatieke relatie
+  met Engeland in 1705 en 1706 en was een van de onderhandelaars bij de Vrede van Utrecht in
+  1713. Maakte in 1706 een diplomatieke reis naar Londen met Cornelis van der Dussen (1654-1754).
+  Werd in 1714 aangesteld als buitengewoon ambassadeur in Frankrijk. Was eerste rang secretaris
+  van de Staten van Holland tussen 1726 en 1749 en raadspensionaris van Holland in 1746.
+genealogie:
+  vader: Paulus Louwrens
+  moeder: Eva Buys
+portretten:
+- titel: Portret van Willem Buys
+  vervaardiger: Jacob Houbraken
+  jaar: '17491759'
+  bron: Rijksmuseum
+  link: http://hdl.handle.net/10934/RM0001.COLLECT.125823
+  beschrijving: Buste naar links van Willem Buys op 32-jarige leeftijd in een ovaal. Het portret
+    rust op een plint waarop zijn naam en titel in vier regels in het Nederlands.
+literatuur:
+- BWN, II, 1660-1663; RAA.
+bronnen:
+- gemaakt-op-reis-database

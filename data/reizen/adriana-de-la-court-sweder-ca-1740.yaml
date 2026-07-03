@@ -1,0 +1,42 @@
+id: adriana-de-la-court-sweder-ca-1740
+titel: Reisverslag naar Brabant en Vlaanderen
+reizigers:
+- adriana-de-la-court-sweder
+reistype: plezierreis
+jaren: ca. 1740
+vertrek: 13-08-1740
+terugkeer: 01-09-1740
+reisdagen: '19'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 13-08-1740
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 01-09-1740
+manuscript: adriana-de-la-court-sweder-ca-1740-hs
+beschrijving: Verslag van een plezierreisje van Adriana de la Court, geschreven omtrent 1740,
+  naar de Zuidelijke Nederlanden. Zij werd vergezeld door haar broer Allard (1688-1755), zus
+  Catharina Adriana (1690-1752), schoonzus (en nicht) Catharina Backer (1689-1766) en neef en
+  nicht Bogaerd. De reis ging naar Antwerpen en Brussel.
+reisgezellen:
+- naam: Allard de la Court
+  jaren: 1688–1755
+  opmerkingen: broer
+- naam: Catharina Adriana de la Court
+  jaren: 1691–1752
+  opmerkingen: zus
+- naam: Catharina Backer-de la Court
+  jaren: 1689–1766
+  opmerkingen: schoonzus en nicht
+- naam: Bogaerd
+  opmerkingen: neef
+- naam: Bogaerd
+  opmerkingen: nicht
+literatuur:
+- Verhoeven 2017a, 185-202; Verhoeven 2018, [xxx]; Moss 2018a.
+bronnen:
+- gemaakt-op-reis-database

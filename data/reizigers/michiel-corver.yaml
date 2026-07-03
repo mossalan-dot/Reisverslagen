@@ -1,0 +1,27 @@
+id: michiel-corver
+naam: Corver, Michiel
+volledige_naam: Michiel Corver
+geboren:
+  plaats: Amsterdam
+is_auteur: false
+korte_typering: 'Maakte in 1625 en 1626 een educatiereis naar Italië. Eerste reis: 01-01-1625'
+biografie: Kwam uit Amsterdam en studeerde in 1619 geneeskunde in Leiden Maakte in 1625 en 1626
+  een educatiereis naar Italië, waar hij in de filosofie promoveerde aan de universiteit van
+  Padua.
+opleiding:
+- universiteit: Leiden
+  datum: 23-2-1619
+  bron: Poelhekke 1961, 319.
+- universiteit: Leiden
+  richting: geneeskunde
+  datum: 30-5-1624
+  bron: Poelhekke 1961, 319.
+- universiteit: Padua
+  richting: rechten
+  datum: '1625'
+  incipit: Michael Corver Amstelobatavus med. stud 30-V-1624
+  bron: Poelhekke 1961, 319.
+literatuur:
+- Poelhekke 1961, 319.
+bronnen:
+- gemaakt-op-reis-database

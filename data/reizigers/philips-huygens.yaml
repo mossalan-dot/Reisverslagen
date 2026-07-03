@@ -1,0 +1,46 @@
+id: philips-huygens
+naam: Huygens, Philips
+volledige_naam: Philips Huygens
+geslacht: Man
+geboren:
+  jaar: 1633
+  datum: 12-10-1633
+  plaats: Den Haag
+  provincie: Holland
+overleden:
+  jaar: 1657
+  datum: 14-05-1657
+  plaats: Malbork
+  provincie: Polen
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1656 een diplomatieke reis naar Zweden en Polen. Eerste reis: 03-03-1656
+  (23 jaar)'
+biografie: Zoon van Constantijn Huygens (1596-1687) en Suzanna van Baerle (1599-1637), broer
+  van Constantijn (1628-1697), Christiaan (1629-1695), Lodewijk (1631-1699) en Susanna (1637-1725).
+  Reisde in 1656 naar Polen en Zweden in het gezantschap van Govert van Slingelandt (1623-1690),
+  Frederik van Dorp (1612-1679), Pieter de Huybert (1622-1695) en Johan Isbrandtsz (1621-1702).
+  De reis wordt beschreven door Adriaen Schagen (1633-1699). Stierf onderweg.
+genealogie:
+  vader: Constantijn Huygens (1596-1687)
+  moeder: Suzanna van Baerle (1599-1637)
+  broers_zussen:
+  - Constantijn (1628-1697)
+  - Christiaan (1629-1695)
+  - Lodewijk (1631-1699)
+  - Susanna (1637-1725)
+portretten:
+- titel: Familieportret van Constantijn Huygens (1596-1687) en zijn kinderen Constantijn II
+    Huygens (1628-1697), Christiaan Huygens (1629-1695), Lodewijk Huygens (1631-1699), Philips
+    Huygens (1633-1699) en Suzanne Huygens (1637-1725)
+  vervaardiger: Adriaen Hanneman (1604-1671)
+  jaar: '1640'
+  bron: RKD
+  link: https://rkd.nl/explore/images/13494
+  beschrijving: 'doek, olieverf
+
+    staande rechthoek 204,2 x 173,9 cm'
+literatuur:
+- RKD; Schagen 1968, 19.
+bronnen:
+- gemaakt-op-reis-database

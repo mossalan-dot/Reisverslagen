@@ -1,0 +1,26 @@
+id: franco-van-bleiswijck-1669
+titel: Reyse naer Engelandt gedaen den XXVII September XVIC 69.
+reizigers:
+- franco-van-bleiswijck
+reistype: educatiereis
+jaren: '1669'
+vertrek: 27-9-1669
+terugkeer: 18-12-1669
+reisdagen: '82'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Engeland
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 27-9-1669
+- plaats: Calais
+  land_modern: Frankrijk
+  datum: 18-12-1669
+manuscript: franco-van-bleiswijck-1669-hs
+beschrijving: Onvoltooid verslag van Franco van Bleiswijck naar Engeland in 1669. De auteur
+  ging scheep in Brielle en arriveerde in Harwich. Vanuit Londen maakte hij uitstapjes naar
+  Oxford, Bath en Salisbury. Het verslag eindigt in Calais.
+bronnen:
+- gemaakt-op-reis-database

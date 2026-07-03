@@ -1,0 +1,150 @@
+id: allard-de-la-court-1700
+titel: Reis naar Parijs
+reizigers:
+- allard-de-la-court
+reistype: plezierreis
+jaren: '1700'
+vertrek: 01-08-1700
+terugkeer: 08-09-1700
+reisdagen: '38'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 01-08-1700
+- plaats: Brussel
+  land_modern: Zuidelijke Nederlanden
+  datum: 08-09-1700
+beschrijving: Vergezelde zijn vader op zijn twaalfde op diens reis naar Parijs in 1700.
+reisgezellen:
+- naam: Pieter de la Court-van der Voort
+  jaren: 1664–1739
+  opmerkingen: vader
+brieven:
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 01-08-1700
+  plaats_verzender: nabij Antwerpen
+  land_verzender: ZN
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 03-08-1700
+  plaats_verzender: Gent
+  land_verzender: ZN
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 06-08-1700
+  plaats_verzender: Lille
+  land_verzender: FR
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 08-08-1700
+  plaats_verzender: nabij Lille
+  land_verzender: FR
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 15-08-1700
+  plaats_verzender: Parijs
+  land_verzender: FR
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 16-08-1700
+  plaats_verzender: Parijs
+  land_verzender: FR
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 21-08-1700
+  plaats_verzender: Parijs
+  land_verzender: FR
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 26-08-1700
+  plaats_verzender: Parijs
+  land_verzender: FR
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 29-08-1700
+  plaats_verzender: Parijs
+  land_verzender: FR
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 31-08-1700
+  plaats_verzender: Parijs
+  land_verzender: FR
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 06-09-1700
+  plaats_verzender: Valenciennes
+  land_verzender: FR
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+- verzender: Pieter de la Court van der Voort
+  ontvanger: Sara Poelaart
+  datum: 08-09-1700
+  plaats_verzender: Brussel
+  land_verzender: ZN
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: echtgenoot-echtgenote
+  taal: Nederlands
+  bron: De la Court van der Dussen 1938, 33-75.
+literatuur:
+- NNBW, VII, 337; Driessen 1945, 150-164; Fock 1983, 261-182.
+bronnen:
+- gemaakt-op-reis-database

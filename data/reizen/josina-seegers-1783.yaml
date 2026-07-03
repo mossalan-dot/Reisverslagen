@@ -1,0 +1,24 @@
+id: josina-seegers-1783
+titel: Rijsbeschrijving begonnen den 14 junij 1783
+reizigers:
+- josina-seegers
+reistype: plezierreis
+jaren: '1783'
+vertrek: 14-06-1783
+terugkeer: 18-07-1783
+reisdagen: '34'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 14-06-1783
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 18-07-1783
+manuscript: josina-seegers-1783-hs
+beschrijving: Verslag op rijm van een plezierreisje van Josina Seegers in 1783 naar Utrecht
+  en Amsterdam met uitstapjes naar Bentheim en Nordhorn.
+bronnen:
+- gemaakt-op-reis-database

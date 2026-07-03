@@ -1,0 +1,36 @@
+id: cornelis-de-witt-1645-1647
+titel: Educatiereis naar Frankrijk en Engeland
+reizigers:
+- cornelis-de-witt
+reistype: educatiereis
+jaren: 1645-1647
+vertrek: 14-10-1645
+terugkeer: 27-07-1647
+reisdagen: '651'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Zwitserland
+- Engeland
+route:
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 14-10-1645
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 27-07-1647
+beschrijving: Maakte tussen 1645 en 1647 een educatiereis naar Frankrijk, Zwitserland en Engeland
+  met zijn broer Johan en promoveerde in Angers in de rechten.
+reisgezellen:
+- naam: Johan de Witt
+  jaren: 1625–1672
+  opmerkingen: journaalschrijver, broer
+addenda:
+- beschrijving: Kladversies in aparte katernen, inclusief lijsten van in- en uitgaande post
+  bron: pp. 33-247
+- beschrijving: Kasboeken
+  bron: pp. 100-115; 248-314
+literatuur:
+- BWN, XX, 362-367; NNBW, III, 1450-1453; RAA; De Haan 2003, 473; Panhuysen 2005; Reinders 2010.
+bronnen:
+- gemaakt-op-reis-database

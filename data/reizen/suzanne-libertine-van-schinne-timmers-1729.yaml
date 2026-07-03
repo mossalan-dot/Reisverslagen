@@ -1,0 +1,45 @@
+id: suzanne-libertine-van-schinne-timmers-1729
+titel: Plezierreis naar de Zuidelijke Nederlanden
+reizigers:
+- suzanne-libertine-van-schinne-timmers
+reistype: plezierreis
+jaren: '1729'
+vertrek: 18-08-1729
+terugkeer: 09-09-1729
+reisdagen: '22'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Rotterdam
+  land_modern: Nederlandse Republiek
+  datum: 18-08-1729
+- plaats: Schiedam
+  land_modern: Nederlandse Republiek
+  datum: 09-09-1729
+beschrijving: Maakte in 1729 een plezierreis naar de Zuidelijke Nederlanden met haar echtgenoot
+  en kinderen, de heren Van Bentinck en Van Schoonheeten, de heer Sloterdijck en zoon en de
+  heer Van Baerle en dochter.
+reisgezellen:
+- naam: Ignatia Geertruida Timmers-Boogaart
+  jaren: 1714–1733
+  opmerkingen: journaalschrijver, dochter
+- naam: Johan Timmers
+  jaren: 1684–1738
+  opmerkingen: echtgenoot
+- naam: Aletta Johanna Timmers-van Zuijlen van Nijevelt
+  jaren: 1707–1775
+  opmerkingen: dochter
+- naam: van Bentinck
+- naam: van Schoonheeten
+- naam: Sloterdijck
+- naam: Sloterdijck
+  opmerkingen: zoon van de vorige
+- naam: van Baerle
+- naam: van Baerle
+  opmerkingen: dochter van de vorige
+addenda:
+- beschrijving: Reisverslag van Ignatia Geertruida Timmers
+  bron: Timmers 1729
+bronnen:
+- gemaakt-op-reis-database

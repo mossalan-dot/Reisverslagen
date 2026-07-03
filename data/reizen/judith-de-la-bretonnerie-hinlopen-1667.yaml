@@ -1,0 +1,35 @@
+id: judith-de-la-bretonnerie-hinlopen-1667
+titel: Reis naar Frankrijk
+reizigers:
+- judith-de-la-bretonnerie-hinlopen
+reistype: overig
+jaren: '1667'
+vertrek: 21-06-1667
+terugkeer: 01-01-1668
+reisdagen: '194'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 21-06-1667
+beschrijving: Reisde in 1667 met haar zoon Reinier Hinlopen en neef Gerard Hinlopen (1644-1691)
+  naar Parijs om haar dochter Margaretha te bezoeken.
+reisgezellen:
+- naam: Gerard Hinlopen
+  jaren: 1644–1691
+  opmerkingen: journaalschrijver, neef
+- naam: Reinier Hinlopen
+  opmerkingen: zoon
+addenda:
+- type: Reisverslag
+  auteur: Gerard Hinlopen
+  beschrijving: Reisverslag van Gerard Hinlopen
+  datum: '1667'
+  taal: Nederlands
+  bron: Hinlopen 2014a
+  transcriptie: Ja
+  foto: Ja
+bronnen:
+- gemaakt-op-reis-database

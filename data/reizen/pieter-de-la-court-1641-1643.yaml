@@ -1,0 +1,116 @@
+id: pieter-de-la-court-1641-1643
+titel: Reysboek van de la Court door Vranckryke
+reizigers:
+- pieter-de-la-court
+reistype: educatiereis
+jaren: 1641-1643
+vertrek: 25-09-1641
+terugkeer: 30-09-1643
+reisdagen: '735'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+- Frankrijk
+- Zwitserland
+- Duitsland
+- Zuidelijke Nederlanden
+route:
+- plaats: Brielle
+  land_modern: Nederlandse Republiek
+  datum: 25-09-1641
+- plaats: Rotterdam
+  land_modern: Nederlandse Republiek
+  datum: 30-09-1643
+manuscript: pieter-de-la-court-1641-1643-hs
+beschrijving: Verslag van een reis van Pieter de la Court (ca. 1618-1685) naar Engeland en Frankrijk
+  in 1641-1643. De la Court stak het Kanaal over en verbleef vijf maanden in Londen, vanwaar
+  hij een uitstapje maakte naar Oxford. Hij had extra aandacht voor de textielhandel. Hij ging
+  scheep in Rye en arriveerde in Dieppe. Hij bezocht Parijs en het Loiregebied, waar hij langere
+  tijd in Saumur en Angers verbleef. Hij reisde naar Lyon en van daar zuidelijk naar Avignon
+  en Marseille. Hij verbleef acht maanden in Genève en één maand in Bazel en reisde noordelijk
+  naar Frankfurt en Keulen. De la Court maakte een omweg naar de Zuidelijke Nederlanden, waar
+  hij Antwerpen, Brussel en Brugge bezocht. Hij keerde terug via Zeeland. De la Court verbleef
+  langere tijd in Londen (9 oktober-8 maart 1642), Rouen (4-17 april), Saumur (28 april-2 juli),
+  Angers (2 juli-begin augustus), Valence (6-12 augustus), Marseille (18 augustus-1 september),
+  Genève (13 oktober-7 juni 1643), Bazel (12 juni-19 juli), Mainz (29 juli-15 augustus), Keulen
+  (18 augustus-5 september).
+brieven:
+- verzender: Adriaen Borrekens en Hendrik Govers
+  ontvanger: Pieter de la Court
+  datum: 26-04-1644
+  plaats_verzender: Sevilla
+  land_verzender: SP
+  opmerking: f. 64r-65v
+- verzender: Adriaen Borrekens en Hendrik Govers
+  ontvanger: Pieter de la Court
+  datum: 24-05-1644
+  plaats_verzender: Sevilla
+  land_verzender: SP
+  opmerking: f. 64r-65v
+- verzender: Adriaen Borrekens en Hendrik Govers
+  ontvanger: Pieter de la Court
+  datum: 26-05-1644
+  plaats_verzender: Sevilla
+  land_verzender: SP
+  opmerking: f. 64r-65v
+addenda:
+- type: 'Paratekst: aantekeningen'
+  auteur: Pieter de la Court
+  beschrijving: Kladaantekeningen in het Nederlands, Latijn en Engels
+  datum: 1641-1643
+  taal: Nederlands, Latijn en Engels
+  bron: f. 17r-18r; 50r-59r; 62v-64v
+  transcriptie: Ja
+  foto: Ja
+- type: 'Paratekst: poëzie'
+  auteur: Pieter de la Court
+  beschrijving: Overgenomen Latijns gedicht
+  datum: 1641-1643
+  taal: Latijn
+  bron: f. 33v-35r
+  transcriptie: Nee
+  foto: Nee
+- type: 'Paratekst: apodemica'
+  auteur: Pieter de la Court
+  beschrijving: Apodemische instructies
+  datum: 1641-1643
+  taal: Nederlands
+  bron: f. 43r
+  transcriptie: Ja
+  foto: Nee
+- type: 'Paratekst: correspondentie(lijsten)'
+  auteur: Pieter de la Court
+  beschrijving: Kopieën van brieven aan Adriaan Hereboort
+  datum: 1641-1643
+  taal: Nederlands
+  bron: f. 47v-49v
+  transcriptie: Nee
+  foto: Nee
+- type: 'Paratekst: aantekeningen'
+  auteur: Pieter de la Court
+  beschrijving: Aantekeningen over de lakenfabricage
+  datum: 1641-1643
+  taal: Nederlands
+  bron: f. 66r-68v
+  transcriptie: Nee
+  foto: Nee
+- type: 'Paratekst: apodemica'
+  auteur: Pieter de la Court
+  beschrijving: Aforismen
+  datum: 1641-1643
+  taal: Nederlands
+  bron: f. 69r-70r
+  transcriptie: Nee
+  foto: Nee
+- type: 'Paratekst: aantekeningen'
+  auteur: Pieter de la Court
+  beschrijving: Lijst met data en namen van steden en een lijst Franse woorden
+  datum: 1641-1643
+  taal: Nederlands
+  bron: f. 78r-78v
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- Frijhoff 1986a, 11-34; Spaan 2015.
+bronnen:
+- gemaakt-op-reis-database

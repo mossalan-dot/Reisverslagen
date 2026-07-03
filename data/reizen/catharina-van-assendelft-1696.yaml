@@ -1,0 +1,43 @@
+id: catharina-van-assendelft-1696
+titel: Plezierreis naar Nijmegen, Kleef en Paleis Het Loo
+reizigers:
+- catharina-van-assendelft
+reistype: plezierreis
+jaren: '1696'
+vertrek: 14-07-1696
+terugkeer: 22-07-1696
+reisdagen: '8'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 14-07-1696
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 22-07-1696
+beschrijving: In 1696 maakte zij samen met haar ouders, haar zus Maria, haar tante Maria (1646-1744)
+  en oom Willem (†1744) een plezierreisje naar Nijmegen, Kleef en paleis Het Loo.
+reisgezellen:
+- naam: Adriaan Gerrits van Assendelft
+  jaren: 1664–1742
+  opmerkingen: journaalschrijver, vader
+- naam: Maria Magdalena van Assendelft-van Beresteijn
+  jaren: 1667–1715
+  opmerkingen: moeder
+- naam: Maria van Assendelft
+  opmerkingen: zus
+- naam: Maria van Assendelft
+  jaren: '1744'
+  opmerkingen: tante
+- naam: Willem van Assendelft
+  jaren: '1744'
+  opmerkingen: oom
+addenda:
+- beschrijving: Reisverslag van Adriaan van Assendelft
+  bron: Van Assendelft 1696
+literatuur:
+- Moss 2018a.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,28 @@
+id: anon-1649-1654-1650
+titel: Volcht mijn tweede Reys van Oostende te water na Cadix in Hispaengnien gedaen, en gevaren
+  met het schip het Witte Lam (schipper Leendert Leendertze Muijs) voor coopman, ten dienste
+  van de gemeene Lijnbaen tot Dordrecht
+reizigers:
+- anon-1649-1654
+reistype: handelsreis
+jaren: '1650'
+vertrek: 28-07-1650
+terugkeer: 29-10-1650
+reisdagen: '93'
+gebieden:
+- Nederlandse Republiek
+- Spanje
+route:
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 28-07-1650
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 29-10-1650
+manuscript: anon-1649-1654-1650-hs
+beschrijving: Eerste verslag uit 1650 van een tweede zakenreis van de bovengenoemde anonymus.
+  De auteur reisde ditmaal naar Cádiz in Spanje voor de Dordrechtse touwslagerij.
+literatuur:
+- Rietbergen 1992, 99-112.
+bronnen:
+- gemaakt-op-reis-database

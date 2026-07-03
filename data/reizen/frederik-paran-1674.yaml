@@ -1,0 +1,38 @@
+id: frederik-paran-1674
+titel: Handelsreis naar Denemarken en Zweden
+reizigers:
+- frederik-paran
+reistype: handelsreis
+jaren: '1674'
+vertrek: 02-02-1674
+terugkeer: 08-04-1674
+reisdagen: '65'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Zweden
+- Denemarken
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 02-02-1674
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 08-04-1674
+beschrijving: Vergezelde als knecht in 1674 de handelsreis naar Denemarken en Zweden van Abraham
+  van der Meersch (1643-1728), Jan en Philips van Halmael en Abraham Vorsterman.
+reisgezellen:
+- naam: Abraham van der Meersch
+  jaren: 1643–1728
+  opmerkingen: journaalschrijver, meester
+- naam: Jan van Halmael
+  opmerkingen: collega
+- naam: Philips van Halmael
+  opmerkingen: collega, broer van de vorige
+- naam: Abraham Vorsterman
+  opmerkingen: knecht van Abraham van der Meersch
+addenda:
+- beschrijving: Reisverslag van Abraham van der Meersch
+  bron: Van der Meersch 1674
+bronnen:
+- gemaakt-op-reis-database

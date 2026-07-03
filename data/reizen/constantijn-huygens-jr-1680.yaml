@@ -1,0 +1,93 @@
+id: constantijn-huygens-jr-1680
+titel: Voyage de Cell
+reizigers:
+- constantijn-huygens-jr
+reistype: handelsreis
+jaren: '1680'
+vertrek: 13-09-1680
+terugkeer: 12-11-1680
+reisdagen: '60'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 13-09-1680
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 12-11-1680
+manuscript: constantijn-huygens-jr-1680-hs
+beschrijving: Verslag van een reis van Constantijn Huygens jr. door Duitsland naar Zell in het
+  hertogdom Brunswijk als secretaris van stadhouder Willem III.
+brieven:
+- verzender: Constantijn Huygens jr.
+  ontvanger: Christiaan Huygens (1629-1695)
+  datum: 03-10-1680
+  plaats_verzender: Epsdorf
+  land_verzender: ZN
+  plaats_ontvanger: Parijs
+  land_ontvanger: FR
+  relatie: broer-broer
+  taal: Frans
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: 'Epsdorf à 14 lieues de Cell ce 3 Octobre 1680.
+
+    Je vous remercie fort de la peine que vous me dites de vouloir prendre pour me trouver ou
+    chez Mariette ou ailleurs de qui se pourra avoir des livres que je vous avois demandé. Je
+    ne scay si vous aurez attrappé quelque chose, mais je l''espere a cause d''un billet que
+    m''escrit M. Marlot du Sept. et par lequel il me mande qu''il avoit donné a Mr. Forguet
+    qui estoit prest à partir en poste pour l''Hollande un petit livre pour moy, et que luy
+    mesme devoit me porter le reste. J''espere donc que ce reste ne sera pas un rien, ne se
+    pouvant quasi point que de tant de livres la plus part nouveaux il n''y en ait quelques
+    uns à Paris.
+
+    Nous sommes a Cell et aux environs depuis le 22. du mois precedent, et y faisons tres bonne
+    chere, ces Princes icy estant fort riches et fort splendides. Mais au reste l''on ne fait
+    icy depuis le matin jusqu''au soir que chasser et jouer, divertissements qui ne me charment
+    gueres. A cette Court il y a plusjeurs Francois entre autres les Marquis de Bois-Dauid et
+    de Beauregard qui ayant eu de mauvaises affaires en France, se sont refugiés icy ou ils
+    ont de bonnes pensions et des emplois. Perierant nisi perijssent.
+
+    La semaine qui vient on doibt faire une grande chasse comme on les appelle icy, c''est a
+    dire quand on embrasse une grande estendue de pays avec des toiles et faisant crier dans
+    les bois 1000. ou 1200. paysants on chasse tout ce qu''il y a de bestes de toute sorte comme
+    Cerfs, loups, sangliers, renards, lievres, chats sauvages &c. hors des bois et on les ramasse
+    toutes, par fois au nombre de 14. ou 1500., dans un fort petit espace tendu de filets pour
+    en tuer ce qu''on veut en laissant aller le reste.
+
+    Tout le mal est que selon toute apparence nous serons obligés d''aller encore chercher Mr.
+    l''Electeur a Berlin qui est a 50 lieues d''icy, si ce n''est qu''il veuille s''approcher
+    un peu de nous, dont on attend auis par un courier qu''on a envoyé expres mais qui n''est
+    pas encore revenu.
+
+    En passant a Lingen pour aller a Cell on me fit voir des grosses pieces moitjé terre et
+    moitjé pierre sur les quels croissent certaines pointes comme celles du cristal de roche,
+    et de figure hexagone comme elles: ces pointes que je vis n''avoyent qu''environ un demy
+    pouce de diametre, mais le Richter de Lingen me dit qu''il s''en trouvoit de plus grosses,
+    et que de ce cristal l''on pouvoit faire tailler des cachets et toutes autres choses. Ils
+    l''estiment si peu par là qu''il me dit qu''il avoit envoyé de fort grosses pieces de cette
+    mine a Mr. Benting pour en orner les Fontaines qu''il fait a Sorgvliet.
+
+    Les bois icy sont extremement pleins de Cerfs et d''autre gibier et en vous allant promener
+    vous ne manquerez jamais d''en voir. Dans les arbres qui sont autour de ce village, il y
+    a aussi une grande quantité d''Escurieux qu''on voit sautiller d''une branche a l''autre.
+
+    Si nous allons voir Mr. l''Electeur nous passerons a Wolfenbuttel ou j''auray occasion de
+    voir la grande et fameuse Bibliotheque qu''y a fait un des derniers predecesseurs du duc
+    d''a present.
+
+    Nous ne sommes icy qu''a une journée de Hambourg que j''aurois bien envie de voir mais j''ay
+    peur que je ne pourray pas avoir trois jours de congé qu''il me faudroit pour cela.
+
+    Adieu fratello caro, je vous prie d''avoir soin de mes liures s''ils se peuvent auoir.
+
+    Vous series bien surpris si venant a Celle vous entendiez par les rues parler plus de Francois
+    que d''Allemand. Il y a aussi une Trouppe de Comediens raisonnablement bonne.'
+literatuur:
+- BWN, VIII, 1516-1517; NNBW, I, 1190; RKD; Heijbroek 1983; Heijbroek 1987, 167-172; Keesing
+  1996, 14-19; Schenkeveld-van der Dussen 1998, 178-185; Dekker 1999, 94-109; Dekker 2000a,
+  94-102; Dekker 2000b, 133-144; Leerintveld 2013; Dekker 2013a; Dekker 2016.
+bronnen:
+- gemaakt-op-reis-database

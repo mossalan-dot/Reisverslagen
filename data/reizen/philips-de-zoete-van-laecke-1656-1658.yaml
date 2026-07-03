@@ -1,0 +1,32 @@
+id: philips-de-zoete-van-laecke-1656-1658
+titel: Memoires de ce que nous avons veu et appris de plus remarquable pendant notre voyage
+  commencé le 9e de décembre de l’an 1656
+reizigers:
+- philips-de-zoete-van-laecke
+reistype: educatiereis
+jaren: 1656-1658
+vertrek: 09-12-1656
+terugkeer: 21-04-1658
+reisdagen: '498'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 09-12-1656
+- plaats: Parijs
+  land_modern: Nederlandse Republiek
+  datum: 21-04-1658
+manuscript: philips-de-zoete-van-laecke-1656-1658-hs
+beschrijving: Verslag van een educatiereis van François (1637-1720) en Philips de Zoete van
+  Laecke (1636-1689) naar Frankrijk in 1656-1658 in het gezelschap van gouverneur Antoine de
+  Brunel (1622-1696) en neef Cornelis van Aerssen van Sommelsdijk (1637-1688).
+reisgezellen:
+- naam: François de Zoete van Laecke
+  jaren: 1637–1720
+  opmerkingen: journaalschrijver, broer
+literatuur:
+- Bijlsma 1933, 254-259.
+bronnen:
+- gemaakt-op-reis-database

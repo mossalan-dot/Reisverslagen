@@ -1,0 +1,70 @@
+id: cornelis-bega-1652-1653
+titel: Kunstenaarsreis naar Duitsland, Frankrijk en Zwitserland
+reizigers:
+- cornelis-bega
+reistype: educatiereis
+jaren: 1652-1653
+vertrek: 21-08-1652
+terugkeer: 01-01-1653
+reisdagen: '133'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Haarlem
+  land_modern: Nederlandse Republiek
+  datum: 21-08-1652
+- plaats: Haarlem
+  land_modern: Nederlandse Republiek
+  datum: 01-01-1653
+beschrijving: Ondernam tussen 1652 en 1653 een kunstenaarsreis naar Duitsland, Frankrijk en
+  Zwitserland in het gezelschap van de Haarlemse schilders Vincent Laurensz. van der Vinne (1628-1702),
+  Guillaume Dubois (1623-1664) en Dirck Helmbreeker (1633-1696) en de schoenmakersgezel Joost
+  Boelen.
+reisgezellen:
+- naam: Vincent Laurensz. van der Vinne
+  jaren: 1628–1702
+  opmerkingen: journaalschrijver, collega
+- naam: Guillaume Dubois
+  jaren: 1623–1664
+  opmerkingen: collega
+- naam: Dirck Helmbreeker
+  jaren: 1633–1696
+  opmerkingen: collega
+- naam: Joost Boelen
+  opmerkingen: schoenmakersgezel
+addenda:
+- type: Schilderijen/tekeningen
+  auteur: Cornelis Bega
+  beschrijving: Verschillende schilderijen en tekeningen van Cornelis Bega
+  datum: 1652-1653
+  bron: RKD
+  foto: Ja
+- type: Reisverslag
+  auteur: Vincent Laurensz. van der Vinne
+  beschrijving: Reisverslag van Vincent Laurensz. van der Vinne
+  datum: 1652-1655
+  relatie: collega-collega
+  taal: Nederlands
+  bron: Van der Vinne 1979
+  transcriptie: Ja
+  foto: Ja
+- type: Schilderijen/tekeningen
+  auteur: Guillaume Dubois
+  beschrijving: Verschillende schilderijen van landschappen van Guillaume Dubois
+  datum: 1652-1653
+  bron: RKD
+  link: https://rkd.nl/nl/explore/images#filters%5Bkunstenaar%5D=Du%20Bois%2C%20Guillam&filters%5Bperiode%5D=1652%7C%7C1652&facets%5Bperiode%5D%5Bstart%5D=1652&facets%5Bperiode%5D%5Bend%5D=1653&facets%5Bperiode%5D%5Bgap%5D=1&start=0
+  foto: Ja
+- type: Schilderijen/tekeningen
+  beschrijving: Verschillende portretten en Italiaanse landschappen van Dirck Helmbreeker
+  datum: '1652'
+  bron: RKD
+  link: https://rkd.nl/nl/explore/images#filters%5Bkunstenaar%5D=Helmbreeker%2C%20Dirck&filters%5Bperiode%5D=1651%7C%7C1654&filters%5Bkunstenaar_status%5D%5B%5D=Helmbreeker%2C%20Dirck%20(huidig)&facets%5Bperiode%5D%5Bstart%5D=1651&facets%5Bperiode%5D%5Bend%5D=1655&facets%5Bperiode%5D%5Bgap%5D=1&start=0
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- BWN, II, 265-266; NNBW, II, 114-115; RKD; Begheyn 1979, 270-278; Van Thiel-Stroman 2006, 100-102;
+  Caljé-van den Berg 1973; Van der Vinne 1979, 1-41; Alsteens en Buijs 2008.
+bronnen:
+- gemaakt-op-reis-database

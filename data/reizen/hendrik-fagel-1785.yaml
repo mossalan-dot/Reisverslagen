@@ -1,0 +1,21 @@
+id: hendrik-fagel-1785
+titel: Journalen van zijn reizen door Zuid-Duitsland
+reizigers:
+- hendrik-fagel
+reistype: plezierreis
+jaren: '1785'
+vertrek: 17-05-1785
+terugkeer: 04-06-1785
+reisdagen: '18'
+gebieden:
+- Duitsland
+route:
+- plaats: München
+  land_modern: Duitsland
+  datum: 04-06-1785
+manuscript: hendrik-fagel-1785-hs
+beschrijving: Verslag van Hendrik Fagel van een reis door Duitsland. Het handschrift is incompleet.
+literatuur:
+- BWN VI, 24-25; NNBW, III, 391-392; RAA.
+bronnen:
+- gemaakt-op-reis-database

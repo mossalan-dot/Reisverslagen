@@ -1,0 +1,30 @@
+id: dirck-pont-1675-i
+titel: Plezierreis naar Overijssel, Friesland, Groningen en Emden
+reizigers:
+- dirck-pont
+reistype: plezierreis
+jaren: 1675 I
+vertrek: 02-05-1675
+terugkeer: 25-05-1675
+reisdagen: '23'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 02-05-1675
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 25-05-1675
+beschrijving: Maakte in 1675 een plezierreisje per boot naar Overijssel, Friesland, Groningen
+  en Emden en een plezierreis naar de Zuidelijke Nederlanden met Gerard Hinlopen (1644-1691).
+reisgezellen:
+- naam: Gerard Hinlopen
+  jaren: 1644–1691
+  opmerkingen: journaalschrijver
+addenda:
+- beschrijving: Reisverslag van Gerard Hinlopen
+  bron: Hinlopen 1675 I
+bronnen:
+- gemaakt-op-reis-database

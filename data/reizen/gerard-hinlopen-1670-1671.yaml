@@ -1,0 +1,41 @@
+id: gerard-hinlopen-1670-1671
+titel: Journaal en aantekeninge gehouden op mijne Zee- en landtreijse gedaan in den jare van
+  1670 en 1671 naar Hispangien, Italia, Cicilia, Gracia etc.
+reizigers:
+- gerard-hinlopen
+reistype: plezierreis
+jaren: 1670-1671
+vertrek: 12-06-1670
+terugkeer: 14-08-1671
+reisdagen: '428'
+gebieden:
+- Nederlandse Republiek
+- Italië
+- Spanje
+- Elders
+- Turkije
+- Griekenland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 12-06-1670
+- plaats: Medemblik
+  land_modern: Nederlandse Republiek
+  datum: 14-08-1671
+manuscript: gerard-hinlopen-1670-1671-hs
+beschrijving: Verslag van een reis van Gerard Hinlopen naar Spanje, Italië, Griekenland en Istanbul
+  in 1670-1671. Hinlopen reisde per schip naar Cádiz, Alicante, Livorno en Messina en reisde
+  vervolgens door naar Griekenland en Istanbul.
+addenda:
+- type: 'Paratekst: illustraties'
+  auteur: Gerard Hinlopen
+  beschrijving: Verschillende afbeeldingen
+  datum: 1670-1671
+  taal: Nederlands
+  bron: Hinlopen 1670-1671
+  transcriptie: Ja
+  foto: Ja
+literatuur:
+- Hinlopen 2009, 1-58; Blom 2010, 172-193; Van den Boogert 2015.
+bronnen:
+- gemaakt-op-reis-database

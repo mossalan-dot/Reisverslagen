@@ -1,0 +1,34 @@
+id: maria-van-beresteijn-van-assendelft-1696
+titel: Plezierreis naar Nijmegen, Kleef en Paleis Het Loo
+reizigers:
+- maria-van-beresteijn-van-assendelft
+reistype: plezierreis
+jaren: '1696'
+vertrek: 14-07-1696
+terugkeer: 22-07-1696
+reisdagen: '8'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 14-07-1696
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 22-07-1696
+beschrijving: In 1696 maakte zij samen met haar ouders, haar zus Catharina, haar tante Maria
+  (1646-1744) en oom Willem (†1744) een plezierreisje naar Nijmegen, Kleef en paleis Het Loo.
+addenda:
+- type: Reisverslag
+  auteur: Adriaan Gerrits van Assendelft
+  beschrijving: Reisverslag van Adriaan Gerrits van Assendelft
+  datum: '1696'
+  taal: Nederlands
+  bron: Van Assendelft 1696
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Blok en Molhuysen 1927, 26; Moss 2018.
+bronnen:
+- gemaakt-op-reis-database

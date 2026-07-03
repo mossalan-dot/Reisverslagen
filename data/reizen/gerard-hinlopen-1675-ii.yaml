@@ -1,0 +1,29 @@
+id: gerard-hinlopen-1675-ii
+titel: Speel-Reijs gedaan met mijn Jaght en t jagt van Dirck Pont naar Braband en Zeeland
+reizigers:
+- gerard-hinlopen
+reistype: plezierreis
+jaren: 1675 II
+vertrek: 21-06-1675
+terugkeer: 23-07-1675
+reisdagen: '32'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 21-06-1675
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 23-07-1675
+manuscript: gerard-hinlopen-1675-ii-hs
+beschrijving: Kort verslag van een plezierreisje per boot naar Zeeland en de Zuidelijke Nederlanden
+  van Gerard Hinlopen in 1675 in het gezelschap van Dirck Pont. Hinlopen reisde van Hoorn via
+  Dordrecht naar Antwerpen. Op de terugweg bezocht hij Middelburg en Vlissingen.
+reisgezellen:
+- naam: Dirck Pont
+literatuur:
+- Hinlopen 2009, 1-58; Blom 2010, 172-193; Van den Boogert 2015.
+bronnen:
+- gemaakt-op-reis-database

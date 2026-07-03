@@ -1,0 +1,35 @@
+id: jacob-blauw-1680
+titel: Plezierreis naar Breda en Den Bosch
+reizigers:
+- jacob-blauw
+reistype: plezierreis
+jaren: '1680'
+vertrek: 17-7-1680
+terugkeer: 29-7-1680
+reisdagen: '12'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 17-7-1680
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 29-7-1680
+beschrijving: Maakte in 1680 een plezierreis naar Breda en Den Bosch in het gezelschap van Gerard
+  Hinlopen (1644-1691) en Johan Raat.
+reisgezellen:
+- naam: Gerard Hinlopen
+  opmerkingen: journaalschrijver
+- naam: Johan Raat
+addenda:
+- type: Reisverslag
+  auteur: Gerard Hinlopen
+  beschrijving: Reisverslag van Gerard Hinlopen
+  datum: '1680'
+  taal: Nederlands
+  bron: Hinlopen 1680
+  transcriptie: Nee
+  foto: Ja
+bronnen:
+- gemaakt-op-reis-database

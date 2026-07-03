@@ -1,0 +1,47 @@
+id: anne-bijters-1707
+titel: Plezierreis naar Amsterdam
+reizigers:
+- anne-bijters
+reistype: plezierreis
+jaren: '1707'
+vertrek: 15-6-1707
+terugkeer: 27-6-1707
+reisdagen: '12'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Joure
+  land_modern: Nederlandse Republiek
+  datum: 15-6-1707
+- plaats: Joure
+  land_modern: Nederlandse Republiek
+  datum: 27-6-1707
+beschrijving: Maakte in 1707 een plezierreis naar Amsterdam in het gezelschap van zijn gezin,
+  Johan (1690-1773) en Assuarus Vegelin van Claerbergen (1687-1771), Wijnout Leffring en zijn
+  vrouw en Geringa en zijn vrouw.
+reisgezellen:
+- naam: Johan Vegelin van Claerbergen
+  jaren: 1690–1773
+  opmerkingen: journaalschrijver
+- naam: Assuerus Vegelin van Claerbergen
+  jaren: 1687–1771
+  opmerkingen: broer van de vorige
+- naam: Wijnout Leffring
+- naam: Leffring
+  opmerkingen: echtgenote van de vorige
+- naam: Geringa
+- naam: Geringa
+  opmerkingen: echtgenote van de vorige
+- naam: Bijters
+  opmerkingen: echtgenote
+addenda:
+- type: Reisverslag
+  auteur: Johan Vegelin van Claerbergen
+  beschrijving: Reisverslag van Johan Vegelin van Claerbergen
+  datum: '1707'
+  taal: Nederlands
+  bron: Vegelin van Claerbergen 1707
+  transcriptie: Nee
+  foto: Ja
+bronnen:
+- gemaakt-op-reis-database

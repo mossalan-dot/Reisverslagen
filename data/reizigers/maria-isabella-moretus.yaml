@@ -1,0 +1,31 @@
+id: maria-isabella-moretus
+naam: Moretus, Maria Isabella
+volledige_naam: Maria Isabella Moretus
+naamsvarianten:
+- Maria Isabella Moerentorf
+geslacht: Vrouw
+geboren:
+  jaar: 1655
+  datum: 02-09-1655
+  plaats: Antwerpen
+  provincie: Zuidelijke Nederlanden
+overleden:
+  jaar: 1676
+  datum: 05-05-1676
+  plaats: Antwerpen
+  provincie: Zuidelijke Nederlanden
+religie: Katholiek
+is_auteur: false
+korte_typering: 'Maakte in 1668 een reis naar Den Bosch Eerste reis: 14-09-1668 (13 jaar)'
+biografie: Dochter van Balthasar II Moretus (1615-1674) en Anna Goos (1645-1674), zus van Balthasar
+  III (1646-1696), Franciscus (1656-1705) en Joannes Jacobus (1647-1718). Maakte in 1668 een
+  reis naar Den Bosch met haar ouders, broers en zussen, maar keerde al terug bij Scherpenheuvel.
+genealogie:
+  vader: Balthasar II Moretus (1615-1674)
+  moeder: Anna Goos (1627-1691)
+  broers_zussen:
+  - Balthasar III (1646-1696)
+  - Franciscus (1656-1705)
+  - Joannes Jacobus (1647-1718)
+bronnen:
+- gemaakt-op-reis-database

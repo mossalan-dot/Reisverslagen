@@ -1,0 +1,53 @@
+id: tjepcke-van-eminga-1678-1682
+titel: Reisverslag van Tiberius Epinus van Eminga.
+reizigers:
+- tjepcke-van-eminga
+reistype: educatiereis
+jaren: 1678-1682
+vertrek: 16-04-1678
+terugkeer: 03-02-1682
+reisdagen: '1389'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Tsjechië
+- Oostenrijk
+- Slowakije
+- Italië
+- Frankrijk
+- Zuidelijke Nederlanden
+route:
+- plaats: Leeuwarden
+  land_modern: Nederlandse Republiek
+  datum: 16-04-1678
+- plaats: Leeuwarden
+  land_modern: Nederlandse Republiek
+  datum: 03-02-1682
+manuscript: tjepcke-van-eminga-1678-1682-hs
+beschrijving: Verslag van een langdurige educatiereis van Tjepcke van Eminga (ca. 1657-1733)
+  naar Duitsland, Oostenrijk, Italië en Frankrijk in 1678-1682. De reis liep via Friesland naar
+  Duitsland en de Oost-Europese steden Praag, Wenen en Bratislava. Hij stak de Oostenrijke Alpen
+  over en reisde naar Venetië. Vanuit Rome maakte hij een uitstapje naar Napels. Hij keerde
+  terug via Bologna, Milaan en Turijn en stak de Mont Cenis over. In Frankrijk verbleef Van
+  Eminga langere tijd in Lyon, Montargis en Parijs. Na meer dan een jaar in Parijs maakte hij
+  een ronde langs de Loiresteden, waar hij langere tijd verbleef in Saumur. Via de Zuidelijke
+  Nederlanden keerde hij terug naar de Republiek. De auteur verbleef langere tijd in Dresden
+  (7-14 mei 1678), Praag (16-24 mei), Wenen (29 mei-15 juli), Treviso (20-29 juli), Rome (16
+  september-19 februari 1679; 5-21 maart), Florence (25 maart-5 april), Lodi (5-13 april), Lyon
+  (28 april-10 augustus), Nevers (15-28 augustus), Montargis (30 augustus-13 maart 1680), Parijs
+  (23 maart-18 juni 1681; 6-14 januari 1682), Saumur (25 juni-3 oktober 1681), Halle (14-21
+  januari 1682).
+addenda:
+- type: 'Paratekst: aantekeningen'
+  auteur: Tjepcke van Eminga
+  beschrijving: Lijst van buitenlandse adel, getiteld ‘Die ghekroonde ende Souveraijne hoofden
+    die ick ghesien hebbe sijn deese naervolghende’
+  datum: 1678-1682
+  taal: Nederlands
+  bron: f. 81v-89r.
+  transcriptie: Ja
+  foto: Ja
+literatuur:
+- Reinalda en Otten 1998, 8-16; Huisman 2016, 165-180.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,38 @@
+id: samuel-baccher
+naam: Baccher, Samuel
+volledige_naam: Samuel Baccher
+naamsvarianten:
+- De Baccher, Bacchaerus
+geslacht: Man
+geboren:
+  jaar: 1582
+  datum: 01-01-1582
+  plaats: Antwerpen
+  provincie: Zuidelijke Nederlanden
+is_auteur: false
+korte_typering: 'Maakte in 1608-1611 een educatiereis naar Frankrijk en Italië. Eerste reis:
+  01-01-1608 (26 jaar)'
+biografie: Zoon van Andreas de Baccher (1546-1616) en Cateleyne de Boyne (1555-1590). Studeerde
+  in Halberstadt, Stade, Bremen en Leiden. Maakte tussen 1608 en 1611 een educatiereis naar
+  Frankrijk en Italië, waarover hij brieven en een album amicorum naliet. Promoveerde in de
+  rechten en werkte als advocaat aan het Hof van Holland in Den Haag.
+genealogie:
+  vader: Andreas de Baccher (1546-1616)
+  moeder: Cateleyne de Boyne (1555-1590
+opleiding:
+- universiteit: Leiden
+  richting: geneeskunde
+  datum: 20-10-1602
+  bron: Den Tex 1959, 122.
+- universiteit: Leiden
+  richting: rechten
+  datum: 16-07-1603
+  bron: Den Tex 1959, 122.
+- universiteit: Siena
+  richting: rechten
+  datum: 27-10-1610
+  bron: Den Tex 1959, 122.
+literatuur:
+- Scholte 1942, 69-89; Offerhaus 1990, 69-70.
+bronnen:
+- gemaakt-op-reis-database

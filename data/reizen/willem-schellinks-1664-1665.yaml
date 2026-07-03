@@ -1,0 +1,51 @@
+id: willem-schellinks-1664-1665
+titel: Reis naar Italië, Malta, Oostenrijk en Duitsland
+reizigers:
+- willem-schellinks
+reistype: educatiereis
+jaren: 1664-1665
+vertrek: 01-01-1664
+terugkeer: 01-08-1665
+reisdagen: '578'
+gebieden:
+- Nederlandse Republiek
+- Italië
+- Elders
+- Duitsland
+- Zwitserland
+- Oostenrijk
+route:
+- plaats: Rome
+  land_modern: Italië
+  datum: 01-01-1664
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 01-08-1665
+manuscript: willem-schellinks-1664-1665-hs
+beschrijving: "Vier reisverslagen in drie banden van Willem Schellinks (1623-1678). Het betreft\
+  \ een netversie, deels gebaseerd op Lambert van den Bos’ Wegh-wyser uit 1665, waarschijnlijk\
+  \ geschreven tussen 1665 en 1668. Het verslag was waarschijnlijk bedoeld ter uitgave. Een\
+  \ zeventiende-eeuwse kopie van de laatste drie verslagen ligt in de Bodleian Library in Oxford\
+  \ (Ms. D’Orville 558-560). \n\nNederlands, pp. 577 (794-1371)\n\nDerde deel van het verslag\
+  \ van bovengenoemde educatiereis. Dit deel beschrijft de reis vanaf Rome naar Napels, Sicilië\
+  \ en Malta. Schellinks keerde terug via Napels, Rome en Venetië. Hij trok de Oostenrijkse\
+  \ Alpen over, bezocht Duitsland en Zwitserland en keerde terug naar Amsterdam."
+reisgezellen:
+- naam: Jacques Thierry jr.
+  jaren: 1648–1709
+  opmerkingen: pupil
+addenda:
+- type: Schilderijen/tekeningen
+  auteur: Willem Schellings
+  beschrijving: Verschillende tekeningen van landschappen en stadsgezichten, onder andere van
+    de Vesuvius, Napels, Stromboli, Palermo, de Calabrische kust, Messina, de Etna, Syracuse
+    en Valletta
+  datum: 1664-1665
+  bron: RKD; Alsteens en Buijs 2008, 71-189
+  locatie: Italië, Sicilië, Mala
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- Aikema 1983
+bronnen:
+- gemaakt-op-reis-database

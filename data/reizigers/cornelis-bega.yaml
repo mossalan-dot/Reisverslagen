@@ -1,0 +1,41 @@
+id: cornelis-bega
+naam: Bega, Cornelis
+volledige_naam: Cornelis Bega
+geslacht: Man
+geboren:
+  jaar: 1620
+  datum: 01-11-1620
+  plaats: Haarlem
+  provincie: Holland
+overleden:
+  jaar: 1664
+  datum: 27-8-1664
+  plaats: Haarlem
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1652-1653 een kunstenaarsreis naar Duitsland en Frankrijk. Eerste
+  reis: 21-8-1652 (32 jaar)'
+biografie: Zoon van de edelsmid Pieter Jansz. Begeyn en Maritge, bastaarddochter van de schilder
+  Cornelis Cornelisz (1562-1638). Was werkzaam als schilder, tekenaar en etser. Leerling van
+  Adriaen van Ostade (1610-1685). Ondernam tussen 1652 en 1653 een kunstenaarsreis naar Duitsland,
+  Frankrijk en Zwitserland in het gezelschap van de Haarlemse schilders Vincent Laurensz. van
+  der Vinne (1628-1702), Guillaume Dubois (1623-1664) en Dirck Helmbreeker (1633-1696) en de
+  schoenmakersgezel Joost Boelen. Maakte verschillende tekeningen onderweg. Trad in 1654 toe
+  tot het schildersgilde van Haarlem
+genealogie:
+  vader: Pieter Jansz. Begeyn
+  moeder: Maritge
+  andere_familie:
+  - onerkende grootvader van moederskant, Cornelis Cornelisz (1562-1638)
+portretten:
+- titel: Zelfportret, ca. 1650
+  vervaardiger: Cornelis Bega
+  jaar: '1650'
+  bron: RKD
+  link: https://rkd.nl/nl/explore/images/213089
+  beschrijving: Zelfportret van Cornelis Pietersz. Bega (....-1664)
+literatuur:
+- BWN, II, 265-266; NNBW, II, 114-115; RKD; Begheyn 1979, 270-278; Van Thiel-Stroman 2006, 100-102.
+bronnen:
+- gemaakt-op-reis-database

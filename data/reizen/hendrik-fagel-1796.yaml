@@ -1,0 +1,32 @@
+id: hendrik-fagel-1796
+titel: Journaal van zijn reis door Zwitserland
+reizigers:
+- hendrik-fagel
+reistype: plezierreis
+jaren: '1796'
+vertrek: 24-08-1796
+terugkeer: 28-08-1796
+reisdagen: '4'
+gebieden:
+- Zwitserland
+route:
+- plaats: Bern
+  land_modern: Zwitserland
+  datum: 24-08-1796
+- plaats: Vevey
+  land_modern: Zwitserland
+  datum: 28-08-1796
+manuscript: hendrik-fagel-1796-hs
+beschrijving: Verslag van Hendrik Fagel van een reis door Zwitserland. Het verslag is incompleet.
+addenda:
+- type: 'Paratekst: aantekeningen'
+  auteur: Hendrik Fagel
+  beschrijving: Aantekeningen over zijn reizen, getiteld ‘Plan pour la Vacance’
+  taal: Frans
+  bron: Fagel 236
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- BWN VI, 24-25; NNBW, III, 391-392; RAA.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,80 @@
+id: hendrik-hillewerve-1664-1665
+titel: Educatiereis naar Duitsland, Oostenrijk en Italië
+reizigers:
+- hendrik-hillewerve
+reistype: educatiereis
+jaren: 1664-1665
+vertrek: 30-09-1664
+terugkeer: 01-01-1665
+reisdagen: '93'
+gebieden:
+- Zuidelijke Nederlanden
+- Duitsland
+- Italië
+- Oostenrijk
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 30-09-1664
+beschrijving: In 1664 en 1665 vergezelde hij als tutor de educatiereis van zijn neven Balthasar
+  III Moretus (1646-1696) en Pieter Goos (1645-1708), Jan Tholinx jr. (1631-1705) en Theodoor
+  Andries van Kessel.
+reisgezellen:
+- naam: Balthasar Moretus III
+  jaren: 1646–1696
+  opmerkingen: journaalschrijver, neef
+- naam: Pieter Goos
+  jaren: 1645–1708
+  opmerkingen: neef
+- naam: Jan Tholinx jr.
+  jaren: 1631–1705
+- naam: Theodoor Andries van Kessel
+addenda:
+- type: Reisverslag
+  auteur: Balthasar Moretus III
+  beschrijving: Reisverslag van Balthasar Moretus III
+  datum: 1664-1665
+  relatie: tutor-leerling
+  taal: Nederlands
+  bron: Moretus III 1664-1665
+  transcriptie: Nee
+  foto: Ja
+- type: Kladversie
+  auteur: Balthasar Moretus III
+  beschrijving: Kladaantekeningen van de reis door Italië en afschriften van inscripties
+  datum: 1664-1665
+  relatie: tutor-leerling
+  taal: Nederlands
+  bron: Moretus III 1664-1665, f. 16r-35v; 37r-152v
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Balthasar Moretus III
+  beschrijving: Ingelegd vel met reisaantekeningen
+  datum: 1664-1665
+  relatie: tutor-leerling
+  taal: Nederlands
+  bron: Moretus III 1664-1665, f. 36r; [127r-127v]
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Balthasar Moretus III
+  beschrijving: Aangeplakt vel met reisaantekeningen
+  datum: 1664-1665
+  relatie: tutor-leerling
+  taal: Nederlands
+  bron: Moretus III 1664-1665, f. 71v
+  transcriptie: Nee
+  foto: Ja
+- type: Kasboek
+  auteur: Hendrik Hillewerve
+  beschrijving: Rekening aan Balthasar Moretus II
+  datum: 1664-1665
+  taal: Nederlands
+  bron: MPM, Doos M8, stuk 3510
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Van der Straelen 1858, 39; Sabbe 1928, 173-203; Prims 1932, 145-152, Verhoeven 2009a, 112-113.
+bronnen:
+- gemaakt-op-reis-database

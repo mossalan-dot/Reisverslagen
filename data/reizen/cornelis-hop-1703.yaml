@@ -1,0 +1,30 @@
+id: cornelis-hop-1703
+titel: Journaal van een rijsje naar het leger door mij gedaan in den jare 1703
+reizigers:
+- cornelis-hop
+reistype: militaire reis
+jaren: '1703'
+vertrek: 03-07-1703
+terugkeer: 07-09-1703
+reisdagen: '66'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 03-07-1703
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 07-09-1703
+manuscript: cornelis-hop-1703-hs
+beschrijving: Verslag van een militaire reis naar Zeeland, Brabant en Gelderland van Cornelis
+  Hop in 1703 in het gezelschap van zijn vader Jacob (1654-1725). Hop reisde als gecommitteerde
+  van de Raad van State om de vloot en fortificaties te inspecteren.
+reisgezellen:
+- naam: Jacob Hop
+  jaren: 1654–1725
+  opmerkingen: vader
+literatuur:
+- BWN, VIII, 1240-1242; NNBW, II, 601-602; RAA.
+bronnen:
+- gemaakt-op-reis-database

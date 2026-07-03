@@ -1,0 +1,29 @@
+id: gerard-hinlopen-1681
+titel: Speel-reijse gedaen met het jagt van Voljard Schellinger naar Sittertogen bosch
+reizigers:
+- gerard-hinlopen
+reistype: plezierreis
+jaren: '1681'
+vertrek: 04-06-1681
+terugkeer: 18-06-1681
+reisdagen: '14'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 04-06-1681
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 18-06-1681
+manuscript: gerard-hinlopen-1681-hs
+beschrijving: Kort verslag van een plezierreis per boot naar Den Bosch van Gerard Hinlopen in
+  1681 in het gezelschap van Voljard Schellinger en Dirk Molenwerff. De reis ging naar Dordrecht
+  en Den Bosch en terug via Den Haag en Amsterdam.
+reisgezellen:
+- naam: Voljard Schellinger
+- naam: Dirk Molenwerff
+literatuur:
+- Hinlopen 2009, 1-58; Blom 2010, 172-193; Van den Boogert 2015.
+bronnen:
+- gemaakt-op-reis-database

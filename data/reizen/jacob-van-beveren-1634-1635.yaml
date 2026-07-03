@@ -1,0 +1,40 @@
+id: jacob-van-beveren-1634-1635
+titel: Educatiereis naar Frankrijk
+reizigers:
+- jacob-van-beveren
+reistype: educatiereis
+jaren: 1634-1635
+vertrek: 30-08-1634
+terugkeer: 05-08-1635
+reisdagen: '340'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+route:
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 30-08-1634
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 05-08-1635
+beschrijving: Maakte in 1634 en 1635 een educatiereis naar Frankrijk in het gezelschap van Gijsbert
+  de With (º1611), Hendrick van Gouthouven en Mathes Onderwaeter.
+reisgezellen:
+- naam: Gijsbert de With
+  jaren: '1611'
+  opmerkingen: journaalschrijver, relatie van De Witt?
+- naam: Hendrick van Gouthouven
+- naam: Mathes Onderwaeter
+addenda:
+- type: Reisverslag
+  auteur: Gijsbert de With
+  beschrijving: Reisverslag van Gijsberth de With
+  datum: 1634-1635
+  taal: Nederlands
+  bron: De With 1634-1635
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Bots 1980, 469-492; Verhoeven 2010, 621-626.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,42 @@
+id: jacob-cats
+naam: Cats, Jacob
+volledige_naam: Jacob Cats
+geslacht: Man
+geboren:
+  jaar: 1577
+  datum: 10-11-1577
+  plaats: Brouwershaven
+  provincie: Zeeland
+overleden:
+  jaar: 1660
+  datum: 12-06-1660
+  plaats: Den Haag
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Reisde en studeerde in Frankrijk rond 1595. Eerste reis: 01-01-1595 (18 jaar)'
+biografie: Zoon van Adriaen Cornelisz. Cats en Leenken Jacob Jan Breydersdr. Studeerde rechten
+  in Leiden en Orléans, verbleef enige tijd in Parijs en vestigde zich als advocaat in Den Haag.
+  Werd pensionaris van Middelburg en Dordrecht en reisde als diplomaat meermaals naar het Engelse
+  hof. Maakte in 1651 en 1652 een diplomatieke reis met Gerard Schaap (1599-1655) en Paulus
+  van der Perre (ca. 1598-1653). Lodewijk Huygens (1631-1699), Adriaen Schagen (1633-1699) en
+  George de Mey (1628-1712) hielden ook een verslag bij. Publiceerde verschillende gedichten
+  en emblematabundels, waaronder Sinne- en minnebeelden (1618) en de Trou-ringh (1637). Ook
+  schrijf hij gedichten over reizen.
+genealogie:
+  vader: Adriaen Cornelisz. Cats
+  moeder: Leenken Jacob Jan Breydersdr.
+portretten:
+- titel: Portret van Jacob Cats
+  vervaardiger: Michiel Jansz. van Mierevelt
+  jaar: '1634'
+  bron: Rijksmuseum
+  link: http://hdl.handle.net/10934/RM0001.COLLECT.6740
+  beschrijving: 'olieverf op paneel, h 68cm × b 58cm
+
+    Portret van Jacob Cats, pensionaris van Dordrecht en dichter. Buste, naar rechts.'
+literatuur:
+- BWN, III, 243-252; NNBW, VI, 279-286; RAA; Bork en Verkruijsse 1985, 132-134; Meijer Drees
+  1998, 77-92.
+bronnen:
+- gemaakt-op-reis-database

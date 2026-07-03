@@ -1,0 +1,35 @@
+id: johan-timmers
+naam: Timmers, Johan
+volledige_naam: Johan Timmers
+geslacht: Man
+geboren:
+  jaar: 1684
+  datum: 19-05-1684
+  plaats: Rotterdam
+  provincie: Holland
+overleden:
+  jaar: 1738
+  datum: 21-02-1738
+  plaats: Rotterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1729 een plezierreis naar de Zuidelijke Nederlanden. Eerste reis:
+  18-08-1729 (45 jaar)'
+biografie: Zoon van Pieter Timmers en Ignatia van Zoelen, vader van Aletta Johanna (1707-1775)
+  en Ignatia Geertruida (1714-1733). Trouwde in 1703 met Suzanne Libertine van Schinne (1684-1732).
+  Maakte in 1729 een plezierreis naar de Zuidelijke Nederlanden met zijn echtgenote en kinderen,
+  de heren Van Bentinck en Van Schoonheeten, de heer Sloterdijck en zoon en de heer Van Baerle
+  en dochter.
+genealogie:
+  vader: Pieter Timmers
+  moeder: Ignatia van Zoelen
+  echtgenoten:
+  - Suzanne Libertine van Schinne (1684-1732) in 1703
+  kinderen:
+  - Aletta Johanna (1707-1775)
+  - Ignatia Geertruida (1714-1733)
+literatuur:
+- Moss 2018a, 99-112.
+bronnen:
+- gemaakt-op-reis-database

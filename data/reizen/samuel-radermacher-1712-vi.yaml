@@ -1,0 +1,22 @@
+id: samuel-radermacher-1712-vi
+titel: Goesche Reise begonnen den 29 & geindigt den 31 Augustij 1712
+reizigers:
+- samuel-radermacher
+reistype: plezierreis
+jaren: 1712 VI
+vertrek: 29-08-1712
+terugkeer: 31-08-1712
+reisdagen: '2'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Middelburg
+  land_modern: Nederlandse Republiek
+  datum: 29-08-1712
+- plaats: Middelburg
+  land_modern: Nederlandse Republiek
+  datum: 31-08-1712
+manuscript: samuel-radermacher-1712-vi-hs
+beschrijving: Kort verslag van een plezierreisje van Samuel Radermacher naar Middelburg en Goes.
+bronnen:
+- gemaakt-op-reis-database

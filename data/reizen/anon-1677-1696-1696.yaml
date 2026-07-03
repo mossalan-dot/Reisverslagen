@@ -1,0 +1,37 @@
+id: anon-1677-1696-1696
+titel: Reize door Duitsland na Hungarie gedaan Ao. 1696
+reizigers:
+- anon-1677-1696
+reistype: plezierreis
+jaren: '1696'
+vertrek: 01-01-1696
+reisdagen: '0'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Slowakije
+- Hongarije
+- Tsjechië
+- Polen
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 01-01-1696
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+manuscript: anon-1677-1696-1696-hs
+beschrijving: Verslag naar Duitsland, Polen, Tsjechië en Hongarije in 1696. De terugreis liep
+  via Oostenrijk en Duitsland. De anonymus bezocht onder meer Keulen, Leipzig, Wrocław, Wenen,
+  Bratislava en Boedapest.
+addenda:
+- beschrijving: Apodemische instructies en waarschuwingen, getiteld ‘Onderrigt van t geen een
+    Reiziger dient waar te neemen
+  bron: ff. 1r-7v
+- beschrijving: Franse notitie over staatsbestuur, onder andere gekopieerd uit een bespreking
+    van Johann Myler von Ehrenbachs Dissertations (1710) in het Journal des savants uit 1711
+  bron: f. 117r
+literatuur:
+- Nádor-Ablonczyné 2011, 191-206.
+bronnen:
+- gemaakt-op-reis-database

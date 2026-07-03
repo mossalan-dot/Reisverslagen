@@ -1,0 +1,31 @@
+id: jacob-van-erp
+naam: Erp, Jacob van
+volledige_naam: Jacob van Erp
+geslacht: Man
+geboren:
+  jaar: 1603
+  datum: 01-01-1603
+  plaats: Dordrecht
+  provincie: Holland
+overleden:
+  jaar: 1643
+  datum: 01-01-1643
+  plaats: Amsterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1624-1626 een educatiereis naar Frankrijk en Italië. Eerste reis:
+  01-01-1624 (21 jaar)'
+biografie: Geïdentificeerd door biograaf Prinsen. Zoon van Aernout van Erp (ca. 1533-1618) en
+  Jacomina van Velsen (†1658), zwager van P.C. Hooft (1581-1647). Maakte tussen 1624 en 1626
+  een educatiereis naar Frankrijk en Italië in het gezelschap van Willem van den Vondel (1603-1628),
+  Joost Baeck, Herman Swol, Gerard van den Bergh en A. Moorman.
+genealogie:
+  vader: Aernout van Erp (ca. 1533-1618)
+  moeder: Jacomina van Velsen (†1658)
+  andere_familie:
+  - schoonbroer P.C. Hooft (1581-1647)
+literatuur:
+- NNBW, IX, 1228-1230.
+bronnen:
+- gemaakt-op-reis-database

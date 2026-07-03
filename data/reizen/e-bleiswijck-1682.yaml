@@ -1,0 +1,28 @@
+id: e-bleiswijck-1682
+titel: Plezierreis naar Hamburg
+reizigers:
+- e-bleiswijck
+reistype: plezierreis
+jaren: '1682'
+vertrek: 22-05-1682
+terugkeer: 03-07-1682
+reisdagen: '42'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 22-05-1682
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 03-07-1682
+beschrijving: Maakte een plezierreis naar Hamburg in 1682 met Van Winter en Jacobus Halling.
+reisgezellen:
+- naam: van Winter
+- naam: Jacobus Halling
+addenda:
+- beschrijving: Reisverslag van Van Winter
+  bron: Van Winter 1682
+bronnen:
+- gemaakt-op-reis-database

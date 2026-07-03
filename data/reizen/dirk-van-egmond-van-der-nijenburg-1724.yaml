@@ -1,0 +1,30 @@
+id: dirk-van-egmond-van-der-nijenburg-1724
+titel: Journaal van de rijs gedaan met mijn broeder na Engeland, gedaan int jaar 1724
+reizigers:
+- dirk-van-egmond-van-der-nijenburg
+reistype: plezierreis
+jaren: '1724'
+vertrek: 21-07-1724
+terugkeer: 28-08-1724
+reisdagen: '38'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 21-07-1724
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 28-08-1724
+manuscript: dirk-van-egmond-van-der-nijenburg-1724-hs
+beschrijving: Verslag van een reis van Dirk van Egmond van der Nijenburg (1695-1740) naar Londen
+  met zijn broer Johannes Aegidius (1693-1747).
+reisgezellen:
+- naam: Johannes Aegidius van Egmond van der Nijenburg
+  jaren: 1693–1747
+  opmerkingen: broer
+literatuur:
+- NNBW, II, 432; Hoos 1910, 97-102.
+bronnen:
+- gemaakt-op-reis-database

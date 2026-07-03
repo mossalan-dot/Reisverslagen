@@ -1,0 +1,25 @@
+id: guilliam-van-der-meersch-1756
+titel: Reijs-beschrijvingh gedaen door mr. Guill. van der Meersch, adv. in de drie provintien
+  (...)
+reizigers:
+- guilliam-van-der-meersch
+reistype: handelsreis
+jaren: '1756'
+vertrek: 28-09-1756
+terugkeer: 24-10-1756
+reisdagen: '26'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Rotterdam
+  land_modern: Nederlandse Republiek
+  datum: 28-09-1756
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 24-10-1756
+manuscript: guilliam-van-der-meersch-1756-hs
+beschrijving: Verslag van een zakenreis van Guilliam van der Meersch (1732-1809) naar Antwerpen,
+  Mechelen en Leuven in 1756, om in Mechelen overleg te plegen met collega’s.
+bronnen:
+- gemaakt-op-reis-database

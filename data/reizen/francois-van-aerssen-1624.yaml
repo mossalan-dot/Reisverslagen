@@ -1,0 +1,35 @@
+id: francois-van-aerssen-1624
+titel: Diplomatieke reis naar Engeland
+reizigers:
+- francois-van-aerssen
+reistype: diplomatieke reis
+jaren: '1624'
+vertrek: 16/2/1624
+terugkeer: 6/7/1624
+reisdagen: '141'
+gebieden:
+- Engeland
+- Nederlandse Republiek
+reisgezellen:
+- naam: Albert Joachimi
+  jaren: 1560–1654
+  opmerkingen: gezant
+addenda:
+- type: Verbaal/rapport/minuut
+  auteur: François van Aerssen van Sommelsdijk en Albert Joachimi
+  beschrijving: Journaal of rapport van de ambassadeurs François van Aerssen van Sommelsdijk
+    en Albert Joachimi wegens hun zending naar Engeland in verband met onderhandelingen over
+    het sluiten van een alliantie met de Republiek, 1624 februari 16 - 1624 juli 6
+  datum: 06-07-1624
+  relatie: gezant-SG
+  taal: Nederlands
+  bron: SG 8344
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+- beschrijving: Reisverslag van Constantijn Huygens sr.
+  bron: Huygens 1624
+- beschrijving: Reisverslag van Paul Boelen
+  bron: Boelen 1621-1624
+bronnen:
+- gemaakt-op-reis-database

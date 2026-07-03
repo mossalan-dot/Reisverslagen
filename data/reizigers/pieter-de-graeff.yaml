@@ -1,0 +1,47 @@
+id: pieter-de-graeff
+naam: Graeff, Pieter de
+volledige_naam: Pieter de Graeff
+titel: Heer van Zuid-Polsbroek, Purmerland en Ilpendam.
+geslacht: Man
+geboren:
+  jaar: 1638
+  datum: 14-10-1638
+overleden:
+  jaar: 1707
+  datum: 03-06-1707
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1655 een diplomatieke reis naar Duitsland Eerste reis: 25-04-1655
+  (17 jaar)'
+biografie: Zoon van Cornelis de Graeff (1599-1664), heer van Polsbroek, en Catharina Hooft (1618-1691).
+  Maakte in 1655 een diplomatieke reis naar Duitsland in het gezantschap van Joan Corver (1628-1716),
+  Joan Huydecoper (1599-1661) en diens zoon Joan (1625-1704). Maakte in 1658-1660 een educatiereis
+  naar Engeland en Frankrijk en ontving een licentiaat in de rechten aan de universiteit van
+  Orléans. Was schepen van Amsterdam, bewindhebber van de VOC en raadsman van raadpensionaris
+  van zijn neef en zwager Johan de Witt (1625-1672).
+genealogie:
+  vader: Cornelis de Graeff (1599-1664), heer van Polsbroek
+  moeder: Catharina Hooft (1618-1691)
+  andere_familie:
+  - neef en zwager Johan de Witt (1625-1672)
+portretten:
+- titel: Portret van Pieter de Graeff
+  vervaardiger: Caspar Netscher (1635-1684)
+  jaar: '1663'
+  bron: RKD
+  link: https://rkd.nl/explore/images/39902
+  beschrijving: 'paneel, olieverf
+
+    staande rechthoek met afgeronde bovenhoeken 51 x 36 cm'
+- titel: Portret van Pieter de Graeff
+  vervaardiger: Wallerant Vaillant (1625-1677)
+  jaar: '16701674'
+  bron: RKD
+  link: https://rkd.nl/explore/images/12385
+  beschrijving: 'doek, olieverf
+
+    staande rechthoek 72 x 60 cm'
+literatuur:
+- BWN, VII, 366-369; NNBW, III, 489-490.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,43 @@
+id: franciscus-moretus-1668
+titel: Plezierreis naar Den Bosch
+reizigers:
+- franciscus-moretus
+reistype: plezierreis
+jaren: '1668'
+vertrek: 14-09-1668
+terugkeer: 16-09-1668
+reisdagen: '2'
+gebieden:
+- Zuidelijke Nederlanden
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 14-09-1668
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 16-09-1668
+beschrijving: Maakte in 1668 een reis naar Den Bosch met zijn ouders, broers en zussen, maar
+  maakte al rechtsomkeert bij het nabijgelegen Scherpenheuvel.
+reisgezellen:
+- naam: Balthasar Moretus III
+  jaren: 1646–1696
+  opmerkingen: journaalschrijver, broer
+- naam: Balthasar Moretus II
+  jaren: 1615–1674
+  opmerkingen: vader
+- naam: Anna Goos
+  jaren: 1627–1691
+  opmerkingen: moeder
+- naam: Joannes Jacobus Moretus
+  jaren: 1647–1718
+  opmerkingen: broer
+- naam: Maria Isabella Moretus
+  jaren: 1655–1676
+  opmerkingen: zus
+addenda:
+- beschrijving: Reisverslag van Balthasar Moretus III
+  bron: Sabbe 1924a
+literatuur:
+- Voet 1969, 227.
+bronnen:
+- gemaakt-op-reis-database

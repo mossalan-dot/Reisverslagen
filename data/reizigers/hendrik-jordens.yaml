@@ -1,0 +1,32 @@
+id: hendrik-jordens
+naam: Jordens, Hendrik
+volledige_naam: Hendrik Jordens
+geslacht: Man
+geboren:
+  jaar: 1663
+  datum: 01-01-1663
+  plaats: Deventer
+  provincie: Overijssel
+overleden:
+  jaar: 1715
+  datum: 01-01-1715
+  plaats: Deventer
+  provincie: Overijssel
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1684-1685 een educatiereis naar Engeland, Frankrijk en Zwitserland.
+  Eerste reis: 06-10-1684 (21 jaar)'
+biografie: Zoon van burgemeester Joan Jordens (1639-1693) en Geertruid Steenbergen. Maakte in
+  1684 en 1685 een educatiereis naar Engeland, Frankrijk, Zwitserland en Duitsland in het gezelschap
+  van zijn neef Antoni Eeckholt. Werd in 1685 stadsecretaris van Deventer en in 1693 griffier
+  van de Gedeputeerde Staten van Overijssel. Later bekleedde hij het ambt van ontvanger-generaal
+  van Twente.
+genealogie:
+  vader: Joan Jordens (1639-1693)
+  moeder: Geertruid Steenbergen
+  andere_familie:
+  - neef Antoni Eeckholt.
+literatuur:
+- LSD.
+bronnen:
+- gemaakt-op-reis-database

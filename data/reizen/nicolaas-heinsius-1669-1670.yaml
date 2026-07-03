@@ -1,0 +1,53 @@
+id: nicolaas-heinsius-1669-1670
+titel: Diplomatieke reis naar Moskou
+reizigers:
+- nicolaas-heinsius
+reistype: diplomatieke reis
+jaren: 1669-1670
+vertrek: '1669'
+gebieden:
+- Nederlandse Republiek
+- Rusland
+beschrijving: Reisde als diplomaat in 1669 en 1670 naar Moskou en in 1672 naar Oostfriesland
+  en Bremen.
+brieven:
+- verzender: Nicolaas Heinsius
+  ontvanger: Johann Georg Greffe (1631-1703)
+  datum: 01-12-1669
+  plaats_verzender: Moskou
+  land_verzender: RU
+  relatie: geleerde-geleerde
+  taal: Latijn
+  link: http://emlo.bodleian.ox.ac.uk/profile/work/db89d52d-6f4e-45fd-b058-cb0d1df4d259?sort=date-a&rows=50&dat_to_year=1673&people=Heinsius,%20Nicolaas,%201620-1681&dat_from_year=1669&baseurl=/forms/advanced&start=1&type=advanced&numFound=59
+  opmerking: He entreats G. to send him a resumÉ of everything to remind him and as a refreshing
+    heartwarming utterance of a voice on which he hangs. He notifies G. of two codices which
+    a Greek, Paissius Ligarides metropolitan of Gaza, who has spent years of study in Rome has
+    sent him, one of them consisting of some things of Chrysostom, the other of speeches and
+    letters of the patriarch Photius; and suggests that if any one is interested in editing
+    his letters this Greek would perhaps supply further material; but many known volumes of
+    the letters are in monasteries where they are difficult to come by unless Jurio Moretus
+    help is enlisted. The necessary inspection of codices is difficult here where the Keepers
+    are harsh and illiterate; and Latin is almost and Greek entirely unknown. But even in this
+    dungpit there are hidden jewels. He begs him to repeat with additions everything he had
+    said about the old Bratislava, codex of Prudentius. He has received Salmasius' preface from
+    Bigotius about whose health he is very anxious. Among further items he mentions that Vossius
+    had told him that Blavius had in his keeping the volumes of Meursius which he commenced
+    to put to press before M's. death.
+addenda:
+- type: Verbaal/rapport/minuut
+  auteur: Nicolaas Heinsius
+  beschrijving: Kort verslag, in het Latijn gesteld, omtrent de handelingen van de buitengewoon
+    gezant naar Rusland, Nicolaas Heinsius, uitgebracht aan de Staten-Generaal.1670 september
+    16
+  datum: 16-09-1670
+  relatie: gezant-SG
+  taal: Latijn
+  bron: SG 12569.185
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- BWN, VIII, 457-461; NNBW, II, 557-560; Kugener 1928, 225-238; Blok 1949; Blok 1984; Boex en
+  Bots 2004, 222-258.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,33 @@
+id: anon-1683-1684-1683-1684
+titel: Reisbeschrijving van … uit Leeuwarden naar Engeland en Frankrijk
+reizigers:
+- anon-1683-1684
+reistype: educatiereis
+jaren: 1683-1684
+vertrek: 01-05-1683
+terugkeer: 19-12-1684
+reisdagen: '598'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Engeland
+route:
+- plaats: Leeuwarden
+  land_modern: Nederlandse Republiek
+  datum: 01-05-1683
+- plaats: Orléans
+  land_modern: Frankrijk
+  datum: 19-12-1684
+manuscript: anon-1683-1684-1683-1684-hs
+beschrijving: Onvoltooid en anoniem reisverslag van een reis naar Engeland en Frankrijk in 1683-1684.
+  De auteur ging scheep in Brielle en stak over naar Harwich. Vanuit Londen maakte hij verschillende
+  uitstapjes, onder andere naar Chatham, Bristol en Bath. In Dover stak hij over naar Calais.
+  In Frankrijk bezocht hij Parijs en het Loiregebied, waar hij vier maanden in Blois, vier maanden
+  in Saumur en drie weken in Orléans verbleef. Hij bezocht Montpellier en Toulon in Zuid-Frankrijk
+  en keerde weer noordelijk via Lyon. Het verslag eindigt in Orléans. De auteur verbleef langere
+  tijd in Den Haag (5-13 mei 1683), Londen (tussen 25 mei en 18 juni), Parijs (tussen 29 juni
+  en 3 augustus), Blois (6 augustus-7 december), Orléans (7 december 1683-18 januari 1684),
+  Saumur (5 mei-6 oktober), Montpellier (2-10 november), Saint-Chamas (13-19 november) en Lyon
+  (2-12 december).
+bronnen:
+- gemaakt-op-reis-database

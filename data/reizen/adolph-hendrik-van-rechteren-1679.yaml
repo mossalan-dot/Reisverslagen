@@ -1,0 +1,36 @@
+id: adolph-hendrik-van-rechteren-1679
+titel: Reisverslag van de educatiereis van Adolph Hendrik van Rechteren
+reizigers:
+- adolph-hendrik-van-rechteren
+reistype: educatiereis
+jaren: '1679'
+vertrek: 31-03-1679
+terugkeer: 04-05-1679
+reisdagen: '34'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+route:
+- plaats: Arnhem
+  land_modern: Nederlandse Republiek
+  datum: 31-03-1679
+- plaats: Angers
+  land_modern: Frankrijk
+  datum: 04-05-1679
+manuscript: adolph-hendrik-van-rechteren-1679-hs
+beschrijving: "Verslag van een educatiereis van Adolf Hendrik van Rechteren (1656-1731) naar\
+  \ Frankrijk in 1679. Van Rechteren reisde van Arnhem via de Zuidelijke Nederlanden naar Parijs.\
+  \ Onderweg deed hij Antwerpen en Brussel aan. Vanuit Parijs reisde hij door het Loiregebied.\
+  \ Het verslag eindigt in Angers.\n\n Meertalig (Nederlands ([1-17], [25-30]), Frans ([18-25])."
+addenda:
+- beschrijving: Kasboekaantekeningen, waaronder aantekening over Van Rechterens eigen reis naar
+    Frankrijk ([1-5]), uitgeleende bedragen aan vrienden en familieleden ([6-9]), de reis van
+    zijn broer Johan Willem van Rechteren (1658-1718), heer van Verborch, naar Jeruzalem in
+    1686 ([10-11]), de reis van zijn broer Reinhard van Rechteren (1659-1732) naar Venetië ([12-13]),
+    de reis van een ander familielid in 1685 ([14-15]).
+  bron: Van Rechteren 1679
+literatuur:
+- BWN, XVI, 124-125; NNBW, II, 1174-1175; RAA.
+bronnen:
+- gemaakt-op-reis-database

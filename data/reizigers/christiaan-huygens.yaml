@@ -1,0 +1,60 @@
+id: christiaan-huygens
+naam: Huygens, Christiaan
+volledige_naam: Christiaan Huygens
+titel: Heer van Zeelhem.
+geslacht: Man
+geboren:
+  jaar: 1629
+  datum: 14-04-1629
+  plaats: Den Haag
+  provincie: Holland
+overleden:
+  jaar: 1695
+  datum: 08-07-1695
+  plaats: Voorburg
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1649 een reis naar Denemarken. Eerste reis: 01-09-1649 (20 jaar)'
+biografie: Zoon van Constantijn Huygens (1596-1687) en Suzanna van Baerle (1599-1637), broer
+  van Constantijn (1628-1697), Lodewijk (1631-1699), Philips (1633-1657) en Susanna (1637-1725).
+  Studeerde rechten en wiskunde in Leiden en zette zijn studie voort in Breda. Was een vooraanstaande
+  wiskundige, natuurkundige en deed verschillende wetenschappelijke uitvindingen en ontdekkingen,
+  waaronder de uitvinding van het slingeruurwerk. Publiceerde verschillende wetenschappelijke
+  werken. Trad in 1649 als secretaris van graaf Hendrik van Nassau-Siegen op tijdens diens reis
+  naar Denemarken in 1649. Reisde in 1655 naar Frankrijk met zijn broer Lodewijk, waar hij promoveerde
+  in Angers. Reisde naar Frankrijk en Engeland tussen 1660 en 1661 en bezocht Londen in 1663.
+  Kreeg in 1666 een positie aan de Académie Française en verbleef in Parijs tot 1681.
+genealogie:
+  vader: Constantijn Huygens (1596-1687)
+  moeder: Suzanna van Baerle (1599-1637)
+  broers_zussen:
+  - Constantijn (1628-1697)
+  - Lodewijk (1631-1699)
+  - Philips (1633-1657)
+  - Susanna (1637-1725).
+portretten:
+- titel: Familieportret van Constantijn Huygens (1596-1687) en zijn kinderen Constantijn II
+    Huygens (1628-1697), Christiaan Huygens (1629-1695), Lodewijk Huygens (1631-1699), Philips
+    Huygens (1633-1699) en Suzanne Huygens (1637-1725)
+  vervaardiger: Adriaen Hanneman (1604-1671)
+  jaar: '1640'
+  bron: RKD
+  link: https://rkd.nl/explore/images/13494
+  beschrijving: 'doek, olieverf
+
+    staande rechthoek 204,2 x 173,9 cm'
+- titel: Portret van Christiaan Huygens II (1629-1695)
+  vervaardiger: Caspar Netscher (1635-1684)
+  jaar: '1671'
+  bron: RKD
+  link: https://rkd.nl/explore/images/15885
+  beschrijving: 'papier op paneel, olieverf
+
+    staande rechthoek 30 x 24 cm'
+literatuur:
+- BWN, VIII, 1517-1526; NNBW, I, 1180-1186; RKD; Van Geer 1906, 1-22; Van Geer 1907, 37-64;
+  Kox en Polak 1979, 279-291; Kox en Polak 1990, 34-48; Andriesse 1993; Feingold 1996, 22-34;
+  Keesing 1996, 14-19; Vermij 2004; Keesing 2013; Leerintveld 2013.
+bronnen:
+- gemaakt-op-reis-database

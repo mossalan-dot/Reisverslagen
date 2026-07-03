@@ -1,0 +1,29 @@
+id: anon-1688-1694-1688
+titel: Reisjournalen van N.N. van reizen vanuit Utrecht naar Duitsland
+reizigers:
+- anon-1688-1694
+reistype: plezierreis
+jaren: '1688'
+vertrek: 11-06-1688
+terugkeer: 30-07-1688
+reisdagen: '49'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Polen
+route:
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 11-06-1688
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 30-07-1688
+manuscript: anon-1688-1694-1688-hs
+beschrijving: Verslag uit 1688 van een anonymus uit Utrecht naar Duitsland, Polen en terug in
+  het gezelschap van de heren Vermeer, De Gruyter en Van Aelst.
+reisgezellen:
+- naam: Vermeer
+- naam: de Gruyter
+- naam: van Aelst
+bronnen:
+- gemaakt-op-reis-database

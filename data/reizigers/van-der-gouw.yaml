@@ -1,7 +1,9 @@
 id: van-der-gouw
-naam: Van der Gouw
-opmerkingen: Aangemaakt op basis van appendix B van Gemaakt op reis; geen lemma in appendix
-  A.
+naam: Gouw Van der
+volledige_naam: Van der Gouw
+religie: Katholiek
+is_auteur: true
+korte_typering: 'Maakte in 1653 een reis naar Duitsland. Eerste reis: 26-08-1653'
+biografie: Maakte in 1653 een reis naar Duitsland.
 bronnen:
-- gemaakt-op-reis
-controle_nodig: true
+- gemaakt-op-reis-database

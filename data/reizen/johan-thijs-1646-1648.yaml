@@ -1,0 +1,43 @@
+id: johan-thijs-1646-1648
+titel: Reijsboeck van Johan Thijs en aenteykening van Munster in de provincien, Vranckreyk en
+  Engelant, tussen t’ jaar 1646 en 1648
+reizigers:
+- johan-thijs
+reistype: educatiereis
+jaren: 1646-1648
+vertrek: 25-10-1646
+terugkeer: 01-05-1648
+reisdagen: '554'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Engeland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 25-10-1646
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 01-05-1648
+manuscript: johan-thijs-1646-1648-hs
+beschrijving: Verslag van een educatiereis van Johan Thijs naar Frankrijk en Engeland in 1646-1648
+  in het gezelschap van de oriëntalist Job Ludolf (1624-1704). Thijs ging in 1646 scheep in
+  Hellevoetsluis en arriveerde in Dieppe. Hij bezocht Caen en Parijs en reisde langs het Loiregebied.
+  Door ziekte werd hij opgehouden in Nîmes. Hij stak het Kanaal over en bezocht Londen. Hij
+  ging scheep in Gravesend en arriveerde in Brielle, vanwaar hij doorreisde naar Leiden. Meertalig
+  (Nederlands (102-104), Frans (105-138), pp. 36 (102-138).
+reisgezellen:
+- naam: Job Ludolf
+  jaren: 1624–1704
+  opmerkingen: tutor
+brieven:
+- verzender: Johan Thijs
+  ontvanger: Claude de Saumaise (1588-1653)
+  datum: 01-01-1647
+  taal: Latijn
+  bron: Leiden, UBL, PAP 7
+literatuur:
+- BWN, XVIII, 119; NNBW, V, 925-926; De Jonge 1975, 1-31; Mourits 2001; Hoftijzer 2008; Mourits
+  2016; Van Anrooij en Hoftijzer 2017.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,59 @@
+id: van-winter-1660
+titel: Journal de mon Second Voyage en France.
+reizigers:
+- van-winter
+reistype: educatiereis
+jaren: '1660'
+vertrek: 13-04-1660
+terugkeer: 18-09-1662
+reisdagen: '888'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Zwitserland
+- Italië
+- Oostenrijk
+- Duitsland
+- Slowakije
+- Tsjechië
+- Elders
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 13-04-1660
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 18-09-1662
+manuscript: van-winter-1660-hs
+beschrijving: Beknopt verslag van een educatiereis van De Winter uit 1660-62, bestaande uit
+  plaatsnamen en afgelegde mijlen.  Hij bezocht Parijs en de Loirestreek en trok via de westkust
+  naar Bordeaux, waar hij de wintermaanden verbleef. Hij bezocht Montpellier en bleef enige
+  maanden in Lyon, voordat hij de Mont Cenis besteeg. In Italië bezocht Van Winter onder andere
+  Milaan, Siena en Napels. Hij bleef langere tijd in Rome en Venetië. Hij keerde terug via Oostenrijk,
+  vanwaar hij doorreisde naar Bratislava en Praag. Hij trok naar Dresden, Frankfurt, Straatsburg
+  en Keulen. Van Winter verbleef langere tijd in Parijs (9 mei-7 september 1660),  Orléans (8-17
+  september), Tours (20 september-4 oktober), La Rochelle (18-25 oktober), Bordeaux (28 oktober-3
+  februari 1661), Montpellier (21 februari-25 maart), Lyon (20 april-24 augustus; 1-12 september),
+  Rome (30 oktober-5 november; 20 november-10 april 1661), Napels (10-16 november), Venetië
+  (29 april-23 mei) en Wenen (20 juni-5 juli).
+addenda:
+- auteur: Van Winter
+  beschrijving: Overgeschreven inscripties
+- auteur: Van Winter
+  beschrijving: Afstandsnotities
+- auteur: Van Winter
+  beschrijving: Italiaans gedicht over de bijnamen van Italiaanse steden
+  bron: '6'
+- auteur: Van Winter
+  beschrijving: Kasboekaantekeningen
+  bron: '13'
+- auteur: Van Winter
+  beschrijving: Lijst van bezochte beelden in Italië
+  bron: '14'
+- auteur: Van Winter
+  beschrijving: Lijst van geldwisselaars
+  bron: '15'
+- beschrijving: Archiefaantekening
+  bron: '16'
+bronnen:
+- gemaakt-op-reis-database

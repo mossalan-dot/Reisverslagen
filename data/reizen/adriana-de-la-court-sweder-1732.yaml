@@ -1,0 +1,34 @@
+id: adriana-de-la-court-sweder-1732
+titel: Het jaar 1732. De reys na Maastricht
+reizigers:
+- adriana-de-la-court-sweder
+reistype: plezierreis
+jaren: '1732'
+vertrek: 19-07-1732
+terugkeer: 27-11-1732
+reisdagen: '131'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 19-07-1732
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 27-11-1732
+manuscript: adriana-de-la-court-sweder-1732-hs
+beschrijving: Verslag van een plezierreisje van Adriana de la Court naar Maastricht en de Zuidelijke
+  Nederlanden in 1732. De reis liep via Utrecht en Gelre naar Maastricht.
+addenda:
+- type: 'Paratekst: overig'
+  auteur: Adriana de la Court-Sweder
+  beschrijving: Latere bezitsaantekening
+  taal: Nederlands
+  bron: p. 29
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Verhoeven 2017a, 185-202; Verhoeven 2018, [xxx]; Moss 2018a.
+bronnen:
+- gemaakt-op-reis-database

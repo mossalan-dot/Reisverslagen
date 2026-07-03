@@ -1,0 +1,68 @@
+id: willem-schellinks-1661-1663
+titel: Tijdt en Plaatz wijzer weegens de Reijze gedaan bij Monsr. Jaq. Thierrij junior & Willem
+  Schellinks door 1. Engelandt, 2. Vrankrijck, 3. Italia, 4. Sicilien, 5. Malta, 6. Duijslandt,
+  7. Zwitzerlant, 8. Nederlandt, etc.
+reizigers:
+- willem-schellinks
+reistype: plezierreis
+jaren: 1661-1663
+vertrek: 14-07-1661
+terugkeer: 19-04-1663
+reisdagen: '644'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Engeland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 14-07-1661
+- plaats: Dieppe
+  land_modern: Frankrijk
+  datum: 19-04-1663
+manuscript: willem-schellinks-1661-1663-hs
+beschrijving: "Vier reisverslagen in drie banden van Willem Schellinks (1623-1678). Het betreft\
+  \ een netversie, deels gebaseerd op Lambert van den Bos’ Wegh-wyser uit 1665, waarschijnlijk\
+  \ geschreven tussen 1665 en 1668. Het verslag was waarschijnlijk bedoeld ter uitgave. Een\
+  \ zeventiende-eeuwse kopie van de laatste drie verslagen ligt in de Bodleian Library in Oxford\
+  \ (Ms. D’Orville 558-560). \n\nEerste deel van een verslag van een educatiereis naar Engeland,\
+  \ Frankrijk, Italië, Malta, Duitsland en Zwitserland tussen 1661 en 1665 van Willem Schellinks.\
+  \ Dit deel beschrijft de reis naar Engeland tussen 1661 en 1663. Schellinks begeleidde de\
+  \ dertienjarige reiziger Jacques Thierry jr. (1648-1709) en vervaardigde op verzoek van de\
+  \ advocaat Laurens van der Ham (1621-1678) honderdtwintig topografische tekeningen, waarvan\
+  \ er 61 werden opgenomen in diens Atlas. Schellings ging scheep in Hellevoetsluis en reisde\
+  \ naar Dover. Hij verbleef langere tijd in Londen en bezocht onder andere Hampton Court, Oxford,\
+  \ Bath en Salisbury. Hij stak het Kanaal over tussen Rye en Dieppe."
+reisgezellen:
+- naam: Jacques Thierry jr.
+  jaren: 1648–1709
+  opmerkingen: pupil
+addenda:
+- type: Bureaucratische documenten
+  beschrijving: Laissez-passer voor de reis naar Frankrijk
+  datum: '1663'
+  taal: Frans
+  locatie: Frankrijk
+  transcriptie: Nee
+  foto: Nee
+- type: 'Paratekst: aantekeningen'
+  auteur: Willem Schellings
+  beschrijving: Aantekeningen over de bezienswaardigheden van Londen
+  datum: 1661-1662
+  taal: Nederlands
+  locatie: Londen
+  transcriptie: Nee
+  foto: Nee
+- type: Schilderijen/tekeningen
+  auteur: Willem Schellings
+  beschrijving: Verschillende tekeningen van landschappen en stadsgezichten, onder andere van
+    Dover, Canterbury en Stonehenge
+  datum: 1661-1663
+  bron: RKD; Schellings 1993, 23-28; Alsteens en Buijs 2008, 71-189
+  locatie: Engeland
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- Schellings 1993,  1-29; Alsteens en Buijs 2008, 71-189.
+bronnen:
+- gemaakt-op-reis-database

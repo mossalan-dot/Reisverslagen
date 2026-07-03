@@ -1,0 +1,128 @@
+id: jan-pieter-alderwerelt-1693-1695
+titel: Educatiereis naar Duitsland, Oostenrijk, Italië en Tsjechië
+reizigers:
+- jan-pieter-alderwerelt
+reistype: educatiereis
+jaren: 1693-1695
+vertrek: 3-11-1693
+terugkeer: 5-4-1695
+reisdagen: '518'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Italië
+- Tsjechië
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 3-11-1693
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 5-4-1695
+beschrijving: Maakte tussen 1693 en 1695 een educatiereis naar Italië in het gezelschap van
+  de Leidse baron Jacob Emmery van Wassenaar van Obdam (1673-1724), Andries Bicker van Swieten
+  (ºca. 1670-1696), Keyser uit Lüneburg en tutor Laurens Gronovius (1648-1724).
+reisgezellen:
+- naam: Jacob Emmery van Wassenaer van Obdam heer van Zuid-Waddinxveen
+  jaren: 1673–1724
+- naam: Andries Bicker van Swieten
+  jaren: 1670–1686
+- naam: Keyser
+  opmerkingen: uit Lüneburg
+- naam: Laurens Gronovius
+  jaren: 1648–1724
+  opmerkingen: journaalschrijver, tutor
+brieven:
+- verzender: Laurens Gronovius
+  ontvanger: Van Teylingen
+  datum: 01-01-1694
+  relatie: reiziger-bankier
+  taal: Nederlands
+  opmerking: brief aan de bankier
+- verzender: Laurens Gronovius
+  ontvanger: Van Teylingen
+  datum: 01-02-1694
+  relatie: reiziger-bankier
+  taal: Nederlands
+  opmerking: brief aan de bankier
+- verzender: Antonio Magliabechi (1633-1714)
+  ontvanger: Laurens Gronovius
+  datum: 06-06-1696
+  plaats_verzender: Florence
+  land_verzender: IT
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: geleerde-geleerde
+  taal: Italiaans
+  opmerking: brief over Bicker van Swietens overlijden, mysterieuze omstandigheden
+- verzender: Laurens Gronovius
+  ontvanger: Antonio Magliabechi
+  datum: 26-05-1696
+- verzender: Laurens Gronovius
+  ontvanger: Jacob Gronovius (1645-1716)
+  datum: 08-04-1700
+  relatie: broer-broer
+  taal: Nederlands
+  opmerking: brief over Bicker van Swietens affaire met een prostituee
+poezie:
+- titel: Generosissimo, ac Magnae Fortunae Candidato / Andrae Bicker van Zwieten / Amstelodamensi
+    / filio unico / Viri Nobilissimi & Spectatissimi / Gerardi Bicker van Zwieten J.U.D. / Generis
+    et Magnificarum Dignitatum / successori dignissimo
+  dichter: Laurens Gronovius
+  aan: Andries Bicker van Swieten
+  datum: '1694'
+  locatie: Padua, Italië
+  taal: Latijn
+  bron: Wallinga 1997a, 269-271
+  beschrijving: gedicht op de promotie in de rechten van Bicker van Swieten in Padua in 1694
+addenda:
+- type: Reisverslag
+  auteur: Laurens Gronovius
+  beschrijving: Reisverslag van Laurens Gronovius
+  datum: 1693-1695
+  relatie: tutor-leerling
+  taal: Nederlands
+  bron: 1693-1695
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: afstandsaantekeningen'
+  auteur: Laurens Gronovius
+  beschrijving: Los katern met afstandstabellen, overgenomen uit een reisgids
+  datum: 1693-1695
+  relatie: tutor-leerling
+  taal: Nederlands
+  bron: Gronovius 1693-1695
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Laurens Gronovius
+  beschrijving: Boekenlijst met reisliteratuur
+  datum: 1693-1695
+  relatie: tutor-leerling
+  taal: Nederlands
+  bron: Gronovius 1693-1695
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Laurens Gronovius
+  beschrijving: Franse stadsbeschrijvingen van Acquapendente en Bolsena
+  datum: 1693-1695
+  relatie: tutor-leerling
+  taal: Frans
+  bron: Gronovius 1693-1695
+  transcriptie: Nee
+  foto: Ja
+- type: Kladversie
+  auteur: Laurens Gronovius
+  beschrijving: Kladaantekeningen van 2 november tot 24 december 1693
+  datum: 24-12-1693
+  relatie: tutor-leerling
+  taal: Nederlands
+  bron: Gronovius 1693-1695
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Wallinga 1997a, 245-271; Wallinga 1997b, 459-495; Moss [2019].
+bronnen:
+- gemaakt-op-reis-database

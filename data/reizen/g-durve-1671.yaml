@@ -1,0 +1,26 @@
+id: g-durve-1671
+titel: Plezierreis naar Overijssel en Geldernad
+reizigers:
+- g-durve
+reistype: plezierreis
+jaren: '1671'
+vertrek: 13-07-1671
+terugkeer: 24-07-1671
+reisdagen: '11'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 13-07-1671
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 24-07-1671
+beschrijving: Maakte een plezierreis naar Overijssel en Gelderland in 1671 met Van Winter.
+reisgezellen:
+- naam: van Winter
+addenda:
+- beschrijving: Reisverslag van Van Winter
+  bron: Van Winter 1671
+bronnen:
+- gemaakt-op-reis-database

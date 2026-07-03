@@ -1,0 +1,38 @@
+id: lucie-van-sandick-1787
+titel: Vlucht naar Nijmegen
+reizigers:
+- lucie-van-sandick
+reistype: overig
+jaren: '1787'
+vertrek: 28-08-1787
+terugkeer: 16-10-1787
+reisdagen: '49'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 28-08-1787
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 16-10-1787
+beschrijving: Vluchtte in 1787 naar het stadhouderlijk hof in Nijmegen met haar tante Carolina
+  Wilhelmina van Haren en nichten Anna (1766-1802) en Geertruida van Hogendorp (ca. 1765-1800).
+reisgezellen:
+- naam: Carolina Wilhelmina van Haren
+  opmerkingen: tante
+- naam: Anna van Hogendorp
+  jaren: 1766–1802
+  opmerkingen: journaalschrijver, nicht
+- naam: Geertruida van Hogendorp
+  jaren: 1765–1800
+  opmerkingen: journaalschrijver, nicht
+addenda:
+- beschrijving: Reisverslag van Geertruida van Hogendorp
+  bron: Van Hogendorp 1787a
+- beschrijving: Reisverslag van Anna van Hogendorp
+  bron: Van Hogendorp 1787b
+literatuur:
+- LSD; Baggerman en Dekker 2004, 143–156; Harmsma 2006, 17-25.
+bronnen:
+- gemaakt-op-reis-database

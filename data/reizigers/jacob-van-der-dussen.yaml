@@ -1,0 +1,32 @@
+id: jacob-van-der-dussen
+naam: Dussen, Jacob van der
+volledige_naam: Jacob van der Dussen
+titel: Heer van Oost-Barendrecht
+geslacht: Man
+geboren:
+  jaar: 1671
+  datum: 14-03-1671
+  plaats: Dordrecht
+  provincie: Holland
+overleden:
+  jaar: 1728
+  datum: 01-11-1728
+  plaats: Dordrecht
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1699-1700 een educatiereis. Eerste reis: 28-08-1699 (28 jaar)'
+biografie: Zoon van Nicolaas Ewoutsz. van der Dussen (1636-1719) en Lydia van Beveren (º1647),
+  broer van Pieter (1673-1726) en Cornelis (1684-1754). Maakte met Pieter een educatiereis naar
+  Duitsland, Italië en Zwitserland in 1699 en 1700. Werd schepen van Dordrecht in 1696, raad
+  in 1705 en burgemeester in 1717.
+genealogie:
+  vader: Nicolaas Ewoutsz. van der Dussen (1636-1719)
+  moeder: Lydia van Beveren (º1647)
+  broers_zussen:
+  - Cornelis (1684-1754)
+  - Pieter (1673-1726)
+literatuur:
+- Ferwerda 1763; Nagtegaal 2005, 301-338; Van de Pol 2011, 79-81.
+bronnen:
+- gemaakt-op-reis-database

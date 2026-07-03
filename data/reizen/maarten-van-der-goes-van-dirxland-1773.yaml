@@ -1,0 +1,25 @@
+id: maarten-van-der-goes-van-dirxland-1773
+titel: Journaal van een bezoek aan Parijs
+reizigers:
+- maarten-van-der-goes-van-dirxland
+reistype: plezierreis
+jaren: '1773'
+vertrek: 03-11-1773
+terugkeer: 19-11-1773
+reisdagen: '16'
+gebieden:
+- Frankrijk
+route:
+- plaats: Parijs
+  land_modern: Frankrijk
+  datum: 03-11-1773
+- plaats: Parijs
+  land_modern: Frankrijk
+  datum: 19-11-1773
+manuscript: maarten-van-der-goes-van-dirxland-1773-hs
+beschrijving: Verslag van Maarten van der Goes van Dirxland naar Parijs, waarbij hij extra aandacht
+  heeft voor opera- en toneelvoorstellingen. Het verslag houdt op in Parijs.
+literatuur:
+- Waldeck 2017
+bronnen:
+- gemaakt-op-reis-database

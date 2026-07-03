@@ -1,0 +1,528 @@
+id: michiel-heusch-jr-2-1664-1665
+titel: Educatiereis naar Italië en Frankrijk
+reizigers:
+- michiel-heusch-jr-2
+reistype: educatiereis
+jaren: 1664-1665
+vertrek: 01-06-1664
+terugkeer: 01-06-1665
+reisdagen: '365'
+gebieden:
+- Duitsland
+- Oostenrijk
+- Italië
+- Frankrijk
+route:
+- plaats: Hamburg
+  land_modern: Duitsland
+  datum: 01-06-1664
+- plaats: Hamburg
+  land_modern: Duitsland
+  datum: 01-06-1665
+beschrijving: Maakte tussen 1664 en 1665 een educatiereis naar Duitsland, Italië en Frankrijk
+  en bezocht onder andere Neurenberg, Venetië, Rome, Napels, Florence, Livorno en Genua.
+brieven:
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 04-06-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Neurenberg
+  land_ontvanger: D
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 08-06-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Neurenberg
+  land_ontvanger: D
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 15-06-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Neurenberg
+  land_ontvanger: D
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 22-06-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 29-06-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 06-07-1664
+  plaats_verzender: v
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 13-07-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 20-07-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 27-07-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 03-08-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 17-08-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 24-08-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Rome
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 07-09-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 14-09-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Rome
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 21-09-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Rome
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 05-10-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Rome
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 12-10-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Napels
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 19-10-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Napels
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 26-10-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Napels
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 02-11-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Rome
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 09-11-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Rome
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 16-11-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Rome
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 23-11-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Florence
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 30-11-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Florence
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 07-12-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Florence
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 14-12-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Florence
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 21-12-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Livorno
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 28-12-1664
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Livorno
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 04-01-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Livorno
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 11-01-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 18-01-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 25-01-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Venetië
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 01-02-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 08-02-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 15-02-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 22-02-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 01-03-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 08-03-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 15-03-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 22-03-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 29-03-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 05-04-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 12-04-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 19-04-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 26-04-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 03-05-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Michiel Heusch sr. (1601-1684)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 10-05-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Gerard Heusch
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 22-02-1665
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: neef-neef
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Elisabeth Heusch (1638-1708)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 05-04-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: zus-broer
+  taal: Nederlands
+  bron: Van der Wal 2019
+- verzender: Elisabeth Bosschaert (1609-1679)
+  ontvanger: Michiel Heusch jr. (1641-1668)
+  datum: 26-04-1665
+  plaats_verzender: Hamburg
+  land_verzender: D
+  plaats_ontvanger: Genua
+  land_ontvanger: IT
+  relatie: moeder-zoon
+  taal: Nederlands
+  bron: Van der Wal 2019
+- ontvanger: Michiel Heusch jr. (1641-1668)
+  bron: Van der Wal 2019
+literatuur:
+- Van der Wal 2019.
+bronnen:
+- gemaakt-op-reis-database

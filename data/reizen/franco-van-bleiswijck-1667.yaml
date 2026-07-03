@@ -1,0 +1,36 @@
+id: franco-van-bleiswijck-1667
+titel: Reijse in comp. van juffrouw Johanna Doublet, broeder en suster Doublet en mij Franco
+  van Bleeswijck.
+reizigers:
+- franco-van-bleiswijck
+reistype: plezierreis
+jaren: '1667'
+vertrek: 4-7-1667
+terugkeer: 26-7-1667
+reisdagen: '22'
+gebieden:
+- Verslag van een plezierreis van Franco van Bleiswijck in 1667 naar Den Bosch in het gezelschap
+  van Johanna Doublet en andere leden van de familie Doublet. Het origineel ontbreekt. Dit is
+  het afschrift dat als losse katern is opgenomen bij de latere reis uit 1670-1671.
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 4-7-1667
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 26-7-1667
+manuscript: franco-van-bleiswijck-1667-hs
+beschrijving: Verslag van een plezierreis van Franco van Bleiswijck in 1667 naar Den Bosch in
+  het gezelschap van Johanna Doublet en andere leden van de familie Doublet. Het origineel ontbreekt.
+  Dit is het afschrift dat als losse katern is opgenomen bij de latere reis uit 1670-1671. Het
+  andere verslag is zoek.
+reisgezellen:
+- naam: Johanna Doublet
+- naam: Doublet
+  opmerkingen: broer van de vorige
+- naam: Doublet
+  opmerkingen: zus van de vorige
+bronnen:
+- gemaakt-op-reis-database

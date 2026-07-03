@@ -1,0 +1,30 @@
+id: simon-waijop-1674
+titel: Plezierreis naar de Zuidelijke Nederlanden
+reizigers:
+- simon-waijop
+reistype: plezierreis
+jaren: '1674'
+vertrek: 21-06-1674
+terugkeer: 06-08-1674
+reisdagen: '46'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 21-06-1674
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 06-08-1674
+beschrijving: Maakte in 1674 een plezierreisje per boot naar de Zuidelijke Nederlanden met Gerard
+  Hinlopen (1644-1691).
+reisgezellen:
+- naam: Gerard Hinlopen
+  jaren: 1644–1691
+  opmerkingen: journaalschrijver
+addenda:
+- beschrijving: Reisverslag van Gerard Hinlopen
+  bron: Hinlopen 1674
+bronnen:
+- gemaakt-op-reis-database

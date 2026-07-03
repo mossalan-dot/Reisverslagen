@@ -1,0 +1,39 @@
+id: arnout-hellemans-hooft-1652
+titel: Door Overijssel nae Benthem. 1652
+reizigers:
+- arnout-hellemans-hooft
+reistype: plezierreis
+jaren: '1652'
+vertrek: 15-09-1652
+terugkeer: 26-09-1652
+reisdagen: '11'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 15-09-1652
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 26-09-1652
+manuscript: arnout-hellemans-hooft-1652-hs
+beschrijving: Kort verslag van een plezierreis van Arnout Hellemans Hooft naar Overijssel en
+  Bentheim in Duitsland in 1652 in het gezelschap van Van Leeuwen. Hellemans Hooft trok via
+  Overijssel naar Bentheim, waar hij zijn vriend Ernst Willem (1623-1693), graaf van Bentheim,
+  bezocht. Hij keerde terug via Deventer en Arnhem.
+reisgezellen:
+- naam: van Leeuwen
+addenda:
+- type: 'Paratekst: kasboek(aantekeningen)'
+  auteur: Arnout Hellemans Hooft
+  beschrijving: Lijst van inkomsten
+  datum: '1652'
+  taal: Nederlands
+  bron: f. 188v
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Hellemans Hooft 2001, 1-33; Witte 2002, 177-182; Van de Pol 2011, 43-78; Moss 2015, 92-93.
+bronnen:
+- gemaakt-op-reis-database

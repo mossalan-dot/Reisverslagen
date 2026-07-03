@@ -1,0 +1,28 @@
+id: pieter-teding-van-berkhout-1664
+titel: Relation du voiage depuis la Haije ius qua Paris
+reizigers:
+- pieter-teding-van-berkhout
+reistype: educatiereis
+jaren: '1664'
+vertrek: 03-06-1664
+terugkeer: 06-11-1664
+reisdagen: '156'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 03-06-1664
+- plaats: Lyon
+  land_modern: Frankrijk
+  datum: 06-11-1664
+manuscript: pieter-teding-van-berkhout-1664-hs
+beschrijving: Verslag van een educatiereis van Pieter Teding van Berkhout (1643-1713) naar Frankrijk
+  in 1664. Teding van Berkhout reisde via de Zuidelijke Nederlanden naar Parijs. Hij promoveerde
+  in Bourges. Het verslag eindigt in Lyon.
+literatuur:
+- NNBW, IV, 135-136; RAA; Frank-van Westrienen 2007.
+bronnen:
+- gemaakt-op-reis-database

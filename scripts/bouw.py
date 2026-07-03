@@ -4,8 +4,13 @@
 Gebruik:
     python3 scripts/bouw.py            controleer en bouw
     python3 scripts/bouw.py --controle alleen controleren, niets bouwen
+
+De volledige dataset komt in docs/data.json. In docs/index.html wordt een
+lichte versie ingebed (zonder de lange brief- en gedichtteksten); die worden
+bij het openen van een detail nageladen uit data.json.
 """
 
+import copy
 import json
 import re
 import sys
@@ -17,164 +22,121 @@ import yaml
 WORTEL = Path(__file__).resolve().parent.parent
 DATA = WORTEL / "data"
 DOCS = WORTEL / "docs"
-
 ID_PATROON = re.compile(r"^[a-z0-9][a-z0-9-]*$")
+PREVIEW = 280
 
-REISTYPEN = {
-    "educatiereis", "pelgrimsreis", "diplomatieke reis", "handelsreis",
-    "militaire reis", "plezierreis", "gemengd", "overig", "onbekend",
-}
-MANUSCRIPTTYPEN = {"klad", "net", "kopie", "brieven", "overig", "onbekend"}
-STATUSSEN = {"geen", "gedeeltelijk", "volledig", "onbekend"}
-INSTELLINGSTYPEN = {"archief", "bibliotheek", "museum", "particulier", "overig"}
-
-fouten = []
-waarschuwingen = []
+fouten, waarschuwingen = [], []
 
 
 def laad_map(naam):
-    """Laadt alle YAML-bestanden uit data/<naam>/ en controleert de id's."""
     records = []
     map_ = DATA / naam
     if not map_.is_dir():
         return records
-    for pad in sorted(map_.glob("*.yaml")) + sorted(map_.glob("*.yml")):
+    for pad in sorted(map_.glob("*.yaml")):
         rel = pad.relative_to(WORTEL)
         try:
-            record = yaml.safe_load(pad.read_text(encoding="utf-8"))
+            r = yaml.safe_load(pad.read_text(encoding="utf-8"))
         except yaml.YAMLError as e:
             fouten.append(f"{rel}: YAML-fout: {e}")
             continue
-        if not isinstance(record, dict):
-            fouten.append(f"{rel}: bestand bevat geen veldenlijst")
+        if not isinstance(r, dict):
+            fouten.append(f"{rel}: geen veldenlijst")
             continue
-        record["_bestand"] = str(rel)
-        records.append(record)
+        r["_bestand"] = str(rel)
+        records.append(r)
     return records
 
 
-def controleer(records, soort, verplicht):
+def controleer(records, verplicht):
     ids = set()
     for r in records:
-        rel = r["_bestand"]
         rid = r.get("id")
-        if not rid or not isinstance(rid, str) or not ID_PATROON.match(rid):
-            fouten.append(f"{rel}: ontbrekende of ongeldige id (kleine letters, cijfers, koppeltekens)")
+        if not rid or not ID_PATROON.match(str(rid)):
+            fouten.append(f"{r['_bestand']}: ontbrekende of ongeldige id")
             continue
         if rid in ids:
-            fouten.append(f"{rel}: dubbele id '{rid}'")
+            fouten.append(f"{r['_bestand']}: dubbele id '{rid}'")
         ids.add(rid)
         for veld in verplicht:
             if not r.get(veld):
-                fouten.append(f"{rel}: verplicht veld '{veld}' ontbreekt of is leeg")
+                fouten.append(f"{r['_bestand']}: verplicht veld '{veld}' ontbreekt")
     return ids
 
 
-def controleer_verwijzingen(records, veld, doel_ids, doelnaam, lijst=True):
+def verwijzing(records, veld, doel, naam, lijst=True):
     for r in records:
-        waarde = r.get(veld)
-        if not waarde:
+        w = r.get(veld)
+        if not w:
             continue
-        verwijzingen = waarde if lijst else [waarde]
-        for v in verwijzingen:
-            if v not in doel_ids:
-                fouten.append(f"{r['_bestand']}: '{veld}' verwijst naar onbekende {doelnaam} '{v}'")
-
-
-def controleer_keuze(records, veld, toegestaan, subveld=None):
-    for r in records:
-        waarde = r.get(veld)
-        if subveld and isinstance(waarde, dict):
-            waarde = waarde.get(subveld)
-        if waarde and waarde not in toegestaan:
-            plek = f"{veld}.{subveld}" if subveld else veld
-            fouten.append(
-                f"{r['_bestand']}: '{plek}' heeft ongeldige waarde '{waarde}' "
-                f"(toegestaan: {', '.join(sorted(toegestaan))})"
-            )
+        for v in (w if lijst else [w]):
+            if v not in doel:
+                fouten.append(f"{r['_bestand']}: '{veld}' verwijst naar onbekende {naam} '{v}'")
 
 
 def hoofd():
-    alleen_controle = "--controle" in sys.argv[1:]
-
+    alleen = "--controle" in sys.argv[1:]
     reizigers = laad_map("reizigers")
     reizen = laad_map("reizen")
     manuscripten = laad_map("manuscripten")
     instellingen = laad_map("instellingen")
 
-    reiziger_ids = controleer(reizigers, "reiziger", ["naam"])
-    # 'reizigers' is niet verplicht: anonieme reizen bestaan
-    reis_ids = controleer(reizen, "reis", ["titel"])
-    manuscript_ids = controleer(manuscripten, "manuscript", ["titel_aanduiding"])
-    instelling_ids = controleer(instellingen, "instelling", ["naam"])
+    r_ids = controleer(reizigers, ["naam"])
+    reis_ids = controleer(reizen, ["titel"])
+    m_ids = controleer(manuscripten, ["titel_aanduiding"])
+    i_ids = controleer(instellingen, ["naam"])
 
-    # Controleer dat id's over alle soorten heen uniek zijn.
-    alle = {}
-    for soort, ids in [("reiziger", reiziger_ids), ("reis", reis_ids),
-                       ("manuscript", manuscript_ids), ("instelling", instelling_ids)]:
-        for rid in ids:
-            if rid in alle:
-                fouten.append(f"id '{rid}' komt voor als {alle[rid]} én als {soort}")
-            alle[rid] = soort
-
-    controleer_verwijzingen(reizen, "reizigers", reiziger_ids, "reiziger")
-    controleer_verwijzingen(manuscripten, "reizen", reis_ids, "reis")
-    controleer_verwijzingen(manuscripten, "auteurs", reiziger_ids, "reiziger")
-    controleer_verwijzingen(manuscripten, "instelling", instelling_ids, "instelling", lijst=False)
-
-    controleer_keuze(reizen, "reistype", REISTYPEN)
-    controleer_keuze(manuscripten, "manuscripttype", MANUSCRIPTTYPEN)
-    controleer_keuze(manuscripten, "digitalisering", STATUSSEN, subveld="status")
-    controleer_keuze(manuscripten, "transcriptie", STATUSSEN, subveld="status")
-    controleer_keuze(instellingen, "type", INSTELLINGSTYPEN)
+    verwijzing(reizen, "reizigers", r_ids, "reiziger")
+    verwijzing(reizen, "manuscript", m_ids, "manuscript", lijst=False)
+    verwijzing(manuscripten, "reizen", reis_ids, "reis")
+    verwijzing(manuscripten, "auteurs", r_ids, "reiziger")
+    verwijzing(manuscripten, "instelling", i_ids, "instelling", lijst=False)
 
     for m in manuscripten:
         if not m.get("instelling"):
-            waarschuwingen.append(f"{m['_bestand']}: geen bewaarinstelling opgegeven")
-
-    te_controleren = sum(
-        1 for r in reizigers + reizen + manuscripten + instellingen if r.get("controle_nodig")
-    )
+            waarschuwingen.append(f"{m['_bestand']}: geen bewaarinstelling")
 
     if fouten:
         print(f"FOUTEN ({len(fouten)}):")
-        for f in fouten:
-            print(f"  - {f}")
+        for f in fouten[:40]:
+            print("  -", f)
     if waarschuwingen:
-        print(f"Waarschuwingen ({len(waarschuwingen)}):")
-        for w in waarschuwingen:
-            print(f"  - {w}")
-    print(
-        f"Gelezen: {len(reizigers)} reizigers, {len(reizen)} reizen, "
-        f"{len(manuscripten)} manuscripten, {len(instellingen)} instellingen "
-        f"({te_controleren} records gemarkeerd met controle_nodig)."
-    )
+        print(f"Waarschuwingen: {len(waarschuwingen)}")
+    print(f"Gelezen: {len(reizigers)} reizigers, {len(reizen)} reizen, "
+          f"{len(manuscripten)} manuscripten, {len(instellingen)} instellingen.")
     if fouten:
         sys.exit(1)
-    if alleen_controle:
+    if alleen:
         print("Controle geslaagd.")
         return
 
     def schoon(records):
         return [{k: v for k, v in r.items() if k != "_bestand"} for r in records]
 
-    dataset = {
+    vol = {
         "gegenereerd": date.today().isoformat(),
-        "reizigers": schoon(reizigers),
-        "reizen": schoon(reizen),
-        "manuscripten": schoon(manuscripten),
-        "instellingen": schoon(instellingen),
+        "reizigers": schoon(reizigers), "reizen": schoon(reizen),
+        "manuscripten": schoon(manuscripten), "instellingen": schoon(instellingen),
     }
-
     DOCS.mkdir(exist_ok=True)
-    (DOCS / "data.json").write_text(
-        json.dumps(dataset, ensure_ascii=False, indent=1), encoding="utf-8"
-    )
+    (DOCS / "data.json").write_text(json.dumps(vol, ensure_ascii=False), encoding="utf-8")
 
+    # lichte versie: lange teksten inkorten (worden nageladen uit data.json)
+    licht = copy.deepcopy(vol)
+    ingekort = 0
+    for reis in licht["reizen"]:
+        for sleutel in ("brieven", "poezie"):
+            for item in reis.get(sleutel, []):
+                t = item.get("tekst") or ""
+                if len(t) > PREVIEW:
+                    item["tekst"] = t[:PREVIEW].rstrip() + "…"
+                    item["_ingekort"] = True
+                    ingekort += 1
     sjabloon = (WORTEL / "scripts" / "sjabloon.html").read_text(encoding="utf-8")
-    html = sjabloon.replace("__DATA_JSON__", json.dumps(dataset, ensure_ascii=False))
+    html = sjabloon.replace("__DATA_JSON__", json.dumps(licht, ensure_ascii=False))
     (DOCS / "index.html").write_text(html, encoding="utf-8")
-    print(f"Website gebouwd: {DOCS / 'index.html'}")
+    kb = (DOCS / "index.html").stat().st_size // 1024
+    print(f"Website gebouwd: index.html ({kb} KB, {ingekort} teksten ingekort), data.json volledig.")
 
 
 if __name__ == "__main__":

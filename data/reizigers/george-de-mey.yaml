@@ -1,0 +1,33 @@
+id: george-de-mey
+naam: Mey, George de
+volledige_naam: George de Mey
+geslacht: Man
+geboren:
+  jaar: 1628
+  datum: 01-01-1628
+  plaats: Rotterdam
+  provincie: Holland
+overleden:
+  jaar: 1712
+  datum: 01-01-1712
+  plaats: Gouda
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1651-1652 een reis naar Engeland. Eerste reis: 20-12-1651 (23 jaar)'
+biografie: Zoon van Jan de Mey en Eva Rou. Studeerde in Leiden. Reisde in 1651 en 1652 naar
+  Engeland als predikant in het gezelschap van Jacob Cats (1577-1660), Gerard Schaap (1599-1655)
+  en Paulus van der Perre (ca. 1598-1653). Ook Adriaen Schagen (1633-1699) en Lodewijk Huygens
+  (1631-1699) hielden een journaal bij. Was predikant in Leidschendam, Steenwijk, Gorinchem
+  en Gouda en schreef over de verschillen tussen de katholieke en protestantse kerk.
+genealogie:
+  vader: Jan de Mey
+  moeder: Eva Rou
+  echtgenoten:
+  - Maria Baalte
+  kinderen:
+  - Willem (1658-1709)
+literatuur:
+- BWN, XII, 763; NNBW, X, 625-626
+bronnen:
+- gemaakt-op-reis-database

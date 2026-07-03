@@ -1,0 +1,33 @@
+id: nehemia-vegelin-van-claerbergen-1719
+titel: Journalen van een reis van Nehemia Vegelin van Claerbergen naar Vlaanderen, Frankrijk,
+  Spanje, Italië, Zwitserland en Duitsland. Voyage de France
+reizigers:
+- nehemia-vegelin-van-claerbergen
+reistype: educatiereis
+jaren: '1719'
+vertrek: 07-07-1719
+terugkeer: 17-12-1719
+reisdagen: '163'
+gebieden:
+- Frankrijk
+route:
+- plaats: Bayonne
+  land_modern: Frankrijk
+  datum: 07-07-1719
+- plaats: Antibes
+  land_modern: Frankrijk
+  datum: 17-12-1719
+manuscript: nehemia-vegelin-van-claerbergen-1719-hs
+beschrijving: Verslag van een educatiereis van Nehemia Vegelin van Claerbergen naar Frankrijk
+  in 1719 in het gezelschap van Johan Willem (1682-1737), baron van Ripperda. Vegelin van Claerbergen
+  bezocht onder andere Avignon, Marseille en Monaco.
+reisgezellen:
+- naam: Johan Willem van Ripperda
+  jaren: 1682–1737
+addenda:
+- beschrijving: Bul wegens het behalen van de graad van doctor in de rechten
+  bron: FA Van Eysinga – Vegelin van Claerbergen 5033
+literatuur:
+- LSD; RAA; De Boer 1905, 279-299; De Vries 1922; Botke 1998, 32-48.
+bronnen:
+- gemaakt-op-reis-database

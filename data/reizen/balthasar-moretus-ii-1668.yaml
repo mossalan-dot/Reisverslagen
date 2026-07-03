@@ -1,0 +1,43 @@
+id: balthasar-moretus-ii-1668
+titel: Plezierreis naar Den Bosch, Zeeland en Brugge
+reizigers:
+- balthasar-moretus-ii
+reistype: plezierreis
+jaren: '1668'
+vertrek: 14-09-1668
+terugkeer: 05-10-1668
+reisdagen: '21'
+gebieden:
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 14-09-1668
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 05-10-1668
+beschrijving: Maakte een korte reis naar Den Bosch in 1668 met zijn echtgenote en kinderen.
+reisgezellen:
+- naam: Balthasar Moretus III
+  jaren: 1646–1696
+  opmerkingen: journaalschrijver, zoon
+- naam: Anna Goos
+  jaren: 1627–1691
+  opmerkingen: echtgenote
+- naam: Joannes Jacobus Moretus
+  jaren: 1647–1718
+  opmerkingen: zoon
+- naam: Franciscus Moretus
+  jaren: 1656–1705
+  opmerkingen: zoon
+- naam: Maria Isabella Moretus
+  jaren: 1655–1676
+  opmerkingen: dochter
+addenda:
+- beschrijving: Reisverslag van Balthasar Moretus III
+  bron: Sabbe 1924a
+literatuur:
+- Sabbe 1926; Van Broeckhoven 1970.
+bronnen:
+- gemaakt-op-reis-database

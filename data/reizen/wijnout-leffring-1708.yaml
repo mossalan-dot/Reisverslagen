@@ -1,0 +1,28 @@
+id: wijnout-leffring-1708
+titel: Zakenreis naar Den Haag
+reizigers:
+- wijnout-leffring
+reistype: handelsreis
+jaren: '1708'
+vertrek: 21-04-1708
+terugkeer: 29-04-1708
+reisdagen: '8'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Joure
+  land_modern: Nederlandse Republiek
+  datum: 21-04-1708
+- plaats: Joure
+  land_modern: Nederlandse Republiek
+  datum: 29-04-1708
+beschrijving: Maakte in 1708 een zakenreis naar Den Haag met Johan Vegelin van Claerbergen.
+reisgezellen:
+- naam: Johan Vegelin van Claerbergen
+  jaren: 1690–1773
+  opmerkingen: journaalschrijver
+addenda:
+- beschrijving: Reisverslag van Johan Vegelin van Claerbergen
+  bron: Vegelin van Claerbergen 1708
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,37 @@
+id: van-der-gouw-1653
+titel: Corte Beschrijvinge van Myn Duijtsche Reijs gedaen vander Gou den 21 Augusty
+reizigers:
+- van-der-gouw
+reistype: plezierreis
+jaren: '1653'
+vertrek: 26-08-1653
+terugkeer: 16-11-1653
+reisdagen: '82'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 26-08-1653
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 16-11-1653
+manuscript: van-der-gouw-1653-hs
+beschrijving: Verslag van een reis van Van der Gouw naar Duitsland in 1653. De reis liep van
+  Amsterdam via Gelre naar Duitsland, waar de reiziger Düsseldorf, Keulen en Spiers bezocht.
+  Hij keerde via dezelfde weg terug. Van der Gouw verbleef langere tijd in Wesel (31 augustus-10
+  september), Keulen (16-23 september; 2-8 november), Mainz (6-12 oktober), Worms (13-19 oktober),
+  en Spiers (19-25 oktober).
+addenda:
+- type: 'Paratekst: afstandsaantekeningen'
+  auteur: Van der Gouw
+  beschrijving: Afstandstabel in uren en dagen, getiteld ‘Memorij hoe ick ben nae boven gevaren
+    en in hoeveel tijt’
+  datum: '1653'
+  taal: Nederlands
+  bron: Van der Gouw 1653, f. 11v-13r.
+  transcriptie: Nee
+  foto: Ja
+bronnen:
+- gemaakt-op-reis-database

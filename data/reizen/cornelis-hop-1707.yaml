@@ -1,0 +1,44 @@
+id: cornelis-hop-1707
+titel: Verslagen van reizen als gezant door Duitsland en Oostenrijk, 1707-1711
+reizigers:
+- cornelis-hop
+reistype: militaire reis
+jaren: '1707'
+vertrek: 27-01-1707
+terugkeer: 31-03-1707
+reisdagen: '63'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 27-01-1707
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 31-03-1707
+manuscript: cornelis-hop-1707-hs
+beschrijving: Verslag van een militaire reis naar Duitsland en Oostenrijk van Cornelis Hop in
+  1707 in het gezelschap van luitenant-generaal der cavalerie Daniël van Dopff (ca. 1655-1718).
+  Het verslag was gericht aan een vriend. Hop reisde door Duitsland en verbleef langere tijd
+  in Wenen.
+reisgezellen:
+- naam: Daniël van Dopff
+  jaren: 1655–1718
+  opmerkingen: luitenant-generaal
+addenda:
+- type: Verbaal/rapport/minuut
+  auteur: Daniël van Dopff
+  beschrijving: Rapport van luitenant-generaal Dopff betreffende zijn verrichtingen in Wenen
+    over de veldtocht tijdens de Spaanse Successie Oorlog in het jaar 1707.1707
+  datum: '1707'
+  taal: Nederlands
+  bron: SG 12548.495
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- BWN, VIII, 1240-1242; NNBW, II, 601-602; RAA.
+bronnen:
+- gemaakt-op-reis-database

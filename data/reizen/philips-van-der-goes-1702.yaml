@@ -1,0 +1,28 @@
+id: philips-van-der-goes-1702
+titel: Militaire reis naar Spanje
+reizigers:
+- philips-van-der-goes
+reistype: militaire reis
+jaren: '1702'
+vertrek: 03-05-1702
+terugkeer: 19-11-1702
+reisdagen: '200'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+- Spanje
+route:
+- plaats: Hellevoetsluis
+  land_modern: Nederlandse Republiek
+  datum: 03-05-1702
+- plaats: Hellevoetsluis
+  land_modern: Nederlandse Republiek
+  datum: 19-11-1702
+beschrijving: In 1702 belegerde hij verdedigingswerken bij Càdiz en nam hij een Spaanse zilvervloot
+  buit in de baai van Vigos. De reis werd beschreven door predikant Petrus Zaunslifer (1677-1739).
+reisgezellen:
+- naam: Petrus Zaunslifer
+  jaren: 1677–1739
+  opmerkingen: journaalschrijver, predikant
+bronnen:
+- gemaakt-op-reis-database

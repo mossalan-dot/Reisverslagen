@@ -1,0 +1,39 @@
+id: antoni-eeckholt-1684-1685
+titel: Educatiereis naar Engeland, Frankrijk, Zwitserland en Duitsland
+reizigers:
+- antoni-eeckholt
+reistype: educatiereis
+jaren: 1684-1685
+vertrek: 06-10-1684
+terugkeer: 11-06-1685
+reisdagen: '248'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Engeland
+- Duitsland
+- Zwitserland
+route:
+- plaats: Deventer
+  land_modern: Nederlandse Republiek
+  datum: 06-10-1684
+- plaats: Deventer
+  land_modern: Nederlandse Republiek
+  datum: 11-06-1685
+beschrijving: Maakte in 1684 en 1685 een educatiereis naar Engeland, Frankrijk, Zwitserland
+  en Duitsland met zijn neef Hendrik Jordens (1667-1715).
+reisgezellen:
+- naam: Hendrik Jordens
+  jaren: 1663–1715
+  opmerkingen: journaalschrijver, neef
+addenda:
+- type: Reisverslag
+  auteur: Hendrik Jordens
+  beschrijving: Reisverslag van Hendrik Jordens
+  datum: 1684-1685
+  taal: Nederlands
+  bron: Jordens 1684-1685
+  transcriptie: Ja
+  foto: Ja
+bronnen:
+- gemaakt-op-reis-database

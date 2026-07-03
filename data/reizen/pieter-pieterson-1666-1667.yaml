@@ -1,0 +1,40 @@
+id: pieter-pieterson-1666-1667
+titel: Educatiereis naar Frankrijk en Engeland
+reizigers:
+- pieter-pieterson
+reistype: educatiereis
+jaren: 1666-1667
+vertrek: 27-09-1666
+terugkeer: 21-11-1667
+reisdagen: '420'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Engeland
+- Zuidelijke Nederlanden
+- Zwitserland
+route:
+- plaats: Brielle
+  land_modern: Nederlandse Republiek
+  datum: 27-09-1666
+- plaats: Brielle
+  land_modern: Nederlandse Republiek
+  datum: 21-11-1667
+beschrijving: Maakte in 1666 en 1667 een educatiereis naar Frankrijk en Engeland in het gezelschap
+  van neef Cornelis de Jonge van Ellemeet (1646-1721), Cornelis de Jonge van Oosterland (1645-1694)
+  en Justus van der Cijs.
+reisgezellen:
+- naam: Cornelis de Jonge van Ellemeet heer van Ellemeet, in Elkerzee, van Poortvliet, Kloetinge,
+    Schipluiden, Hodenpijl, St. Maartensrecht en Dalem.
+  jaren: 1646–1721
+  opmerkingen: journaalschrijver, neef
+- naam: Cornelis de Jonge van Oosterland heer van Oosterland
+  jaren: 1645–1694
+- naam: Justus van der Cijs
+addenda:
+- beschrijving: Reisverslag van Cornelis de Jonge van Ellemeet
+  bron: De Jonge van Ellemeet 1666-1667
+- beschrijving: Lijst van de route
+  bron: De Jonge van Ellemeet 1666-1667, pp. 146-149
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,24 @@
+id: samuel-radermacher-1712-iii
+titel: Noordhollandsche Reis begonnen den 19 smorgens ten 9 & geeindigt den 21 Maij savonts
+  ten 5 uuren 1712
+reizigers:
+- samuel-radermacher
+reistype: plezierreis
+jaren: 1712 III
+vertrek: 19-05-1712
+terugkeer: 21-05-1712
+reisdagen: '2'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 19-05-1712
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 21-05-1712
+manuscript: samuel-radermacher-1712-iii-hs
+beschrijving: Kort verslag van een plezierreisje van Samuel Radermacher naar Enkhuizen en Alkmaar
+  in 1712.
+bronnen:
+- gemaakt-op-reis-database

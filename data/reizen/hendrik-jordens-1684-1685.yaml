@@ -1,0 +1,37 @@
+id: hendrik-jordens-1684-1685
+titel: Beschrijvinge van een reis gedaen met neef Antoni Eeckholt door landen, steden, dorpen
+  hiernae beschreven Ao. 1684
+reizigers:
+- hendrik-jordens
+reistype: educatiereis
+jaren: 1684-1685
+vertrek: 06-10-1684
+terugkeer: 11-06-1685
+reisdagen: '248'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+- Frankrijk
+- Duitsland
+- Zwitserland
+route:
+- plaats: Deventer
+  land_modern: Nederlandse Republiek
+  datum: 06-10-1684
+- plaats: Deventer
+  land_modern: Nederlandse Republiek
+  datum: 11-06-1685
+manuscript: hendrik-jordens-1684-1685-hs
+beschrijving: Verslag van een educatiereis van Hendrik Jordens (1663-1715) naar Engeland, Frankrijk,
+  Zwitserland en Duitsland in 1684-1685 in het gezelschap van zijn neef Antoni Eeckholt. Jordens
+  ging scheep in Brielle en arriveerde in Harwich. Hij bezocht Londen en stak vervolgens het
+  Kanaal over tussen Dover en Calais. Hij bezocht Parijs en het Loiregebied, waar hij drie maanden
+  in Saumur en Angers doorbracht. Hij trok oostelijk naar Lyon en Genève en reisde door Zwitserland
+  en Duitsland. Hij trok langs Straatsburg, Mainz en Keulen en keerde terug naar Deventer. Jordens
+  verbleef langere tijd in Londen (18-30 oktober 1684), Parijs (9-20 november; 11 april-1 mei
+  1685), Saumur (24 november 1684-2 maart 1685) en Angers (2-26 maart).
+reisgezellen:
+- naam: Anthoni Eeckholt
+  opmerkingen: neef
+bronnen:
+- gemaakt-op-reis-database

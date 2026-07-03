@@ -1,0 +1,41 @@
+id: adriana-de-la-court-sweder-1743
+titel: De reys na Hamburg. 1743
+reizigers:
+- adriana-de-la-court-sweder
+reistype: plezierreis
+jaren: '1743'
+vertrek: 28-06-1743
+terugkeer: 07-09-1743
+reisdagen: '71'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 28-06-1743
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 07-09-1743
+manuscript: adriana-de-la-court-sweder-1743-hs
+beschrijving: Verslag van een plezierreisje van Adriana de la Court naar Hamburg in 1743. De
+  reis liep via Utrecht en Gelre naar Hamburg. Zij keerde terug via Groningen en Friesland.
+addenda:
+- type: 'Paratekst: herbergaantekeningen'
+  auteur: Adriana de la Court-Sweder
+  beschrijving: Lijst van herbergen
+  taal: Nederlands
+  bron: p. 27
+  transcriptie: Ja
+  foto: Ja
+- type: 'Paratekst: overig'
+  auteur: Adriana de la Court-Sweder
+  beschrijving: Latere bezitsaantekening
+  taal: Nederlands
+  bron: p. 27
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Verhoeven 2017a, 185-202; Verhoeven 2018, [xxx]; Moss 2018a.
+bronnen:
+- gemaakt-op-reis-database

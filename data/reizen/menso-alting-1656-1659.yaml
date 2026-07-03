@@ -1,0 +1,32 @@
+id: menso-alting-1656-1659
+titel: Notulae itineris mei per Germaniam, 1656-1660.
+reizigers:
+- menso-alting
+reistype: educatiereis
+jaren: 1656-1659
+vertrek: 29-2-1656
+terugkeer: 01-01-1659
+reisdagen: '1037'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Groningen
+  land_modern: Nederlandse Republiek
+  datum: 29-2-1656
+- plaats: Groningen
+  land_modern: Nederlandse Republiek
+  datum: 01-01-1659
+manuscript: menso-alting-1656-1659-hs
+beschrijving: Verslag van Menso Alting van verschillende reizen door Duitsland tussen 1656 en
+  1659.
+addenda:
+- type: 'Paratekst: overig'
+  auteur: Menso Alting
+  beschrijving: Ingevoegd blad
+  taal: Latijn
+  bron: f. 96r-97v
+  transcriptie: Nee
+  foto: Nee
+bronnen:
+- gemaakt-op-reis-database

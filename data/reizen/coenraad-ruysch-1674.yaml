@@ -1,0 +1,36 @@
+id: coenraad-ruysch-1674
+titel: Journaal van de Reijs dewelke ick gedaen hebbe naer Geneve int geselscap van de heer
+  Dirck van Hoogeveen, capitein van de Borgerij der Stade Leyde mijn wel geliefde Neve
+reizigers:
+- coenraad-ruysch
+reistype: educatiereis
+jaren: '1674'
+vertrek: 03-05-1674
+terugkeer: 11-07-1674
+reisdagen: '69'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Zwitserland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 03-05-1674
+- plaats: Genève
+  land_modern: Zwitserland
+  datum: 11-07-1674
+manuscript: coenraad-ruysch-1674-hs
+beschrijving: Eerste verslag van een educatiereis van Coenraad Ruysch naar Duitsland, Frankrijk
+  en Zwitserland in 1674 in het gezelschap van zijn neef Dirck van Hoogeveen. Ruysch trok van
+  Amsterdam via Friesland en Groningen naar Hamburg. Hij reisde zuidelijk naar Leipzig, maakte
+  een omweg naar Dresden en vervolgde zijn weg naar Augsburg en Ulm. Hij doorkruiste Zwitserland
+  en verbleef enkele maanden in Genève. Ruysch verbleef langere tijd in Hamburg (17-24 mei 1674)
+  en Dresden (10-16 juni).
+reisgezellen:
+- naam: Dirck van Hoogeveen
+  opmerkingen: neef
+literatuur:
+- Frank-van Westrienen 1983, 331-332; Prak 1985, 277; 410; Verhoeven 2009a, 338; Jansen 2011,
+  91-93.
+bronnen:
+- gemaakt-op-reis-database

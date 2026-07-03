@@ -1,0 +1,40 @@
+id: pieter-teding-van-berkhout
+naam: Teding van Berkhout, Pieter
+volledige_naam: Pieter Teding van Berkhout
+geslacht: Man
+geboren:
+  jaar: 1643
+  datum: 15-11-1643
+  plaats: Den Haag
+  provincie: Holland
+overleden:
+  jaar: 1713
+  datum: 05-02-1713
+  plaats: Delft
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1658 een reis naar Spa. Eerste reis: 01-01-1658 (15 jaar)'
+biografie: Zoon van Paulus Teding van Berkhout (1609-1672) en Jacomina van der Vorst (1611-1665),
+  broer van Joan (1648-1720). Maakte een reis naar Spa in 1658 en reisde naar Breda in 1660
+  om Karel II (1630-1685) te verwelkomen. Adriaen Schagen (1633-1699) schreef een verslag over
+  dat ontvangst. Reisde in 1660 naar Frankrijk. Maakte in 1664 een tweede reis naar Frankrijk
+  en een tweede diplomatieke reis naar Breda in 1667. Was luitenant en kapitein van de schutterij
+  van Delft en trok in 1672 naar Goejanverwellenssluis. Was veertigraad, schepen, weesmeester
+  en meermaals burgemeester van Delft.
+genealogie:
+  vader: Paulus Teding van Berkhout (1609-1672)
+  moeder: Jacomina van der Vorst (1611-1665)
+  broers_zussen:
+  - Joan (1648-1720)
+portretten:
+- titel: Portret van Pieter Teding van Berkhout
+  vervaardiger: Godefridus Schalcken (1643-1706)
+  jaar: '1674'
+  bron: RKD
+  link: https://rkd.nl/explore/images/123967
+  beschrijving: "koper, olieverf\nstaand ovaal 13,3 x 11,1 cm \nin rechthoekige lijst"
+literatuur:
+- NNBW, IV, 135-136; RAA; Frank-van Westrienen 2007.
+bronnen:
+- gemaakt-op-reis-database

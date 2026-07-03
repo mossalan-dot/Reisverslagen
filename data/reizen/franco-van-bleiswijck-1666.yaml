@@ -1,0 +1,30 @@
+id: franco-van-bleiswijck-1666
+titel: Kort memoriaal van een voyage door mij Franco van Bleiswijck in compagnie van de heer
+  en mr. Jacob Hallingh
+reizigers:
+- franco-van-bleiswijck
+reistype: plezierreis
+jaren: '1666'
+vertrek: 28-8-1666
+terugkeer: 17-9-1666
+reisdagen: '20'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 28-8-1666
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 17-9-1666
+manuscript: franco-van-bleiswijck-1666-hs
+beschrijving: Aantekeningen van reizen vanuit Delft naar Walcheren, over Bergen op Zoom naar
+  België en terug over Maastricht en Noord-Brabant, en door Noord-Holland, Utrecht, Noord-Brabant,  in
+  gezelschap van de heeren Nic. Roubergen, Bambeek en C. Soetens. Verslag is zoek.
+reisgezellen:
+- naam: Nicolaas Roubergen
+- naam: Bambeek
+- naam: C. Soetens
+- naam: Jacob Hallingh
+bronnen:
+- gemaakt-op-reis-database

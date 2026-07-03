@@ -1,0 +1,40 @@
+id: jan-corver-hooft-1802
+titel: Reize van Mr. Jan Corver Hooft naar Londen via Hamburg in den jare 1802
+reizigers:
+- jan-corver-hooft
+reistype: plezierreis
+jaren: '1802'
+vertrek: 23-08-1802
+terugkeer: 22-10-1802
+reisdagen: '60'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Engeland
+route:
+- plaats: Naarden
+  land_modern: Nederlandse Republiek
+  datum: 23-08-1802
+- plaats: Bristol
+  land_modern: Engeland
+  datum: 22-10-1802
+manuscript: jan-corver-hooft-1802-hs
+beschrijving: Verslag van een reis van Jan Corver Hooft (1781-1855) naar Hamburg en Londen.
+  Corver Hooft reed per koets naar Hamburg en ging daar scheep naar Engeland. In Londen bezocht
+  hij verschillende musea en theatervoorstellingen en ontmoette Willem V (1748-1806). Het verslag
+  breekt af in Bristol. Het verslag is kopie, vervaardigd door Rudolf Carol Six (1865-1915).
+  Aantekeningen van Six zijn in het verslag ingelast.
+addenda:
+- type: Provenanceaantekening
+  auteur: Catharina Isabella Six (1897-1986)
+  beschrijving: aantekeningen van Catharina Isabella Six
+  datum: winter 1970
+  relatie: nazaat
+  taal: Nederlands
+  link: http://archief.collectiesix.nl/archief/object/9095/
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- NNBW, IV, 777; RAA.
+bronnen:
+- gemaakt-op-reis-database

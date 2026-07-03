@@ -1,0 +1,34 @@
+id: balthasar-moretus-iii-1663
+titel: Plezierreis naar Ieper, Lille en Doornik
+reizigers:
+- balthasar-moretus-iii
+reistype: plezierreis
+jaren: '1663'
+vertrek: 18-09-1663
+terugkeer: 02-10-1663
+reisdagen: '14'
+gebieden:
+- Zuidelijke Nederlanden
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 18-09-1663
+- plaats: Dendermonde
+  land_modern: Zuidelijke Nederlanden
+  datum: 02-10-1663
+beschrijving: Reisde in 1663 naar Ieper, Lille en Doornik met zijn vader en broer Joannes Jacobus.
+reisgezellen:
+- naam: Balthasar Moretus II
+  jaren: 1615–1674
+  opmerkingen: journaalschrijver, vader
+- naam: Joannes Jacobus Moretus
+  jaren: 1647–1718
+  opmerkingen: broer
+addenda:
+- beschrijving: Reisverslag van Balthasar Moretus II
+  bron: Moretus II 1663
+literatuur:
+- Sabbe 1926; Sabbe 1928, 173-203; Sabbe en Rodríguez Moñino 1934; Sabbe 1943, 65-96; Voet 1969,
+  228-237; Van Broeckhoven 1970; Degryse 1996, 189-202; De Nave 249-306.
+bronnen:
+- gemaakt-op-reis-database

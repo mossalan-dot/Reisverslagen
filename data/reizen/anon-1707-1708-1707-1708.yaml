@@ -1,0 +1,28 @@
+id: anon-1707-1708-1707-1708
+titel: Aantekeningh van onse reijse door de voornaamste hoovene van Duytslandt Ao 1707
+reizigers:
+- anon-1707-1708
+reistype: plezierreis
+jaren: 1707-1708
+vertrek: 06-05-1707
+terugkeer: 09-06-1708
+reisdagen: '400'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Italië
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 06-05-1707
+- plaats: Rome
+  land_modern: Italië
+  datum: 09-06-1708
+manuscript: anon-1707-1708-1707-1708-hs
+beschrijving: Onvoltooid verslag van een reis naar Duitsland, Oostenrijk en Italië in 1707-1708,
+  met veel aandacht voor Duitse lusthoven. Het verslag houdt op in Rome.
+literatuur:
+- Koster 2015, 71.
+bronnen:
+- gemaakt-op-reis-database

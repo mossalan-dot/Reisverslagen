@@ -1,0 +1,40 @@
+id: arent-van-der-meersch
+naam: Meersch, Arent van der
+volledige_naam: Arent van der Meersch
+geslacht: Man
+geboren:
+  jaar: 1683
+  datum: 17-05-1683
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1768
+  datum: 20-01-1768
+  plaats: Soest
+  provincie: Utrecht
+religie: Doopsgezind
+is_auteur: true
+korte_typering: 'Maakte in 1703 een handelsreis naar Duitsland. Eerste reis: 02-04-1703 (20
+  jaar)'
+biografie: Zoon van Abraham van der Meersch (1643-1728) en Elisabeth Bouttens (1643-1707), broer
+  van Anna (1669-1724), Sara (†1674), Catharina (1666-1723), Pieter (º1677) en Abraham jr. (1676-1719),
+  vader van Guilliam (1732-1809). Maakte in 1703 een handelsreis naar Duitsland in het gezelschap
+  van zijn zus Anna, Pieter Boek en Giese Mulder. Werkte als makelaar en keurmeester van zeep.
+  Opende met zijn broer Pieter in 1707 een zeepziederij in Amersfoort.
+genealogie:
+  vader: Abraham van der Meersch (1643-1728)
+  moeder: Elisabeth Bouttens (1643-1707)
+  echtgenoten:
+  - Petronella Heuvelingh (1701-1784) in 1719
+  kinderen:
+  - Abraham Arent (1720-1792)
+  broers_zussen:
+  - Anna (1669-1724)
+  - Sara (†1674)
+  - Catharina (1666-1723)
+  - Pieter (º1677)
+  - Abraham jr. (1676-1719)
+literatuur:
+- Visser en Zilverberg 1991, 153-187.
+bronnen:
+- gemaakt-op-reis-database

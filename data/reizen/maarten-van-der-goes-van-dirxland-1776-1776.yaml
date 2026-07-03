@@ -1,0 +1,32 @@
+id: maarten-van-der-goes-van-dirxland-1776-1776
+titel: Journaal van een reis door België, Frankrijk, Zwitserland en Italië
+reizigers:
+- maarten-van-der-goes-van-dirxland
+reistype: plezierreis
+jaren: 1776-1776
+vertrek: 09-08-1775
+terugkeer: 09-03-1776
+reisdagen: '213'
+gebieden:
+- Zuidelijke Nederlanden
+- Frankrijk
+- Italië
+- Zwitserland
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 09-08-1775
+- plaats: Lyon
+  land_modern: Frankrijk
+  datum: 09-03-1776
+manuscript: maarten-van-der-goes-van-dirxland-1776-1776-hs
+beschrijving: Verslag van Maarten van der Goes van Dirxland naar Frankrijk en Italië, waarbij
+  hij extra aandacht heeft voor opera- en toneelvoorstellingen. Het verslag houdt op in Lyon.
+addenda:
+- beschrijving: Aanbevelingsbrief van baron Charles van Boetzelaer, grootmeester van de vrijmetselaarsorde,
+    voor zijn aankomende reis, gedateerd 20 augustus 1774
+  bron: Baron van der Goes van Dirxland 19
+literatuur:
+- Waldeck 2017
+bronnen:
+- gemaakt-op-reis-database

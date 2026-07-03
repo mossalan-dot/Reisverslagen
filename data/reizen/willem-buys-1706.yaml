@@ -1,0 +1,49 @@
+id: willem-buys-1706
+titel: Diplomatieke reis naar Engeland
+reizigers:
+- willem-buys
+reistype: diplomatieke reis
+jaren: '1706'
+vertrek: 7-1-1706
+terugkeer: 28-4-1706
+reisdagen: '111'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 7-1-1706
+beschrijving: Diplomatieke reis van de extraordinaris envoyé mr. Willem Buys wegens zijn zending
+  naar Engeland in verband met de coördinatie van de Britse en Nederlandse strijdkrachten in
+  de Spaanse Successie Oorlog.1706 januari 7 - 1706 april 28
+reisgezellen:
+- naam: Cornelis van der Dussen
+  jaren: 1684–1754
+  opmerkingen: journaalschrijver, gentilhomme
+addenda:
+- type: Verbaal/rapport/minuut
+  auteur: Willem Buys
+  beschrijving: Verbaal van de extraordinaris envoyé mr. Willem Buys wegens zijn zending naar
+    Engeland in verband met de coördinatie van de Britse en Nederlandse strijdkrachten in de
+    Spaanse Successie Oorlog.1706 januari 7 - 1706 april 28
+  datum: 28-04-1706
+  relatie: gezant-SG
+  taal: Nederlands
+  bron: SG 8656
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+- type: Reisverslag
+  auteur: Cornelis van der Dussen
+  beschrijving: Reisverslag van Cornelis van der Dussen
+  datum: '1706'
+  taal: Nederlands
+  bron: Van der Dussen 1706
+  locatie: Engeland
+  transcriptie: Ja
+  foto: Ja
+literatuur:
+- BWN, II, 1660-1663; RAA.
+bronnen:
+- gemaakt-op-reis-database

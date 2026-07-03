@@ -1,0 +1,25 @@
+id: van-winter-1671
+titel: Ao. 1671. Voyage d’Over-ijssel et Gueldre que jay fait avec Mr. G Durve medecin à cheval.
+reizigers:
+- van-winter
+reistype: plezierreis
+jaren: '1671'
+vertrek: 13-07-1671
+terugkeer: 24-07-1671
+reisdagen: '11'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 13-07-1671
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 24-07-1671
+manuscript: van-winter-1671-hs
+beschrijving: Beknopt verslag van een reis van De Winter uit 1671 naar Overijssel en Gelderland,
+  bestaande uit plaatsnamen en afgelegde mijlen, in het gezelschap van dokter G. Durve.
+reisgezellen:
+- naam: G. Durve
+bronnen:
+- gemaakt-op-reis-database

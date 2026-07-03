@@ -1,0 +1,55 @@
+id: joan-corver-1655
+titel: Diplomatieke reis naar Brandenburg
+reizigers:
+- joan-corver
+reistype: diplomatieke reis
+jaren: '1655'
+vertrek: 25-04-1655
+terugkeer: 04-06-1655
+reisdagen: '40'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 25-04-1655
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 04-06-1655
+beschrijving: Reisde in 1655 met Joan sr. (1599-1661) en Joan jr. Huydecoper (1625-1704) en
+  Pieter de Graeff (1638-1707) naar het hof van Brandenburg om te spreken over een bondgenootschap
+  tegen Zweden en op te treden als peetoom bij de doop van Karel Emiel (1655-1674), keurvorst
+  van Brandenburg.
+reisgezellen:
+- naam: Joan Huydecoper sr., ridder van St. Michiel, heer van Thamen, Blokland, Uithoorn en
+    Kudelstaart, van Maarsseveen en Neerdijk.
+  jaren: 1599–1661
+  opmerkingen: ambassadeur
+- naam: Joan Huydecoper jr., heer van Maarsseveen en Neerdijk
+  jaren: 1625–1704
+  opmerkingen: zoon van de vorige, gentilhomme
+- naam: Pieter de Graeff heer van Zuid-Polsbroek, Purmerland en Ilpendam.
+  jaren: 1638–1707
+  opmerkingen: journaalschrijver, gentilhomme
+addenda:
+- type: Verbaal/rapport/minuut
+  beschrijving: Stukken over de ambassade naar Berlijn in 1655
+  datum: '1655'
+  relatie: gezant-SG
+  taal: Nederlands
+  bron: FA Huydecoper 45
+  transcriptie: Nee
+  foto: Nee
+- type: Reisverslag
+  auteur: Pieter de Graeff
+  beschrijving: Reisverslag van Pieter de Graeff
+  datum: '1655'
+  taal: Nederlands
+  bron: De Graeff 1918, 149-168
+  transcriptie: Ja
+  foto: Ja
+literatuur:
+- De Graeff 1918, 149-168.
+bronnen:
+- gemaakt-op-reis-database

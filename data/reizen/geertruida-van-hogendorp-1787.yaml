@@ -1,0 +1,46 @@
+id: geertruida-van-hogendorp-1787
+titel: Reisje naar het Stadhouderlijk Hof in Nijmegen
+reizigers:
+- geertruida-van-hogendorp
+reistype: overig
+jaren: '1787'
+vertrek: 04-09-1787
+terugkeer: 03-10-1787
+reisdagen: '29'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Nijmegen
+  land_modern: Nederlandse Republiek
+  datum: 04-09-1787
+- plaats: Arnhem
+  land_modern: Nederlandse Republiek
+  datum: 03-10-1787
+manuscript: geertruida-van-hogendorp-1787-hs
+beschrijving: Verslag van Truitje W.A. van Hogendorp (ca. 1765-1800) van een vlucht vanuit de
+  buitenplaats Sion bij Delft over Den Haag naar het stadhouderlijk hof in Nijmegen en terug
+  in 1787. Van Hogendorp reisde met haar moeder Carolina Wilhelma van Haren, haar zus Antje
+  (1766-1802) en haar nicht Lucie van Sandick (†1791). Antje hield ook een verslag bij (Van
+  Hogendorp 1787).
+reisgezellen:
+- naam: Carolina Wilhelmina van Haren
+  opmerkingen: moeder
+- naam: Anna van Hogendorp
+  jaren: 1766–1802
+  opmerkingen: journaalschrijver, zus
+- naam: Lucie van Sandick
+  jaren: '1791'
+  opmerkingen: nicht
+addenda:
+- type: Reisverslag
+  auteur: Anna van Hogendorp
+  beschrijving: Reisverslag van Anna van Hogendorp
+  datum: '1787'
+  taal: Nederlands
+  bron: Van Hogendorp 1787b
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- Baggerman en Dekker 2004, 143–156; Harmsma 2006, 17-25.
+bronnen:
+- gemaakt-op-reis-database

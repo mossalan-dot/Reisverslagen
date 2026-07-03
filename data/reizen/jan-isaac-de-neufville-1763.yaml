@@ -1,0 +1,35 @@
+id: jan-isaac-de-neufville-1763
+titel: Plezierreis naar Gelderland
+reizigers:
+- jan-isaac-de-neufville
+reistype: plezierreis
+jaren: '1763'
+vertrek: 15-07-1763
+terugkeer: 27-07-1763
+reisdagen: '12'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 15-07-1763
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 27-07-1763
+beschrijving: Maakte in 1763 een plezierreisje naar Gelderland, Paleis Het Loo en Kleef met
+  zijn dochter Anna Maria (1742-1782) en het echtpaar Roos.
+reisgezellen:
+- naam: Anna Maria de Neufville(-Brants)
+  jaren: 1742–1782
+  opmerkingen: journaalschrijver, dochter
+- naam: Roos
+- naam: Roos
+  opmerkingen: echtgenote van de vorige
+addenda:
+- beschrijving: Reisverslag van Anna Maria de Neufville-Brants
+  bron: De Neufville 1763
+- beschrijving: Lijst van plaatsnamen
+  bron: De Neufville 1763, p. 12
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,34 @@
+id: albert-joachimi
+naam: Joachimi, Albert
+volledige_naam: Albert Joachimi
+titel: Heer van Oostende, Vinninge en Hoedekenskerke.
+geslacht: Man
+geboren:
+  jaar: 1560
+  datum: 01-01-1560
+  plaats: Goes
+  provincie: Zeeland
+overleden:
+  jaar: 1654
+  datum: 17-05-1654
+  plaats: Goes
+  provincie: Zeeland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Reisde in 1610 naar Engeland. Eerste reis: 16-04-1610 (50 jaar)'
+biografie: Was pensionaris van Goes en vanaf 1600 lid van de Zeeuwse delegatie in de Staten-Generaal.
+  Was in 1610 gezant in Engeland en werd door Jacobus I (1566-1625) geridderd. Maakte deel uit
+  van verschillende gezantschappen, onder andere naar Zweden en Rusland in 1615 en 1616, Duitsland
+  in 1621 en Engeland in 1624 en 1625. Was vanaf 1625 ambassadeur in Londen. Maakte een diplomatieke
+  reis naar Polen en Zweden in het gezantschap van Rochus van den Honert (1572-1638) en Joan
+  Huydecoper sr. (1599-1661) in 1635, waar hij onderhandelde over de vrede.
+portretten:
+- titel: Portret van Albert Joachimi
+  vervaardiger: Theodor Matham
+  jaar: '1638'
+  bron: Rijksmuseum
+  link: http://hdl.handle.net/10934/RM0001.collect.151019
+literatuur:
+- BWN, IX, 146-150; NNBW, VI, 861-862. RAA.
+bronnen:
+- gemaakt-op-reis-database

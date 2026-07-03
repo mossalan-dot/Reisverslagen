@@ -1,0 +1,37 @@
+id: pieter-aernoutsz-hooft-1674
+titel: Reis naar Utrecht
+reizigers:
+- pieter-aernoutsz-hooft
+reistype: pelgrimsreis
+jaren: '1674'
+vertrek: 22-06-1674
+terugkeer: 30-06-1674
+reisdagen: '8'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 22-06-1674
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 30-06-1674
+beschrijving: Maakte in 1674 een reis naar Utrecht in het gezelschap van zijn vader.
+reisgezellen:
+- naam: Arnout Hellemans Hooft
+  jaren: 1629–1680
+  opmerkingen: journaalschrijver, vader
+addenda:
+- type: Reisverslag
+  auteur: Arnout Hellemans Hooft
+  beschrijving: Reisverslag van Arnout Hellemans Hooft
+  datum: '1674'
+  relatie: vader-zoon
+  taal: Nederlands
+  bron: Hellemans Hooft 1674
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Alberdingk Thijm 1881, 262-263; Hellemans Hooft 2001, 49.
+bronnen:
+- gemaakt-op-reis-database

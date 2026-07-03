@@ -1,0 +1,48 @@
+id: catharina-backer-de-la-court-ca-1740
+titel: Plezierreis naar Antwerpen en Brussel
+reizigers:
+- catharina-backer-de-la-court
+reistype: plezierreis
+jaren: ca. 1740
+vertrek: 13-08-1740
+terugkeer: 01-09-1740
+reisdagen: '19'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 13-08-1740
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 01-09-1740
+beschrijving: Rond 1740 maakte ze een plezierreisje naar Antwerpen en Brussel met haar echtgenoot
+  en schoonzus Adriana de la Court (1696-1748).
+reisgezellen:
+- naam: Allard de la Court
+  jaren: 1688–1755
+  opmerkingen: echtgenoot en neef
+- naam: Adriana de la Court-Sweder
+  jaren: 1696–1748
+  opmerkingen: schoonzus en nicht
+- naam: Catharina Adriana de la Court
+  jaren: 1691–1752
+  opmerkingen: schoonzus en nicht
+- naam: Bogaerd
+- naam: Bogaerd
+  opmerkingen: zus van de vorige
+addenda:
+- type: Reisverslag
+  auteur: Adriana de la Court
+  beschrijving: Reisverslag van Adriana de la Court
+  datum: '1740'
+  taal: Nederlands
+  bron: De la Court 1740
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- BWN, III, 792; NNBW, II, 55; Fock 1980, 73-86; Roberts 1995, 17-26; Sluiter 1998, 47-54; RKD;
+  DVL.
+bronnen:
+- gemaakt-op-reis-database

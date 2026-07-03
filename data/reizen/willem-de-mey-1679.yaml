@@ -1,0 +1,22 @@
+id: willem-de-mey-1679
+titel: Fragment uit het Ms. Reisjournaal door Frankrijk en Engeland; 1679, 1680, van W. de Mey
+reizigers:
+- willem-de-mey
+reistype: plezierreis
+jaren: '1679'
+vertrek: 11-12-1679
+terugkeer: 11-12-1679
+reisdagen: '1'
+gebieden:
+- Frankrijk
+route:
+- plaats: Rohan
+  land_modern: Frankrijk
+  datum: 11-12-1679
+- plaats: Rohan
+  land_modern: Frankrijk
+  datum: 11-12-1679
+beschrijving: Kort reisfragment van Willem de Mey (1658-1708) in 1679 in Rohan in Frankrijk.
+  Het verslag is zoek en alleen de negentiende-eeuwse editie is overgebleven.
+bronnen:
+- gemaakt-op-reis-database

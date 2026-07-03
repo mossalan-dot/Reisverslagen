@@ -1,0 +1,45 @@
+id: adriaan-van-vrijburch
+naam: Vrijburch, Adriaan van
+volledige_naam: Adriaan van Vrijburch
+naamsvarianten:
+- Vrijburg; Avrijburch, Adrianus
+geslacht: Man
+geboren:
+  jaar: 1605
+  datum: 01-01-1605
+  plaats: Alkmaar
+  provincie: Holland
+overleden:
+  jaar: 1628
+  datum: 01-01-1628
+  plaats: Rome
+  provincie: Italië
+religie: Protestants
+is_auteur: false
+korte_typering: 'Reisde naar Frankrijk en Italië in 1627-1628. Eerste reis: 01-01-1628 (23 jaar)'
+biografie: Zoon van Pieter van Vrijburch en Ariaantje Jansdr Quintingh. Studeerde filosofie
+  in Leiden. Maakte tussen 1627 en 1628 een educatiereis naar Frankrijk en Italië. Studeerde
+  rechten in Orléans in 1626-1627 en bezocht de paardrijschool in Angers in 1627. Overleed in
+  1628 na een duel in Rome met Volkert Teding van Berkhout (1601-32). Een grafmonument werd
+  geplaatst in de Santa Maria dell’Anima.
+genealogie:
+  vader: Pieter van Vrijburch
+  moeder: Ariaantje Jansdr Quintingh
+opleiding:
+- universiteit: Leiden
+  richting: filosofie
+  datum: 29-05-1623
+  bron: Frijhoff 1977, 80.
+- universiteit: Orléans
+  richting: rechten
+  datum: dec. 1626-febr. 1627
+  bron: Frijhoff 1977, 80.
+- universiteit: Angers
+  richting: paardrijschool
+  datum: '1627'
+  bron: Frijhoff 1977, 80.
+literatuur:
+- NNBW, IV, 138-139; Frank-van Westrienen 1983, 326; Frijhoff 1977, 80; Frank-van Westrienen
+  2007.
+bronnen:
+- gemaakt-op-reis-database

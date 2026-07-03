@@ -1,0 +1,27 @@
+id: van-winter-1682
+titel: Hamburgse Reys met Hr. Jac. Halling en E. Bleiswyck
+reizigers:
+- van-winter
+reistype: plezierreis
+jaren: '1682'
+vertrek: 22-05-1682
+terugkeer: 03-07-1682
+reisdagen: '42'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 22-05-1682
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 03-07-1682
+manuscript: van-winter-1682-hs
+beschrijving: Beknopt verslag van een reis van De Winter uit 1682 naar Hamburg, bestaande uit
+  plaatsnamen en afgelegde mijlen, in het gezelschap van dokter Jacobus Halling en E. Bleiswijck.
+reisgezellen:
+- naam: Jacobus Halling
+- naam: E. Bleiswijck
+bronnen:
+- gemaakt-op-reis-database

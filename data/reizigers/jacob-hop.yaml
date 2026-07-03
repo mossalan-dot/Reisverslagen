@@ -1,0 +1,47 @@
+id: jacob-hop
+naam: Hop, Jacob
+volledige_naam: Jacob Hop
+titel: Baron van het Heilige Roomse Rijk.
+geslacht: Man
+geboren:
+  jaar: 1654
+  datum: 31-07-1654
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1725
+  datum: 27-10-1725
+  plaats: Amsterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1678 een diplomatieke reis naar Frankrijk. Eerste reis: 01-01-1678
+  (24 jaar)'
+biografie: Zoon van Cornelis Hop (1620-1704) en Anthonia Cloeck. Reisde in 1678 naar Frankrijk
+  in het diplomatieke gezantschap van Hiëronymus van Beverningh (1614-1690) waar vredesonderhandelingen
+  plaatsvonden. Diende tussen 1680 en 1685 als pensionaris van Amsterdam en vervulde tussen
+  1687 en 1700 verschillende diplomatieke zendingen, onder andere naar Berlijn en Wenen. Werd
+  in 1699 verheven tot baron van het Heilige Roomse Rijk. Maakte in 1702 en 1703 militaire reizen
+  in het gezelschap van zijn zoon Cornelis (1685-1762). Was tussen 1703 en 1712, gedurende de
+  Spaanse Successieoorlog, gedeputeerde te velde.
+genealogie:
+  vader: Cornelis Hop (1620-1704)
+  moeder: Anthonia Cloeck
+  echtgenoten:
+  - Isabella Maria Hooft (1659-1701)
+  kinderen:
+  - Cornelis (1685-1762)
+portretten:
+- titel: Portret van Jacob Hop
+  vervaardiger: Jacob Houbraken (1698-1780)
+  jaar: '1750'
+  bron: RKD
+  link: https://rkd.nl/explore/images/194524
+  beschrijving: "papier, kopergravure\nzie voor afdruk in andere staat: kunstwerknummer 230101\
+    \ (donkere schaduwen in plooval geheel reechts, andere lijnen in gezicht en pruik, verschil\
+    \ in de wekbrauwen (opgewerkt?) Vorm/maten staande rechthoek 182 x 112 mm \nafmetingen van\
+    \ het verknipte blad (plaatrand ontbreekt)"
+literatuur:
+- BWM, VIII, 1242-1247; NNBW, III, 613-614; RAA.
+bronnen:
+- gemaakt-op-reis-database

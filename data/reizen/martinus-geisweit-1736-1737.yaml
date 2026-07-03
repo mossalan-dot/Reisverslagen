@@ -1,0 +1,84 @@
+id: martinus-geisweit-1736-1737
+titel: Mijne rijs na Vranckrijck
+reizigers:
+- martinus-geisweit
+reistype: educatiereis
+jaren: 1736-1737
+vertrek: 24-10-1736
+terugkeer: 14-05-1738
+reisdagen: '567'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+route:
+- plaats: Dordrech
+  land_modern: Nederlandse Republiek
+  datum: 24-10-1736
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 14-05-1738
+manuscript: martinus-geisweit-1736-1737-hs
+beschrijving: Verslag van Martinus Geisweit (1706-1787) van een reis naar Frankrijk in 1736-1737.
+  Geisweit verbleef enkele maanden in Parijs om operaties bij te wonen en met verschillende
+  medici en vroedvrouwen mee te lopen. Hij schreef zich in bij het stadshospitaal Hôtel Dieu
+  en volgde chirurgielessen bij Henri François Le Dran (1685-1770). Het manuscript was oorspronkelijk
+  waarschijnlijk bedoeld als rekeningboek.
+addenda:
+- type: 'Paratekst: overig'
+  auteur: Geisweit van der Netten
+  beschrijving: Biografische noot en inleiding op het reisverslag door de weduwe Geisweit van
+    der Netten, de auteurs aangetrouwde kleindochter, d.d. 23 maart 1849
+  datum: 23-03-1849
+  relatie: kleindochter-grootvader
+  taal: Nederlands
+  bron: Geisweit 1736-1737, [1]
+  locatie: Delft
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Martinus Geisweit
+  beschrijving: Paklijst voor de reis naar Frankrijk, inclusief medische boeken en instrumenten
+  datum: '1736'
+  taal: Nederlands
+  bron: Geisweit 1736-1737, [16]
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: kasboek(aantekeningen)'
+  auteur: Martinus Geisweit
+  beschrijving: Kasboekaantekeningen
+  datum: 1736-1737
+  taal: Nederlands
+  bron: Geisweit 1736-1737, [17-27]
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Martinus Geisweit
+  beschrijving: Paklijst voor de terugweg
+  datum: mei 1738
+  taal: Nederlands
+  bron: Geisweit 1736-1737, [28-30]
+  locatie: Parijs
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: overig'
+  auteur: Martinus Geisweit
+  beschrijving: Latere biografische aantekeningen tussen 1737 en 1757
+  datum: 1737-1757
+  taal: Nederlands
+  bron: Geisweit 1736-1737, [31-32]
+  locatie: Dordrecht
+  transcriptie: Nee
+  foto: Ja
+- type: Bureaucratische documenten
+  auteur: Universiteit Leiden
+  beschrijving: Academische bul uit Leiden
+  datum: '1736'
+  taal: Latijn
+  bron: FA Geisweit van der Netten 446
+  link: http://www.gahetna.nl/collectie/archief/inventaris/index/eadid/2.21.067/inventarisnr/446/level/file
+  locatie: Leiden
+  transcriptie: Nee
+  foto: Nee
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,33 @@
+id: gerard-hinlopen-1662
+titel: Reijsen gedaen int jaar 1662 met ons speeljacht in compagnie van dat van burgermeester
+  Cornelis Olfertsz als meden Cornelis Jacobs Segen naer Brabant, Hulst in Vlaanderen, Zeelandt
+  & Uijtrecht
+reizigers:
+- gerard-hinlopen
+reistype: plezierreis
+jaren: '1662'
+vertrek: 26-05-1662
+terugkeer: 20-06-1662
+reisdagen: '25'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 26-05-1662
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 20-06-1662
+manuscript: gerard-hinlopen-1662-hs
+beschrijving: Kort verslag van een plezierreis van Gerard Hinlopen naar Zeeland en de Zuidelijke
+  Nederlanden in 1662 in het gezelschap van burgemeester Cornelis Olfertsz en Cornelis Jacobs
+  Segen. De reis loopt van Hoorn naar de Zuidelijke Nederlanden, waar Hinlopen Antwerpen en
+  Brussel aandoet. Hij keert terug via Vlissingen en Middelburg.
+reisgezellen:
+- naam: Cornelis Olfertsz
+- naam: Cornelis Jacobs Segen
+literatuur:
+- Hinlopen 2009, 1-58; Blom 2010, 172-193; Van den Boogert 2015.
+bronnen:
+- gemaakt-op-reis-database

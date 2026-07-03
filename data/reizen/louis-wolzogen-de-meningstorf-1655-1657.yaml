@@ -1,0 +1,43 @@
+id: louis-wolzogen-de-meningstorf-1655-1657
+titel: Educatiereis naar Frankrijk, Zwitserland en Engeland
+reizigers:
+- louis-wolzogen-de-meningstorf
+reistype: educatiereis
+jaren: 1655-1657
+vertrek: 01-04-1655
+terugkeer: 01-05-1657
+reisdagen: '761'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Duitsland
+- Frankrijk
+- Zwitserland
+- Engeland
+route:
+- plaats: Groniingen
+  land_modern: Nederlandse Republiek
+  datum: 01-04-1655
+- plaats: Groningen
+  land_modern: Nederlandse Republiek
+  datum: 01-05-1657
+beschrijving: Maakte tussen 1655 en 1657 een educatiereis naar Duitsland, Zwitserland, Frankrijk,
+  Engeland en de Zuidelijke Nederlanden met Abraham Trommius (1633-1719) en Johannes Hotton.
+reisgezellen:
+- naam: Abraham Trommius
+  jaren: 1633–1719
+  opmerkingen: journaalschrijver
+- naam: Johannes Hotton
+addenda:
+- type: Reisverslag
+  auteur: Abraham Trommius
+  beschrijving: Reisverslag van Abraham Trommius
+  datum: 1655-1657
+  taal: Nederlands
+  bron: Trommius 1720
+  transcriptie: Ja
+  foto: Ja
+literatuur:
+- BWN, XX, 415-417; NNBW, X, 1234-1236; Van Miert 2017, 59.
+bronnen:
+- gemaakt-op-reis-database

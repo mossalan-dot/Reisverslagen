@@ -1,0 +1,55 @@
+id: willem-schellinks-1646
+titel: Reisverslag door Frankrijk
+reizigers:
+- willem-schellinks
+reistype: educatiereis
+jaren: '1646'
+vertrek: 07-04-1646
+terugkeer: 10-10-1646
+reisdagen: '186'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 07-04-1646
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 10-10-1646
+manuscript: willem-schellinks-1646-hs
+beschrijving: "Vier reisverslagen in drie banden van Willem Schellinks (1623-1678). Het betreft\
+  \ een netversie, deels gebaseerd op Lambert van den Bos’ Wegh-wyser uit 1665, waarschijnlijk\
+  \ geschreven tussen 1665 en 1668. Het verslag was waarschijnlijk bedoeld ter uitgave. Een\
+  \ zeventiende-eeuwse kopie van de laatste drie verslagen ligt in de Bodleian Library in Oxford\
+  \ (Ms. D’Orville 558-560). \n\nVerslag van een kunstenaarsreis van Willem Schellinks in 1646\
+  \ naar Frankrijk. Hij werd vergezeld door de kunstenaar Lambert Doomer (1624-1700). Hij ging\
+  \ scheep in Texel en voer naar Nantes. Vandaar bezocht hij de Loirestreek en Parijs. Schellinks\
+  \ verbleef langere tijd in Nantes (17 mei-3 juli), Saumur (10-18 juli), Parijs (11 augustus-7\
+  \ september) en Rouen (8-24 september)."
+reisgezellen:
+- naam: Lambert Doomer
+  jaren: 1624–1700
+  opmerkingen: collega
+addenda:
+- type: 'Paratekst: overig'
+  auteur: nazaat Schellinks
+  beschrijving: Latere inhoudsopgave, mogelijk vervaardigd door een nazaat van Schellinks
+  relatie: nazaat
+  taal: Nederlands
+  bron: Schellings 2008, 352
+  transcriptie: Ja
+  foto: Ja
+- type: Schilderijen/tekeningen
+  auteur: Willem Schellinks
+  beschrijving: Verschillende tekeningen van landschappen en stadsgezichten
+  datum: '1646'
+  bron: RKD; Alsteens en Buijs 2008, 71-189
+  locatie: Frankrijk
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- Van den Berg 1942, 1-31; Schulz 1970, 415-425; Steland 1986, 344-348; Alsteens en Buijs 2008,
+  71-189.
+bronnen:
+- gemaakt-op-reis-database

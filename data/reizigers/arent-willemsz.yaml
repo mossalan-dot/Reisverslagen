@@ -1,0 +1,21 @@
+id: arent-willemsz
+naam: Willemsz., Arent
+volledige_naam: Arent Willemsz.
+geslacht: Man
+geboren:
+  jaar: 1481
+  datum: 01-01-1481
+religie: Katholiek
+is_auteur: true
+korte_typering: 'Maakte in 1509-1525 een pelgrimstocht naar Jeruzalem. Eerste reis: 17-12-1509
+  (28 jaar)'
+biografie: Heelmeester en barbier te Delft. Trouwde in 1509 met Maretgie Hugendochter (-1537).
+genealogie:
+  echtgenoten:
+  - Maretgie Hugendochter (-1537) in 1509
+literatuur:
+- C.J. Gonnet, ed., `Bedevaart naar Jerusalem volbracht en beschreven in het jaar 1525 door
+  meester Arent Willemsz., barbier tot Delft in Hollant', Bijdragen voor de Geschiedenis van
+  het Bisdom Haarlem XI (1883) 1-180.
+bronnen:
+- gemaakt-op-reis-database

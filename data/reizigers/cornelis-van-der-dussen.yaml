@@ -1,0 +1,31 @@
+id: cornelis-van-der-dussen
+naam: Dussen, Cornelis van der
+volledige_naam: Cornelis van der Dussen
+geslacht: Man
+geboren:
+  jaar: 1684
+  datum: 22-09-1684
+  plaats: Dordrecht
+  provincie: Holland
+overleden:
+  jaar: 1754
+  datum: 01-05-1754
+  plaats: Dordrecht
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1706 een reis naar Londen. Eerste reis: 07-01-1706 (22 jaar)'
+biografie: Zoon van Nicolaas Ewoutsz. van der Dussen (1636-1719) en Lydia van Beveren (º1647),
+  broer van Jacob (1671-1728) en Pieter (1673-1726). Maakte in 1706 een reis naar Londen als
+  persoonlijk secretaris van Willem Buys (1661-1749). Werd bewindhebber van de VOC in 1626.
+  Werd raad van Dordrecht in 1728 en burgemeester in 1747.
+genealogie:
+  vader: Nicolaas Ewoutsz. van der Dussen (1636-1719)
+  moeder: Lydia van Beveren (º1647)
+  broers_zussen:
+  - Jacob (1671-1728)
+  - Pieter (1673-1726)
+literatuur:
+- Ferwerda 1763; Nagtegaal 2005, 301-338; Coster 2016, 5-7.
+bronnen:
+- gemaakt-op-reis-database

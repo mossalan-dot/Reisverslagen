@@ -1,0 +1,46 @@
+id: abraham-trommius-1655-1657
+titel: Gewagh makende van mijn Buyten-landtsche Reysen, die ick in den tijdt van ruym twee jaren
+  gedaen hebbe, door de Paltz, Switserlandt, tot in de Stadt Geneve
+reizigers:
+- abraham-trommius
+reistype: educatiereis
+jaren: 1655-1657
+vertrek: 01-04-1655
+terugkeer: 01-05-1657
+reisdagen: '761'
+gebieden:
+- Duitsland
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+- Frankrijk
+- Zwitserland
+- Engeland
+route:
+- plaats: Groningen
+  land_modern: Nederlandse Republiek
+  datum: 01-04-1655
+- plaats: Groningen
+  land_modern: Nederlandse Republiek
+  datum: 01-05-1657
+beschrijving: Maakte tussen 1655 en 1657 een educatiereis naar Duitsland, Zwitserland, Frankrijk,
+  Engeland en de Zuidelijke Nederlanden met Louis Wolzogen de Meningstorf (1631-1690) en Johannes
+  Hotton. Hij bezocht onder andere Keulen, Heidelberg, Bazel, Genève, Nîmes, Montpellier, Bordeaux,
+  het Loiregebied, Parijs, Londen en Oxford. Gedrukt verslag in zijn autobiografie, getiteld
+  ‘Bevindingen van hem selven geduirende syn levens-loop tot soo verre hy hadde opgetekent ende
+  by een versamelt (Trommius 1720).
+reisgezellen:
+- naam: Johannes Hotton
+- naam: Louis Wolzogen de Meningstorf baron
+  jaren: 1633–1690
+addenda:
+- type: Album amicorum
+  auteur: Abraham Trommius
+  beschrijving: Album amicorum
+  datum: 1655-1657
+  bron: Van Miert 2017
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- BWN, XVIII, 220-221; NNBW, VI, 1285-1286; Van Miert 2017, 51-70.
+bronnen:
+- gemaakt-op-reis-database

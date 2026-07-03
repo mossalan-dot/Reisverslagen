@@ -1,0 +1,35 @@
+id: jan-poelaert
+naam: Poelaert, Jan
+volledige_naam: Jan Poelaert
+geslacht: Man
+geboren:
+  jaar: 1653
+  datum: 01-01-1653
+overleden:
+  jaar: 1701
+  datum: 01-01-1701
+religie: Protestants
+is_auteur: true
+korte_typering: Maakte rond 1698-1699 een reis naar Italië. (-1653 jaar)
+biografie: Zoon van Allard Poelaert en Adriane van Groenendijck, zwager van Pieter de la Court
+  van der Voort (1664-1740). Maakte rond 1698 en 1699 een reis naar Italië en kocht daar verschillende
+  schilderijen. Liet zichzelf in Venetië portretteren door Niccolò Cassana (1659-1714).
+genealogie:
+  vader: Allard Poelaert
+  moeder: Adriane van Groenendijck
+  andere_familie:
+  - zwager Pieter de la Court van der Voort (1664-1740)
+portretten:
+- titel: Portret van Jan Poelaert
+  vervaardiger: Pieter Cornelisz. van Slingelandt (1640-1691)
+  jaar: '1674'
+  bron: RKD
+  link: https://rkd.nl/explore/images/128916
+  beschrijving: "staande rechthoek 21,8 x 17 cm \n\nBeschrijving: lang donker krullend haar,\
+    \ violette japonser ok,geknoopte halsdoek, linkerhand in de zij, rechterhand steunt op tafel\
+    \ links,waarop papier (brief?) en inktstel of gewichtje (?); rechtsachter een poort met\
+    \ doorkijk op architectuur."
+literatuur:
+- Mens 1984, 97; Lunsingh Scheurleer, Fock en Dissel 1987, 320-321; Verhoeven 2012, 31-36.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,91 @@
+id: constantijn-huygens-jr-1676
+titel: Reisjournaal van 1676
+reizigers:
+- constantijn-huygens-jr
+reistype: militaire reis
+jaren: '1676'
+vertrek: 10-04-1676
+terugkeer: 15-09-1676
+reisdagen: '158'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 10-04-1676
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 15-09-1676
+manuscript: constantijn-huygens-jr-1676-hs
+beschrijving: Verslag van een militaire reis van Constantijn Huygens jr. door de Zuidelijke
+  Nederlanden, als secretaris van stadhouder Willem III.
+brieven:
+- verzender: Christiaan Huygens (1628-1695)
+  ontvanger: Constantijn Huygens jr.
+  datum: 29-07-1676
+  plaats_verzender: Den Haag
+  land_verzender: NL
+  relatie: broer-broer
+  taal: Frans
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: 'A la Haye ce 29 Juillet 1676.
+
+    N''apprehendez pas que je retourne en France devant la fin de la campagne. Quand ma santé
+    ne demanderoit pas un si long sejour en ce païs, je ne laisserois pas d''y rester pour vous
+    attendre. Mais il y a bien plus, c''est que je ne crois pas que je retourne a Paris ayant
+    trouvè pour la deuxieme fois par de trop facheuses experiences que la vie que j''y menois
+    m''est contraire; nous en parlerons plus amplement quand vous serez icy. Cependant je vous
+    recommande le secret, car il m''importe qu''on n''en scache encore rien par de la, d''ou
+    je suis parti tamquam rediturus.
+
+    Vous pouvez croire que j''ay eu bien du plaisir a trouver en arrivant quatre petits neveux
+    et tous fort jolis. Le vostre vient de me rendre une visite, et ayant considerè quelque
+    temps un thermometre d''une nouvelle facon ou il y a de petites bouteilles de verre qui
+    nagent dans de l''esprit de vin, dat''s aerdigh dit il, du mesme ton que l''auroit dit madame
+    sa mère.
+
+    Pour ce qui est du carosse de son Altesse dont le frere de Moggershil a eu la commission,
+    il m''a dit qu''a son depart, le marquis de Chateauneuf devoit luy succeder mais qu''il
+    doutoit fort si ce seroit bien son affaire.
+
+    J''ay veu le corps du carosse a peu pres achevé c''est a dire le bois, qui estoit d''une
+    fort belle sculpture. Le train estoit aussi presque fait comme encore les harnois. Ce seroit
+    asseurement dommage si on n''achevoit pas ce qui y reste a faire avec le mesme soin que
+    nostre beaufrere y a apportè.
+
+    Oosterwijck vous a escrit touchant la montre, à peu pres suivant ce que j''en ay dit, a
+    scavoir que devant que de multiplier les ouvrages de la plus nouvelle façon, avec le ressort
+    droit, il sera bon d''en examiner la justesse contre celle des montres qui ont le ressort
+    en spirale, ce que je vais faire presentement. Et quant a la grandeur, outre l''inconvenient
+    de ce que la boete de chagrin seroit perdue, parce que vostre chifre y est, je ne vous conseillerois
+    par de vouloir que l''ouvrage fust beaucoup plus petit, a cause que caeteris paribus, le
+    grand vaut d''avantage. Je ne trouve pas au reste que vostre montre s''arreste facilement,
+    quand mesme on fait ce qu''on peut pour cela, de sorte que si le grand ressort estoit tant
+    soit peu plus long, et plus fort sur la fin, il n''y auroit plus ce defaut que vous y avez
+    trouvé.
+
+    Il y en mettra un autre quand il en aura, car il n''en fait pas luy mesme de cette sorte,
+    quoy qu''il scache faire les grands. Quand je seray tout a fait remis, j''ay envie d''essayer
+    comment reussira cette invention executée en grand volume, car je ne doute pas qu''elle
+    n''egale a peu pres la justesse des pendules. mais il n''est pas encore temps de chercher
+    de ces nouveaux rompements de teste. Il me tarde fort que vous soyez icy, et je me figure
+    desia avec plaisir les conferences que nous aurons en matiere d''horlogerie de lunetterie
+    de peinture &c.
+
+    Conservez vous un peu soigneusement je vous prie, et passez vous s''il se peut du plaisir
+    d''aller a la tranchée. Adieu.'
+addenda:
+- beschrijving: Het dorp Kestergat, 25 april 1676
+  bron: RKD
+- beschrijving: Tekening van de Maas bij Smeermaas, met in de verte de stad Maastricht, 5 augustus
+    1676
+  bron: RKD
+literatuur:
+- BWN, VIII, 1516-1517; NNBW, I, 1190; RKD; Heijbroek 1983; Heijbroek 1987, 167-172; Keesing
+  1996, 14-19; Schenkeveld-van der Dussen 1998, 178-185; Dekker 1999, 94-109; Dekker 2000a,
+  94-102; Dekker 2000b, 133-144; Leerintveld 2013; Dekker 2013a; Dekker 2016.
+bronnen:
+- gemaakt-op-reis-database

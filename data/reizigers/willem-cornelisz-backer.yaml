@@ -1,0 +1,42 @@
+id: willem-cornelisz-backer
+naam: Backer, Willem Cornelisz.
+volledige_naam: Willem Cornelisz. Backer
+geslacht: Man
+geboren:
+  jaar: 1656
+  datum: 21-3-1656
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1731
+  datum: 14-1-1731
+  plaats: Amsterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1679 een educatiereis naar Italië. Eerste reis: 01-01-1679 (23 jaar)'
+biografie: Zoon van Cornelis Backer (1633-1681) en Christine le Gillon (1633-1658). Maakte rond
+  1679 een educatiereis naar Italië, waar hij zich liet portretteren. Trouwde in 1682 met Magdalena
+  de la Court (1661-1712). Werkte als advocaat en koopman en was een kunstverzamelaar. Was in
+  Amsterdam luitenant en kapitein van de burgerij en kerkmeester van de Amstelkerk.
+genealogie:
+  vader: Cornelis Backer (1633-1681)
+  moeder: Christine le Gillon (1633-1658)
+  echtgenoten:
+  - Magdalena de la Court (1661-1712) in 1682
+portretten:
+- titel: Portret van een man, waarschijn Willem Backer
+  vervaardiger: Sebastiano Bombelli
+  jaar: '1679'
+  bron: RKD
+  link: https://rkd.nl/nl/explore/images/211507
+  beschrijving: "Onderdeel van een reeks van vier portretminiaturen die met een schoefdraad\
+    \ op elkaar te bevestigen zijn. Het geheel kan aan de bovenzijde worden afgesloten met een\
+    \ schroefdeksel waarop het wapen van de familie Backer.\n\nDrager/materiaal papier, tempera\n\
+    Vorm/maten staand ovaal 80 x 65 mm \nmaat met ronde omlijsting ca 100 mm\n\nVolgens de boedelpapieren\
+    \ collectie Willem Backer (1656-1731) (zie literatuur) zou het origineel door Bombelli zijn\
+    \ vervaardigd toen de voorgestelde rond 1679 op grand tour naar Italië reisde."
+literatuur:
+- RKD; Diercks en Dudok van Heel 2010, 52-54.
+bronnen:
+- gemaakt-op-reis-database

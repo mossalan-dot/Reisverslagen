@@ -1,0 +1,62 @@
+id: lodewijk-huygens
+naam: Huygens, Lodewijk
+volledige_naam: Lodewijk Huygens
+titel: Heer van Monnikeland.
+geslacht: Man
+geboren:
+  jaar: 1631
+  datum: 13-03-1631
+  plaats: Den Haag
+  provincie: Holland
+overleden:
+  jaar: 1699
+  datum: 30-06-1699
+  plaats: Rotterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Reisde in 1650 naar Duitsland. Eerste reis: 01-01-1650 (19 jaar)'
+biografie: Zoon van Constantijn Huygens (1596-1687) en Suzanna van Baerle (1599-1637), broer
+  van Constantijn (1628-1697), Christiaan (1629-1695), Philips (1633-1657) en Susanna (1637-1725).
+  Studeerde in Breda. Reisde in het voorjaar van 1650 naar Duitsland samen met William, graaf
+  van Craven (1608-1697) en reisde in 1651 en 1652 mee in het gezantschap van Jacob Cats (1577-1660),
+  Gerard Schaap (1599-1654) en Paulus van der Perre (ca. 1598-1653). Reisde in 1655 naar Frankrijk
+  met zijn broer Christiaan en promoveerde in Angers. In 1660 en 1661 reisde hij naar Spanje
+  in het gezantschap van Johan van Merode (1607-1666), Godard Adriaan van Reede van Amerongen
+  (1621-1691) en Philips Aebinga van Humalda (ca. 1616-1674). In 1661 reisde hij met zijn vader
+  naar Parijs. Bezocht Parijs voor een tweede maal in 1670. In 1672 werd hij benoemd tot drossard
+  van Gorinchem en het land van Arkel, maar hij werd aangeklaagd vanwege machtsmisbruik en werd
+  veroordeeld voor ene fikse boete. Was vanaf 1686 gecommitteerde raad van de Admiraliteit van
+  de Maas.
+genealogie:
+  vader: Constantijn Huygens (1596-1687)
+  moeder: Suzanna van Baerle (1599-1637)
+  broers_zussen:
+  - Constantijn (1628-1697)
+  - Christiaan (1629-1695)
+  - Philips (1633-1657)
+  - Susanna (1637-1725)
+portretten:
+- titel: Portret van Lodewijk Huygens
+  vervaardiger: anoniem
+  jaar: '1674'
+  bron: RKD
+  link: https://rkd.nl/explore/images/125513
+  beschrijving: 'doek, olieverf
+
+    staande rechthoek 62 x 55 cm'
+- titel: Familieportret van Constantijn Huygens (1596-1687) en zijn kinderen Constantijn II
+    Huygens (1628-1697), Christiaan Huygens (1629-1695), Lodewijk Huygens (1631-1699), Philips
+    Huygens (1633-1699) en Suzanne Huygens (1637-1725)
+  vervaardiger: Adriaen Hanneman (1604-1671)
+  jaar: '1640'
+  bron: RKD
+  link: https://rkd.nl/explore/images/13494
+  beschrijving: 'doek, olieverf
+
+    staande rechthoek 204,2 x 173,9 cm'
+literatuur:
+- BWN, VIII, 1529; NNBW, I, 1190-1191; RAA; Huygens 1982, 1-30; Stamhuis 1996, 161-169; Huygens
+  2005, 1-67; Ebben 2018, 118-134.
+bronnen:
+- gemaakt-op-reis-database

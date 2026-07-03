@@ -1,0 +1,32 @@
+id: maria-van-assendelft-i
+naam: Assendelft, Maria van
+volledige_naam: Maria van Assendelft I
+achtervoegsel: I
+geslacht: Vrouw
+overleden:
+  jaar: 1744
+  datum: 23-01-1744
+  plaats: Amsterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1696 een korte plezierreis. Eerste reis: 14-07-1696'
+biografie: Dochter van Gerard van Assendelft en Agneta Hoppesteyn van Leeuwen. Ging in 1692
+  in ondertrouw met Willem van Assendelft (†1744). In 1696 maakte zij samen met haar echtgenoot,
+  haar broer Adriaan (1664-1742), diens echtgenote Maria Magdalena van Beresteijn (1667-1715)
+  en kinderen een plezierreisje naar Nijmegen, Kleef en paleis Het Loo.
+genealogie:
+  vader: Gerard van Assendelft
+  moeder: Agneta Hoppesteyn van Leeuwen
+  echtgenoten:
+  - Willem van Assendelft (†1744) in 1692 (ondertrouw)
+  broers_zussen:
+  - Adriaan (1664-1742)
+  andere_familie:
+  - schoonzus Maria Magdalena van Beresteijn (1667-1715)
+  - nicht Catarina
+  - nicht Maria
+literatuur:
+- NNBW, VII, 43; Moss 2018a.
+bronnen:
+- gemaakt-op-reis-database

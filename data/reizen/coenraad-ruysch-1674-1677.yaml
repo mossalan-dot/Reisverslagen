@@ -1,0 +1,68 @@
+id: coenraad-ruysch-1674-1677
+titel: Reyse van Geneve naar Italie
+reizigers:
+- coenraad-ruysch
+reistype: diplomatieke reis
+jaren: 1674-1677
+vertrek: 27-08-1674
+terugkeer: 06-04-1677
+reisdagen: '953'
+gebieden:
+- Zwitserland
+- Frankrijk
+- Italië
+route:
+- plaats: Genève
+  land_modern: Zwitserland
+  datum: 27-08-1674
+- plaats: Saumur
+  land_modern: Frankrijk
+  datum: 06-04-1677
+manuscript: coenraad-ruysch-1674-1677-hs
+beschrijving: Tweede verslag van een educatiereis van Coenraad Ruysch naar Zwitserland, Italië
+  en Frankrijk in 1674-1677 in het gezelschap van zijn neef Dirck van Hoogeveen. Na een bezoek
+  van een tweeënhalve maand in Genève stak Ruysch de Mont Cenis over naar Italië. Hij bezocht
+  Milaan en Bologna en trok naar Rome, waar hij vier maanden verbleef. Hij verbleef vijf maanden
+  in Florence en trok opnieuw naar Rome, vanwaar hij een uitstapje maakte naar Napels. Via de
+  oostkust reisde Ruysch naar Venetië, waar hij een maand spendeerde. Hij trok naar Milaan en
+  Turijn en stak opnieuw de Mont Cenis naar Genève over, waar hij twee maanden bleef. Vanuit
+  Lyon maakte hij verschillende uitstapjes en keerde toen naar Zuid-Frankrijk, waar hij Avignon,
+  Marseille en Toulouse bezocht. Hij keerde noordelijk naar Bordeaux en het Loiregebied. Hij
+  verbleef langere tijd in Nantes vanwege een slepende ziekte. Het verslag eindigt in Saumur.
+  De rest van het verslag is recentelijk verloren gegaan. Ruysch verbleef langere tijd in Genève
+  (11 juli-27 september 1674; 21 maart-29 mei 1676), Florence (10-27 november 1674; 27 april-12
+  september 1675), Rome (11 december-24 april 1675; 29 oktober-6 november; 27 november-9 januari
+  1676), Genua (25 september-8 oktober 1675), Livorno (9-15 oktober), Napels (14-23 november),
+  Venetië (23 januari-27 februari 1676), Milaan (5-12 maart), Lyon (2 juni-12 juli; 20 augustus-9
+  september), Avignon (18-24 september), Marseille (27 september-6 oktober), Montauban (27 oktober-9
+  november) en Nantes (8 december-31 maart 1677).
+reisgezellen:
+- naam: Dirck van Hoogeveen
+  opmerkingen: neef
+brieven:
+- verzender: Constantijn Huygens (1596-1687)
+  ontvanger: Coenraad Ruysch
+  datum: 28-03-1675
+  plaats_verzender: Den Haag
+  land_verzender: NL
+  plaats_ontvanger: Rome
+  land_ontvanger: IT
+  taal: Nederlands
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/6969
+  tekst: 'Gij hebt het dus goed op reis. Wilt gij, nu gij te Rome zijt, eens informeeren naar
+    Signora Anna Bergerotti, de voortreffelijke zangeres, die ik vroeger te Parijs heb leeren
+    en die nu met een ‘marchese’ gehuwd moet zijn? Als gij haar vindt, ga haar dan mijne groeten
+    brengen en vertel mij alles van haar en hare familie. Groet ook de Koningin van Zweden.
+
+    A la Haye, ce 28e Mars 1675.'
+addenda:
+- beschrijving: Bul van de universiteit van Poitiers
+  bron: FA Teding van Berkhout 1408-1410
+- beschrijving: Reizigersportret van Jacob-Ferdinand Voet (1639-1689), gemaakt in Rome in 1675
+  bron: RKD
+literatuur:
+- Frank-van Westrienen 1983, 331-332; Prak 1985, 277; 410; Verhoeven 2009a, 338; Jansen 2011,
+  91-93.
+bronnen:
+- gemaakt-op-reis-database

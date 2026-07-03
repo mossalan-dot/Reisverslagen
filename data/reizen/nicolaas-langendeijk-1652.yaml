@@ -1,0 +1,28 @@
+id: nicolaas-langendeijk-1652
+titel: Reis naar Italië
+reizigers:
+- nicolaas-langendeijk
+reistype: plezierreis
+jaren: '1652'
+vertrek: 01-04-1652
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Italië
+route:
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 01-04-1652
+beschrijving: Reisde in 1652 naar Italië in het gezelschap van Johannes Lieshoud.
+reisgezellen:
+- naam: Johannes Lieshoud
+  jaren: 1628–1663
+  opmerkingen: journaalschrijver
+addenda:
+- beschrijving: Reisverslag van Johannes Lieshoud
+  bron: Lieshoud 2005
+literatuur:
+- Brouwer 2005, 1-53.
+bronnen:
+- gemaakt-op-reis-database

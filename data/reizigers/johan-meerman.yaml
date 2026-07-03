@@ -1,0 +1,31 @@
+id: johan-meerman
+naam: Meerman, Johan
+volledige_naam: Johan Meerman
+geslacht: Man
+geboren:
+  jaar: 1687
+  datum: 11-07-1687
+  plaats: Leiden
+  provincie: Holland
+overleden:
+  jaar: 1746
+  datum: 28-03-1746
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1714 een reis naar Engeland. Eerste reis: 01-01-1714 (27 jaar)'
+biografie: Zoon van Gerard Meerman (1650-1710) en Catharina Wijnina van Rijn (ca. 1660-1703).
+  Studeerde en promoveerde in de rechten in Leiden. Werkte als advocaat in Leiden en trad in
+  1714 tot het stadsbestuur. Maakte in 1714 een reis naar Engeland in het gezelschap van zijn
+  schoonzus Adriana de la Court (1696-1748).
+genealogie:
+  vader: Gerard Meerman (1650-1710)
+  moeder: Catharina Wijnina van Rijn (ca. 1660-1703)
+  echtgenoten:
+  - Catharina de la Court (1691-1752) in 1709
+  andere_familie:
+  - schoonzus Adriana de la Court (1696-1748)
+  - schoonbroer Allard de la Court (1688-1755)
+literatuur:
+- BWN, XII, 495-496.
+bronnen:
+- gemaakt-op-reis-database

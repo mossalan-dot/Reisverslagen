@@ -1,0 +1,28 @@
+id: anon-1664-1664
+titel: Reis door Frankrijk
+reizigers:
+- anon-1664
+reistype: educatiereis
+jaren: '1664'
+vertrek: 19-04-1664
+terugkeer: 30-07-1664
+reisdagen: '102'
+gebieden:
+- Frankrijk
+route:
+- plaats: Parijs
+  land_modern: Frankrijk
+  datum: 19-04-1664
+- plaats: Tain-l'Hermitage
+  land_modern: Frankrijk
+  datum: 30-07-1664
+manuscript: anon-1664-1664-hs
+beschrijving: Ongedateerd en onvoltooid verslag in het Frans van een reis door Frankrijk in
+  1664, met een bezoek aan Parijs, de Loirestreek, Bordeaux, Montpellier en Aix-en-Provence.
+  Het verslag eindigt in Tain-l’Hermitage vlakbij Valence.
+addenda:
+- beschrijving: Twee Latijnse anagrammen die de letters husselen van de woorden van de priester
+    tijdens de viering van de communie
+  bron: '[88]'
+bronnen:
+- gemaakt-op-reis-database

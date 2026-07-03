@@ -1,0 +1,42 @@
+id: johan-vegelin-van-claerbergen-1707
+titel: Verhael van mijn eerste reijs buiten Frieslant gedaen met mijn jongste Broeder, Leffring,
+  syn vrouw, en Anne Bijters op de toure met sijn huisgesin sampt fiscael Geringa en syn vrouw.
+  met Anne Bijters voorscreve schip. Ao 1707
+reizigers:
+- johan-vegelin-van-claerbergen
+reistype: plezierreis
+jaren: '1707'
+vertrek: 15-06-1707
+terugkeer: 27-06-1707
+reisdagen: '12'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Joure
+  land_modern: Nederlandse Republiek
+  datum: 15-06-1707
+- plaats: Joure
+  land_modern: Nederlandse Republiek
+  datum: 27-06-1707
+manuscript: johan-vegelin-van-claerbergen-1707-hs
+beschrijving: Ongepagineerd verslag van een plezierreisje per schip van Johan Vegelin van Claerbergen
+  naar Amsterdam in het gezelschap van zijn broer Assuerus (1687-1771), Wijnout Leffring en
+  zijn vrouw, Anne Bijters en zijn gezin en Geringa en zijn vrouw. Vegelin van Claerbergen reisde
+  van Joure naar Alkmaar en Amsterdam.
+reisgezellen:
+- naam: Assuerus Vegelin van Claerbergen
+  jaren: 1687–1771
+  opmerkingen: broer
+- naam: Wijnout Leffring
+- naam: Leffring
+  opmerkingen: echtgenote van de vorige
+- naam: Anne Bijters
+- naam: Bijters
+  opmerkingen: echtgenote van de vorige
+- naam: Geringa
+- naam: Geringa
+  opmerkingen: echtgenote van de vorige
+literatuur:
+- BWN, XIX, 63; RAA; Gildermacher en Van der Vaart 2007; Spyksma 2010, 63-65.
+bronnen:
+- gemaakt-op-reis-database

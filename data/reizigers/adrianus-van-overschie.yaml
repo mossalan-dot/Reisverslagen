@@ -1,0 +1,25 @@
+id: adrianus-van-overschie
+naam: Overschie, Adrianus van
+volledige_naam: Adrianus van Overschie
+geslacht: Man
+geboren:
+  jaar: 1650
+  datum: 01-01-1650
+  plaats: Den Haag
+  provincie: Holland
+overleden:
+  jaar: 1724
+  datum: 13-11-1724
+  plaats: Den Haag
+  provincie: Holland
+religie: Katholiek
+is_auteur: true
+korte_typering: 'Maakte in 1674-1675 een educatiereis naar Italië en Spanje. Eerste reis: 22-09-1674
+  (24 jaar)'
+biografie: Zoon van Lambert van Overschie (1604-1652) en Commerina Breman (º1626). Maakte tussen
+  1674 en 1677 een educatiereis naar Italië, Spanje en Portugal.
+genealogie:
+  vader: Lambert van Overschie (1604-1652)
+  moeder: Commerina Breman (º1626)
+bronnen:
+- gemaakt-op-reis-database

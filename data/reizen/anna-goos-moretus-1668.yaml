@@ -1,0 +1,43 @@
+id: anna-goos-moretus-1668
+titel: Plezierreis naar de Zuidelijke Nederlanden
+reizigers:
+- anna-goos-moretus
+reistype: plezierreis
+jaren: '1668'
+vertrek: 14-09-1668
+terugkeer: 16-09-1668
+reisdagen: '2'
+gebieden:
+- Zuidelijke Nederlanden
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 14-09-1668
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 16-09-1668
+beschrijving: In 1668 maakte zij met haar man en kinderen een plezierreis naar Den Bosch, Dordrecht
+  en Zeeland. Zij, Franciscus en Maria Isabella maakten rechtsomkeert bij Scherpenheuvel.
+reisgezellen:
+- naam: Balthasar Moretus III
+  jaren: 1646–1696
+  opmerkingen: journaalschrijver, zoon
+- naam: Balthasar Moretus II
+  jaren: 1615–1674
+  opmerkingen: echtgenoot
+- naam: Joannes Jacobus Moretus
+  jaren: 1647–1718
+  opmerkingen: zoon
+- naam: Franciscus Moretus
+  jaren: 1656–1705
+  opmerkingen: zoon
+- naam: Maria Isabella Moretus
+  jaren: 1655–1676
+  opmerkingen: dochter
+addenda:
+- beschrijving: Reisverslag van Balthasar Moretus III
+  bron: Sabbe 1924a
+literatuur:
+- Sabbe 1926; Van Broeckhoven 1970.
+bronnen:
+- gemaakt-op-reis-database

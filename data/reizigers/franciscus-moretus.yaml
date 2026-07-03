@@ -1,0 +1,35 @@
+id: franciscus-moretus
+naam: Moretus, Franciscus
+volledige_naam: Franciscus Moretus
+naamsvarianten:
+- Franciscus Moerentorf
+geslacht: Man
+geboren:
+  jaar: 1656
+  datum: 19-10-1656
+  plaats: Antwerpen
+  provincie: Zuidelijke Nederlanden
+overleden:
+  jaar: 1705
+  datum: 27-02-1705
+  plaats: Antwerpen
+  provincie: Zuidelijke Nederlanden
+religie: Katholiek
+is_auteur: false
+korte_typering: 'Maakte in 1668 een reis naar Den Bosch. Eerste reis: 14-09-1668 (12 jaar)'
+biografie: Zoon van Balthasar II Moretus (1615-1674) en Anna Goos (1645-1674), broer van Balthasar
+  III (1646-1696), Joannes Jacobus (1647-1718) en Maria Isabella (1655-1676). Was priester,
+  kanunnik en protonotarius apostolicus in de Onze-Lieve-Vrouwekathedraal van Antwerpen vanaf
+  1681. Maakte in 1668 een reis naar Den Bosch met zijn ouders, broers en zussen, maar maakte
+  al rechtsomkeert bij het nabijgelegen Scherpenheuvel.
+genealogie:
+  vader: Balthasar II Moretus (1615-1674)
+  moeder: Anna Goos (1627-1691)
+  broers_zussen:
+  - Balthasar III (1646-1696)
+  - Joannes Jacobus (1647-1718)
+  - Maria Isabella (1655-1676).
+literatuur:
+- Voet 1969, 227.
+bronnen:
+- gemaakt-op-reis-database

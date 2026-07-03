@@ -1,0 +1,30 @@
+id: dirk-molenwerff-1681
+titel: Plezierreis naar Den Bosch
+reizigers:
+- dirk-molenwerff
+reistype: plezierreis
+jaren: '1681'
+vertrek: 04-06-1681
+terugkeer: 18-06-1681
+reisdagen: '14'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 04-06-1681
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 18-06-1681
+beschrijving: Maakte in 1681 een plezierreis naar Den Bosch met Gerard Hinlopen (1644-1691)
+  en Voljard Schellinger.
+reisgezellen:
+- naam: Gerard Hinlopen
+  jaren: 1644–1691
+  opmerkingen: journaalschrijver
+- naam: Voljard Schellinger
+addenda:
+- beschrijving: Reisverslag van Gerard Hinlopen
+  bron: Hinlopen 1681
+bronnen:
+- gemaakt-op-reis-database

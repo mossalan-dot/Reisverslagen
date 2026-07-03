@@ -1,0 +1,25 @@
+id: franco-van-bleiswijck-1665
+titel: Reyse naer Zeelant
+reizigers:
+- franco-van-bleiswijck
+reistype: plezierreis
+jaren: '1665'
+vertrek: 5-3-1665
+terugkeer: 11-3-1665
+reisdagen: '6'
+gebieden:
+- Aantekeningen van reizen vanuit Delft naar Walcheren, over Bergen op Zoom naar België en terug
+  over Maastricht en Noord-Brabant
+- Nederlandse Republiek
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 5-3-1665
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 11-3-1665
+manuscript: franco-van-bleiswijck-1665-hs
+beschrijving: Aantekeningen van reizen vanuit Delft naar Walcheren, over Bergen op Zoom naar
+  België en terug over Maastricht en Noord-Brabant. Het verslag is zoek.
+bronnen:
+- gemaakt-op-reis-database

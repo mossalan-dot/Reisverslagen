@@ -1,0 +1,50 @@
+id: jacob-van-foreest-1660
+titel: Journael van de reise na Vranckrijck & Engeland van Jacob van Foreest
+reizigers:
+- jacob-van-foreest
+reistype: educatiereis
+jaren: '1660'
+vertrek: 03-04-1660
+terugkeer: 02-10-1660
+reisdagen: '182'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 03-04-1660
+- plaats: Avignon
+  land_modern: Frankrijk
+  datum: 02-10-1660
+manuscript: jacob-van-foreest-1660-hs
+beschrijving: Eerste verslag van een educatiereis van Jacob van Foreest naar Frankrijk in 1660
+  in het gezelschap van Nanning van Loon. Het manuscript is op sommige plekken vervaagd en moeilijk
+  leesbaar. De auteur arriveerde per schip in Le Havre en bezocht Caen, Parijs en het Loiregebied.
+  Het verslag eindigt in Avignon.
+reisgezellen:
+- naam: Nanning van Loon
+  opmerkingen: neef
+addenda:
+- type: Kasboek
+  auteur: Jacob van Foreest
+  beschrijving: Kasboek van 14 april 1660 tot mei 1661 van de reis naar Frankrijk en Engeland,
+    getiteld ‘Notitie ten ruygsten van t’ geen ick in mij particulier op de Fransche reijse
+    uitgegeven heb’
+  datum: 1660-1661
+  taal: Nederlands
+  bron: FA Van Foreest 119
+  transcriptie: Deels
+  foto: Ja
+- type: 'Paratekst: aantekeningen'
+  auteur: Jacob van Foreest
+  beschrijving: Los katern over de promotie aan de universiteit van Caen
+  datum: 1660-1661
+  taal: Nederlands
+  bron: f. [22b-c]
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- LSD.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,32 @@
+id: samuel-baccher-1608-1611
+titel: Educatiereis naar Frankrijk en Italië
+reizigers:
+- samuel-baccher
+reistype: educatiereis
+jaren: 1608-1611
+vertrek: '1608'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Italië
+beschrijving: Maakte tussen 1608 en 1611 een educatiereis naar Frankrijk en Italië, waarover
+  hij brieven en een album amicorum naliet.
+brieven:
+- land_verzender: Frankrijk en Italië
+  bron: De Baccher 1608-1611
+addenda:
+- type: Album amicorum
+  auteur: Samuel Baccher
+  beschrijving: Album amicorum, met bijdragen uit Parijs, Orléans, Blois, Nîmes, Marseille en
+    Londen.
+  datum: 1601-1611
+  relatie: vriend-vriend
+  taal: Latijn
+  bron: Bacher 1601-1610.
+  locatie: Parijs e.a.
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- Scholte 1942, 69-89; Offerhaus 1990, 69-70.
+bronnen:
+- gemaakt-op-reis-database

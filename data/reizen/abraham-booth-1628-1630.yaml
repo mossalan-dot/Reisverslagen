@@ -1,0 +1,33 @@
+id: abraham-booth-1628-1630
+titel: Journael van mijne reyse ende vant gepass.e. in Engelandt.
+reizigers:
+- abraham-booth
+reistype: diplomatieke reis
+jaren: 1628-1630
+vertrek: 01-08-1628
+terugkeer: 31-12-1630
+reisdagen: '882'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+manuscript: abraham-booth-1628-1630-hs
+beschrijving: Verslag van een diplomatieke reis van Abraham Booth naar Engeland uit 1628-1630
+  in het gezantschap van Albert Joachimi (1560-1654). De missie betrof de geschillen tussen
+  de VOC en de Engelse Oost-Indische Compagnie.
+reisgezellen:
+- naam: Albert Joachimi
+  jaren: 1560–1654
+  opmerkingen: ambassadeur
+addenda:
+- type: 'Paratekst: aantekeningen'
+  auteur: Abraham Booth
+  beschrijving: Beschrijving van Engeland, getiteld ‘Engelandts descriptie’
+  datum: 1628-1630
+  taal: Nederlands
+  bron: Ms. Utrecht, UBU, coll. hss. 1598
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- Merens 1942, 1-50.
+bronnen:
+- gemaakt-op-reis-database

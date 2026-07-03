@@ -1,0 +1,33 @@
+id: petrus-zaunslifer-1702
+titel: Dagverhaal ener seer aanmerkelijke reijse naar Spangien en Vigos (...)
+reizigers:
+- petrus-zaunslifer
+reistype: militaire reis
+jaren: '1702'
+vertrek: 03-05-1702
+terugkeer: 19-11-1702
+reisdagen: '200'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+- Spanje
+route:
+- plaats: Hellevoetsluis
+  land_modern: Nederlandse Republiek
+  datum: 03-05-1702
+- plaats: Hellevoetsluis
+  land_modern: Nederlandse Republiek
+  datum: 19-11-1702
+manuscript: petrus-zaunslifer-1702-hs
+beschrijving: Verslag van een militaire reis naar Spanje van scheepspredikant Petrus Zaunslifer
+  (1677-1739) in 1702. Zaunslifer reisde van Hellevoetsluis naar Engeland en Spanje. Hij bezichtigde
+  St. Helena, zag de gevechten bij diverse versterkingen nabij Cádiz en de plundering van een
+  Spaanse zilvervloot in de baai van Vigo.
+reisgezellen:
+- naam: Philips van der Goes
+  jaren: 1651–1707
+  opmerkingen: viceadmiraal
+literatuur:
+- BWN, XXI, 35; NNBW, III, 1510.
+bronnen:
+- gemaakt-op-reis-database

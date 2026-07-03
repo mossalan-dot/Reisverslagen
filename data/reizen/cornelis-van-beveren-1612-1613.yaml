@@ -1,0 +1,38 @@
+id: cornelis-van-beveren-1612-1613
+titel: Notulen van zijne Wals Brabantsche, Franche, Switsersche ende Hoochduytsche Reijsen
+reizigers:
+- cornelis-van-beveren
+reistype: educatiereis
+jaren: 1612-1613
+vertrek: 1-4-1612
+terugkeer: 8-10-1613
+reisdagen: '555'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+- Duitsland
+- Zwitserland
+route:
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 1-4-1612
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 8-10-1613
+manuscript: cornelis-van-beveren-1612-1613-hs
+beschrijving: Verslag van Cornelis van Beveren (1591-1663) uit 1612-1613 van een educatiereis
+  naar Frankrijk in het gezelschap van Gaspar van Kinschot (1592-1654), Van Blockhusen, Wouter
+  van Clootwijck en diens zwager. Van Beveren reisde langs het Loiregebied, waar hij aan de
+  universiteit van Orléans promoveerde in de rechten. Hij keerde terug via Zwitserland en Duitsland.
+reisgezellen:
+- naam: Gaspar van Kinschot
+  jaren: 1592–1654
+- naam: van Blockhusen
+- naam: Wouter van Clootwijck
+- naam: van Clootwijck
+  opmerkingen: zwager van de vorige
+literatuur:
+- Verhoeven 2010, 615-634.
+bronnen:
+- gemaakt-op-reis-database

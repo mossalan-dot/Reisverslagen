@@ -1,0 +1,37 @@
+id: balthasar-moretus-ii-1663
+titel: Reyse nae Walschquartier ghedaen door Balthasar Moretus met sijne twee sonen Balthasar
+  en Joannes Jacobus begonst den 18 September 1663 & voleynt den 2 October 1663
+reizigers:
+- balthasar-moretus-ii
+reistype: plezierreis
+jaren: '1663'
+vertrek: 18-09-1663
+terugkeer: 02-10-1663
+reisdagen: '14'
+gebieden:
+- Zuidelijke Nederlanden
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 18-09-1663
+- plaats: Dendermonde
+  land_modern: Zuidelijke Nederlanden
+  datum: 02-10-1663
+manuscript: balthasar-moretus-ii-1663-hs
+beschrijving: erslag van een korte reis van Balthasar Moretus II in 1663 naar Ieper, Lille en
+  Doornik in het gezelschap van zijn zonen Balthasar III en Joannes Jacobus (1647-1718).
+reisgezellen:
+- naam: Balthasar Moretus III
+  jaren: 1646–1696
+  opmerkingen: zoon
+- naam: Joannes Jacobus Moretus
+  jaren: 1647–1718
+  opmerkingen: zoon
+addenda:
+- beschrijving: Kasboekaantekeningen
+  bron: p. 6
+literatuur:
+- Sabbe 1924b, 605-624; Sabbe 1943, 65-96; Voet 1969, 216-227; Degryse 1996, 189-202; De Nave
+  249-306; Verhoeven 2005, 375-395.
+bronnen:
+- gemaakt-op-reis-database

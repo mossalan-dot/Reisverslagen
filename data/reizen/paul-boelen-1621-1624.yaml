@@ -1,0 +1,72 @@
+id: paul-boelen-1621-1624
+titel: Breive description de mon voyage d’Engleterre, France et d’Italie
+reizigers:
+- paul-boelen
+reistype: diplomatieke reis
+jaren: 1621-1624
+vertrek: 05-12-1621
+terugkeer: 01-09-1624
+reisdagen: '1001'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+- Engeland
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 05-12-1621
+- plaats: Montauban
+  land_modern: Frankrijk
+  datum: 01-09-1624
+manuscript: paul-boelen-1621-1624-hs
+beschrijving: Ongedateerd verslag van een diplomatieke reis van Paul Boelen naar Engeland en
+  Frankrijk uit 1621-1624 in het gezantschap van François van Aerssen van Sommelsdijk (1572-1641),
+  Diederick Bas (1569-1637) en Hendrik van Tuyll van Serooskerken (1574-1627). Boelen arriveerde
+  in Engeland en maakte vanuit Londen uitstapjes naar Oxford, Cambridge en Bath. Hij stak het
+  Kanaal over tussen Dover en Wissant, bezocht Parijs en het Loiregebied en reisde zuidelijk
+  naar Bordeaux. Het verslag eindigt in Montauban.
+reisgezellen:
+- naam: François van Aerssen heer van Sommelsdijk
+  jaren: 1572–1641
+  opmerkingen: ambassadeur
+- naam: Diederick Bas
+  jaren: 1569–1637
+  opmerkingen: ambassadeur
+- naam: Hendrik van Tuyll van Serooskerken
+  jaren: 1574–1627
+  opmerkingen: ambassadeur
+- naam: Constantijn Huygens sr., heer van Zuilichem
+  jaren: 1596–1687
+  opmerkingen: gentilhomme, journaalschrijver
+- naam: Volkert Teding van Berkhout
+  jaren: 1601–1632
+  opmerkingen: gentilhomme
+addenda:
+- type: Verbaal/rapport/minuut
+  auteur: François van Aerssen van Sommelsdijk, Diederick Bas en Hendrik van Tuyll van Serooskerken
+  beschrijving: Rapport van de ambassadeurs François van Aerssen van Sommelsdijk, Diederick
+    Bas en Hendrik van Tuyll van Serooskerken wegens hun zending naar Engeland in verband met
+    onderhandelingen over de walvisvaart, de Oost-Indische Compagnie, de West-Indische Compagnie,
+    de koning van Bohemen en vernieuwing van de alliantie met de Republiek, 1621 december 3
+    - 1623 februari 12
+  datum: 12-02-1623
+  relatie: gezant-SG
+  taal: Nederlands
+  bron: SG 8343
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+- beschrijving: Concept-verbaal
+  bron: LO 56-57
+- beschrijving: Instructies van de Staten-Generaal
+  bron: SG 12589.36
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+- beschrijving: Reisverslag van Constantijn Huygens sr.
+  bron: Huygens 1624
+- beschrijving: Journaal of rapport van de ambassadeurs François van Aerssen van Sommelsdijk
+    en Albert Joachimi wegens hun zending naar Engeland in verband met onderhandelingen over
+    het sluiten van een alliantie met de Republiek, 1624 februari 16 - 1624 juli 6
+  bron: SG 8344
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,47 @@
+id: arent-van-der-meersch-1703
+titel: Reisbeschrijving naar Duitschland
+reizigers:
+- arent-van-der-meersch
+reistype: handelsreis
+jaren: '1703'
+vertrek: 02-04-1703
+terugkeer: 04-12-1703
+reisdagen: '246'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 02-04-1703
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 04-12-1703
+manuscript: arent-van-der-meersch-1703-hs
+beschrijving: Verslag van een handelsreis van Arent van der Meersch (1683-1768) naar Duitsland
+  in 1703 in het gezelschap van zijn zus Anna (1669-1724), Pieter Boek en Giese Mulder. Van
+  der Meersch trok via Overijssel naar Hannover en Leipzig. Hij bezocht Bayreuth en verbleef
+  twee weken in Neurenberg. Hij spendeerde drie maanden in Leipzig en keerde opnieuw naar Neurenberg,
+  waar het verslag eindigt.
+reisgezellen:
+- naam: Anna van der Meersch
+  jaren: 1669–1724
+  opmerkingen: zus
+- naam: Pieter Boek
+- naam: Giese Mulder
+addenda:
+- beschrijving: Kladaantekeningen
+  bron: Van der Meersch 1703, [1]
+- beschrijving: Apodemisch gedichtje, overgeschreven betalingsbewijs van Leopold van Leuwen,
+    gedateerd 2 mei 1703
+  bron: Van der Meersch 1703, [2]
+- beschrijving: Kasboekaantekeningen
+  bron: Van der Meersch 1703, [53-70]
+- beschrijving: Gelukwens van broer Pieter van der Meersch (º1677), gedateerd 2 april 1703
+  bron: Van der Meersch 1703, [61]
+- beschrijving: Kasboekaantekeningen
+  bron: Van der Meersch 1703, [62]
+literatuur:
+- Visser en Zilverberg 1991, 153-187.
+bronnen:
+- gemaakt-op-reis-database

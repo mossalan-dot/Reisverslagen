@@ -1,0 +1,33 @@
+id: caspar-van-kinschot-1646
+titel: Diplomatieke reis naar Münster
+reizigers:
+- caspar-van-kinschot
+reistype: diplomatieke reis
+jaren: '1646'
+vertrek: '1646'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+beschrijving: In 1646 reisde hij in een diplomatiek gezantschap mee Duitsland om te onderhandelen
+  over de Vrede van Münster.
+brieven:
+- verzender: Caspar van Kinschot
+  ontvanger: Constantijn Huygens (1596-1687)
+  datum: 27-03-1646
+  plaats_verzender: Münster
+  land_verzender: D
+  plaats_ontvanger: Den Haag
+  land_ontvanger: NL
+  taal: Nederlands
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=huyg001/4277
+  tekst: 'De geschenken van den Prins voor mijn gedicht maken mij erg verlegen. Ik was in den
+    beginne niet eens van plan, mijn naam onder het vers te zetten.
+
+    A Munster, ce 27e Febvr. 1646.
+
+    Maar als Z.H. het verlangt, moet ik de geschenken wel aannemen'
+literatuur:
+- Blok en Molhuysen 1937, 462-463; Meertens 1943, 364-369; Moss 2016b.
+bronnen:
+- gemaakt-op-reis-database

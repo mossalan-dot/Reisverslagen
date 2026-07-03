@@ -1,0 +1,52 @@
+id: balthasar-moretus-iii-1664-1665
+titel: Reijse van Antwerpen op Italien ghedaen door Balthasar Moretus le Jeun in compagnie van
+  Mijn heer Hillvenier, mijnheer van Immetseel, mijn heer Toslinckx en mijn heer Petrus Goos
+reizigers:
+- balthasar-moretus-iii
+reistype: educatiereis
+jaren: 1664-1665
+vertrek: 30-09-1664
+terugkeer: 31-12-1665
+reisdagen: '457'
+gebieden:
+- Zuidelijke Nederlanden
+- Duitsland
+- Oostenrijk
+- Italië
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 30-09-1664
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 31-12-1665
+manuscript: balthasar-moretus-iii-1664-1665-hs
+beschrijving: Onvoltooid verslag van een educatiereis van Balthasar Moretus III naar Italië
+  in 1664-1665 in het gezelschap van zijn oom Hendrik Hillewerve (1621-1694), Jan Tholinx jr.
+  (1631-1705), Theodoor Andries van Kessel en neef Pieter Goos (1645-1708). De reis liep van
+  Antwerpen door Duitsland via Keulen en Heidelberg. Moretus stak bij Innsbruck de Alpen over
+  en bezocht Venetië, waar het verslag eindigt. De rest van de reis wordt in losse aantekeningen
+  gemeld.
+reisgezellen:
+- naam: Hendrik Hillewerve
+  jaren: 1621–1694
+  opmerkingen: oom, tutor
+- naam: Jan Tholinx jr.
+  jaren: 1631–1705
+- naam: Theodoor Andries van Kessel
+- naam: Pieter Goos
+  jaren: 1645–1708
+  opmerkingen: neef
+addenda:
+- beschrijving: Kladaantekeningen van de reis door Italië en afschriften van inscripties
+  bron: Moretus III 1664-1665, f. 16r-35v; 37r-152v
+- beschrijving: Ingelegd vel met reisaantekeningen
+  bron: Moretus III 1664-1665, f. 36r; [127r-127v]
+- beschrijving: Aangeplakt vel met reisaantekeningen
+  bron: Moretus III 1664-1665, f. 71v
+- beschrijving: Rekening aan Balthasar Moretus II
+  bron: MPM, Doos M8, stuk 3510
+literatuur:
+- Sabbe 1928, 173-203.
+bronnen:
+- gemaakt-op-reis-database

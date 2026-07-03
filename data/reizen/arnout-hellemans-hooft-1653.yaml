@@ -1,0 +1,65 @@
+id: arnout-hellemans-hooft-1653
+titel: Reijs na Lubek met de heer van Waveren als ambassadeur van haer H.M. nae Lubek om daer
+  de eeuwige vrede te treffen tusschen Polen en Sweden
+reizigers:
+- arnout-hellemans-hooft
+reistype: diplomatieke reis
+jaren: '1653'
+vertrek: 10-01-1653
+terugkeer: 09-04-1653
+reisdagen: '89'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: '''s-Graveland'
+  land_modern: Nederlandse Republiek
+  datum: 10-01-1653
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 09-04-1653
+manuscript: arnout-hellemans-hooft-1653-hs
+beschrijving: Verslag van een diplomatieke reis van Arnout Hellemans Hooft naar Lübeck in het
+  gezelschap van ambassadeur Anthony Oetgens van Waveren (1585-1658) en burgemeester Jacob de
+  Witt (1589-1674). Het gezantschap probeerde, overigens zonder succes, te bemiddelen in de
+  vredesonderhandelingen tussen Polen en Zweden. De reis liep via Overijssel naar Bremen, Hamburg
+  en Lübeck, waar het gezantschap anderhalve maand verbleef. Hellemans Hooft keerde terug per
+  schip via de Noordzee.
+reisgezellen:
+- naam: Anthony Oetgens van Waveren
+  jaren: 1585–1658
+  opmerkingen: extraordinaris ambassadeur
+- naam: Jacob de Witt
+  jaren: 1589–1674
+  opmerkingen: extraordinaris ambassadeur
+- naam: Gualtherus Henricus Gualtheri
+  opmerkingen: extraordinaris ambassadeur
+- naam: Nicolaas Vivien
+  jaren: 1631–1692
+  opmerkingen: gentilhomme, neef van De Witt
+addenda:
+- type: 'Paratekst: aantekeningen'
+  auteur: Arnout Hellemans Hooft
+  beschrijving: Namenlijst van binnen- en buitenlandse diplomaten en lijst van bediendes
+  datum: '1653'
+  taal: Nederlands
+  bron: f. 140r-140v
+  transcriptie: Nee
+  foto: Ja
+- type: Verbaal/rapport/minuut
+  auteur: Jacob de Witt, Anthonis van Waveren en Gualtherus Henricus Gualtheri
+  beschrijving: Verbaal van de extraordinaris ambassadeurs Jacob de Witt, Anthonis van Waveren
+    en Gualtherus Henricus Gualtheri wegens hun zending naar Lübeck in verband met bemiddeling
+    bij het sluiten van een vredesverdrag tussen Polen en Zweden, 1653 januari 7 - 1653 april
+    9
+  datum: 09-04-1653
+  relatie: gezant-SG
+  taal: Nederlands
+  bron: SG 8467-8469
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- Hellemans Hooft 2001, 1-33; Witte 2002, 177-182; Van de Pol 2011, 43-78; Moss 2015, 92-93.
+bronnen:
+- gemaakt-op-reis-database

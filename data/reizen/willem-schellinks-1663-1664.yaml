@@ -1,0 +1,75 @@
+id: willem-schellinks-1663-1664
+titel: Dagh-register wegens onse reijsze in en door Vranckrijck, behelzende een korte aentekeninge
+  van al het geene wij in onze reijze door het zelve rijck aanmerckelijckst hebben gezien.
+reizigers:
+- willem-schellinks
+reistype: educatiereis
+jaren: 1663-1664
+vertrek: 20-04-1663
+terugkeer: 01-01-1664
+reisdagen: '256'
+gebieden:
+- Frankrijk
+- Zwitserland
+- Italië
+route:
+- plaats: Dieppe
+  land_modern: Frankrijk
+  datum: 20-04-1663
+- plaats: Rome
+  land_modern: Italië
+  datum: 01-01-1664
+manuscript: willem-schellinks-1663-1664-hs
+beschrijving: "Vier reisverslagen in drie banden van Willem Schellinks (1623-1678). Het betreft\
+  \ een netversie, deels gebaseerd op Lambert van den Bos’ Wegh-wyser uit 1665, waarschijnlijk\
+  \ geschreven tussen 1665 en 1668. Het verslag was waarschijnlijk bedoeld ter uitgave. Een\
+  \ zeventiende-eeuwse kopie van de laatste drie verslagen ligt in de Bodleian Library in Oxford\
+  \ (Ms. D’Orville 558-560). \n\nNederlands, pp. 473 (318-791).\n\nTweede deel van het verslag\
+  \ van bovengenoemde educatiereis. Dit deel beschrijft de reis naar Frankrijk en Zwitserland\
+  \ tussen 1663 en 1664. Schellinks reisde van Rouen naar Parijs, waar hij langere tijd bleef.\
+  \ Hij trok langs de Loirestreek en reisde door naar Bordeaux, Montpellier en Marseille. Hij\
+  \ bezocht Genève en Lyon en trok door naar Italië. Het deel eindigt in Rome. Schellinks verbleef\
+  \ langere tijd in Rouen (23 april-10 mei), Parijs (11 mei-28 juni), Bordeaux (7-27 september)\
+  \ en Rome."
+reisgezellen:
+- naam: Jacques Thierry jr.
+  jaren: 1648–1709
+  opmerkingen: pupil
+addenda:
+- type: 'Paratekst: aantekeningen'
+  auteur: Willem Schellings
+  beschrijving: Lijst van plaatsen in Frankrijk
+  datum: 1663-1664
+  taal: Nederlands
+  bron: Ms. 370-I
+  locatie: Frankrijk
+  transcriptie: Nee
+  foto: Nee
+- type: 'Paratekst: overig'
+  beschrijving: Gedrukte inventaris uit 1659 van de tombe van Saint-Denis
+  datum: '1659'
+  taal: Frans
+  locatie: Saint-Denis
+  transcriptie: Nee
+  foto: Nee
+- type: Reisverslag
+  beschrijving: Ingebonden reisgidsen
+  taal: Frans
+  locatie: Frankrijk
+  transcriptie: Nee
+  foto: Nee
+- type: 'Paratekst: aantekeningen'
+  auteur: Willem Schellings
+  beschrijving: Beschrijvingen van Romeinse palazzi
+  datum: '1664'
+  taal: Nederlands
+  locatie: Rome
+  transcriptie: Nee
+  foto: Nee
+- auteur: Willem Schellings
+  beschrijving: Verschillende tekeningen van landschappen en stadsgezichten.
+  bron: RKD; Alsteens en Buijs 2008, 71-189
+literatuur:
+- Aikema 1983, 15-20; Alsteen en Buijs 2008, 347-351.
+bronnen:
+- gemaakt-op-reis-database

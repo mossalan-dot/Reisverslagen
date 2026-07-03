@@ -1,0 +1,59 @@
+id: hendrik-clerits-1649-1651
+titel: Reis naar Italië, Frankrijk en Zwitserland
+reizigers:
+- hendrik-clerits
+reistype: overig
+jaren: 1649-1651
+vertrek: 01-09-1649
+terugkeer: 10-11-1649
+reisdagen: '70'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Italië
+- Frankrijk
+- Zwitserland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 01-09-1649
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 10-11-1649
+beschrijving: Reisde tussen 1649 en 1651 naar Italië en Frankrijk als bediende van Arnout Hellemans
+  Hooft (1629-1680).
+reisgezellen:
+- naam: Arnout Hellemans Hooft
+  jaren: 1629–1680
+  opmerkingen: journaalschrijver, meester
+- naam: Reyer Anslo
+  jaren: 1626–1669
+  opmerkingen: dichter
+- naam: Rombout Hudde
+  jaren: 1629–1679
+- naam: Joannes Hudde heer van Waveren, Botshol en Ruige Wilnis
+  jaren: 1628–1704
+- naam: Ooms
+- naam: IJsbrand Kieft
+- naam: Dirck Blom
+addenda:
+- type: Bureaucratische documenten
+  auteur: Leonora Hellemans
+  beschrijving: Inscriptie in het testament van Leonora Hellemans
+  taal: Nederlands
+  transcriptie: Nee
+  foto: Nee
+- type: Reisverslag
+  auteur: Arnout Hellemans Hooft
+  beschrijving: Reisverslag van Arnout Hellemans Hooft
+  datum: 1649-1651
+  relatie: bediende-meester
+  taal: Nederlands
+  bron: Hellemans Hooft 2001
+  transcriptie: Ja
+  foto: Ja
+literatuur:
+- Hellemans Hooft 2001, 1-33; Witte 2002, 177-182; Van de Pol 2011, 43-78; Moss 2015, 92-93.
+bronnen:
+- gemaakt-op-reis-database

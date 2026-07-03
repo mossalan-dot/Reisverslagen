@@ -1,0 +1,114 @@
+id: constantijn-huygens-sr-1624
+titel: Journaal van eene zeereis naar Engeland anno 1624
+reizigers:
+- constantijn-huygens-sr
+reistype: diplomatieke reis
+jaren: '1624'
+vertrek: 26-02-1624
+terugkeer: 05-03-1624
+reisdagen: '8'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+route:
+- plaats: Scheveningen
+  land_modern: Nederlandse Republiek
+  datum: 26-02-1624
+- plaats: Gravesend
+  land_modern: Engeland
+  datum: 05-03-1624
+manuscript: constantijn-huygens-sr-1624-hs
+beschrijving: Kort verslag van een zeereis naar Engeland van Constantijn Huygens sr. in 1624
+  in het gezantschap van François van Aerssen van Sommelsdijk en Albert Joachimi (1560-1654).
+  De reis wordt beschreven tot Gravesend.
+reisgezellen:
+- naam: François van Aerssen heer van Sommelsdijk
+  jaren: 1572–1641
+  opmerkingen: ambassadeur
+- naam: Albert Joachimi
+  jaren: 1560–1654
+  opmerkingen: ambassadeur
+- naam: Paul Boelen
+  opmerkingen: journaalschrijver, gentilhomme
+poezie:
+- titel: Ad d.R. Thorium,) post obitum optimi parentis Londinum reversus
+  dichter: Constantijn Huygens sr.
+  datum: maart 1624
+  taal: Latijn
+  bron: Huygens 1893, 57-103
+  link: https://dbnl.org/tekst/huyg001jawo10_01/huyg001jawo10_01_0002.php
+  tekst: "reversus.3)+.\n \nThori candide, chare, clare Thori,\n \nO non ultima tertium Britannos\n\
+     \nVisendi mihi caussa, pene quartum\n \nPrima, post Patriae imperata Patrum;\n5\nSi prisci\
+    \ subeunt senem furores,\n \nSi prisci memor usquedum Duelli\n \nIllos candidulosque blandulosque\n\
+     \nEt se propter amabiles ocellos\n \nCondis nube feroculus coactâ,\n10\nHeu, heu! parce\
+    \ minis, et imbecillo,\t\n \nImbelli, neque qualis olim amico:\n \nNon sum quem Batavi fuisse\
+    \ dicent,\n \nQuem dicent Britones fuisse non sum;\n \nLanguet pristinus ille, languet ardor,\n\
+    15\nDefecit juvenem juventa, dicas\n \nImberbi Puero gravem senectam:\n \nTalem perpetui\
+    \ per ora rivi,\n \nTalem insomnia pallidaeque noctes,\n \nNocturnique dies, et una semper\n\
+    20\nCurarum series et unus horror\n \nPerculsae faciem dedere menti,\n \nEx quo me mihi\
+    \ fata chariores\n \nSomno perpete condidere luces,\n \nIllam illam ancipitis Pharon Iuuentae,\n\
+    25\nQuâ me sospite sospitem supremam\n \nDixi non male non timere sortem;\n \nQuâ raptâ\
+    \ mihi sorte nunc supremâ\n \nSupremam libeat subire sortem.\n \nQuid censes animi, miserte\
+    \ Thori\n30\nRerum olim quoque non satis mearum\n \nVoto de meliore, quid relictum?\n \n\
+    Si pugnans placui, placere nolo,\n \nNi nolim nequeam; placere solâ\n \nQuâ nunc parte datur\
+    \ placere fas sit,\n35\nHinc planctu hinc lachrymis, utrimque questu.\n \nFac suspiria quae\
+    \ loquetur in se\n \nContortus dolor introïre pronam\n \nCircumfusa tibi sinantur aurem;\n\
+     \nForsan qui ualeat liquare cautes\n40\nEt ferro lachrimam imperare moeror\n \nNon ferro\
+    \ tibi lachrimam imperabit,\n \nEt solabere quem pudebit armis\n \nImbellem petijsse, inermem\
+    \ amicum.\n \nSin faxis; ehodum, valeto longum\n45\nVano nomine vana Numinum vis\n \nVano\
+    \ culta mihi, valete Diuae,\n \nDiuae Thespiades ualete longum.\n \nStat sententia. non\
+    \ placet Dearum,\n \nNon ultra libet asseclam uideri,\n50\nQuae mores oculosque spiritumque\n\
+     \nTam cultae tibi tam sinant ferocem,\n \nThori candide, chare, clare Thori.\n \nMari.\
+    \ in Angliam nauigans1)."
+- titel: Ad eosdem Hendecasyllabos
+  dichter: Constantijn Huygens sr.
+  datum: maart 1624
+  locatie: Gravesend, Engeland
+  taal: Latijn
+  bron: Huygens 1893, 57-103
+  link: https://dbnl.org/tekst/huyg001jawo10_01/huyg001jawo10_01_0002.php
+  tekst: 'Ad eosdem hendecasyllabos1).
+
+     
+
+    Pontigenae partus, faciles, mea verba, Phalaeci,
+
+     
+
+    En stetit optatis fixa carina vadis;
+
+     
+
+    Ite leues ubi docta pius medicamina miscens
+
+     
+
+    Suscitat ingentem Thorius Hippocratem:
+
+    5
+
+    Salue, prima, Vale multum, vox ultima sunto;
+
+     
+
+    Caetera non doceo, ne docuisse neger.
+
+     
+
+    Grauesendae.'
+addenda:
+- beschrijving: Journaal of rapport en bijlagen van de ambassade
+  bron: LO 57-58
+- beschrijving: Reisverslag van Paul Boelen
+  bron: Boelen 1621-1624
+- beschrijving: Journaal of rapport van de ambassadeurs François van Aerssen van Sommelsdijk
+    en Albert Joachimi wegens hun zending naar Engeland in verband met onderhandelingen over
+    het sluiten van een alliantie met de Republiek, 1624 februari 16 - 1624 juli 6
+  bron: SG 8344
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+literatuur:
+- BWN, VIII, 1505-1516; NNBW, I, 1186-1190; Huygens 1971; Bork en Verkruijsse 1985, 291-293;
+  Leerintveld 1996, 192-202; Schenkeveld-van der Dussen 1998, 178-185; Blom 2003, 8-11; Huygens
+  2003, 1-39; Huygens 2013, 1-66; Gosseye, Blom en Leerintveld 2013; Pieters 2014.
+bronnen:
+- gemaakt-op-reis-database

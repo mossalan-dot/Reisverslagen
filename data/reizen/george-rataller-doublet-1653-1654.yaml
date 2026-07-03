@@ -1,0 +1,27 @@
+id: george-rataller-doublet-1653-1654
+titel: Journael van de Mechelse reyse, dec. 1653
+reizigers:
+- george-rataller-doublet
+reistype: handelsreis
+jaren: 1653-1654
+vertrek: 19-12-1653
+terugkeer: 23-03-1655
+reisdagen: '459'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 19-12-1653
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 23-03-1655
+manuscript: george-rataller-doublet-1653-1654-hs
+beschrijving: Verslag van een reis van George Rataller Doublet (1600-1655) naar de Zuidelijke
+  Nederlanden tussen 1653-1655. Rataller Doublet beschreef zijn bezigheden als raadsheer in
+  Mechelen en omgeving.
+literatuur:
+- Fruin 1868, 315-335; Fruin 1901, 195-244.
+bronnen:
+- gemaakt-op-reis-database

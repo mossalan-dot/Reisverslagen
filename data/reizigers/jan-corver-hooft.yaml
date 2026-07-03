@@ -1,0 +1,34 @@
+id: jan-corver-hooft
+naam: Corver Hooft, Jan
+volledige_naam: Jan Corver Hooft
+geslacht: Man
+geboren:
+  jaar: 1781
+  datum: 14-12-1781
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1855
+  datum: 25-07-1855
+  plaats: '''s-Graveland'
+  provincie: Holland
+is_auteur: true
+korte_typering: 'Maakte in 1802 een reis naar Londen en Hamburg. Eerste reis: 23-08-1802 (21
+  jaar)'
+biografie: Zoon van Gerrit Corver Hooft (1744-1807) en Margaretha Straalman (1747-1816). Maakte
+  in 1802 een reis naar Londen en Hamburg. Bekleedde verschillende hof- en bestuursfuncties.
+  Was in 1808 dienstdoend kamerheer van koning Lodewijk Napoleon (1778-1846). Werd in 1824 gekozen
+  tot Tweede Kamerlid en was in 1829-1830 kamervoorzitter. Was in 1849 en 1850 lid van de Eerste
+  Kamer.
+genealogie:
+  vader: Gerrit Corver Hooft (1744-1807)
+  moeder: Margaretha Straalman (1747-1816)
+portretten:
+- titel: Portret van Jan Corver Hooft
+  vervaardiger: Johann Heinrich Richter
+  jaar: '1840'
+  bron: Wikipedia
+literatuur:
+- NNBW, IV, 777; RAA.
+bronnen:
+- gemaakt-op-reis-database

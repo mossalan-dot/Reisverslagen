@@ -1,0 +1,52 @@
+id: cornelia-carolina-de-vassy-1748
+titel: Journaal van het plesier rijsje
+reizigers:
+- cornelia-carolina-de-vassy
+reistype: plezierreis
+jaren: '1748'
+vertrek: 25-06-1748
+terugkeer: 28-06-1748
+reisdagen: '3'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Middelburg
+  land_modern: Nederlandse Republiek
+  datum: 25-06-1748
+- plaats: Oudenbosch
+  land_modern: Nederlandse Republiek
+  datum: 28-06-1748
+manuscript: cornelia-carolina-de-vassy-1748-hs
+beschrijving: Onvolledig en kort verslag van een plezierreisje van Cornelia Carolina de Vassy
+  naar Den Haag in 1748 in het gezelschap van het echtpaar Thibaut en hun dochters, Leendert
+  Bomme en zijn twee zonen, Elias de Haze (1689-1752) en zijn echtgenote Catharina Emants (1715-1782).
+  Het verslag is in rijm geschreven. De Vassy reisde van Middelburg naar Goes. Ze maakte een
+  kort uitstapje naar Bergen op Zoom om de schade van de Oostenrijkse Successieoorlog te bezien.
+  Het verslag eindigt nabij Roosendaal.
+reisgezellen:
+- naam: Thibaut
+- naam: Thibaut
+  opmerkingen: echtgenote van de vorige
+- naam: Thibaut
+  opmerkingen: dochter van de vorige
+- naam: Thibaut
+  opmerkingen: dochter
+- naam: Leendert Bomme
+- naam: Bomme
+  opmerkingen: zoon van de vorige
+- naam: Bomme
+  opmerkingen: zoon
+- naam: Elias de Haze
+  jaren: 1689–1752
+- naam: Catharina Emants-de Haze
+  jaren: 1715–1782
+  opmerkingen: echtgenote van de vorige
+- naam: Claas van der Zalm
+  opmerkingen: schipper
+addenda:
+- beschrijving: Later kasboek van 1751-1761
+  bron: pp. 6-25
+literatuur:
+- Moss 2018a, 99-112.
+bronnen:
+- gemaakt-op-reis-database

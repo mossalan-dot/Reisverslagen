@@ -1,0 +1,31 @@
+id: balthasar-moretus-iii-1680-ii
+titel: Reis naar Madrid
+reizigers:
+- balthasar-moretus-iii
+reistype: handelsreis
+jaren: 1680 II
+vertrek: 03-05-1680
+terugkeer: 29-07-1680
+reisdagen: '87'
+gebieden:
+- Zuidelijke Nederlanden
+- Frankrijk
+- Spanje
+route:
+- plaats: Madrid
+  land_modern: Spanje
+  datum: 03-05-1680
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 29-07-1680
+manuscript: balthasar-moretus-iii-1680-ii-hs
+beschrijving: Verslag van een reis van naar Frankrijk en Spanje in 1680, waarschijnlijk van
+  de hand van Balthasar Moretus III. Verhoeven schrijft het per abuis toe aan Moretus II, die
+  in 1680 reeds was overleden. Het verslag is op sommige plekken moeilijk leesbaar.
+addenda:
+- beschrijving: Kladaantekeningen en bindinstructies
+  bron: '[1-3]'
+literatuur:
+- Sabbe 1927, 150-194; Sabbe en Rodríguez Moñino 1934.
+bronnen:
+- gemaakt-op-reis-database

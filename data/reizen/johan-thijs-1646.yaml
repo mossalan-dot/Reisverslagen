@@ -1,0 +1,33 @@
+id: johan-thijs-1646
+titel: Reijsboeck van Johan Thijs en aenteykening van Munster in de provincien, Vranckreyk en
+  Engelant, tussen t’ jaar 1646 en 1648
+reizigers:
+- johan-thijs
+reistype: diplomatieke reis
+jaren: '1646'
+vertrek: 01-08-1646
+terugkeer: 25-09-1646
+reisdagen: '55'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 01-08-1646
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 25-09-1646
+manuscript: johan-thijs-1646-hs
+beschrijving: Verslag van een diplomatieke reis van Johan Thijs naar Münster in Duitsland in
+  1646. Meertalig (Frans en Nederlands), ff. 22 (f. 79r-101v).
+addenda:
+- beschrijving: Verbalen, minuten van verbalen en bijlagen van het gezantschap naar Münster
+    in 1646, hierboven genoemd
+  bron: SG 8411-8427
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+literatuur:
+- BWN, XVIII, 119; NNBW, V, 925-926; De Jonge 1975, 1-31; Mourits 2001; Hoftijzer 2008; Mourits
+  2016; Van Anrooij en Hoftijzer 2017.
+bronnen:
+- gemaakt-op-reis-database

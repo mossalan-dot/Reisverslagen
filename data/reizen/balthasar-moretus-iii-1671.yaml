@@ -1,0 +1,26 @@
+id: balthasar-moretus-iii-1671
+titel: Hollandse reis
+reizigers:
+- balthasar-moretus-iii
+reistype: plezierreis
+jaren: '1671'
+vertrek: 06-09-1671
+terugkeer: 13-09-1671
+reisdagen: '7'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 06-09-1671
+- plaats: Rotterdam
+  land_modern: Nederlandse Republiek
+  datum: 13-09-1671
+manuscript: balthasar-moretus-iii-1671-hs
+beschrijving: Verslag van een korte reis van Balthasar Moretus III door Noord- en Zuid-Holland
+  in 1671. Moretus trok van Amsterdam naar Den Haag en Rotterdam.
+literatuur:
+- Sabbe 1926; Sabbe 1928, 173-203; Sabbe en Rodríguez Moñino 1934; Sabbe 1943, 65-96; Voet 1969,
+  228-237; Van Broeckhoven 1970; Degryse 1996, 189-202; De Nave 249-306.
+bronnen:
+- gemaakt-op-reis-database

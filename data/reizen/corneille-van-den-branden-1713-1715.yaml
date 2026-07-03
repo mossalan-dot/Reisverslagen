@@ -1,0 +1,42 @@
+id: corneille-van-den-branden-1713-1715
+titel: Notes de ses voyage en France et Italie
+reizigers:
+- corneille-van-den-branden
+reistype: educatiereis
+jaren: 1713-1715
+vertrek: 20-5-1713
+terugkeer: 27-2-1715
+reisdagen: '648'
+gebieden:
+- Frankrijk
+- Italië
+- Zuidelijke Nederlanden
+route:
+- plaats: Mechelen
+  land_modern: Zuidelijke Nederlanden
+  datum: 20-5-1713
+- plaats: Mechelen
+  land_modern: Zuidelijke Nederlanden
+  datum: 27-2-1715
+manuscript: corneille-van-den-branden-1713-1715-hs
+beschrijving: Verslag van een educatiereis naar Frankrijk en Italië van Corneille van den Branden
+  in 1713-1715.
+addenda:
+- type: Bureaucratische documenten
+  beschrijving: Latijns paspoort tussen Rome en Wenen, gedateerd 16 augustus 1714
+  datum: 16-08-1714
+  taal: Latijn
+  bron: FA Van den Branden de Reeth 8 a 2
+  locatie: Rome
+  transcriptie: Nee
+  foto: Nee
+- type: Bureaucratische documenten
+  beschrijving: Latijnse paspoorten
+  taal: Latijn
+  bron: 15 a 3
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- Terlinden 1960, 211-277; Verhoeven 2006, 69-84.
+bronnen:
+- gemaakt-op-reis-database

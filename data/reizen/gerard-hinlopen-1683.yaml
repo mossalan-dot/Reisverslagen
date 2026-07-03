@@ -1,0 +1,39 @@
+id: gerard-hinlopen-1683
+titel: Speel-reijs gedaen met schepen Gerard van Tongen, commissaris Rutger Groot, neffens onse
+  huijsvrouwen en de dogter van Tongen naar Zeeland en Braband
+reizigers:
+- gerard-hinlopen
+reistype: plezierreis
+jaren: '1683'
+vertrek: 04-06-1683
+terugkeer: 26-06-1683
+reisdagen: '22'
+gebieden:
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 04-06-1683
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 26-06-1683
+manuscript: gerard-hinlopen-1683-hs
+beschrijving: Verslag van een plezierreis per boot naar de Zuidelijke Nederlanden en Zeeland
+  van Gerard Hinlopen in 1683 in het gezelschap van zijn echtgenote Margaretha Hooghtwoudt (1648-1684)
+  en het gezin van Gerard van Tongen en Rutger Groot. De reis ging naar Goes en Vlissingen in
+  Zeeland en Antwerpen en Brussel in de Zuidelijke Nederlanden.
+reisgezellen:
+- naam: Margaretha Hooghtwoudt
+  jaren: 1648–1684
+  opmerkingen: echtgenote
+- naam: Gerard van Tongen
+- naam: van Tongen
+  opmerkingen: echtgenote van de vorige
+- naam: Rutger Groot
+- naam: Groot
+  opmerkingen: echtgenote van de vorige
+literatuur:
+- Hinlopen 2009, 1-58; Blom 2010, 172-193; Van den Boogert 2015.
+bronnen:
+- gemaakt-op-reis-database

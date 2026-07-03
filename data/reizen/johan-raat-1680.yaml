@@ -1,0 +1,30 @@
+id: johan-raat-1680
+titel: Plezierreis naar Breda en Den Bosch
+reizigers:
+- johan-raat
+reistype: plezierreis
+jaren: '1680'
+vertrek: 17-07-1680
+terugkeer: 29-07-1680
+reisdagen: '12'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 17-07-1680
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 29-07-1680
+beschrijving: Maakte in 1680 een plezierreis naar Breda en Den Bosch in het gezelschap van Gerard
+  Hinlopen (1644-1691) en Jacob Blauw.
+reisgezellen:
+- naam: Gerard Hinlopen
+  jaren: 1644–1691
+  opmerkingen: journaalschrijver
+- naam: Jacob Blauw
+addenda:
+- beschrijving: Reisverslag van Gerard Hinlopen
+  bron: Hinlopen 1680
+bronnen:
+- gemaakt-op-reis-database

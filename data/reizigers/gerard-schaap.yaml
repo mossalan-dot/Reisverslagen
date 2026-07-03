@@ -1,0 +1,48 @@
+id: gerard-schaap
+naam: Schaap, Gerard
+volledige_naam: Gerard Schaap
+geslacht: Man
+geboren:
+  jaar: 1599
+  datum: 31-07-1599
+overleden:
+  jaar: 1655
+  datum: 22-06-1655
+  plaats: Amsterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Reisde en studeerde tussen 1618 en 1622 in Italië en Frankrijk. Eerste reis:
+  01-01-1622 (23 jaar)'
+biografie: Maakte tussen 1618 en 1622 een reis naar Italië en Frankrijk, waar hij in Orléans
+  licentiaat behaalde in de rechten. Was raad van Amsterdam tussen 1638 en 1655 en schepen in
+  1638. Maakte in 1644 en 1645 een diplomatieke reis naar Denemarken en Zweden. Maakte in 1651
+  en 1652 een diplomatieke missie naar Engeland in het gezelschap van Jacob Cats (1577-1660)
+  en Paulus van der Perre (ca. 1598-1653). De reis wordt beschreven door Adriaen Schagen (1633-1699),
+  Lodewijk Huygens (1631-1699) en George de Mey (1628-1712).
+opleiding:
+- universiteit: Leiden
+  datum: 19-09-1617
+  bron: Den Tex 1959, 130.
+- universiteit: Padua
+  richting: rechten
+  datum: 19-07-1618
+  incipit: Gerardus Schapius Amstelo-Belga.
+  bron: Den Tex 1959, 130.
+- universiteit: Orléans
+  richting: licentiaat rechten
+  datum: 27-06-1622
+  bron: Den Tex 1959, 130.
+portretten:
+- titel: Portret van Gerard Schaap
+  vervaardiger: Johannes Mijtens (1614-1670)
+  jaar: '1649'
+  bron: RKD
+  link: https://rkd.nl/explore/images/13985
+  beschrijving: 'doek, olieverf
+
+    staande rechthoek 74,5 x 61 cm'
+literatuur:
+- Elias 1902, 415-416.
+bronnen:
+- gemaakt-op-reis-database

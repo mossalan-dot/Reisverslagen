@@ -1,0 +1,45 @@
+id: anna-van-der-meersch-roeters-1703
+titel: Zakenreis naar Duitsland
+reizigers:
+- anna-van-der-meersch-roeters
+reistype: handelsreis
+jaren: '1703'
+vertrek: 02-04-1703
+terugkeer: 04-12-1703
+reisdagen: '246'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 02-04-1703
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 04-12-1703
+beschrijving: Maakte in 1703 een handelsreis naar Duitsland in het gezelschap van haar broer
+  Arent, Pieter Boek en Giese Mulder.
+reisgezellen:
+- naam: Arent van der Meersch
+  jaren: 1683–1768
+  opmerkingen: journaalschrijver, broer
+- naam: Pieter Boek
+- naam: Giese Mulder
+addenda:
+- beschrijving: Reisverslag van Arent van der Meersch
+  bron: Van der Meersch 1703
+- beschrijving: Kladaantekeningen
+  bron: Van der Meersch 1703, [1]
+- beschrijving: Apodemisch gedichtje, overgeschreven betalingsbewijs van Leopold van Leuwen,
+    gedateerd 2 mei 1703
+  bron: Van der Meersch 1703, [2]
+- beschrijving: Kasboekaantekeningen
+  bron: Van der Meersch 1703, [53-70]
+- beschrijving: Gelukwens van broer Pieter van der Meersch (º1677), gedateerd 2 april 1703
+  bron: Van der Meersch 1703, [61]
+- beschrijving: Kasboekaantekeningen
+  bron: Van der Meersch 1703, [62]
+literatuur:
+- Visser en Zilverberg 1991, 153-187.
+bronnen:
+- gemaakt-op-reis-database

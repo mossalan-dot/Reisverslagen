@@ -1,0 +1,37 @@
+id: joan-corver
+naam: Corver, Joan
+volledige_naam: Joan Corver
+geslacht: Man
+geboren:
+  jaar: 1628
+  datum: 15-02-1628
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1716
+  datum: 17-05-1716
+  plaats: Amsterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1655 een diplomatieke reis naar Duitsland. Eerste reis: 25-04-1655
+  (27 jaar)'
+biografie: Zoon van Dirck Corver en Maria Overrijn van Schoterbos. Werd in 1652 aangesteld als
+  stadssecretaris. Reisde in 1655 met Joan sr. (1599-1661) en Joan jr. Huydecoper (1625-1704)
+  en Pieter de Graeff (1638-1707) naar het hof van Brandenburg om te spreken over een bondgenootschap
+  tegen Zweden en op te treden als peetoom bij de doop van Karel Emiel (1655-1674), keurvorst
+  van Brandenburg. Maakte in 1674 en 1675 een diplomatieke missie naar Engeland. Was raad, schepen
+  en tussen 1681 en 1715 vrijwel onafgebroken burgemeester van Amsterdam. Was raad van de Admiraliteit
+  van Amsterdam, kolonel van de schutterij, bewindhebber van de VOC en curator van het Athenaeum
+  Illustre.
+genealogie:
+  vader: Dirck Corver
+  moeder: Maria Overrijn van Schoterbos
+portretten:
+- titel: Portret van Joan Corver
+  bron: Wikipedia
+  link: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Joan_Corver.jpg/1024px-Joan_Corver.jpg
+literatuur:
+- BWN, III, 745-746.
+bronnen:
+- gemaakt-op-reis-database

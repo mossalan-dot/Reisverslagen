@@ -1,0 +1,38 @@
+id: anna-maria-de-neufville-brants-1763
+titel: Beschrijving van een Gelders rijssje gedaan met mijnheer & mevrouw Roos en mijn vader
+  Ao 1763
+reizigers:
+- anna-maria-de-neufville-brants
+reistype: plezierreis
+jaren: '1763'
+vertrek: 15-07-1763
+terugkeer: 27-07-1763
+reisdagen: '12'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 15-07-1763
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 27-07-1763
+manuscript: anna-maria-de-neufville-brants-1763-hs
+beschrijving: Verslag van een plezierreisje van Anna Maria de Neufville (1742-1782) in 1763
+  naar Gelderland, Paleis Het Loo en Kleef in het gezelschap van haar vader Jan Isaac (1706-1772)
+  en het echtpaar Roos.
+reisgezellen:
+- naam: Jan Isaac de Neufville
+  jaren: 1706–1772
+  opmerkingen: vader
+- naam: Roos
+- naam: Roos
+  opmerkingen: echtgenote van de vorige
+addenda:
+- beschrijving: Lijst van plaatsnamen
+  bron: p. 12
+literatuur:
+- Ronnes 2015, 221-222.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,58 @@
+id: jacob-gronovius-1672-1673
+titel: Daghverhaal eener Reis naar Spanje en Italien (1672 en 1673) door Jac. Gronovius
+reizigers:
+- jacob-gronovius
+reistype: educatiereis
+jaren: 1672-1673
+vertrek: 01-06-1672
+terugkeer: 04-01-1673
+reisdagen: '217'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+- Spanje
+route:
+- plaats: Rotterdam
+  land_modern: Nederlandse Republiek
+  datum: 01-06-1672
+- plaats: Madrid
+  land_modern: Spanje
+  datum: 04-01-1673
+manuscript: jacob-gronovius-1672-1673-hs
+beschrijving: Verslag van een academische reis van Jacob Gronovius naar Spanje in 1672-1673
+  in het gezelschap van de buitengewone gezant Adriaen Paets (1631-1686). De reis liep via de
+  Zuidelijke Nederlanden naar Frankrijk. Vanwege de dreiging van de Frans-Nederlandse Oorlog
+  werden er geen uitstapjes of langere stops gemaakt. Bij Bayonne stak Gronovius de grens over
+  een reisde hij naar Madrid en Toledo.
+reisgezellen:
+- naam: Adriaen Paets
+  jaren: 1631–1686
+  opmerkingen: buitengewoon gezant
+- naam: Frederik Valckenier
+  opmerkingen: secretaris van de vorige
+brieven:
+- verzender: Antonio Magliabechi (1633-1714)
+  ontvanger: Jacob Gronovius
+  datum: 12-02-1673
+  plaats_verzender: Florence
+  land_verzender: IT
+  plaats_ontvanger: Leiden
+  land_ontvanger: NL
+  relatie: geleerde-geleerde
+  taal: Latijn
+  bron: München, UB München, 4º Cod Ms. 777
+addenda:
+- type: 'Paratekst: kasboek(aantekeningen)'
+  auteur: Jacob Gronovius
+  beschrijving: Aantekeningen van kosten
+  datum: 1672-1673
+  taal: Nederlands
+  bron: f. 36v
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- BWN, VII, 440-444; NNBW, I, 986-989; Wallinga 1997a, 245-271; Wallinga 1997b, 459-495; Heenes
+  2013.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,646 @@
+id: constantijn-huygens-sr-1654
+titel: Verbael van zyne verrichtinge ende wedervaren tot Eyndoven, Cranendonq, Inde Landen van
+  Vyanden, St. Vyth, Butgenbach ende Daesburch, alsmede tot Moers, 1654
+reizigers:
+- constantijn-huygens-sr
+reistype: handelsreis
+jaren: '1654'
+vertrek: 26-06-1654
+terugkeer: 22-09-1654
+reisdagen: '88'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Elders
+- Zuidelijke Nederlanden
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 26-06-1654
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 22-09-1654
+manuscript: constantijn-huygens-sr-1654-hs
+beschrijving: Verslag van een reis van Constantijn Huygens sr. naar de landerijen van de Oranjes
+  in 1654. Huygens inspecteerde de heerlijkheden Eindhoven en Cranendonck en bezocht Maastricht,
+  Luik, Aken en Spa. Hij inspecteerde de domeinen in Luxemburg en reisde ten slotte naar Moers.
+brieven:
+- verzender: Constantijn Huygens sr.
+  ontvanger: Amalia van Solms-Braunfels (1602-1675)
+  datum: 03-08-1654
+  plaats_verzender: Spa
+  land_verzender: ZN
+  taal: Frans
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: 'Je rens graces à Dieu de tout mon coeur de la nouvelle qui nous vient que V.A. rentre
+    tout de bon aux apparences d''une reconvalescence parfaicte, jusques à se disposer au dernier
+    remede des malades relevez, qui est le changement de l''air. Il est vray que V.A. le va
+    cercher plus loing que nous ne le souhaitterions pour les interests de la Maison, mais cest
+    autre bon subject qui l''y convie si puissamment, nous ferme la bouche et faict terminer
+    toutes nos pensées dans les voeux et les prieres à Dieu, qu''il vueille benir ce voyage
+    de l''un et l''autre succes que V.A. s''en propose. Le Roy de la Grande Bretaigne qui est
+    icy depuis quelques jours, m''en parle tout de mesme, avec des expressions fort vives de
+    son affection pour V.A. et pour la prosperité de la Maison de Brandenbourg. C''est un Prince
+    plein de generosité et de toute autre belle qualité requise en une personne de sa condition,
+    et la douceur de sa conversation seulement oblige tout le monde à l''aimer. Il m''honore
+    en particulier d''une bonté dont je me reconnois tres indigne, parle fort sagement sur le
+    subject de nos brouïlleries passées, dit les avoir tousjours detestées et travaillé à les
+    faire cesser; que c''a esté tres-mal faict à des personnes interessées de les susciter dans
+    la Maison et sans subject, en avouänt pleinement ce que je luy ay representé, que le Prince
+    demeurant orphelin du costé paternel, debvoit estre pourveu de tuteurs de celuy là mesme
+    d''où provient tout le bien, et qu''il n''y avoit rien de si aisé que d''ajuster cela entre
+    V.A. et la Princesse Royale, dont les interests sont debrouïllez de part et d''autre, chascune
+    estant assignée pour son douaire, et ne restant plus que le soin du pupille. Il tesmoigne
+    enfin d''avoir apprins de sa soeur aveq beaucoup de satisfaction que l''on s''est entendu,
+    continuant tousjours de dire, que cela eust esté facile, sans faire deschirer la Maison
+    par advocats et procureurs, qui a esté chose honteuse et n''a servi que de matiere de contentement
+    à ceux qui se resjouïssent de la voir par terre. Quand je luy ay dit que nous avons besoin
+    de son authorité, pour faire durer la bonne intelligence dont les fondemens sont posez,
+    il m''a asseuré qu''il y tiendra tousjours la main en telle sorte qu''on remarquera que
+    c''est tout de bon qu''il l''entend ainsi. C''est grand domage que V.A. n''a occasion de
+    s''aboucher aveq ce Prince; elle en demeureroît extremement satisfaicte, et il le seroit
+    autant de son costé. Je voy que son intention est bien de passer en Escosse, mais comme
+    l''on sçait que ses adversaires le guettent vers tous les ports de la coste, il sera bien
+    necessaire d''attendre que la saison plus avancée et la mer plus rude les en fasse desloger.
+    Cependant il ne manque pas de gens qui aimeroient mieux de vivotter aveq luy dans les ayses,
+    et dans la subsistence des pensions qu''ils luy mangent; mais j''espere qu''ils ne seront
+    point escouttez. Icy il passe le temps en d''assez bonnes compagnies qui s''y trouvent,
+    et la dance n''y manque pas, ce Prince s''en acquittant de meilleure grace que qui que ce
+    soit, comme il a l''oreille toute bonne, entend et affectionne la musique de passion, de
+    mesme que le feu Roy son pere. La Princesse se trouve reglement à la fontaine au bois, où
+    il y a plus grande presse que jamais, nonobstant les incommoditez de tant de pluyes, qui
+    nous rabattent beaucoup de la bonté des eaux. Je m''y lave la rate comme les autres, esperant
+    d''en recueïllir quelqu'' allegement, et puisque j''y suis engagé, me dispose à parachever
+    comme il faut, pour apres faire ce à quoy je suis deputé aux terres de S.A. en Luxembourg,
+    qui ne sont qu''à peu de journées d''icy, et ont besoing d''estre un peu examinées de près.
+    En suitte de mes ordres je doibs passer de là à Moers, oû peut estre je pourray rendre quelque
+    bon service. Tout ce que je regrette là dedans, c''est qu''à mon compte le commencement
+    du voyage de V.A. doibt prevenir la fin du mien. Ce que je la supplie de n''attribuer point
+    à la consideration de mes interests, qu''en tant que je souhaitterois recevoir l''honneur
+    de ses commandemens et benedictions sur moy et ma famille à son depart, et luy tesmoigner
+    de bouche avec combien de zele et d''affection je poursuivray le succes de ses desseins
+    en quelque part qu''elle aille; quand mesme elle pourroit avoir trouvé dans son coeur de
+    m''exposer aveq mon fils, ensemble aveq le president Dedel, en raillerie et passetemps à
+    ceux que V.A. sçait s''y attendre de bon coeur. J''ose toutefois repeter icy, que je ne
+    sçaurois apprehender ceste disgrace de la bonté de V.A. tant qu''il luy plaira de tourner
+    la veuë, non pas sur mes services, qui ne meritent pas son souvenir, mais sur les asseurances
+    qu''elle m''a tant reïterées de sa bonne volonté aux occasions qui pourroyent survenir.
+    Car, pour tout dire, cela concerne V.A., et de si près, que voyant ceste affaire tirée en
+    longueur, j''ay souvent souhaitté n''avoír point donné à parler au monde en l''entamant;
+    les meilleurs serviteurs de V.A. et mes amis jugeans, qu''elle ne debvoit point estre comprise
+    dans le rang des affaires fascheuses que V.A. a eu raison d''esloigner de son lict d''infirmité.
+    Je ne sçaurois empescher les gens de discourrir; suffit que ma conscience me tesmoigne que
+    là oû il y est allé du service de V.A., je n''ay jamais rien trouvé de fascheux; et c''est
+    veritablement la disposition que je pretens garder jusques au bout. V.A. me fasse la grace
+    de s''en tenir tres asseurée, et que jamais je ne cesseray de prier Dieu pour la grandeur
+    et prosperité de sa precieuse personne et de ceux qui ont l''honneur de luy appartenir.
+
+    Spa, 3e Aoust 1654.'
+- verzender: David le Leu de Wilhem (1588-1658)
+  ontvanger: Constantijn Huygens sr.
+  datum: 03-08-1654
+  plaats_verzender: Den Haag
+  land_verzender: NL
+  plaats_ontvanger: Spa
+  land_ontvanger: ZN
+  relatie: schoonbroer-schoonbroer
+  taal: Frans
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: '‘J''ay tardé de respondre a la vostre du 28 du passé pour obtenir quelque esclaircissement
+    sur l''affaire de M. vostre fils. Mais voyant qu''on le differe de temps en temps sur l''indisposition
+    de S.A. Madame, je suis oblige de vous dire librement que je crois que cest affaire souffrira
+    quelque difficulte d''estre bientost resolue a vostre satisfaction. C''est une fille a marier,
+    dont le mariage se fera par raison d''estat peut estre. Il y a du mystere en cest affaire;
+    le gouverneur d''Orange est sur son depart; il n''attend que le retour de Busero, lequel
+    est alle en Zelande avec M. de Knuyt des le 26 du passé. Je tascheray d''en tirer quelque
+    lumiere a sa venue devant la partense du conte. Je fis devant hier l''honneur de vostre
+    maison a la semonce de M. Swaen, qui vint chez moi pour cercher ma femme et l''amener aupres
+    de la sienne, laquelle estoit en vostre maison. Ma compagne estant alle a la metairie de
+    nostre frere Doublet, il m''a prie de m''y transporter. Ce que je fis, accompagne de M.
+    le resident Carisius, apres avoir este querir la femme dudit resident, le tout a la requisition
+    dudit M. Swaen, lequel dit en sousriant que nous trouverions la des bons amis qui nous attendoient.
+    Y estant arrive nous trouvasmes la la Royne de Boheme et la Princesse Louise et force autre
+    monde. La Royne - qui avoit fait esloigner ses carosses - s''escria tout hault a nostre
+    venue: Je vous ay bien trompe. Mais c''est pour vous faire entendre M. Swaen, mon fidler,
+    qui jouera de l''espinette et chantera de sa belle voix. Elle s''enquist de vostre sante
+    et partist joyeusement apres avoir entendu et honnore de sa presence son fidler. - Pour
+    des nouvelles nous n''avons autre chose sinon que la Royne de Suede est parti de Hamburg
+    et a licentie son train, ou bien fait retirer en quelque lieu par ordre secret, s''en estant
+    escarte a l''improviste de nuict, elle troisieme sans qu''on scache ou elle est allee. Il
+    ne se parle ici que de ses actions extravagantes desquelles je ne vous feray point le recit,
+    croyant que M. vostre fils vous en aye entretenu par ses lettres abondamment. Mais je vous
+    dis par relation de M. le resident Carisius que la Royne de Dennemarck s''est desguisee
+    en chambriere et a fait semblant de servir en l''hostellerie a Hadersleben où la Royne de
+    Suede logeoit, et a par ce moyen este tesmoin oculair par l''espace de trois ou quatre heures
+    des propos que la Royne de Suede tenoit et de ce qu''elle faisoit. Comme elle avoit entendu
+    que ladite Reyne s''estoit desguise en homme, lorsqu''elle a passee par le Denemarc, elle
+    a voulu avoir ce plaisir d''estre spectatrice de ses deportemens. - On m''a parle d''une
+    liste qu''on monstre en cachette contenant les noms de ceux qu''on sera oblige de chasser
+    d''ici comme rebelles et perturbateurs de la tranquillite publique. Mais je tiens que quelque
+    esprit turbulant l''aye dresse a plaisir pour aigrir les matieres. On fait neantmoins quelque
+    recerche pour cognoistre ceux qui pourroient avoir veu et leu la liste. Cela fait acroire
+    qu''il y pourroit avoir matiere de soubcon, nommement pour les Anglois, puisqu''il y a desja
+    longtemps qu''on en parle et que c''est leur coustume de faire courre le bruict des choses
+    qu''ils veulent arrester, comme pour sonder les esprits et scavoir ce qu''on y puisse trouver
+    a redire. C''est leur politique.’ - Te Amsterdam is de Deductie van Zeeland gedrukt; de
+    Staten van Holland geven eene Contradeductie, waarin zij de daden van den overleden Prins
+    van Oranje zeer afkeuren. Ook de Knuijt wordt er in aangevallen. Het stuk zal spoedig gedrukt
+    worden. ‘Je vous prie de ne me faire autheur d''aucun advis odieux. Car on va introduire
+    une inquisition et je ne scay ce que nous deviendrons a la fin. Sullaturiunt. Il faut bien
+    prendre garde a ce qu''on dit et fait en ce temps auquel la malignite a tant de part. -
+    Les pieces cy jointes vous informeront du voyage de la Reyne de Suede, auxquelles je n''ay
+    rien a adjouster, sinon que j''entens qu''elle a donne, a ce qu''on dit, 30 m[ille] r[ycxdalers]
+    a M. le conte de Dona, en papier comme je croye, et deux attelages de chevaux et une pension
+    de trois mille r[ycxdalers] par an jusques a ce qu''une baronie luy soit donnee de beaucoup
+    de revenu, laquelle sera bientost vaquante. On ne parle que de sa generosite et liberalite.
+    S''il est vray ce qu''on dit, sa liberalite sera bientost tarie. - Je vien de recevoir vostre
+    lettre du dernier du passe et suis bien aise d''entendre que M. de H. aye change de dessein.
+    Il a de bons retours pourveu qu''ils durent. Je communiqueray demain vostre lettre a Messieurs
+    du Conseil, je dis la lettre de M. Tassin touchant la vente de Chasteau Renard. Dieu veuille
+    qu''elle reussisse. Car nous avons besoing d''argent. M. Rotting est alle a Breda pour toucher
+    l''argent des adjects[?] et destourber - van de moeren - et nous n''avons pas encore paye
+    la moytie entiere des debtes de l''annee cinquante, dont quelques creanciers murmurent grandement,
+    se voyans postposes et a leur jugement frustrez et deceus en leur dessein. Je les plains
+    bien et que je ne les puis soulager. Mais moins mal, si cela va a la longue et que nous
+    ne nous entremissions par telles discontinuations et delais. M. Tulp, burgmaistre d''Amsterdam,
+    m''a parle et declare qu''ils ont ordre de s''addresser au Conseil pour nous ramentevoir
+    le deu de nostre charge a nous acquitter de la promesse faite. J''ay reitere l''ancienne
+    responce qu''on leur donnera satisfaction a son temps du premier terme. Mais je suis sur
+    ce subject transporte de douleur, et ne vous en diray point davantage .....
+
+    A la Haye, ce 3 d''Aoust 1654.'
+- verzender: David le Leu de Wilhem (1588-1658)
+  ontvanger: Constantijn Huygens sr.
+  datum: 11-08-1654
+  plaats_verzender: Den Haag
+  land_verzender: NL
+  plaats_ontvanger: Spa
+  land_ontvanger: ZN
+  relatie: schoonbroer-schoonbroer
+  taal: Frans
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: 'Hierbij gaat iets uit de contradeductie der Staten van Holland; men kan het nauwelijks
+    gelooven. Er staat o.a. op folio 53, dat de Prinsen van Oranje wel 20 millioen gulden genoten
+    hebben van dezen staat. De Witt heeft de predikanten Trigland, Streso en Technaeus op het
+    avondeten genoodigd en hun toen een exemplaar van dat stuk geschonken ..... ‘La lettre de
+    Beauregard requiert qu''on ne demeure oisif a faire cognoistre les causes et raisons de
+    ce changement selon les plaintes qu''on a faites contre luy, comme vous scavez. J''ay peur
+    que le cardinal Bichi ne se mesle de cest affaire et quelques autres. M. le gouverneur est
+    parti pour Orange sans avoir rien fait pour M. vostre fils, a ce que je puis entendre, dont
+    neantmoins il a este requis et avoit donne quelque esperance..... On ne peut parler a Son
+    Altesse Madame a cause de son indisposition, ce dit on. Cependant elle a derechef parle
+    au pensionaire de Witte assez longtemps, mais je ne scay sur quel subject. Pour Madame de
+    Dona, elle donne de bonnes paroles, mais je ne voy pas encore aucun effect, ce qui me fait
+    croire qu''il y a du mystere en ce fait de la charge de Geertrudenberg. M. vostre fils m''avoit
+    dit qu''il requerroit M. le president a redoubler sa poursuitte. Mais je ne scay s''il l''a
+    fait et quelle response on lui peut avoir donne’ .....
+
+    A la Haye, ce 11 d''Aoust 1654.'
+- verzender: David le Leu de Wilhem (1588-1658)
+  ontvanger: Constantijn Huygens sr.
+  datum: 14-08-1654
+  plaats_verzender: Den Haag
+  land_verzender: NL
+  plaats_ontvanger: Spa
+  land_ontvanger: ZN
+  relatie: schoonbroer-schoonbroer
+  taal: Frans en Nederlands
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: 'Uit de zaken van Oranje is moeilijk wijs te worden; veel houdt men voor ons verborgen.
+    ‘Nous avons receu lettres de M. Boreel, l''ambassadeur, qui nous envoye ce que M.e de Chastillon
+    luy escrit touchant Chasteau Renard, a laquelle terre elle est persuadee que peu de personnes
+    peuvent pretendre a son prejudice, parce que son fils a droit de la retirer de qui que ce
+    soit, estant sorti de sa maison, le priant de luy vouloir estre favorable en cest affaire.
+    M. Tassin nous avoit promis que nous aurions la conclusion de sa negotiation par cest ordinaire.
+    Mais je m''imagine que l''affaire est acroché’. ..... ‘Cleobuline’ is te Antwerpen; zij
+    heeft de juffrouwen Duarte hooren zingen en vond het mooier dan la Barre ..... Men heeft
+    de garde samengesmolten met vier andere compagnieën; de soldaten en officieren zijn er erg
+    boos over. Parcheval is er nu kapitein over en scheldt voortdurend op het Huis van Oranje.
+    Men zegt, dat de man van Sibylle de betrekking in quaestie heeft gekregen .....
+
+    A la Haye, ce 14 d''Aoust 1654.'
+- verzender: David le Leu de Wilhem (1588-1658)
+  ontvanger: Constantijn Huygens sr.
+  datum: 18-08-1654
+  plaats_verzender: Den Haag
+  land_verzender: NL
+  plaats_ontvanger: Spa
+  land_ontvanger: ZN
+  relatie: schoonbroer-schoonbroer
+  taal: Frans en Nederlands
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: 'Uw zoon heeft dus de betrekking niet gekregen. Men vertelt, dat de Koning van Groot
+    Brittannië zich eenigen tijd in Meurs zal ophouden, maar dat zou tegen het verdrag met Cromwell
+    zijn, want in Meurs liggen troepen van de Staten in garnizoen. Het zou dus de zaak van onzen
+    Meester zeer benadeelen. De Koning kan immers naar Aken gaan, waar de Prinses Royale ook
+    is. In Schotland ziet het er voor hem niet gunstig uit. - ‘Samedi dernier Messieurs les
+    Gecommitteerde Raden ont fait querir la clef de la gallerie par ou S.A. passe pour entrer
+    au jardin, et en firent quatre clefs pour les quatre capitaines qui font à cest heur le
+    corps de garde, afin de se tenir la pour veiller a la seurete publique. Men sal daer de
+    groote cour de garde - de ces braves gens - houden. Men seyt van de Mennisten, dat, alsser
+    iemant in haer vergaederinge is, die se ongern aldaer sien, dat se denselven niet slaen
+    oft stooten, maer sy beginnen elckanderen te dringen, en dringen also, dat den gehaeten
+    door het dringen gedwongen wordt al wijckende uyt te gaen, wilt hij rust hebben. Sic protendunt
+    libertatis et imperii terminos. Je ne me promets rien de bon de ces innovations si frequentes
+    au desavantage des interests de la Maison’ .....
+
+    A la Haye, ce 18 d''Aoust 1654.'
+- verzender: David le Leu de Wilhem (1588-1658)
+  ontvanger: Constantijn Huygens sr.
+  datum: 25-08-1654
+  plaats_verzender: Den Haag
+  land_verzender: NL
+  plaats_ontvanger: Vianden
+  land_ontvanger: LU
+  relatie: schoonbroer-schoonbroer
+  taal: Frans
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: '‘Je suis oblige de respondre a la vostre du 21, non comme je vouldrois, mais comme
+    je puis, a cause du depart de mes amis d''Amsterdam, et qu''il nous fault assembler de meilleure
+    heure pour mettre fin a plusieurs affaires commandez par Son Altesse Madame. Elle partira
+    vendredi, a ce qu''elle dit, et j''estime qu''on la laissera partir sans luy donner aucune
+    satisfaction sur la demande qu''elle a faite de bouche par M. le pensionnaire de Wit, pour
+    avoir les 20 m[ille] francs, ayant prise l''occasion a propos de son depart, pour avoir
+    de quoi faire la depense du voyage. Ledit pensionnaire aura donne belle esperance, comme
+    par ci devant, sur le temperament d''Angleterre qu''on empescheroit l''extradition. Je vous
+    laisse les consequences des demandes et du refus. Au reste il y de la fatalité en ses desseins;
+    elle n''est pas entierement remise et cependant veut faire ce voyage. Elle scavoit le procedé
+    et l''inclination de ceux d''Hollande contre la Maison, et ce neantmoins fait ces belles
+    demandes, et se laisse amadouer par belles paroles. Voila pour le public. Pour ses actions
+    particulieres comme tutrice de nostre Maistre, vous en pouvez juger par la piece qu''on
+    vous a faite. Nous ne luy parlons d''aucun affaire. Mais Mess.rs Widman et Copes viennent
+    de sa part a faire force propositions touchant le mesnage et les moyens de contenter les
+    creanciers et autres pretendans pour la pluspart desquels nous flottons encore entre les
+    vagues d''incertitude. M. Knuijt n''a peû vendre les parties de Martensdyck, Scherpeniss,
+    etc. Nous serons contraints peut estre de passer par ses mains. Comme les seuls susnommez
+    parlent avec S.A. Madame, vous pouvez de la juger a peu pres quel pli prendront les affaires.
+    Qui signera les actes de grace et autres pieces des choses qui ne souffrent aucun delay,
+    nous le scaurons aujourdhui ou demain. A Noel le magistrat de la Vere sera creé; il faut
+    scavoir qui le fera et ainsi de plusieurs autres. Il me fasche de vous decouvrir ces confusions.
+    Vous scavez avec combien de peine en sa presence ces affaires ont este manies et ce que
+    pourront causer les desfaveurs en son absence. Et je ne scay, si lesdites affaires ne requierent
+    quelque changement. A ellos. J''estime qu''il est du service du Prince que les choses demeurent
+    en l''estat, qu''elle les laisse, si cela se peut. Pour le proces de Bruxelles nous ferons
+    autant que nous pourrons pour recommander l''expedition favorable, d''iceux je ne voy pas
+    qu''on aye grand envie d''y aller. - Le Lantgrave Fritz a este envoye du Roy de Suede pour
+    persuader la Royne de retourner au pays sans vagabonder de la facon a l''opprobre de sa
+    nation.’ Zij heeft overal schulden gemaakt. En wij weten er alles van, wat dat wil zeggen.
+
+    A la Haye, ce 25 d''Aoust 1654.'
+- verzender: Constantijn Huygens sr.
+  ontvanger: De Marolles
+  datum: 28-08-1654
+  plaats_verzender: Vianden
+  land_verzender: LU
+  plaats_ontvanger: Thionville
+  land_ontvanger: FR
+  taal: Nederlands
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: 'Gaarne wil ik een paspoort van u hebben, om langs de Moezel en den Rhijn naar Holland
+    terug te keeren.
+
+    Vianden, 28 Aoust 1654.'
+- verzender: Constantijn Huygens sr.
+  ontvanger: Marguérite Claire van Noyelles
+  datum: 22-07-1654
+  plaats_verzender: Spa
+  land_verzender: ZN
+  land_ontvanger: NL
+  taal: Nederlands
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  tekst: 'Aarzelend voldoe ik aan mijne belofte, u iets uit den Haag te zenden in het kasteel
+    van Limburg. Het was beter, dat gij zelf eens in Holland kwaamt kijken.
+
+    Spa, 22 Juïllet 1654.'
+poezie:
+- titel: Du papier à la fontaine pour Mad.le M. de Merode
+  dichter: Constantijn Huygens sr.
+  aan: De Merode
+  datum: 08-08-1654
+  locatie: Spa, Zuidelijke Nederlanden
+  taal: Frans
+  bron: Huygens 1895, 110-170
+  link: https://dbnl.org/tekst/huyg001jawo13_01/huyg001jawo13_01_0005.php#5
+  tekst: "Du papier à la fontaine pour mad.le M. de Merode2).\n \nQue dit la belle Marguerite,\n\
+     \nFaut il des vers en ce païs,\n \nEt faut il que moy j'en debite\n \nTout mauuais Rimeur\
+    \ que je suis?\n \n \n5\nSur ma foy je m'en trouue en peine,\n \nEt ne sçaij par où entamer\n\
+     \nUne entreprise si soudaine,\n \nQuand vous ne voudriez plus m'aijmer.\n \n \n \nEt quel\
+    \ sera il, pour tout dire,\n10\nLe gré qu'en fin vous m'en scaurez?\n \nSi je pretens vous\
+    \ faire rire,\n \nPeut estre vous en pleurerez;\n \n \n \nSoit pour vous veoir Fille mesprise\n\
+     \nEn me prenant pour bel esprit,\n15\nOu pour trouuer quelque sottise\n \nQui vous desplaise\
+    \ en mon escrit.\t\n \nEnsuitte je seraij coupable\n \nDe deux funestes accidens,\n \nQui\
+    \ me feront seruir de fable\n20\nEt de reproche à tous venans.\n \n \n \nL'un, pour auoir\
+    \ troublé la flame\n \nDe ces deux illustres flambeaux,\n \nQue tout bon oeil, toute belle\
+    \ ame\n \nTrouue si riants et si beaux:\n \n \n25\nL'autre, pour auoir faict injure\n \n\
+    A la Nature et ses efforts,\n \nD'auoir destourné la cure\n \nQu'en esperoit vostre beau\
+    \ corps.\n \n \n \nCar, comme les Docteurs l'entendent\n30\nEt la Raison le veult aussi,\n\
+     \nIl faut que toutes eaux descendent\n \nComme tous les Ruisseaux d'icij.\n \n \n \nLes\
+    \ trouuez vous bien descendues,\n \nBeauté, qui me faictes parler,\n35\nLes auez vous toutes\
+    \ rendues,\n \nN'en sentez vous plus deualer.\n \n \n \nTrouuez vous pas quelque migraine\n\
+     \nQui vous eschauffe le cerueau?\n \nSi ma conjecture n'est vaine\n40\nIl vous reste tant\
+    \ soit peu d'eau.\n \n \n \nAllons, pesons le Pot de chambre,\n \nEt qu'il n'y manque pas\
+    \ un grain,\n \nPesons l'au poix de l'Or et l'Ambre,\n \nCar voila le temps tout serein:\n\
+     \n \n45\nIl fault qu'à l'auenir tout passe,\n \nOu nous en tenons dans les Reins,\n \n\
+    Et faudra du secours de Casse\n \nPour preuenir ce que je crains.\n \n \n \nNon, graces\
+    \ à la Saueniere,\n50\nA Gironster et Tonnelet,\n \nIl ne paroist sable nij pierre,\n \n\
+    Tout est clair comme petit Laict.\n \n \n \nDemain nous irons à cent onces,\n \nEt dans\
+    \ deux jours un peu plus haut;\n55\nDe là, Garde, espines et ronces,\n \nNous vous lauerons\
+    \ comme il fault.\t\n[p. 130]\t\n \n+\n \nNe vous estonnez pas, la Belle,\n \nSi je suis\
+    \ Poete et Medecin,\n \nCe sont deux mestiers dont se mesle\n60\nMessire Apollon mon Cousin.\n\
+     \n \n \nEt je suis gros de vous en dire\n \nDe plus galants sur ce subjet,\n \nMais nous\
+    \ irions de mal en pire,\n \nEt puis je voij quasi que c'est;\n \n \n65\nVous trepignez\
+    \ d'impatience,\n \nEt voudriez me veoir hors d'ici:\n \nN'est-ce pas le Pouhon qui dance?\n\
+     \nI'oseroij bien gager que si.\n \n \n \nQue d'effects diuers et estranges\n70\nDe ce beau\
+    \ mineral de Fer!\n \nHastez vous de par tous les Anges\n \nDu train de monsieur Lucifer.\n\
+     \n \n \nDepeschez, sans vous mettre en peine\n \nDu meuble qui vous faict besoin,\n75\n\
+    En voijci dont je vous estreine,\n \nEt deussiez vous aller bier loin.\n \n \n \nAllez,\
+    \ mais non sans reconnoistre\n \nQue c'est que d'amis affidez,\n \nEt comme ils n'aijment\
+    \ à paroistre\n80\nQu'aux dernieres necessitez.\n \nSpa. uno fere sp(iritu). 8. Aug."
+- titel: Le regime de Spa
+  dichter: Constantijn Huygens sr.
+  datum: 14-08-1654
+  locatie: Spa
+  taal: Frans
+  bron: Huygens 1895, 110-170
+  link: https://dbnl.org/tekst/huyg001jawo13_01/huyg001jawo13_01_0005.php#5
+  tekst: "Le regime de Spa.\n \nBobbelins, Enfans de misere,\n \nTristes deputez vers decà\n\
+     \nDu Medecin qui desespere\n \nDe vous guerir sans eau de Spa,\n5\nApprenez à boire et\
+    \ à vivre,\n \nPuis que vivre et boire ij venez,\n \nSi vous trouuez bon de me suiure\n\
+     \nIamais vous ne vous en plaindrez.\n \nNettoijez deuant tout la pance\n10\nDe toute sorte\
+    \ d'embaras,\t\n[p. 131]\t\n \n+\n \nDe peur qu'en entrant dans la dance\n \nVous ne donniez\
+    \ dans un faux pas.\n \nOuurez vous tant soit peu la veine,\n \nQuand vous auriez le sang\
+    \ tout bon,\n15\nLe lendemain à la fontaine;\n \nA commencer par le Pohon;\n \nAcheuez par\
+    \ la Saueniere,\n \nSi le Gironster vous deplaist,\n \nOu ne prenez que la premiere,\n20\n\
+    Ou meslez ij le Tonnelet.\n \nPour juger de la difference\n \nComme l'on faict de vin à\
+    \ vin,\n \nCroyez en a l'experience,\n \nC'est là le meilleur Medecin:\n25\nBeuuez d'un\
+    \ traict des coups sans compte\n \nTout que vous en pouuez cuuer,\n \nDeschargez vous par\
+    \ tout sans honte,\n \nExercez vous, mais sans suer,\n \nA fin que ces sueurs trop fortes\n\
+    30\nN'emportent pour le moins d'un tiers\n \nCe qui doibt sortir par les portes\n \nQu'on\
+    \ ne nomme pas volontiers.\n \nDisnez à onze à la friande,\n \nPassez la journée aux esbats,\n\
+    35\nSoupez à six et sans viande,\n \nApres les neuf ne veillez pas,\n \nNe dormez pas apres\
+    \ les quatre,\n \nPour encore recommencer\n \nA pisser et à vous esbatre,\n40\nSans faire\
+    \ chose à quoij penser,\n \nSans penser à chose qui pese,\n \nSans peser affaire d'Estat,\n\
+     \nSans veoir Gazette qui ne plaise,\n \nQuoij qu'on vous en importunast.\n45\nRiez souuent,\
+    \ soyez moins sage\n \nQue vous ne le fustes jamais,\n \nAuec tout' humeur et tout aage\n\
+     \nViuez en concorde et en paix.\n \nVous guerirez de toute peine\n50\nEn tenant ceste Regle\
+    \ icij,\n \nOu d'auoir beu à la fontaine\n \nOu d'auoir vescu sans souci.\n \nSpa. 14. Aug."
+- titel: Ad annam Mariam Schurmannam civem, ut tum credebatur, coloniensem
+  dichter: Constantijn Huygens sr.
+  aan: Anna Maria van Schurman (1607-1678)
+  datum: 05-09-1654
+  locatie: Trier, Duitsland
+  taal: Latijn
+  bron: Huygens 1895, 110-170
+  link: https://dbnl.org/tekst/huyg001jawo13_01/huyg001jawo13_01_0005.php#5
+  tekst: 'Ad annam Mariam Schurmannam civem, ut tum credebatur, coloniensem
+
+     
+
+    Nondum tota lates veteres peregrina Batauos,
+
+     
+
+    Nec vel Agrippinae condita, virgo, sinu:
+
+     
+
+    Vicimus, inuenta es; nec quae penetrare latebras
+
+     
+
+    Una tuas posset Swannia diua fuit.
+
+    5
+
+    Siue viam prior ostendit Dux foemina facti,
+
+     
+
+    Siue rati cursum Fata dedere meae,
+
+     
+
+    Vicimus, et Batauos quamuis inuita videbis,
+
+     
+
+    Quemque libet, vel quem non libet, Hugenium.
+
+     
+
+    Miraris, Miranda? vide quae gessimus istis
+
+    10
+
+    Audaces modo non inferiora viri.
+
+     
+
+    Scilicet hic fugias quem non effugeris olim
+
+     
+
+    Nec Persas inter tuta nec Aethiopas?
+
+     
+
+    Scrib(ebam) Augustae Treuiror. 5. Sept'
+- titel: In Ausonij Mosellam
+  dichter: Constantijn Huygens sr.
+  datum: 07-09-1654
+  taal: Latijn
+  bron: Huygens 1895, 110-170
+  link: https://dbnl.org/tekst/huyg001jawo13_01/huyg001jawo13_01_0005.php#5
+  tekst: 'In Ausonij Mosellam
+
+
+    Subscribo, vir magne, tuis meritoque libensque
+
+     
+
+    Grandibus augusti Fluminis elogijs:
+
+     
+
+    Omnia dixisti verissimus, omnia quadrant;
+
+     
+
+    Obstrictus pleno jure Mosella tibi est.
+
+    5
+
+    Si qua pictorem tamen aut egisse Poetam
+
+     
+
+    Visus es atque omnem non meruisse fidem,
+
+     
+
+    Visus es hoc ipso, quod quantum utrimque Mosellae est
+
+     
+
+    Laudibus apparet grandius esse tuis.
+
+     
+
+    Macte vel hac famâ; primus de gente loquaci
+
+    10
+
+    Ausus es et veris inferiora loqui.
+
+     
+
+    Nauigans Mosellâ, circa Zellam. 7. 7b. (Sept.)'
+- titel: In augustam Trevirorum longâ belli calamitate exhaustam
+  dichter: Constantijn Huygens sr.
+  datum: 07-09-1654
+  locatie: Trier, Duitsland
+  taal: Latijn
+  bron: Huygens 1895, 110-170
+  link: https://dbnl.org/tekst/huyg001jawo13_01/huyg001jawo13_01_0005.php#5
+  tekst: "In Augustam trevirorum longâ belli calamitate exhaustam3).\n \nNescio quid fueris,\
+    \ nec quae te gloria, quae te\n \nAugustam priscis gratia fecit Avis:\t\n\nVix hodie Treueris\
+    \ merito mihi diceris, in qua\n \nVix ego tres memini me reperisse viros.\n \nIbid."
+- titel: In Mosellam
+  dichter: Constantijn Huygens sr.
+  datum: 07-09-1654
+  locatie: Zell, Luxemburg
+  taal: Latijn
+  bron: Huygens 1895, 110-170
+  link: https://dbnl.org/tekst/huyg001jawo13_01/huyg001jawo13_01_0005.php#5
+  tekst: 'In Mosellam
+
+
+    Nihil Mosellâ floret elegantius;
+
+     
+
+    Quocumque vultum flexeris, pleni deo
+
+     
+
+    Montes loquuntur succulentum gaudium.
+
+     
+
+    Hilares, Amici, transigamus hos dies;
+
+    5
+
+    Utrimque nauigatur inter pocula.
+
+     
+
+    Ib. infra Zellam.'
+- titel: Aende vrouw van Merode
+  dichter: Constantijn Huygens sr.
+  aan: Emilia van Wassenaar-van Merode
+  datum: 22-09-1654
+  locatie: Dordrecht, Republiek
+  taal: Nederlands
+  bron: Huygens 1895, 110-170
+  link: https://dbnl.org/tekst/huyg001jawo13_01/huyg001jawo13_01_0005.php#5
+  tekst: 'oet vrouwtje, diens gebed gebod is over mij,
+
+     
+
+    Verwacht ghij noch in Dicht hoe ''t afgeloopen zij
+
+     
+
+    Met mijn'' uijtheemsche reis? Ick sals'' in ''tkort vertellen:
+
+     
+
+    Dus hebb ick omgeswiert met mijn'' drij jong-gesellen:
+
+    5
+
+    Ter Goud hebb ick vernacht en in ons Monickland,
+
+     
+
+    En op mijn Zuijlichem, en, aenden overkant,
+
+     
+
+    Ten Bosch en t''Eindhoven, te Breij, te Maestricht binnen,
+
+     
+
+    Te Luyck, de groote Stadt van ongeruste sinnen,
+
+     
+
+    Te Maestricht andermael, tot Aken eens in ''tbad,
+
+    10
+
+    Te Spa vier weken lang eens daeghs door en door natt,
+
+     
+
+    Te Butgenbach, S.t Vijt, en Daesburgh en Vianden,
+
+     
+
+    En Echternach en Trier, en langs de Moesel-stranden,
+
+     
+
+    Te Cobelents, te Bonn, te Coln, te Dusseldorf,
+
+     
+
+    Te Moers, te Creyvelt, weer te Moers, en, met een korf
+
+    15
+
+    Voll voedsels, op den Rhijn voor Wezel, voor Nimmeghen,
+
+     
+
+    Voor Monickland, en t''huijs, door Gods gewenschten zeghen.
+
+     
+
+    Waer ick geslapen hebb is afgekerft: hoe lang,
+
+     
+
+    Sal best bij monde gaen; in Rijm viel''t mij te bang.
+
+     
+
+    In ''tgros segg icker af, of ''t ijemand quam te vragen,
+
+    20
+
+    De reis is nett gedaen in viermael twintigh daghen.
+
+     
+
+    Houdt ghij u dan voldaen, soo ben ick ''tmeer als ghij,
+
+     
+
+    Soet vrouwtje, diens gebed gebod is over mij.
+
+     
+
+    Nauigans inter Dordracum et Roterod. 22. Sept.'
+literatuur:
+- Huygens 2013, 1-66.
+bronnen:
+- gemaakt-op-reis-database

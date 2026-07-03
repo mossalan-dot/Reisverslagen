@@ -1,0 +1,36 @@
+id: francois-van-aerssen-1639-1640
+titel: Diplomatieke reis naar Engeland
+reizigers:
+- francois-van-aerssen
+reistype: diplomatieke reis
+jaren: 1639-1640
+vertrek: 6-11-1639
+terugkeer: 26-3-1640
+reisdagen: '141'
+gebieden:
+- Engeland
+- Nederlandse Republiek
+addenda:
+- type: Verbaal/rapport/minuut
+  auteur: François van Aerssen van Sommelsdijk
+  beschrijving: Rapport van de extraordinaris ambassadeur François van Aerssen van Sommelsdijk
+    wegens zijn zending naar Engeland in verband met klachten over allerlei gunsten van Engeland
+    ten opzichte van Spanje.1639 november 6 - 1640 maart 26
+  datum: 26-03-1639
+  relatie: gezant-SG
+  taal: Nederlands
+  bron: SG 8386
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+- type: Verbaal/rapport/minuut
+  auteur: François van Aerssen
+  beschrijving: Instructies van de Staten-Generaal
+  relatie: SG-gezant
+  taal: Nederlands
+  bron: SG 12576.45
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,56 @@
+id: allard-de-la-court-1707
+titel: Aanteekening ofte giornaal van mijn reijs
+reizigers:
+- allard-de-la-court
+reistype: plezierreis
+jaren: '1707'
+vertrek: 22-03-1707
+terugkeer: 05-07-1707
+reisdagen: '105'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 22-03-1707
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 05-07-1707
+manuscript: allard-de-la-court-1707-hs
+beschrijving: Verslag van een reis van Allard de la Court naar Duitsland in 1707. De auteur
+  bezocht onder andere Berlijn, Leipzig en Hannover en besteedde extra aandacht aan de paleizen
+  onderweg.
+addenda:
+- type: 'Paratekst: herbergaantekeningen'
+  auteur: Allard de la Court
+  beschrijving: Lijst van herbergen
+  datum: '1707'
+  taal: Nederlands
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: kasboek(aantekeningen)'
+  auteur: Allard de la Court
+  beschrijving: Kasboek
+  datum: '1707'
+  taal: Nederlands
+  transcriptie: Nee
+  foto: Ja
+- type: 'Paratekst: afstandsaantekeningen'
+  auteur: Allard de la Court
+  beschrijving: Afstandstabel
+  datum: '1707'
+  taal: Nederlands
+  transcriptie: Nee
+  foto: Ja
+- type: Reisverslag
+  auteur: Allard de la Court
+  beschrijving: Aanvullend reisverslag naar de Zuidelijke Nederlanden in 1724
+  datum: '1724'
+  taal: Nederlands
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- RKD, Fock en Ekkart 1981, 177-230; Verhoeven 2017a, 185-202.
+bronnen:
+- gemaakt-op-reis-database

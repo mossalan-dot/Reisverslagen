@@ -1,0 +1,34 @@
+id: menso-alting
+naam: Alting, Menso
+volledige_naam: Menso Alting
+geslacht: Man
+geboren:
+  jaar: 1636
+  datum: 2-8-1636
+  plaats: Emden
+  provincie: Duitsland
+overleden:
+  jaar: 1712
+  datum: 2-8-1712
+  plaats: Groningen
+  provincie: Stad en Ommelanden
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte tussen 1656 en 1662 verschillende reizen naar Duitsland, Zwitserland
+  en Frankrijk. Eerste reis: 29-2-1656 (20 jaar)'
+biografie: Zoon van Menso Alting (1587-1647) en Dorothea Rufelaar (†1637). Maakte tussen 1656
+  en 1662 verschillende reizen naar Duitsland, Zwitserland en Frankrijk. Werkte als secretaris
+  en ambtsman te Selwert en als rechter in Sappemeer. Werd tussen 1686 en 1713 aangesteld als
+  burgemeester van Groningen. Was incidenteel als cartograaf werkzaam. Publiceerde in 1697 een
+  aardrijkskundig werk over Duitsland.
+genealogie:
+  vader: Menso Alting (1587-1647)
+  moeder: Dorothea Rufelaar (†1637)
+portretten:
+- titel: Portret van Menso Alting
+  bron: Wikipedia
+  link: https://nl.wikipedia.org/wiki/Menso_Alting#/media/File:Menso_Alting.jpg
+literatuur:
+- BWN, I, 223; NNBW, I, 100; RKD.
+bronnen:
+- gemaakt-op-reis-database

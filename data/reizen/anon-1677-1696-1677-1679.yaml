@@ -1,0 +1,32 @@
+id: anon-1677-1696-1677-1679
+titel: Reize door Duitsland na Italien en Vranckryk vertrocken den 21 Xbr 1677 en in aug. 1679
+  weder t’Amsterdam gekomen
+reizigers:
+- anon-1677-1696
+reistype: plezierreis
+jaren: 1677-1679
+vertrek: 21-12-1677
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Zwitserland
+- Italië
+- Frankrijk
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 21-12-1677
+- plaats: Lyon
+  land_modern: Frankrijk
+manuscript: anon-1677-1696-1677-1679-hs
+beschrijving: Onvoltooid verslag naar Italië en Frankrijk in 1677-1679. De anonymus reisde door
+  Duitsland en Oostenrijk en bezocht in Italië onder meer Venetië, Milaan, Florence, Rome, Napels
+  en Genua. Hij reisde via de Mont Cenis naar Frankrijk en bezocht Genève en Lyon. Vanaf Florence
+  had de auteur vrijwel niets inhoudelijks te melden.
+addenda:
+- beschrijving: Apodemische instructies en waarschuwingen, getiteld ‘Onderrigt van t geen een
+    Reiziger dient waar te neemen
+  bron: ff. 1r-7v
+bronnen:
+- gemaakt-op-reis-database

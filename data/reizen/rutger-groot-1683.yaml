@@ -1,0 +1,39 @@
+id: rutger-groot-1683
+titel: Plezierreis naar de Zuidelijke Nederlanden
+reizigers:
+- rutger-groot
+reistype: plezierreis
+jaren: '1683'
+vertrek: 04-06-1683
+terugkeer: 26-06-1683
+reisdagen: '22'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 04-06-1683
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 26-06-1683
+beschrijving: Maakte in 1683 een plezierreis naar de Zuidelijke Nederlanden in het gezelschap
+  van zijn gezin, Gerard Hinlopen (1644-1691), Margaretha Hooghtwoudt (ca. 1648-1684) en het
+  gezin van Gerard van Tongen.
+reisgezellen:
+- naam: Groot
+  opmerkingen: echtgenote
+- naam: Gerard Hinlopen
+  jaren: 1644–1691
+  opmerkingen: journaalschrijver
+- naam: Margaretha Hooghtwoudt
+  jaren: 1648–1684
+  opmerkingen: echtgenote van de vorige
+- naam: Gerard van Tongen
+- naam: van Tongen
+  opmerkingen: echtgenote van de vorige
+addenda:
+- beschrijving: Reisverslag van Gerard Hinlopen
+  bron: Hinlopen 1683
+bronnen:
+- gemaakt-op-reis-database

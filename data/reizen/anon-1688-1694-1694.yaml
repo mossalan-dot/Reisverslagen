@@ -1,0 +1,30 @@
+id: anon-1688-1694-1694
+titel: Reisjournalen van N.N. van reizen vanuit Utrecht naar Duitsland
+reizigers:
+- anon-1688-1694
+reistype: plezierreis
+jaren: '1694'
+vertrek: 29-05-1694
+terugkeer: 08-08-1694
+reisdagen: '71'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+route:
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 29-05-1694
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 08-08-1694
+manuscript: anon-1688-1694-1694-hs
+beschrijving: Verslag uit 1694 van de bovengenoemde anonymus naar Duitsland, Oostenrijk en terug
+  in het gezelschap van de heren Doornekroon, Ewijck, Hasecamp en Joannes Kool.
+reisgezellen:
+- naam: Doornekroon
+- naam: Ewijck
+- naam: Hasecamp
+- naam: Kool
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,36 @@
+id: pieter-van-der-meersch-1700
+titel: Rijsbeschrijvinge door Zeeland, Vlaanderen en Brabant
+reizigers:
+- pieter-van-der-meersch
+reistype: handelsreis
+jaren: '1700'
+vertrek: 13-04-1700
+terugkeer: 17-05-1700
+reisdagen: '34'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 13-04-1700
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 17-05-1700
+manuscript: pieter-van-der-meersch-1700-hs
+beschrijving: Verslag van een handelsreis van Pieter van der Meersch (º1677) naar Zeeland en
+  de Zuidelijke Nederlanden in 1700 in het gezelschap van zijn vader Abraham (1643-1728). Het
+  afschrift is mogelijk gemaakt door zijn broer Arent (1683-1768) of Abraham jr. (1676-1719).
+  De reis liep van Amsterdam via Zeeland naar Gent en Kortrijk. Hij reisde terug via Antwerpen
+  en Tilburg.
+reisgezellen:
+- naam: Abraham van der Meersch
+  jaren: 1643–1728
+  opmerkingen: vader
+addenda:
+- beschrijving: Kasboekaantekeningen
+  bron: Van der Meersch 1700, 15.
+literatuur:
+- Visser en Zilverberg 1991, 153-187.
+bronnen:
+- gemaakt-op-reis-database

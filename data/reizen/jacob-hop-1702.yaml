@@ -1,0 +1,37 @@
+id: jacob-hop-1702
+titel: Militaire reis naar Utrecht, Gelderland en Overijssel
+reizigers:
+- jacob-hop
+reistype: militaire reis
+jaren: '1702'
+vertrek: 04-08-1702
+terugkeer: 19-08-1702
+reisdagen: '15'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 04-08-1702
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 19-08-1702
+beschrijving: Maakte in 1702 en 1703 militaire reizen in het gezelschap van zijn zoon Cornelis
+  (1685-1762).
+reisgezellen:
+- naam: Cornelis Hop
+  jaren: 1685–1762
+  opmerkingen: journaalschrijver, zoon
+addenda:
+- type: Reisverslag
+  auteur: Cornelis Hop
+  beschrijving: Reisverslag van Cornelis Hop
+  datum: '1702'
+  taal: Nederlands
+  bron: Hop 1702
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- BWN, VIII, 1242-1247; NNBW, III, 613-614; RAA.
+bronnen:
+- gemaakt-op-reis-database

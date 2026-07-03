@@ -1,0 +1,32 @@
+id: balthasar-moretus-iii-1680-i
+titel: Relation d’un voyage que j’aij fait en Espagne par la France en 1680
+reizigers:
+- balthasar-moretus-iii
+reistype: handelsreis
+jaren: 1680 I
+vertrek: 21-03-1680
+terugkeer: 02-05-1680
+reisdagen: '42'
+gebieden:
+- Zuidelijke Nederlanden
+- Frankrijk
+- Spanje
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 21-03-1680
+- plaats: Madrid
+  land_modern: Spanje
+  datum: 02-05-1680
+manuscript: balthasar-moretus-iii-1680-i-hs
+beschrijving: Verslag van een reis van Balthasar Moretus III naar Frankrijk en Spanje in 1680.
+  Het verslag is op sommige plekken moeilijk leesbaar.
+addenda:
+- beschrijving: Lijst van uitgaande brieven
+  bron: p. 5-6
+- beschrijving: Brieven in het Latijn
+  bron: 50-54
+literatuur:
+- Sabbe 1927, 150-194; Sabbe en Rodríguez Moñino 1934.
+bronnen:
+- gemaakt-op-reis-database

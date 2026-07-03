@@ -1,0 +1,24 @@
+id: samuel-radermacher-1712-ii
+titel: Aanteekening der voornaamste saaken, gezien op de Hollandsche Reis, begonnen den 9 &
+  voleind den 23 mei 1712
+reizigers:
+- samuel-radermacher
+reistype: plezierreis
+jaren: 1712 II
+vertrek: 09-05-1712
+terugkeer: 23-05-1712
+reisdagen: '14'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 09-05-1712
+- plaats: Gouda
+  land_modern: Nederlandse Republiek
+  datum: 23-05-1712
+manuscript: samuel-radermacher-1712-ii-hs
+beschrijving: Kort verslag van een plezierreisje van Samuel Radermacher naar Noord-Holland in
+  1712. Radermacher reisde van Dordrecht naar Leiden, Utrecht en Amsterdam.
+bronnen:
+- gemaakt-op-reis-database

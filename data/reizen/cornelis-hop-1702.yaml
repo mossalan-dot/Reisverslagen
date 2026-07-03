@@ -1,0 +1,30 @@
+id: cornelis-hop-1702
+titel: Journaal van een rijsje door mij gedaan door Uytrecht, Gelderland en Overijssel den 4.
+  Augusti 1702
+reizigers:
+- cornelis-hop
+reistype: militaire reis
+jaren: '1702'
+vertrek: 04-08-1702
+terugkeer: 19-08-1702
+reisdagen: '15'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 04-08-1702
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 19-08-1702
+manuscript: cornelis-hop-1702-hs
+beschrijving: Verslag van een militaire reis naar Utrecht, Gelderland en Overijssel van Cornelis
+  Hop in 1702. Hop inspecteerde onderweg verschillende fortificaties.
+reisgezellen:
+- naam: Jacob Hop
+  jaren: 1654–1725
+  opmerkingen: vader
+literatuur:
+- BWN, VIII, 1240-1242; NNBW, II, 601-602; RAA.
+bronnen:
+- gemaakt-op-reis-database

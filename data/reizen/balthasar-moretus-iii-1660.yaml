@@ -1,0 +1,36 @@
+id: balthasar-moretus-iii-1660
+titel: Educatiereis naar Parijs
+reizigers:
+- balthasar-moretus-iii
+reistype: educatiereis
+jaren: '1660'
+vertrek: 26-08-1660
+reisdagen: '-606176'
+gebieden:
+- Zuidelijke Nederlanden
+- Frankrijk
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 26-08-1660
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+beschrijving: Werd in 1660 naar Parijs gestuurd om daar te studeren.
+reisgezellen:
+- naam: Balthasar Moretus II
+  jaren: 1615–1674
+  opmerkingen: journaalschrijver, vader
+addenda:
+- beschrijving: Klad- en netversie van een dagindeling in het Frans rond 1660 van Balthasar
+    II Moretus voor zijn zoon, getiteld ‘Regle journaliere, laquelle d’icy en avant se debvra
+    observer pas Balthasar Moretus le jeun’
+  bron: Plantin-Moretus
+- beschrijving: Reisverslag van Balthasar Moretus II
+  bron: Sabbe 1922, 43-52
+- beschrijving: Reizigersportret, gemaakt in Parijs
+  bron: Zie afbeeldingen
+literatuur:
+- Sabbe 1926; Sabbe 1928, 173-203; Sabbe en Rodríguez Moñino 1934; Sabbe 1943, 65-96; Voet 1969,
+  228-237; Van Broeckhoven 1970; Degryse 1996, 189-202; De Nave 249-306.
+bronnen:
+- gemaakt-op-reis-database

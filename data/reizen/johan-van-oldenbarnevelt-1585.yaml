@@ -1,0 +1,107 @@
+id: johan-van-oldenbarnevelt-1585
+titel: Diplomatieke reis naar Engeland
+reizigers:
+- johan-van-oldenbarnevelt
+reistype: diplomatieke reis
+jaren: '1585'
+vertrek: '1585'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+beschrijving: Diplomatieke reis van de gedeputeerden Joost de Menin, Johan van Oldenbarnevelt,
+  François Maelson, Johan van der Does, heer van Noordwijk, Rutger van Haersolte, Noël de Caron,
+  heer van Schoonewalle, Jacob Valcke, Paulus Buys, Laes van Jonghema, Hessel Aysma, Jelger
+  van Feytzma en Jacob de Gryse wegens hun zending naar Engeland in verband met onderhandelingen
+  over hulp aan Antwerpen en het sluiten van een verdrag, 1585
+reisgezellen:
+- naam: Joost de Menin
+  opmerkingen: gedeputeerde
+- naam: François Maelson
+  jaren: 1538–1601
+  opmerkingen: gedeputeerde
+- naam: Johan van der Does heer van Noordwijk
+  jaren: 1545–1609
+  opmerkingen: gedeputeerde
+- naam: Rutger van Haersolte
+  jaren: 1627–1585
+  opmerkingen: gedeputeerde
+- naam: Noël de Caron heer van Schoonewalle
+  jaren: '1624'
+  opmerkingen: gedeputeerde
+- naam: Jacob Valcke
+  jaren: '1623'
+  opmerkingen: gedeputeerde
+- naam: Paulus Buys
+  jaren: 1531–1594
+  opmerkingen: gedeputeerde
+- naam: Laes van Jonghema
+  jaren: '1550'
+  opmerkingen: gedeputeerde
+- naam: Hessel Aysma
+  jaren: 1527–1590
+  opmerkingen: gedeputeerde
+- naam: Jelger van Feytzma
+  jaren: '1620'
+  opmerkingen: gedeputeerde
+- naam: Jacob de Gryse
+  opmerkingen: gedeputeerde
+brieven:
+- verzender: Joost de Menin en Paulus Buys (1531-1594)
+  ontvanger: Staten-Generaal
+  datum: 24-06-1585
+  plaats_verzender: Middelburg
+  land_verzender: NL
+  plaats_ontvanger: Den Haag
+  land_ontvanger: NL
+  relatie: gezant-staten
+  taal: Nederlands
+  bron: Haak 1934, 87-106
+  link: http://resources.huygens.knaw.nl/retroboeken/oldenbarnevelt/#page=120&accessor=toc&source=1&accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Foldenbarnevelt%2Ftoc%2Findex_html%3Fpage%3D409%26source%3D2%26id%3Dtoc
+- verzender: Alle gezanten
+  ontvanger: Staten-Generaal
+  datum: 18-08-1585
+  plaats_verzender: Kingston
+  land_verzender: EN
+  plaats_ontvanger: Den Haag
+  land_ontvanger: NL
+  relatie: gezant-staten
+  taal: Nederlands
+  bron: Haak 1934, 87-106
+  link: http://resources.huygens.knaw.nl/retroboeken/oldenbarnevelt/#page=120&accessor=toc&source=1&accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Foldenbarnevelt%2Ftoc%2Findex_html%3Fpage%3D409%26source%3D2%26id%3Dtoc
+- verzender: Alle gezanten
+  ontvanger: Staten-Generaal
+  datum: 21-07-1585
+  plaats_verzender: Londen
+  land_verzender: EN
+  plaats_ontvanger: Den Haag
+  land_ontvanger: NL
+  relatie: gezant-staten
+  taal: Nederlands
+  bron: Haak 1934, 87-106
+  link: http://resources.huygens.knaw.nl/retroboeken/oldenbarnevelt/#page=120&accessor=toc&source=1&accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Foldenbarnevelt%2Ftoc%2Findex_html%3Fpage%3D409%26source%3D2%26id%3Dtoc
+- verzender: Alle gezanten
+  ontvanger: Staten-Generaal
+  datum: 21-08-1585
+  plaats_verzender: Kingston
+  land_verzender: EN
+  plaats_ontvanger: Den Haag
+  land_ontvanger: NL
+  relatie: gezant-staten
+  taal: Nederlands
+  bron: Haak 1934, 87-106
+  link: http://resources.huygens.knaw.nl/retroboeken/oldenbarnevelt/#page=120&accessor=toc&source=1&accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Foldenbarnevelt%2Ftoc%2Findex_html%3Fpage%3D409%26source%3D2%26id%3Dtoc
+addenda:
+- beschrijving: Rapport van de gedeputeerden Joost de Menin, Johan van Oldenbarnevelt, François
+    Maelson, Johan van der Does, heer van Noordwijk, Rutger van Haersolte, Noël de Caron, heer
+    van Schoonewalle, Jacob Valcke, Paulus Buys, Laes van Jonghema, Hessel Aysma, Jelger van
+    Feytzma en Jacob de Gryse wegens hun zending naar Engeland in verband met onderhandelingen
+    over hulp aan Antwerpen en het sluiten van een verdrag, 1585
+  bron: SG 8299
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+- beschrijving: Verbaal der onderhandelingen 10-31 juli 1585
+  bron: Haak 1934, 87-106
+literatuur:
+- BWN, XIV, 62-72; NNBW, V, 384-393; RAA; Tex 1960-1972; Romein en Romein-Verschoor 1977, 157-182;
+  Tex en Ton 1980.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,30 @@
+id: jacob-van-foreest
+naam: Foreest, Jacob van
+volledige_naam: Jacob van Foreest
+geslacht: Man
+geboren:
+  jaar: 1640
+  datum: 17-10-1640
+  plaats: Hoorn
+  provincie: Holland
+overleden:
+  jaar: 1708
+  datum: 03-01-1708
+  plaats: Hoorn
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1660-1661 een educatiereis naar Frankrijk. Eerste reis: 03-04-1660
+  (20 jaar)'
+biografie: Zoon van Dirk van Foreest (1614-1679) en Hester van Foreest (1615-1705). Maakte in
+  1660 en 1661 een educatiereis naar Frankrijk met zijn neef Nanning van Loon. Was vroedschap
+  en burgemeester van Hoorn en bewindhebber van de VOC.
+genealogie:
+  vader: Dirk van Foreest (1614-1679)
+  moeder: Hester van Foreest (1615-1705)
+  andere_familie:
+  - neef Nanning van Loon
+literatuur:
+- LSD.
+bronnen:
+- gemaakt-op-reis-database

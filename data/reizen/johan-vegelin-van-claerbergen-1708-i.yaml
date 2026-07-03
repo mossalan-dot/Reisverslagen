@@ -1,0 +1,30 @@
+id: johan-vegelin-van-claerbergen-1708-i
+titel: Verhael van de reijs gedaen bij mij gedaen met Wijnout Leffring, naer den hage en mijn
+  eedt als Rentemeester voor de Raadt van Staten af te leggen
+reizigers:
+- johan-vegelin-van-claerbergen
+reistype: handelsreis
+jaren: 1708 I
+vertrek: 21-04-1708
+terugkeer: 29-04-1709
+reisdagen: '373'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Joure
+  land_modern: Nederlandse Republiek
+  datum: 21-04-1708
+- plaats: Joure
+  land_modern: Nederlandse Republiek
+  datum: 29-04-1709
+manuscript: johan-vegelin-van-claerbergen-1708-i-hs
+beschrijving: Ongepagineerd verslag van een zakenreis van Johan Vegelin van Claerbergen naar
+  Den Haag in 1708 in het gezelschap van Wijnout Leffring. Vegelin van Claerbergen reisde van
+  Joure naar Den Haag om beëdigd te worden tot rentmeester van de geestelijke goederen in Kempenland
+  in de meijerij van Den Bosch.
+reisgezellen:
+- naam: Wijnout Leffring
+literatuur:
+- BWN, XIX, 63; RAA; Gildermacher en Van der Vaart 2007; Spyksma 2010, 63-65.
+bronnen:
+- gemaakt-op-reis-database

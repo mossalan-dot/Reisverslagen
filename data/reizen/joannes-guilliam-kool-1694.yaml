@@ -1,0 +1,33 @@
+id: joannes-guilliam-kool-1694
+titel: Reis naar Duitsland en Oostenrijk
+reizigers:
+- joannes-guilliam-kool
+reistype: plezierreis
+jaren: '1694'
+vertrek: 29-05-1694
+terugkeer: 08-08-1694
+reisdagen: '71'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+route:
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 29-05-1694
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 08-08-1694
+beschrijving: Mogelijk trok hij in 1694 naar Duitsland en Oostenrijk met de heren Doornekroon,
+  Ewijck en Hasecamp.
+reisgezellen:
+- naam: anonymus 1688-1694
+  opmerkingen: journaalschrijver
+- naam: Doornekroon
+- naam: Ewijck
+- naam: Hasecamp
+addenda:
+- beschrijving: Anoniem reisverslag uit 1694
+  bron: Reisjournalen van N.N. van reizen vanuit Utrecht naar Duitsland 1694
+bronnen:
+- gemaakt-op-reis-database

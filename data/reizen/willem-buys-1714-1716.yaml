@@ -1,0 +1,49 @@
+id: willem-buys-1714-1716
+titel: Diplomatieke reis naar Frankrijk
+reizigers:
+- willem-buys
+reistype: diplomatieke reis
+jaren: 1714-1716
+vertrek: 11-1-1714
+terugkeer: 9-1-1716
+reisdagen: '728'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+beschrijving: Diplomatieke reis van de extraordinaris ambassadeur mr. Willem Buys wegens zijn
+  zending naar Frankrijk na het vertrek van Sicco Goslinga in verband met de uitvoering van
+  de bepalingen van de vrede van Utrecht, in het bijzonder ten aanzien van de Spaanse Nederlanden.1714
+  juni 26 - 1716 januari 9
+reisgezellen:
+- naam: Sicco van Goslinga
+  jaren: 1664–1731
+  opmerkingen: extraordinaris ambassadeur
+addenda:
+- type: Verbaal/rapport/minuut
+  auteur: Willem Buys en Sicco van Goslinga
+  beschrijving: Verbaal van de extraordinaris ambassadeurs mr. Willem Buys en Sicco van Goslinga
+    wegens hun zending naar Frankrijk in verband met de uitvoering van de bepalingen van de
+    vrede van Utrecht, in het bijzonder ten aanzien van de Spaanse Nederlanden.1714 januari
+    11 - 1714 juni 26
+  datum: 28-06-1714
+  relatie: gezant-SG
+  taal: Nederlands
+  bron: SG 8673
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+- type: Verbaal/rapport/minuut
+  auteur: Willem Buys
+  beschrijving: Verbaal van de extraordinaris ambassadeur mr. Willem Buys wegens zijn zending
+    naar Frankrijk na het vertrek van Sicco Goslinga in verband met de uitvoering van de bepalingen
+    van de vrede van Utrecht, in het bijzonder ten aanzien van de Spaanse Nederlanden.1714 juni
+    26 - 1716 januari 9
+  datum: 09-01-1716
+  relatie: Nederlands
+  taal: gezant-SG
+  bron: SG 8674
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- BWN, II, 1660-1663; RAA.
+bronnen:
+- gemaakt-op-reis-database

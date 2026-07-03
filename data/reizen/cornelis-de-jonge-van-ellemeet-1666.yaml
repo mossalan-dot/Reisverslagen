@@ -1,0 +1,44 @@
+id: cornelis-de-jonge-van-ellemeet-1666
+titel: Journaal dat gehouden hebben de heeren Nicolaas Anthonij Flinck, Nicolaas Ruichaever
+  en C. de Jonge van Ellemeet van een reisje gedaan in Nederland d’Ao 1666
+reizigers:
+- cornelis-de-jonge-van-ellemeet
+reistype: plezierreis
+jaren: '1666'
+vertrek: 14-07-1666
+terugkeer: 07-08-1666
+reisdagen: '24'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 14-07-1666
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 07-08-1666
+manuscript: cornelis-de-jonge-van-ellemeet-1666-hs
+beschrijving: Verslag van een plezierreis van Cornelis de Jonge van Ellemeet naar Friesland,
+  Groningen, Overijssel, Gelderland en Kleef in 1666 in het gezelschap van Nicolaas Anthonij
+  Flinck en Nicolaas Ruichaever. De Jonge van Ellemeet reisde van Leiden naar Leeuwarden en
+  Groningen, doorkruiste Overijssel, maakte een uitstapje naar Kleef en Xanten en keerde terug
+  via Den Bosch en Rotterdam.
+reisgezellen:
+- naam: Nicolaas Anthonij Flinck
+- naam: Nicolaas Ruichaever
+addenda:
+- beschrijving: 'Varia, ongerelateerd aan de reisverslagen, te weten:  twee gedichten, getiteld
+    ‘Aan juffrouw…’ en ‘Aan de heer Bruijnesteijn’ (5-8); uitleg van diverse gezelschapsspelletjes,
+    getiteld ‘Petits jeux’ (8-17); historische aantekeningen over de Tachtigjarige Oorlog, gebaseerd
+    op P.C. Hoofts Nederlandsche Historien en gerangschikt op jaar (17-42); historische aantekeningen
+    over Europese vorstenhuizen (42-68); historische aantekeningen over het Romeinse rijk (69-83),
+    gebaseerd op Tacitus; aantekening over de geboorte van een Siamese tweeling in 1669 (83-85);
+    spotrekening waarin de schrijver betaalt in “kusjes, bedanckjes, en reverentijtjes” (86-87);
+    gedicht over de discussies over het slaan van de nieuwe Hollandse gulden in 1681 (88-90).'
+  bron: De Jonge van Ellemeet 1666, 1-90
+literatuur:
+- NNBW, III, 650; RAA; De Muinck 1965; Terwen-De Loos 1970; Gelderblom et al. 2004; Zandvliet
+  2010, 21-22; Moss 2018a.
+bronnen:
+- gemaakt-op-reis-database

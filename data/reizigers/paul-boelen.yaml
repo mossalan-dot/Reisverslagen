@@ -1,0 +1,38 @@
+id: paul-boelen
+naam: Boelen, Paul
+volledige_naam: Paul Boelen
+naamsvarianten:
+- Paulus Boelen
+geslacht: Man
+geboren:
+  jaar: 1599
+  datum: 01-01-1599
+  plaats: Den Haag
+  provincie: Holland
+is_auteur: true
+korte_typering: 'Reisde tussen 1621 en 1624 mee met het diplomatieke gezantschap naar Engeland
+  en Frankrijk. Eerste reis: 5-12-1621 (22 jaar)'
+biografie: Zoon van Johan Boelen en Catharina Jansdr Halling. Studeerde rechten in Leiden in
+  1621. Reisde tussen 1621 en 1624 mee met het diplomatieke gezantschap van François van Aerssen
+  (1572-1641), Diederick Bas (1569-1637) en Hendrik van Tuyll van Serooskerken (1574-1627) naar
+  Engeland en Frankrijk. Studeerde rechten in Orléans en bezocht de paardrijschool in Angers.
+genealogie:
+  vader: Johan Boelen
+  moeder: Catharina Jansdr Halling
+opleiding:
+- universiteit: Leiden
+  richting: rechten
+  datum: 09-07-1621
+  bron: Frijhoff 1977, 50.
+- universiteit: Orléans
+  richting: rechten
+  datum: '1623'
+  bron: Frijhoff 1977, 50.
+- universiteit: Angers
+  richting: paardrijschool
+  datum: '1623'
+  bron: Frijhoff 1977, 50.
+literatuur:
+- Frijhoff 1977, 50.
+bronnen:
+- gemaakt-op-reis-database

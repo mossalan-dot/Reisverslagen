@@ -1,0 +1,46 @@
+id: jacob-de-witt-1653
+titel: Diplomatieke reis naar Lübeck
+reizigers:
+- jacob-de-witt
+reistype: diplomatieke reis
+jaren: '1653'
+vertrek: 10-01-1653
+terugkeer: 09-04-1653
+reisdagen: '89'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: '''s-Graveland'
+  land_modern: Nederlandse Republiek
+  datum: 10-01-1653
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 09-04-1653
+beschrijving: Reisde in 1653 als gezant naar Lübeck met Anthony Oetgens van Waveren (1585-1658)
+  en Nicolaas Vivien (1631-1692). Arnout Hellemans Hooft (1629-1680) deed kort verslag.
+reisgezellen:
+- naam: Arnout Hellemans Hooft
+  jaren: 1629–1680
+  opmerkingen: journaalschrijver
+- naam: Nicolaas Vivien
+  jaren: 1631–1692
+  opmerkingen: neef
+- naam: Gualtherus Henricus Gualtheri
+  opmerkingen: extraordinaris ambassadeur
+- naam: Anthony Oetgens van Waveren
+  jaren: 1585–1658
+  opmerkingen: extraordinaris ambassadeur
+addenda:
+- beschrijving: Reisverslag van Arnout Hellemans Hooft
+  bron: Hellemans Hooft 1653
+- beschrijving: Verbaal van de extraordinaris ambassadeurs Jacob de Witt, Anthonis van Waveren
+    en Gualtherus Henricus Gualtheri wegens hun zending naar Lübeck in verband met bemiddeling
+    bij het sluiten van een vredesverdrag tussen Polen en Zweden, 1653 januari 7 - 1653 april
+    9
+  bron: SG 8467-8469
+  link: https://www.archieven.nl/nl/zoeken?mivast=0&mizig=210&miadt=22&micode=1.01.02&milang=nl&mizk_alle=staten-generaal&miview=inv2#inv3t6
+- beschrijving: Namenlijst van binnen- en buitenlandse diplomaten en lijst van bediendes
+  bron: Hellemans Hooft 1653, f. 140r-140v
+bronnen:
+- gemaakt-op-reis-database

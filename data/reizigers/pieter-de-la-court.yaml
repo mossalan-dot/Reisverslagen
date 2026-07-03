@@ -1,0 +1,53 @@
+id: pieter-de-la-court
+naam: Court, Pieter de la
+volledige_naam: Pieter de la Court
+geslacht: Man
+geboren:
+  jaar: 1618
+  datum: 01-01-1618
+  plaats: Leiden
+  provincie: Holland
+overleden:
+  jaar: 1685
+  datum: 24-04-1685
+  plaats: Amsterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1641-1643 een reis naar Engeland en Frankrijk. Eerste reis: 25-09-1641
+  (23 jaar)'
+biografie: Zoon van Pieter de la Court sr. (1593-1657) en Johanna des Planques (1595-1663).
+  Studeerde rechten in Leiden. Maakte tussen 1641 en 1643 een reis naar Engeland en Frankrijk.
+  Promoveerde in de rechten in Orléans en werd advocaat aan het Hof van Holland. Werkte als
+  lakenfabrikant in Leiden en was aandeelhouder van de WIC. Publiceerde onder andere het republikeinse,
+  anti-orangistische boek Interest van Holland (1662).
+genealogie:
+  vader: Pieter de la Court sr. (1593-1657)
+  moeder: Johanna des Planques (1595-1663)
+  echtgenoten:
+  - Catharina van der Voort (1622-1674)
+  kinderen:
+  - Pieter de la Court van der Voort (1664-1739)
+portretten:
+- titel: Portret van Pieter de la Court
+  vervaardiger: Abraham van den Tempel (1622-1672)
+  jaar: '1667'
+  bron: RKD
+  link: https://rkd.nl/explore/images/14423
+  beschrijving: 'doek, olieverf
+
+    Vorm/maten staande rechthoek 133 x 106 cm'
+- titel: Portret van Pieter de la Court
+  vervaardiger: Willem van Mieris (1662-1747)
+  jaar: '1685'
+  bron: RKD
+  link: 'paneel, olieverf
+
+    Vorm/maten staande rechthoek 51 x 40 cm'
+  beschrijving: "paneel, olieverf\nVorm/maten staande rechthoek 51 x 40 cm \n\nnaar Abraham\
+    \ van den Tempel"
+literatuur:
+- NNBW, VII, 335-337 Frijhoff 1986a, 11-34; Blom en Wildenberg 1986; Wildenberg 1986; Frijhoff
+  1987, 183-192; Van Heck 2000, 277-318; Weststeijn 2012; Spaan 2015.
+bronnen:
+- gemaakt-op-reis-database

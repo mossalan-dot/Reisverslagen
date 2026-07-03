@@ -1,0 +1,45 @@
+id: philips-van-halmael-1674
+titel: Handelsreis naar Denemarken en Zweden
+reizigers:
+- philips-van-halmael
+reistype: handelsreis
+jaren: '1674'
+vertrek: 02-02-1674
+terugkeer: 08-04-1674
+reisdagen: '65'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Zweden
+- Denemarken
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 02-02-1674
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 08-04-1674
+beschrijving: Maakte in 1674 een handelsreis naar Denemarken en Zweden in het gezelschap van
+  Abraham van der Meersch (1643-1728), Jan van Halmael, Abraham Vorsterman en de knecht Frederik
+  Paran.
+reisgezellen:
+- naam: Abraham van der Meersch
+  jaren: 1643–1728
+  opmerkingen: journaalschrijver, collega
+- naam: Jan van Halmael
+  opmerkingen: broer
+- naam: Abraham Vorsterman
+  opmerkingen: collega
+- naam: Frederik Paran
+  opmerkingen: knecht van Abraham van der Meersch
+addenda:
+- type: Reisverslag
+  auteur: Abraham van der Meersch
+  beschrijving: Reisverslag van Abraham van der Meersch
+  datum: '1674'
+  taal: Nederlands
+  bron: Van der Meersch 1674
+  transcriptie: Ja
+  foto: Ja
+bronnen:
+- gemaakt-op-reis-database

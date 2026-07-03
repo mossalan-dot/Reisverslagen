@@ -1,0 +1,23 @@
+id: samuel-radermacher-1717
+titel: Gendsche Reize gedaan bij gelegentheid der stucdinge des Kaisers tot Grave van Vlaanderen.
+reizigers:
+- samuel-radermacher
+reistype: plezierreis
+jaren: '1717'
+vertrek: 06-10-1717
+terugkeer: 23-10-1717
+reisdagen: '17'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Middelburg
+  land_modern: Nederlandse Republiek
+  datum: 06-10-1717
+- plaats: Middelburg
+  land_modern: Nederlandse Republiek
+  datum: 23-10-1717
+manuscript: samuel-radermacher-1717-hs
+beschrijving: Verslag van een plezierreisje van Samuel Radermacher van Middelburg naar Gent.
+bronnen:
+- gemaakt-op-reis-database

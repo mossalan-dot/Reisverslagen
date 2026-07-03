@@ -1,0 +1,30 @@
+id: gerard-hinlopen-1675-i
+titel: Speel-Reijs gedaan naar Overijssel, Vries- Groeninger en Emder-Land
+reizigers:
+- gerard-hinlopen
+reistype: plezierreis
+jaren: 1675 I
+vertrek: 02-05-1675
+terugkeer: 25-05-1675
+reisdagen: '23'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 02-05-1675
+- plaats: Edam
+  land_modern: Nederlandse Republiek
+  datum: 25-05-1675
+manuscript: gerard-hinlopen-1675-i-hs
+beschrijving: Kort verslag van een plezierreisje per boot naar Overijssel, Friesland, Groningen
+  en Emden van Gerard Hinlopen in 1675 in het gezelschap van Dirck Pont. De reis ging naar Harlingen,
+  Leeuwarden en Groningen en Emden. Op de terugweg maakte Hinlopen een omweg naar Zwolle en
+  Deventer.
+reisgezellen:
+- naam: Dirck Pont
+literatuur:
+- Hinlopen 2009, 1-58; Blom 2010, 172-193; Van den Boogert 2015.
+bronnen:
+- gemaakt-op-reis-database

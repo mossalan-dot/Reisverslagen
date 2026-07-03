@@ -1,0 +1,26 @@
+id: hendrik-fagel-1783
+titel: Journalen van zijn reizen door Zuid-Duitsland
+reizigers:
+- hendrik-fagel
+reistype: plezierreis
+jaren: '1783'
+vertrek: 06-08-1783
+terugkeer: 22-09-1783
+reisdagen: '47'
+gebieden:
+- Duitsland
+route:
+- plaats: Metz
+  land_modern: Duitsland
+  datum: 06-08-1783
+- plaats: Marburg
+  land_modern: Duitsland
+  datum: 22-09-1783
+manuscript: hendrik-fagel-1783-hs
+beschrijving: Verslag van Hendrik Fagel van een reis door de Elzas, Lotharingen en Duitsland.
+  Het handschrift is incompleet. Het archief geeft het jaar 1785 aan, maar volgens Lindeman,
+  Scherf en Dekker betreft het 1783.
+literatuur:
+- BWN VI, 24-25; NNBW, III, 391-392; RAA; LSD.
+bronnen:
+- gemaakt-op-reis-database

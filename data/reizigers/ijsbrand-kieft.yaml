@@ -1,0 +1,30 @@
+id: ijsbrand-kieft
+naam: Kieft, IJsbrand
+volledige_naam: IJsbrand Kieft
+geslacht: Man
+is_auteur: false
+korte_typering: 'Maakte in 1649-1651 een educatiereis naar Italië. Eerste reis: 01-09-1649'
+biografie: Studeerde in Utrecht in 1645. Maakte in 1649-1651 een educatiereis naar Italië in
+  het gezelschap van Arnout Hellemans Hooft (1629-1680), de dichter Reyer Anslo (1626-1669),
+  Rombout (1620-1679) en Joannes Hudde (1628-1704), Blom en Ooms. Promoveerde in Padua in augustus
+  1650.
+genealogie:
+  andere_familie:
+  - neef Andries Kieft
+opleiding:
+- universiteit: Padua
+  datum: 28-10-1649
+  incipit: Ysbrandus Kieft Amst.-Bat. 28-X-1649
+  bron: Poelhekke 1961, 332.
+- universiteit: Padua
+  datum: 03-08-1650
+  incipit: Ysbrandus Kieft Amst.-Bat. 28-X-1649
+  opmerking: Promotie.
+  bron: Poelhekke 1961, 332.
+- universiteit: Utrecht
+  datum: '1645'
+  bron: Poelhekke 1961, 332.
+literatuur:
+- Frank-van Westrienen 1983, 142.
+bronnen:
+- gemaakt-op-reis-database

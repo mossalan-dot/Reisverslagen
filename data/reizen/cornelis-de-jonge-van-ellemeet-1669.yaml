@@ -1,0 +1,49 @@
+id: cornelis-de-jonge-van-ellemeet-1669
+titel: Journaal van een reijsje gedaan naar Brussel en Antwerpen
+reizigers:
+- cornelis-de-jonge-van-ellemeet
+reistype: plezierreis
+jaren: '1669'
+vertrek: 21-05-1669
+terugkeer: 31-05-1669
+reisdagen: '10'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 21-05-1669
+- plaats: Brielle
+  land_modern: Nederlandse Republiek
+  datum: 31-05-1669
+manuscript: cornelis-de-jonge-van-ellemeet-1669-hs
+beschrijving: Verslag van een plezierreisje van Cornelis de Jonge van Ellemeet naar Antwerpen
+  en Brussel in 1669 in het gezelschap van zijn moeder Margaretha Briel (1617-1685), zijn zussen
+  Johanna (1643-1694) en Cecilia (1645-1686), familievriend Agatha de Jong en haar kinderen.
+  De Jonge van Ellemeet reisde per boot van Brielle naar Antwerpen en Brussel en keerde terug
+  via Zierikzee.
+reisgezellen:
+- naam: Magdalena Briel-de Jonge van Ellemeet
+  jaren: 1617–1685
+  opmerkingen: moeder
+- naam: Johanna de Jonge van Ellemeet-Verheije
+  jaren: 1643–1694
+  opmerkingen: zus
+- naam: Cecilia de Jonge van Ellemeet-van Bredehoff van Oosthuijzen
+  jaren: 1645–1686
+  opmerkingen: zus
+- naam: Agatha de Jong
+  opmerkingen: geportretteerde (zie bijlage)
+- naam: de Jong
+  opmerkingen: kind van de vorige
+- naam: de Jong
+  opmerkingen: kind
+addenda:
+- beschrijving: Geschreven portret, getiteld ‘Pourtraict’, van Agatha de Jong
+  bron: pp. 169-171
+literatuur:
+- NNBW, III, 650; RAA; De Muinck 1965; Terwen-De Loos 1970; Gelderblom et al. 2004; Zandvliet
+  2010, 21-22; Moss 2018a.
+bronnen:
+- gemaakt-op-reis-database

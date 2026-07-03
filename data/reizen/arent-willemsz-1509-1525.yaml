@@ -1,0 +1,40 @@
+id: arent-willemsz-1509-1525
+titel: Hier begint die alre hoechste ende alre heilichste pellegrummaetgie van die alre heilichste
+  stat van Jherusalem beghinnende van Delft off van stede tot stede van mile tot mile etc.
+reizigers:
+- arent-willemsz
+reistype: pelgrimsreis
+jaren: 1509-1525
+vertrek: 17-12-1509
+terugkeer: 11-12-1525
+reisdagen: '5838'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Italië
+- Oostenrijk
+- Israel
+- Griekenland
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 17-12-1509
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 11-12-1525
+manuscript: arent-willemsz-1509-1525-hs
+beschrijving: Verslag van een pelgrimstocht van Delft naar Jeruzalem, via Maastricht, Keulen,
+  Trente, Venetië, Kreta, Candia (thans Iraklion), Cyprus en Jaffa en terug. De auteur maakte
+  de reis in gezelschap van zeven anderen. Gevolgd door aantekeningen betreffende het gezin
+  van de auteur. Voorts genealogische aantekeningen betreffende het geslacht Van Overschie (1623-1697).
+addenda:
+- beschrijving: Aantekeningen betreffende het gezin van de auteur
+  bron: Willemsz. 1509-1525
+- beschrijving: Genealogische aantekeningen over het geslacht Van Overschie (1623-1697)
+  bron: Willemsz. 1509-1525
+literatuur:
+- C.J. Gonnet, ed., `Bedevaart naar Jerusalem volbracht en beschreven in het jaar 1525 door
+  meester Arent Willemsz., barbier tot Delft in Hollant', Bijdragen voor de Geschiedenis van
+  het Bisdom Haarlem XI (1883) 1-180.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,55 @@
+id: johannes-meursius-1606-1608
+titel: Educatiereis naar Duitsland en Frankrijk
+reizigers:
+- johannes-meursius
+reistype: educatiereis
+jaren: 1606-1608
+vertrek: '1606'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Frankrijk
+- Tsjechië
+beschrijving: Begeleidde tussen 1606 en 1608 de broers Reinier (1588-1623) en Willem van Oldenbarnevelt
+  (1590-1634) tijdens hun educatiereis naar Praag, Duitsland, Genève en Frankrijk. Promoveerde
+  in 1608 in Orléans in de rechten
+reisgezellen:
+- naam: Reinier van Oldenbarnevelt heer van den Tempel, ambachtsheer van Groeneveld, Brandwijk
+    en Gijbelaud
+  jaren: 1588–1623
+- naam: Willem van Oldenbarnevelt heer van Groeneveld en Zuidwind, Hoogland, de Tempel, Stoutenburg,
+    Luttekeweede, Berkel en Rodenrijs, Gunterstein en Bakkum
+  jaren: 1590–1634
+  opmerkingen: broer van de vorige
+brieven:
+- verzender: Johannes Meursius
+  ontvanger: Johan van Oldenbarnevelt (1547-1619)
+  datum: 04-04-1608
+  plaats_verzender: Parijs
+  land_verzender: FR
+  relatie: begeleider-ouder
+  taal: Latijn
+  bron: Veenendaal 1962, 240
+  link: http://resources.huygens.knaw.nl/retroboeken/oldenbarnevelt/#page=254&accessor=toc&view=imagePane&source=2&size=1079&accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Foldenbarnevelt%2Ftoc%2Findex_html%3Fpage%3D409%26source%3D2%26id%3Dtoc
+- verzender: Johan van Oldenbarnevelt (1547-1619)
+  ontvanger: François van Aerssen (1572-1641)
+  datum: 25-05-1608
+  plaats_verzender: Den Haag
+  land_verzender: NL
+  relatie: ouder-begeleider
+  taal: Nederlands
+  bron: Veenendaal 1962, 242
+  link: http://resources.huygens.knaw.nl/retroboeken/oldenbarnevelt/#page=254&accessor=toc&view=imagePane&source=2&size=1079&accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Foldenbarnevelt%2Ftoc%2Findex_html%3Fpage%3D409%26source%3D2%26id%3Dtoc
+- verzender: Johan van Oldenbarnevelt (1547-1619)
+  ontvanger: François van Aerssen (1572-1641)
+  datum: 27-07-1608
+  plaats_verzender: Den Haag
+  land_verzender: NL
+  relatie: ouder-begeleider
+  taal: Nederlands
+  bron: Veenendaal 1962, 247-248
+  link: http://resources.huygens.knaw.nl/retroboeken/oldenbarnevelt/#page=254&accessor=toc&view=imagePane&source=2&size=1079&accessor_href=http%3A%2F%2Fresources.huygens.knaw.nl%2Fretroboeken%2Foldenbarnevelt%2Ftoc%2Findex_html%3Fpage%3D409%26source%3D2%26id%3Dtoc
+literatuur:
+- BWN, XII, 750-759; NNBW, VII, 872-873; Frank-van Westrienen 1983, 49-52.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,7 +1,13 @@
 id: van-winter
-naam: Van Winter
-opmerkingen: Aangemaakt op basis van appendix B van Gemaakt op reis; geen lemma in appendix
-  A.
+naam: Winter Van
+volledige_naam: Van Winter
+geslacht: Man
+geboren:
+  plaats: Delft
+is_auteur: true
+korte_typering: 'Maakte in 1660-1662 een educatiereis naar Frankrijk en Italië. Eerste reis:
+  18-09-1662 (1662 jaar)'
+biografie: Maakte een educatiereis naar Frankrijk en Italië tussen 1660 en 1662. Maakte twee
+  plezierreisjes in 1671 en 1682.
 bronnen:
-- gemaakt-op-reis
-controle_nodig: true
+- gemaakt-op-reis-database

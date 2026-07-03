@@ -1,0 +1,49 @@
+id: ijsbrand-kieft-1649-1651
+titel: Educatiereis naar Italië
+reizigers:
+- ijsbrand-kieft
+reistype: educatiereis
+jaren: 1649-1651
+vertrek: 01-09-1649
+terugkeer: 10-11-1651
+reisdagen: '800'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Frankrijk
+- Italië
+- Oostenrijk
+- Zwitserland
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 01-09-1649
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 10-11-1651
+beschrijving: Maakte in 1649-1651 een educatiereis naar Italië in het gezelschap van Arnout
+  Hellemans Hooft (1629-1680), de dichter Reyer Anslo (1626-1669), Rombout (1620-1679) en Joannes
+  Hudde (1628-1704), Blom en Ooms.
+reisgezellen:
+- naam: Arnout Hellemans Hooft
+  jaren: 1629–1680
+  opmerkingen: journaalschrijver
+- naam: Reyer Anslo
+  jaren: 1626–1669
+  opmerkingen: dichter
+- naam: Rombout Hudde
+  jaren: 1620–1679
+- naam: Joannes Hudde heer van Waveren, Botshol en Ruige Wilnis
+  jaren: 1628–1704
+  opmerkingen: neef van de vorige
+- naam: Dirck Blom
+- naam: Ooms
+- naam: Andries Kieft
+  opmerkingen: neef
+- naam: Hendrik Clerits
+  opmerkingen: knecht van Arnout Hellemans Hooft
+addenda:
+- beschrijving: Reisverslag van Arnout Hellemans Hooft
+  bron: Hellemans Hooft 2001
+bronnen:
+- gemaakt-op-reis-database

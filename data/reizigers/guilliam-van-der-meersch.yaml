@@ -1,0 +1,28 @@
+id: guilliam-van-der-meersch
+naam: Meersch, Guilliam van der
+volledige_naam: Guilliam van der Meersch
+geslacht: Man
+geboren:
+  jaar: 1732
+  datum: 18-03-1732
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1809
+  datum: 18-04-1809
+  plaats: Den Haag
+  provincie: Holland
+religie: Doopsgezind
+is_auteur: true
+korte_typering: 'Maakte in 1756 een reis naar de Zuidelijke Nederlanden. Eerste reis: 28-09-1756
+  (24 jaar)'
+biografie: Zoon van Arent van der Meersch (1683-1768) en Petronella Heuvelingh (1701-1784).
+  Werkte als advocaat-fiscaal en procureur-generaal voor het Hof van Holland. Maakte in 1756
+  een zakenreis naar Antwerpen en Mechelen.
+genealogie:
+  vader: Arent van der Meersch (1683-1768)
+  moeder: Petronella Heuvelingh (1701-1784)
+literatuur:
+- LSD.
+bronnen:
+- gemaakt-op-reis-database

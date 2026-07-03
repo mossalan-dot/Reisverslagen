@@ -1,0 +1,132 @@
+id: daniel-tjassens-1683-1684
+titel: Reisbeschrijving van Groningen via Amsterdam, Den Haag, Leiden enz. naar Londen, Frankrijk,
+  Rome, Genève, Parijs enz.
+reizigers:
+- daniel-tjassens
+reistype: educatiereis
+jaren: 1683-1684
+vertrek: 23-04-1683
+terugkeer: 23-05-1683
+reisdagen: '30'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+route:
+- plaats: Groningen
+  land_modern: Nederlandse Republiek
+  datum: 23-04-1683
+- plaats: Hampton Court
+  land_modern: Engeland
+  datum: 23-05-1683
+manuscript: daniel-tjassens-1683-1684-hs
+beschrijving: Kopie van een verslag van een educatiereis van Daniel Tjassens (1660-1713) naar
+  Engeland, Frankrijk, Italië en Zwitserland in 1683 en 1684. Het verslag eindigt in Engeland.
+  De auteur reisde van Groningen naar Franeker en Amsterdam en ging scheep in Rotterdam. Hij
+  verbleef langere tijd in Londen.
+brieven:
+- verzender: Daniël Tjassens
+  ontvanger: Bernard Tjassens
+  datum: 15-05-1683
+  plaats_verzender: Londen
+  land_verzender: EN
+  relatie: neef-oom
+  taal: Nederlands
+- verzender: Daniël Tjassens
+  ontvanger: Bernard Tjassens
+  datum: 21-05-1683
+  plaats_verzender: Parijs
+  land_verzender: FR
+  relatie: neef-oom
+  taal: Nederlands
+- verzender: Daniël Tjassens
+  ontvanger: Bernard Tjassens
+  datum: 01-07-1683
+  plaats_verzender: Blois
+  land_verzender: FR
+  relatie: neef-oom
+  taal: Nederlands
+- verzender: Daniël Tjassens
+  ontvanger: Bernard Tjassens
+  datum: 10-10-1683
+  plaats_verzender: Blois
+  land_verzender: FR
+  relatie: neef-oom
+  taal: Nederlands
+- verzender: Daniël Tjassens
+  ontvanger: Bernard Tjassens
+  datum: 30-10-1683
+  plaats_verzender: Blois
+  land_verzender: FR
+  relatie: neef-oom
+  taal: Nederlands
+- verzender: Daniël Tjassens
+  ontvanger: Bernard Tjassens
+  datum: 23-12-1683
+  plaats_verzender: Parijs
+  land_verzender: FR
+  relatie: neef-oom
+  taal: Nederlands
+  tekst: "Mijn heer en waerde oom,\n\nHebbe u laeste daegs nae dat ick de mine hadde afgesonden\
+    \ alhier tot Paris ontfangen, en daer uit verstaen an de ene kante met groote blijtschap\
+    \ de goede dispositie van onse familie en an de andere kante met grote moijelickheit het\
+    \ misnoegen van de vrienden om dat ick tot Mert dat gelt hebbe getrocken. Ick twiffel en\
+    \ wel niet of de vrienden sullen hij het selve pardonneren nae dat ick het gelech van de\
+    \ lake hebbe geschreven. Ick ben alhier nie sel weke geweest en ben met Monsieur Wolters\
+    \ op een stoffeerde kamer, gaende dan hier dan daer in de ordinarisen te eten, alwaer wij\
+    \ een en twintich stuivers voor de maeltijt moeten geven. Nae dat wij alles hebben besien\
+    \ wat alhier so in als in acht a negen mile om de stat is so ben wij op het goet vinden\
+    \ van mijn heer vanHeel geresolveert om als morgen van hier op Orleans en verders op Mert\
+    \ te gaen om aldaer wat weer te menageren, alsoo het mij alhier seer veel uit de gissinge\
+    \ is gelopen met het besien van so in als buiten de stad. \n\nWij hebben twemael nae Versaille\
+    \ geweest en hebben de komst met het ganse hof gesien Wij ben oock geweest nae Saint Germain\
+    \ en verder, alle so konincklike als prinsen huisen die hier om Paris ben. Het is alhier\
+    \ so schrickelike duir koop leven so ic de beurse continuelick des morgens met de oogen\
+    \ moet open gaen en so wij alhier noch langer soude bliven, wij souden noch kap en kod verteren\
+    \ en daer toe noch vergeten het gene wij in de province hebben geleert, alsoo alhier wegen\
+    \ de groote menichte vreemdelingen meer Duits als Frans wort gesproken. Wider ben wij van\
+    \ voornemen om veer of vijf weken tot Mert te bliven om aldaer schriven af te wachten en\
+    \ daer nae de steden die op den rivieren ben als tussken geneve te besien, om alsoo onse\
+    \ rese nae het vaderlant voort te setten. Soude dieswegen wel wasken dat oom Tjassens mij\
+    \ met een wissel wilde overmaken het mij noch wort toe gelecht om minne messures an te stellennae\
+    \ dat oom Tiassens mij liberalick belieft terwijl ick op de andere plaetsen so commede geen\
+    \ wissel kan besien. Noch ock so lange over te senden op een plaetse kan blijven om heen\
+    \ en weer te schriven sal daer mine volbrengen en trachten daer van te profiteren, so veel\
+    \ het mij mogelick fijr mede sluitende so bevele ick oom en moij Tjassens met de gantse\
+    \ familie in de bescherminge des Alderhoogsten en verblive,\n\nMijn heer en u onderdanichste\
+    \ dienaer en neef Daniel Tjassens,\n\nParis, den 23 Deember 1683\n\nIck versoeke de gebiedenisse\
+    \ an oom en moij Krans, Nichte warte en verders alle nichten.\n\nMijn addresse is gelijck\
+    \ te voren tot Blois an Monsieur le Rouer."
+- verzender: Daniël Tjassens
+  ontvanger: Bernard Tjassens
+  datum: 05-02-1684
+  plaats_verzender: Blois
+  land_verzender: FR
+  relatie: neef-oom
+  taal: Nederlands
+- verzender: Daniël Tjassens
+  ontvanger: Bernard Tjassens
+  datum: 26-03-1684
+  plaats_verzender: Parijs
+  land_verzender: FR
+  relatie: neef-oom
+  taal: Nederlands
+  tekst: "Daniël Tjassens (1660-1713)\t\t\tBernard Tjassens\n26 maart 1684\nParijs (fr)\nfols.\
+    \ 1\n\nSeer geliefde en waerde Oom,\n\nIck hebbe U Ed. brief van den 4 Martij met de ingeslotene\
+    \ wissel wel ontfangen, en daer uit met droefheit versaen de slechte toestant so van de\
+    \ regeringe als van ons particulier, het welke mij groote licke troubleert en oorsaeck is\
+    \ dat ick mijn gelt op de reise met geen groot vermaeck sal verteren. Ick ben oom Tjassens\
+    \ en de vrienden ten hoogsten verplicht voor de sorge die sij hebben gehat van order op\
+    \ mijn wissel te stellen en mij alhier niet verlegen hebben gelaten. Ick hebbe de selve\
+    \ alhier an een koopman gedaen met order an Messieurs Gouteurs van de selve an een correspondent\
+    \ van dien te teller en sal so haest die tot Paris sal siin betaalt hier weder ontvangen.\
+    \ \n\nMoris: Wolters en ick ben te samen voor veertiin dage van Mer vertrocken en ben tegenwoordich\
+    \ tot Blois, alwaer wij als aenkomende sondach, siinde Paesken, van voornemen ben te communieren\
+    \ en als dan voort van hier te vertrecken op Tour en van daer over Lion, Genève en Basel\
+    \ en so verders de Rijn af onse reise na huis voort te setten. Hier mede nae herelike groetenisse\
+    \ an alle vrienden, verblive, oom,\n\nsijn onderdanichste dienaer en neef Daniel Tjassens\n\
+    \n26 Mars\n1684\n\nIck versoeke de gebiedenisse an Moeij Tjassen en alle nichten als oock\
+    \ oom en moeij Krans en nichte Swarte"
+addenda:
+- beschrijving: Reisaantekeningen
+bronnen:
+- gemaakt-op-reis-database

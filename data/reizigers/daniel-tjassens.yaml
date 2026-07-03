@@ -1,0 +1,24 @@
+id: daniel-tjassens
+naam: Tjassens, Daniël
+volledige_naam: Daniël Tjassens
+geslacht: Man
+geboren:
+  jaar: 1660
+  datum: 01-02-1660
+  plaats: Groningen
+  provincie: Stad en Ommelanden
+overleden:
+  jaar: 1713
+  datum: 22-06-1713
+religie: Protestants
+is_auteur: true
+korte_typering: Maakte in 1683-1684 een educatiereis naar Engeland, Frankrijk, Italië en Zwitserland.
+  (-1660 jaar)
+biografie: Zoon van Cornelius Tjassens (1628-1673) en Anna Nijenborgh (1627-1671). Maakte een
+  educatiereis naar Engeland, Frankrijk, Italië en Zwitserland in 1683 en 1684. Was gezworene
+  van Groningen in 1693 en 1697.
+genealogie:
+  vader: Cornelius Tjassens (1628-1673)
+  moeder: Anna Nijenborgh (1627-1671)
+bronnen:
+- gemaakt-op-reis-database

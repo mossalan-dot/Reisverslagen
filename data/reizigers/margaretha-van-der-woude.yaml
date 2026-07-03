@@ -1,0 +1,30 @@
+id: margaretha-van-der-woude
+naam: Woude, Margaretha van der
+volledige_naam: Margaretha van der Woude
+geslacht: Vrouw
+geboren:
+  jaar: 1661
+  datum: 01-01-1661
+  plaats: Nieuwe Niedorp
+  provincie: Holland
+overleden:
+  jaar: 1677
+  datum: 07-02-1677
+  provincie: Frans-Guyana
+religie: Protestants
+is_auteur: false
+korte_typering: 'Reisde in 1676-1677 naar Frans-Guyana. Eerste reis: 01-08-1676 (15 jaar)'
+biografie: Dochter van Herman Hartman van der Woude (1621-1677) en Margarita Blaeuhulck (1621-1662).
+  Reisde in 1676 en 1677 samen met haar vader, zus Elisabeth (1657-1698) en broer Johannes (º1658)
+  naar Frans-Guyana, waar haar vader gouverneur zou worden. Overleed een dag na aankomst, waarschijnlijk
+  aan een ziekte.
+genealogie:
+  vader: Herman Hartman van der Woude (1621-1677)
+  moeder: Margarita Blaeuhulck (1621-1662)
+  broers_zussen:
+  - Elisabeth (1657-1698)
+  - Johannes (º1658)
+literatuur:
+- DVL; LSD; Van der Woude 2001; Barend-van Haeften 2005, 91-98.
+bronnen:
+- gemaakt-op-reis-database

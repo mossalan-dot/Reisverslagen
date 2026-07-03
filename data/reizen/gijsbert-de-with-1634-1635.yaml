@@ -1,0 +1,33 @@
+id: gijsbert-de-with-1634-1635
+titel: Verhael van mijne reijse in Vranckrijck gedaen anno 1632 en 1635
+reizigers:
+- gijsbert-de-with
+reistype: educatiereis
+jaren: 1634-1635
+vertrek: 30-08-1634
+terugkeer: 05-08-1635
+reisdagen: '340'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+route:
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 30-08-1634
+- plaats: Dordrecht
+  land_modern: Nederlandse Republiek
+  datum: 05-08-1635
+manuscript: gijsbert-de-with-1634-1635-hs
+beschrijving: Verslag van een educatiereis van Gijsbert de With (º1611) naar Frankrijk in 1634-1635
+  in het gezelschap van Jacob van Beveren (1612-1676), Hendrick van Gouthouven en Mathes Onderwaeter.
+  De With ging scheep in Hellevoetsluis en arriveerde in Dieppe. Hij verkende het Loiregebied
+  en Parijs en promoveerde in Orléans in de rechten. Hij keerde terug per schip.
+reisgezellen:
+- naam: Jacob van Beveren
+  jaren: 1612–1676
+- naam: Hendrick van Gouthouven
+- naam: Mathes Onderwaeter
+literatuur:
+- Bots 1980, 469-492; Verhoeven 2010, 621-626.
+bronnen:
+- gemaakt-op-reis-database

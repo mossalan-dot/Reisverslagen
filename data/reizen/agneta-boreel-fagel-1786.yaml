@@ -1,0 +1,38 @@
+id: agneta-boreel-fagel-1786
+titel: Journaal van de freule A.M. Fagel van een reis naar Zwitserland, 1786.
+reizigers:
+- agneta-boreel-fagel
+reistype: educatiereis
+jaren: '1786'
+vertrek: 14-10-1786
+terugkeer: 18-11-1786
+reisdagen: '35'
+gebieden:
+- Zwitserland
+- Italië
+route:
+- plaats: Genève
+  land_modern: Zwitserland
+  datum: 14-10-1786
+manuscript: agneta-boreel-fagel-1786-hs
+beschrijving: Verslag van een reis van freule Agneta Maria Catharina Boreel (1770-1824) naar
+  Zwitserland en Noord-Italië in 1786 in het gezelschap van haar oom en haar echtgenoot Hendrik
+  Fagel (1765-1838).
+reisgezellen:
+- naam: Boreel
+  opmerkingen: oom
+- naam: Hendrik Fagel
+  jaren: 1765–1838
+  opmerkingen: journaalschrijver, toekomstige echtgenoot
+addenda:
+- type: Reisverslag
+  auteur: Hendrik Fagel
+  beschrijving: Reisverslag van Hendrik Fagel
+  datum: 1786-1787
+  taal: Frans
+  bron: Fagel 1786-1787
+  transcriptie: Nee
+  foto: Deels
+- beschrijving: Exemplaar van The Ladies Complete Pocket-Book, 1780
+bronnen:
+- gemaakt-op-reis-database

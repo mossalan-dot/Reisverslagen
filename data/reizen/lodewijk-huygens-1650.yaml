@@ -1,0 +1,55 @@
+id: lodewijk-huygens-1650
+titel: Educatiereis naar Duitsland
+reizigers:
+- lodewijk-huygens
+reistype: educatiereis
+jaren: '1650'
+vertrek: '1650'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+beschrijving: Studeerde in Breda. Reisde in het voorjaar van 1650 naar Duitsland samen met William,
+  graaf van Craven (1608-1697).
+reisgezellen:
+- naam: William Craven graaf van Craven
+  jaren: 1608–1697
+brieven:
+- verzender: Christiaan Huygens (1629-1695)
+  ontvanger: Constantijn Huygens jr. (1628-1697)
+  datum: 24-01-1650
+  plaats_verzender: Den Haag
+  land_verzender: NL
+  relatie: broer-broer
+  taal: Frans
+  bron: ePistolarium
+  link: http://ckcc.huygens.knaw.nl/epistolarium/
+  opmerking: bespreekt de reis van Lodewijk naar Duitsland
+  tekst: "Mon frere,\nC'est une chose fafcheuse quand on est si loing l'un de l'autre qu'il\
+    \ faut tant de temps pour avoir responce a nos lettres: Il y avoit plus d'un mois que je\
+    \ vous avois escrit depuis mon retour de Danemarc, quand mon Pere me monstra vostre lettre,\
+    \ par la quelle vous tesmoigniez de desirer les nouvelles et particularitez, que j'avois\
+    \ desia escrittes si longtemps auparavant. J'espere que vous serez content de scavoir de\
+    \ mon voyage ce que je vous en ay mandè, car il m'ennuie de copier tant de fois mon journal,\
+    \ que je n'eus jamais escrit au large comme j'ay fait, a moins que d'en estre pressè par\
+    \ Mon Pere. J'ayme mieux vous entretenir de ce qui se passe icy, et maintenant j'en ay belle\
+    \ matiere. Ma cousine Marie Bodaen a la fin s'est fiancée avecq un quidam nommè van Sonne\
+    \ et a eu hier sa premiere annonce. Il est fol en premier lieu, et avecq cela de fort petite\
+    \ extraction, ayant deux freres a Rotterdam dont l'un est ministre et l'autre orfevre, de\
+    \ plus il n'a ny charge ny biens: je ne scay quels cousins nous aurons encore a la fin.\
+    \ Mon Pere l'en a tencée une fois et bien fort encore, il y a presque deux mois, mais il\
+    \ estoit desia trop tard, ce joly serviteur estoit logè chez elle et commandoit absolument\
+    \ dans la maison comme ont veu ceux qui se donnoient la peinne de l'aller voir quelquefois;\
+    \ il n'y a point de doute qu'ils n'ayent couchè ensemble il y a longtemps. Mon frere Toot\
+    \ part apresdemain avecq Milord Creve pour aller faire un tour en Allemagne; ils seront\
+    \ quelque temps a Cassel et a Heidelberg, et ne reviendront que vers le printemps. Il y\
+    \ a 7 ou 8 jours qu'il y eust un bal chez Mr. de Beverweerdt qui cousta bon a Mr. Toot.\
+    \ Toutes les principales dames de la Haye y estoient, et mesme Son Altesse y vint. Pour\
+    \ des considerations Ma cousine van Dorp n'y comparut pas. Elle m'a priè de vous escrire\
+    \ de sa part, que vous ne luy serez pas le bien venu, qu'en revenant sans perruque; et en\
+    \ suite de vous faire ses recommandations, a qui je joins les miennes, a scavoir celles\
+    \ de\nVostre frere et serviteur \nChr. Huygens.\nCe 24 de Jan. 1650."
+literatuur:
+- BWN, VIII, 1529; NNBW, I, 1190-1191; RAA; Huygens 1982, 1-30; Stamhuis 1996, 161-169; Huygens
+  2005, 1-67; Ebben 2018, 118-134.
+bronnen:
+- gemaakt-op-reis-database

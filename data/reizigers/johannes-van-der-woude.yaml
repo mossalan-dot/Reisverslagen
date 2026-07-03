@@ -1,0 +1,26 @@
+id: johannes-van-der-woude
+naam: Woude, Johannes van der
+volledige_naam: Johannes van der Woude
+geslacht: Man
+geboren:
+  jaar: 1658
+  datum: 01-01-1658
+  plaats: Nieuwe Niedorp
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Reisde in 1676-1677 naar Frans-Guyana. Eerste reis: 01-01-1676 (18 jaar)'
+biografie: Zoon van Herman Hartman van der Woude (1621-1677) en Margarita Blaeuhulck (1621-1662).
+  Reisde in 1676 en 1677 samen met zijn vader en zussen Elisabeth (1657-1698) en Margaretha
+  (1661-1677) naar Frans-Guyana, waar zijn vader gouverneur zou worden. Bleef na het overlijden
+  van zijn vader en jongste zus in Frans-Guyana.
+genealogie:
+  vader: Herman Hartman van der Woude (1621-1677)
+  moeder: Margarita Blaeuhulck (1621-1662)
+  broers_zussen:
+  - Elisabeth (1657-1698)
+  - Margaretha (1661-1677)
+literatuur:
+- DVL; LSD; Van der Woude 2001; Barend-van Haeften 2005, 91-98.
+bronnen:
+- gemaakt-op-reis-database

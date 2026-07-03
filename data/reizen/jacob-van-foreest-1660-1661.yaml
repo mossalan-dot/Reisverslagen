@@ -1,0 +1,42 @@
+id: jacob-van-foreest-1660-1661
+titel: Reisverslag door Frankrijk
+reizigers:
+- jacob-van-foreest
+reistype: educatiereis
+jaren: 1660-1661
+vertrek: 30-10-1660
+terugkeer: 04-06-1661
+reisdagen: '217'
+gebieden:
+- Frankrijk
+route:
+- plaats: Toulouse
+  land_modern: Frankrijk
+  datum: 30-10-1660
+- plaats: Parijs
+  land_modern: Frankrijk
+  datum: 04-06-1661
+manuscript: jacob-van-foreest-1660-1661-hs
+beschrijving: Ongepagineerd derde verslag van een educatiereis van Jacob van Foreest naar Frankrijk
+  in 1660-1661 in het gezelschap van Nanning van Loon. De reis liep van Toulouse naar Parijs,
+  waar het verslag eindigt.
+reisgezellen:
+- naam: Nanning van Loon
+  opmerkingen: neef
+addenda:
+- beschrijving: Los katern over de promotie aan de universiteit van Caen
+  bron: FA Van Foeest 116, f. [22b-c]
+- type: Kasboek
+  auteur: Jacob van Foreest
+  beschrijving: Kasboek van 14 april 1660 tot mei 1661 van de reis naar Frankrijk en Engeland,
+    getiteld ‘Notitie ten ruygsten van t’ geen ick in mij particulier op de Fransche reijse
+    uitgegeven heb’
+  datum: 1660-1661
+  taal: Nederlands
+  bron: FA Van Foreest 119
+  transcriptie: Deels
+  foto: Ja
+literatuur:
+- LSD.
+bronnen:
+- gemaakt-op-reis-database

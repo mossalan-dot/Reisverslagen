@@ -1,0 +1,30 @@
+id: catharina-van-der-meersch
+naam: Meersch, Catharina van der
+volledige_naam: Catharina van der Meersch
+geslacht: Vrouw
+geboren:
+  jaar: 1666
+  datum: 01-01-1666
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1723
+  datum: 01-01-1723
+religie: Doopsgezind
+is_auteur: false
+korte_typering: 'Vluchtte tijdens het Rampjaar naar Hamburg. Eerste reis: 20-06-1672 (6 jaar)'
+biografie: Dochter van Abraham van der Meersch (1643-1728) en Elisabeth Bouttens (1643-1707),
+  zus van Anna (1669-1724), Sara (†1674), Pieter (º1677), Abraham jr. (1676-1719) en Arent (1683-1768).
+  Vluchtte met haar ouders en zussen naar Hamburg tijdens het Rampjaar. Maakte in 1687 een reisje
+  naar Lille in het gezelschap van haar ouders en broer Pieter.
+genealogie:
+  vader: Abraham van der Meersch (1643-1728)
+  moeder: Elisabeth Bouttens (1643-1707)
+  broers_zussen:
+  - Anna (1669-1724)
+  - Sara (†1674)
+  - Arent (1683-1768)
+  - Pieter (º1677)
+  - Abraham jr. (1676-1719)
+bronnen:
+- gemaakt-op-reis-database

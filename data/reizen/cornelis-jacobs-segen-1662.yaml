@@ -1,0 +1,32 @@
+id: cornelis-jacobs-segen-1662
+titel: Plezierreis naar de Zuidelijke Nederlanden
+reizigers:
+- cornelis-jacobs-segen
+reistype: plezierreis
+jaren: '1662'
+vertrek: 26-05-1662
+terugkeer: 20-06-1662
+reisdagen: '25'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 26-05-1662
+- plaats: Hoorn
+  land_modern: Nederlandse Republiek
+  datum: 20-06-1662
+beschrijving: Maakte in 1662 een plezierreisje naar de Zuidelijke Nederlanden in het gezelschap
+  van Gerard Hinlopen (1644-1691) en Cornelis Olfertsz (†1672).
+reisgezellen:
+- naam: Gerard Hinlopen
+  jaren: 1644–1691
+  opmerkingen: journaalschrijver
+- naam: Cornelis Olfertsz
+  jaren: '1672'
+addenda:
+- beschrijving: Reisverslag van Gerard Hinlopen
+  bron: Hinlopen 2014a
+bronnen:
+- gemaakt-op-reis-database

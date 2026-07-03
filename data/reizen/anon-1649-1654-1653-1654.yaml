@@ -1,0 +1,27 @@
+id: anon-1649-1654-1653-1654
+titel: VVolcht mijnne voeijagie in Godes Name gedaen met de Genoveesze gaelleije van Cadix wt
+  Hispaengnien naer Genua in IJtalien
+reizigers:
+- anon-1649-1654
+reistype: handelsreis
+jaren: 1653-1654
+vertrek: 11-09-1653
+terugkeer: 01-03-1654
+reisdagen: '171'
+gebieden:
+- Spanje
+- Italië
+route:
+- plaats: Cádiz
+  land_modern: Spanje
+  datum: 11-09-1653
+- plaats: Rome
+  land_modern: Italië
+  datum: 01-03-1654
+manuscript: anon-1649-1654-1653-1654-hs
+beschrijving: Derde verslag van een tweede zakenreis in 1653-1654 van de bovengenoemde anonymus.
+  Hij reisde van Spanje naar Italië, waar hij onder andere Genua en Rome aandeed.
+literatuur:
+- Rietbergen 1992, 99-112.
+bronnen:
+- gemaakt-op-reis-database

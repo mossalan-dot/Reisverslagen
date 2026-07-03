@@ -1,0 +1,40 @@
+id: joannes-guilliam-kool-1698-1699
+titel: Journaal van een rijse gedaan door Italien &a in den Jaare Anno 1698
+reizigers:
+- joannes-guilliam-kool
+reistype: educatiereis
+jaren: 1698-1699
+vertrek: 15-04-1698
+terugkeer: 01-05-1699
+reisdagen: '381'
+gebieden:
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+- Frankrijk
+- Zwitserland
+- Italië
+- Oostenrijk
+- Duitsland
+route:
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 15-04-1698
+- plaats: Utrecht
+  land_modern: Nederlandse Republiek
+  datum: 01-05-1699
+manuscript: joannes-guilliam-kool-1698-1699-hs
+beschrijving: Verslag van een educatiereis van Joannes Kool naar Frankrijk en Italië in 1698-1699
+  in het gezelschap van Lucas van Voorst. Zijn reis was academisch van aard. Kool trok van Utrecht
+  via de Zuidelijke Nederlanden naar Parijs, waar hij langere tijd verbleef. Hij trok naar Lyon
+  en Genève en stak de Alpen over naar Turijn. In Italië bezocht hij onder andere Genua, Milaan,
+  Bologna, Florence en Rome. Vanuit Rome maakte hij een uitstapje naar Napels. Hij keerde via
+  de Adriatische kust noordelijk naar Venetië. Hij stak bij Innsbruck de Alpen over en vervorderde
+  zijn tocht noordelijk naar Augsburg, Frankfurt, Keulen en Aken. Hij bezocht Maastricht en
+  Den Bosch en arriveerde in Utrecht. Kool verbleef langere tijd in Parijs (49 dagen), Florence
+  (47 dagen) en Rome.
+reisgezellen:
+- naam: Lucas van Voorst
+literatuur:
+- Saxe 1785, 479.
+bronnen:
+- gemaakt-op-reis-database

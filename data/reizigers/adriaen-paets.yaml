@@ -1,0 +1,43 @@
+id: adriaen-paets
+naam: Paets, Adriaen
+volledige_naam: Adriaen Paets
+geslacht: Man
+geboren:
+  jaar: 1631
+  datum: 03-07-1631
+  plaats: Leiden
+  provincie: Holland
+overleden:
+  jaar: 1686
+  datum: 05-10-1686
+  plaats: Rotterdam
+  provincie: Holland
+religie: Protestants, remonstrants
+is_auteur: false
+korte_typering: 'Maakte in 1672-1673 een diplomatieke reis naar Spanje. Eerste reis: 01-06-1672
+  (41 jaar)'
+biografie: Studeerde rechten in Leiden en werkte als advocaat en notaris. Werd in 1664 vroedschap
+  van Rotterdam en in 1668 bewindhebber van de VOC-kamer Rotterdam. Maakte in 1672 een diplomatieke
+  reis naar Madrid als ambassadeur van de Staten-Generaal. Jacob Gronovius reisde (1645-1716)
+  met hem mee. Werd in 1675 herbenoemd tot vroedschap.
+portretten:
+- titel: Portret van een man, mogelijk Adriaen Paets
+  vervaardiger: Jan de Baen (1633-1702)
+  jaar: '1680'
+  bron: RKD
+  link: https://rkd.nl/explore/images/55442
+  beschrijving: 'doek, olieverf
+
+    staande rechthoek 123 x 97,3 cm'
+- titel: Portret van Adriaen Paets
+  vervaardiger: Adriaen van der Werff (1659-1722)
+  jaar: '1705'
+  bron: RKD
+  link: https://rkd.nl/explore/images/132977
+  beschrijving: 'doek, olieverf
+
+    staande rechthoek 80 x 66 cm'
+literatuur:
+- BWN, XV, 17-20; RAA.
+bronnen:
+- gemaakt-op-reis-database

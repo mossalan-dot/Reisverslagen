@@ -1,0 +1,41 @@
+id: jacob-van-foreest-1660-ii
+titel: Journael op de groote tour gedaen bij Nanning van Loon en Jacob van Foreest
+reizigers:
+- jacob-van-foreest
+reistype: educatiereis
+jaren: 1660 II
+vertrek: 03-09-1660
+terugkeer: 23-10-1660
+reisdagen: '50'
+gebieden:
+- Frankrijk
+route:
+- plaats: Montargis
+  land_modern: Frankrijk
+  datum: 03-09-1660
+- plaats: Toulouse
+  land_modern: Frankrijk
+  datum: 23-10-1660
+manuscript: jacob-van-foreest-1660-ii-hs
+beschrijving: Ongepagineerd tweede verslag van een educatiereis van Jacob van Foreest naar Frankrijk
+  in 1660 in het gezelschap van Nanning van Loon. De reis werd vervolgd van Montargis naar Toulouse.
+reisgezellen:
+- naam: Nanning van Loon
+  opmerkingen: neef
+addenda:
+- beschrijving: Los katern over de promotie aan de universiteit van Caen
+  bron: FA Van Foeest 116, f. [22b-c]
+- type: Kasboek
+  auteur: Jacob van Foreest
+  beschrijving: Kasboek van 14 april 1660 tot mei 1661 van de reis naar Frankrijk en Engeland,
+    getiteld ‘Notitie ten ruygsten van t’ geen ick in mij particulier op de Fransche reijse
+    uitgegeven heb’
+  datum: 1660-1661
+  taal: Nederlands
+  bron: FA Van Foreest 119
+  transcriptie: Deels
+  foto: Ja
+literatuur:
+- LSD.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,35 @@
+id: jacques-thierry-jr-1661-1665
+titel: Educatiereis naar Engeland, Frankrijk, Italië en Malta
+reizigers:
+- jacques-thierry-jr
+reistype: educatiereis
+jaren: 1661-1665
+vertrek: 14-07-1661
+terugkeer: 01-08-1665
+reisdagen: '1479'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Frankrijk
+- Italië
+- Oostenrijk
+- Zwitserland
+- Engeland
+- Elders
+route:
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 14-07-1661
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 01-08-1665
+beschrijving: Maakte tussen 1661 en 1665 een educatiereis naar Engeland, Frankrijk, Duitsland,
+  Zwitserland, Italië en Malta met zijn tutor Willem Schellinks (1623-1678).
+reisgezellen:
+- naam: Willem Schellinks
+  jaren: 1623–1678
+  opmerkingen: tutor
+literatuur:
+- Aikema 1983, 1-20; Schellinks 1993, 9-16.
+bronnen:
+- gemaakt-op-reis-database

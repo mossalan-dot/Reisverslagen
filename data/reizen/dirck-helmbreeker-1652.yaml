@@ -1,0 +1,64 @@
+id: dirck-helmbreeker-1652
+titel: Kunstenaarsreis naar Duitsland
+reizigers:
+- dirck-helmbreeker
+reistype: educatiereis
+jaren: '1652'
+vertrek: 21-08-1652
+terugkeer: 01-03-1653
+reisdagen: '192'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Haarlem
+  land_modern: Nederlandse Republiek
+  datum: 21-08-1652
+beschrijving: Maakte in 1652 een kunstenaarsreis naar Keulen in het gezelschap van de schilders
+  Guillaume Dubois (1623-1661), Vincent Laurensz van der Vinne (1628-1702) en Cornelis Bega
+  (1631-1664) en de schoenmakersgezel Joost Boelen.
+reisgezellen:
+- naam: Vincent Laurensz. van der Vinne
+  jaren: 1628–1661
+  opmerkingen: journaalschrijver, collega
+- naam: Guillaume Dubois
+  jaren: 1623–1661
+  opmerkingen: collega
+- naam: Cornelis Bega
+  jaren: 1631–1664
+  opmerkingen: collega
+- naam: Joost Boelen
+  opmerkingen: schoonmakersgezel
+addenda:
+- type: Reisverslag
+  auteur: Vincent Laurensz. van der Vinne
+  beschrijving: Reisverslag van Vincent Laurensz. van der Vinne
+  datum: 1652-1655
+  taal: Nederlands
+  bron: Van der Vinne 1679
+  transcriptie: Ja
+  foto: Ja
+- type: Schilderijen/tekeningen
+  beschrijving: Verschillende portretten en Italiaanse landschappen van Dirck Helmbreeker
+  datum: '1652'
+  bron: RKD
+  link: https://rkd.nl/nl/explore/images#filters%5Bkunstenaar%5D=Helmbreeker%2C%20Dirck&filters%5Bperiode%5D=1651%7C%7C1654&filters%5Bkunstenaar_status%5D%5B%5D=Helmbreeker%2C%20Dirck%20(huidig)&facets%5Bperiode%5D%5Bstart%5D=1651&facets%5Bperiode%5D%5Bend%5D=1655&facets%5Bperiode%5D%5Bgap%5D=1&start=0
+  transcriptie: Nee
+  foto: Ja
+- type: Schilderijen/tekeningen
+  auteur: Cornelis Bega
+  beschrijving: Verschillende schilderijen en tekeningen van Cornelis Bega
+  datum: 1652-1653
+  bron: RKD
+  foto: Ja
+- type: Schilderijen/tekeningen
+  auteur: Guillaume Dubois
+  beschrijving: Verschillende schilderijen van landschappen van Guillaume Dubois
+  datum: 1652-1653
+  bron: RKD
+  link: https://rkd.nl/nl/explore/images#filters%5Bkunstenaar%5D=Du%20Bois%2C%20Guillam&filters%5Bperiode%5D=1652%7C%7C1652&facets%5Bperiode%5D%5Bstart%5D=1652&facets%5Bperiode%5D%5Bend%5D=1653&facets%5Bperiode%5D%5Bgap%5D=1&start=0
+  foto: Ja
+literatuur:
+- BNW, VIII, 485; RKD; Hoogewerff 1912, 28-64; Busiri Vici 1959, 59-79; Beyer et al. 2011, 382.
+bronnen:
+- gemaakt-op-reis-database

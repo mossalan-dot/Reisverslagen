@@ -1,0 +1,33 @@
+id: johan-thijs
+naam: Thijs, Johan
+volledige_naam: Johan Thijs
+naamsvarianten:
+- Johannes Thysius
+geslacht: Man
+geboren:
+  jaar: 1621
+  datum: 01-08-1621
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1653
+  datum: 01-10-1653
+  plaats: Leiden
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1646 een diplomatieke reis naar Münster. Eerste reis: 01-08-1646
+  (25 jaar)'
+biografie: Zoon van Antoni Thijs en Elisabeth de Bacher. Studeerde letteren en rechten in Leiden.
+  Maakte in 1646 een diplomatieke reis naar Münster. Tussen 1646 en 1648 maakte hij een educatiereis
+  naar Frankrijk en Engeland samen met de oriëntalist Job Ludolf (1624-1704). Promoveerde in
+  Angers. Werkte als advocaat in Leiden en legde een bijzonder grote boekverzameling aan, de
+  Bibliotheca Thysiana.
+genealogie:
+  vader: Antoni Thijs
+  moeder: Elisabeth de Bacher
+literatuur:
+- BWN, XVIII, 119; NNBW, V, 925-926; De Jonge 1975, 1-31; Mourits 2001; Hoftijzer 2008; Mourits
+  2016; Van Anrooij en Hoftijzer 2017.
+bronnen:
+- gemaakt-op-reis-database

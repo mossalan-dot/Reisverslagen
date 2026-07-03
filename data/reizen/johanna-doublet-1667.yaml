@@ -1,0 +1,40 @@
+id: johanna-doublet-1667
+titel: Plezierreis naar Den Bosch
+reizigers:
+- johanna-doublet
+reistype: plezierreis
+jaren: '1667'
+vertrek: 4-7-1667
+terugkeer: 26-7-1667
+reisdagen: '22'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 4-7-1667
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 26-7-1667
+beschrijving: Reisde in 1667 met haar familie en Franco van Bleiswijck (1644-1713) naar Den
+  Bosch.
+reisgezellen:
+- naam: Franco van Bleiswijck
+  jaren: 1644–1713
+  opmerkingen: journaalschrijver
+- naam: Doublet
+  opmerkingen: broer
+- naam: Doublet
+  opmerkingen: zus
+addenda:
+- type: Reisverslag
+  auteur: Franco van Bleiswijck
+  beschrijving: Reisverslag van Franco van Bleiswijck
+  datum: '1667'
+  taal: Nederlands
+  bron: Van Bleiswijck 1667
+  transcriptie: Nee
+  foto: Ja
+bronnen:
+- gemaakt-op-reis-database

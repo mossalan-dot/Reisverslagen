@@ -1,0 +1,33 @@
+id: michiel-heusch-jr-2
+naam: Heusch, Michiel
+volledige_naam: Michiel Heusch jr.
+achtervoegsel: jr.
+geslacht: Man
+geboren:
+  jaar: 1641
+  datum: 01-10-1641
+  plaats: Hamburg
+  provincie: Duitsland
+overleden:
+  jaar: 1668
+  datum: 31-10-1668
+  plaats: Hamburg
+  provincie: Duitsland
+is_auteur: false
+korte_typering: 'Maakte in 1664-1665 een educatiereis naar Italië en Frankrijk. Eerste reis:
+  01-06-1664 (23 jaar)'
+biografie: Zoon van de koopman Michiel Heusch sr. (1601-1684) en Elisabeth Bosschaert (1609-1679).
+  Maakte tussen 1664 en 1665 een educatiereis naar Duitsland, Italië en Frankrijk en bezocht
+  onder andere Neurenberg, Venetië, Rome, Napels, Florence, Livorno en Genua.
+genealogie:
+  vader: Michiel Heusch sr. (1601-1684)
+  moeder: Elisabeth Bosschaert (1609-1679)
+  broers_zussen:
+  - zus Elisabeth Heusch (1638-1708)
+  andere_familie:
+  - oom Jacob Jansen
+  - neef Gerard Heusch
+literatuur:
+- Van der Wal 2019.
+bronnen:
+- gemaakt-op-reis-database

@@ -1,0 +1,39 @@
+id: hessel-vegelin-van-claerbergen
+naam: Vegelin van Claerbergen, Hessel
+volledige_naam: Hessel Vegelin van Claerbergen
+geslacht: Man
+geboren:
+  jaar: 1655
+  datum: 19-10-1655
+  plaats: Leeuwarden
+  provincie: Friesland
+overleden:
+  jaar: 1715
+  datum: 28-11-1715
+  plaats: Leiden
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Maakte in 1677 een reis naar Duitsland. Eerste reis: 30-05-1677 (22 jaar)'
+biografie: Zoon van Philip Ernst Vegelin van Claerbergen (1613-1693) en Fokje van Sminia (1615-1658),
+  broer van Ernst Frederik (º1648) en vader van Philip Frederik (1685-1738), Assuerus (1687-1771),
+  Johan (1690-1773) en Nehemia (1691-1739). Studeerde in Franeker. Was grietman van Utingeradeel
+  en Haskerland. Was gedeputeerde van de Staten van Friesland. Maakte in 1677 een reis naar
+  Duitsland met zijn vader om de landerijen van diens werkgever Hendrik Casimir (1657-1696),
+  prins van Nassau-Dietz, te inspecteren.
+genealogie:
+  vader: Philip Ernst Vegelin van Claerbergen
+  moeder: Fokje van Sminia (1615-1658)
+  echtgenoten:
+  - Anna Maria van Vierssen (1653-1696)
+  kinderen:
+  - Philip Frederik (1685-1738)
+  - Assuerus (1687-1771)
+  - Johan (1690-1773)
+  - Nehemia (1691-1739)
+  broers_zussen:
+  - Ernst Frederik (º1648)
+literatuur:
+- BWN, XIX, 62; RAA; Sluis 2004, 78-79; Dijkstra 2009, 101-108.
+bronnen:
+- gemaakt-op-reis-database

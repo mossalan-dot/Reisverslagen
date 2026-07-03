@@ -1,0 +1,35 @@
+id: cornelis-hop-1711
+titel: Verslagen van reizen als gezant door Duitsland en Oostenrijk, 1707-1711
+reizigers:
+- cornelis-hop
+reistype: militaire reis
+jaren: '1711'
+vertrek: 12-07-1711
+terugkeer: 01-10-1711
+reisdagen: '81'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+- Denemarken
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 12-07-1711
+- plaats: Amsterdam
+  land_modern: Nederlandse Republiek
+  datum: 01-10-1711
+manuscript: cornelis-hop-1711-hs
+beschrijving: Verslag van een reis naar Duitsland en Denemarken van Cornelis Hop in 1711. Hop
+  reisde via Deventer naar Hamburg en maakte uitstapjes naar Denemarken.
+addenda:
+- type: 'Paratekst: aantekeningen'
+  auteur: Cornelis Hop
+  beschrijving: Lijst van bezochte plaatsen
+  datum: '1711'
+  taal: Nederlands
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- BWN, VIII, 1240-1242; NNBW, II, 601-602; RAA.
+bronnen:
+- gemaakt-op-reis-database

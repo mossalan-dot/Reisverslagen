@@ -1,0 +1,32 @@
+id: rombout-hudde
+naam: Hudde, Rombout
+volledige_naam: Rombout Hudde
+geslacht: Man
+geboren:
+  jaar: 1620
+  datum: 01-08-1620
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1679
+  datum: 01-10-1679
+  plaats: Amsterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: false
+korte_typering: 'Maakte in 1649-1651 een educatiereis naar Italië en Frankrijk. Eerste reis:
+  01-09-1649 (29 jaar)'
+biografie: Zoon van Hendrick Hudde (1591-1637) en Clara Nijs (1599-1648). Maakte tussen 1649
+  en 1651 een educatiereis naar Italië, Zwitserland en Frankrijk in het gezelschap van Arnout
+  Hellemans Hooft (1629-1680), de dichter Reyer Anslo (1626-1669), zijn neef Joannes Hudde (1628-1704),
+  IJsbrand Kieft, Blom en Ooms. Werkte als advocaat en werd onder andere aangesteld als raad
+  en schepen van Amsterdam tussen 1674 en 1679.
+genealogie:
+  vader: Hendrick Hudde (1591-1637)
+  moeder: Clara Nijs (1599-1648)
+  andere_familie:
+  - neef Joannes Hudde (1628-1704)
+literatuur:
+- Elias 1905, 578; Hellemans Hooft 2001, 22.
+bronnen:
+- gemaakt-op-reis-database

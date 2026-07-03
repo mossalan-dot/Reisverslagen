@@ -1,0 +1,32 @@
+id: nanning-van-loon-1660-1661
+titel: Educatiereis naar Frankrijk
+reizigers:
+- nanning-van-loon
+reistype: educatiereis
+jaren: 1660-1661
+vertrek: 03-04-1660
+reisdagen: '-606031'
+gebieden:
+- Nederlandse Republiek
+- Frankrijk
+route:
+- plaats: Den Haag
+  land_modern: Nederlandse Republiek
+  datum: 03-04-1660
+beschrijving: Maakte in 1660 en 1661 een educatiereis naar Frankrijk in het gezelschap van zijn
+  neef Jacob van Foreest (1640-1708).
+reisgezellen:
+- naam: Jacob van Foreest
+  jaren: 1640–1708
+  opmerkingen: journaalschrijver
+addenda:
+- beschrijving: Reisverslag van Jacob van Foreest, drie delen
+  bron: Van Foreest 1660 I; 1660 II; 1660-1661
+- beschrijving: Kasboek van 14 april 1660 tot mei 1661 van de reis naar Frankrijk en Engeland,
+    getiteld ‘Notitie ten ruygsten van t’ geen ick in mij particulier op de Fransche reijse
+    uitgegeven heb’
+  bron: FA Van Foreest 119
+- beschrijving: Los katern over de promotie aan de universiteit van Caen
+  bron: FA Van Foeest 116, f. [22b-c]
+bronnen:
+- gemaakt-op-reis-database

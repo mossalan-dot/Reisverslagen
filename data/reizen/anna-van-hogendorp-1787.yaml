@@ -1,0 +1,53 @@
+id: anna-van-hogendorp-1787
+titel: Dagboek van Antje C.W. van Hogendorp, gehouden op een reis naar Nijmegen en het kasteel
+  Biljoen te Velp
+reizigers:
+- anna-van-hogendorp
+reistype: overig
+jaren: '1787'
+vertrek: 28-08-1787
+terugkeer: 16-10-1787
+reisdagen: '49'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 28-08-1787
+- plaats: Delft
+  land_modern: Nederlandse Republiek
+  datum: 16-10-1787
+manuscript: anna-van-hogendorp-1787-hs
+beschrijving: Verslag van Antje C.W. van Hogendorp (1766-1803) van een vlucht vanuit de buitenplaats
+  Sion bij Delft over Den Haag naar het stadhouderlijk hof in Nijmegen en terug in 1787. Het
+  verslag is gericht aan een vriendin. Van Hogendorp reisde met haar moeder Carolina Wilhelma
+  van Haren, haar zus Truitje (ca. 1765-1800) en haar nicht Lucie van Sandick (†1791). Geertruida
+  hield ook een verslag bij (Van Hogendorp 1902a; Van Hogendorp 1902b).
+reisgezellen:
+- naam: Carolina Wilhelmina van Haren
+  opmerkingen: moeder
+- naam: Geertruida van Hogendorp
+  jaren: 1765–1800
+  opmerkingen: journaalschrijver, zus
+- naam: Lucie van Sandick
+  jaren: '1791'
+  opmerkingen: nicht
+brieven:
+- verzender: Gijsbert Karel van Hogendorp (1762-1834)
+  relatie: broer-zus
+  taal: Nederlands
+  bron: FA Van Hogendorp 171
+  opmerking: Meerdere brieven van haar broer
+addenda:
+- type: Reisverslag
+  auteur: Geertruida van Hogendorp
+  beschrijving: Reisverslag van Geertruida van Hogendorp
+  datum: '1787'
+  taal: Nederlands
+  bron: Van Hogendorp 1787a
+  transcriptie: Nee
+  foto: Nee
+literatuur:
+- Baggerman en Dekker 2004, 143–156; Harmsma 2006, 17-25.
+bronnen:
+- gemaakt-op-reis-database

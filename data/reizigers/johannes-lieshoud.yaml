@@ -1,0 +1,26 @@
+id: johannes-lieshoud
+naam: Lieshoud, Johannes
+volledige_naam: Johannes Lieshoud
+geslacht: Man
+geboren:
+  jaar: 1628
+  datum: 01-11-1628
+  plaats: Amsterdam
+  provincie: Holland
+overleden:
+  jaar: 1663
+  datum: 01-02-1663
+  plaats: Amsterdam
+  provincie: Holland
+religie: Protestants
+is_auteur: true
+korte_typering: 'Reisde in 1652 naar Italië. Eerste reis: 01-04-1652 (24 jaar)'
+biografie: Zoon van de boekdrukker François en Sara Lieshoud. Maakte in 1652 een educatiereis
+  naar Duitsland, Oostenrijk en Italië met Nicolaas Langendeijk.
+genealogie:
+  vader: François Lieshoud
+  moeder: Sara Lieshoud
+literatuur:
+- Brouwer 2005, 1-53.
+bronnen:
+- gemaakt-op-reis-database

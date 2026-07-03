@@ -1,0 +1,32 @@
+id: nicolaas-ruichaever-1666
+titel: Plezierreis naar Duitsland
+reizigers:
+- nicolaas-ruichaever
+reistype: plezierreis
+jaren: '1666'
+vertrek: 14-07-1666
+terugkeer: 07-08-1666
+reisdagen: '24'
+gebieden:
+- Nederlandse Republiek
+- Duitsland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 14-07-1666
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 07-08-1666
+beschrijving: Maakte in 1666 een plezierreisje met Cornelis de Jonge van Ellemeet (1646-1721)
+  en Nicolaas Anthonij Flinck.
+reisgezellen:
+- naam: Cornelis de Jonge van Ellemeet heer van Ellemeet, in Elkerzee, van Poortvliet, Kloetinge,
+    Schipluiden, Hodenpijl, St. Maartensrecht en Dalem
+  jaren: 1646–1721
+  opmerkingen: journaalschrijver
+- naam: Anthonij Flinck
+addenda:
+- beschrijving: Reisverslag van Cornelis de Jonge van Ellemeet
+  bron: De Jonge van Ellemeet 1666
+bronnen:
+- gemaakt-op-reis-database

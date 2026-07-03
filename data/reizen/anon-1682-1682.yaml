@@ -1,0 +1,34 @@
+id: anon-1682-1682
+titel: Journael van mijn reijs van Leeuwarden nae Geneve over Hollandt, Brabant, Flaenderen,
+  Vranckrijk, Zwitserland en langs den Rhijnstroom tot Arnhem
+reizigers:
+- anon-1682
+reistype: educatiereis
+jaren: '1682'
+vertrek: 20-06-1682
+terugkeer: 28-09-1682
+reisdagen: '100'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+- Duitsland
+- Zwitserland
+route:
+- plaats: Leeuwarden
+  land_modern: Nederlandse Republiek
+  datum: 20-06-1682
+- plaats: Keulen
+  land_modern: Duitsland
+  datum: 28-09-1682
+manuscript: anon-1682-1682-hs
+beschrijving: Verslag van een reis naar Frankrijk, Zwitserland en Duitsland in 1682. De anonymus
+  had familie in Genève en bevond zich in de directe omgeving van de Friese stadhouder Hendrik
+  Casimir II, prins van Nassau-Dietz. Hij reisde van Leeuwarden via de Zuidelijke Nederlanden
+  naar Parijs. Vanaf Parijs trok hij naar Lyon en Genève, waar hij twee weken verbleef. Via
+  Zwitserland en Duitsland keerde hij terug naar huis. Het verslag eindigt in Keulen.
+addenda:
+- beschrijving: Onvolledige afstandstabel, eindigend in Frankfurt am Main
+  bron: f. 34v-35r
+bronnen:
+- gemaakt-op-reis-database

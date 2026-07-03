@@ -1,0 +1,37 @@
+id: florius-drabbe-1710
+titel: Zakenreis naar Engeland
+reizigers:
+- florius-drabbe
+reistype: handelsreis
+jaren: '1710'
+vertrek: 28-4-1710
+terugkeer: 19-7-1710
+reisdagen: '82'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 28-4-1710
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 19-7-1710
+beschrijving: Maakte in 1710 een reis naar Engeland met Allard de la Court (1688-1755) en Florius
+  Drabbe.
+reisgezellen:
+- naam: Allard de la Court
+  jaren: 1688–1755
+  opmerkingen: journaalschrijver
+- naam: Johannes Buckingham
+addenda:
+- type: Reisverslag
+  auteur: Allard de la Court
+  beschrijving: Reisverslag van Allard de la Court
+  datum: '1710'
+  taal: Nederlands
+  bron: De la Court 1928, 77-118.
+  transcriptie: Ja
+  foto: Ja
+bronnen:
+- gemaakt-op-reis-database

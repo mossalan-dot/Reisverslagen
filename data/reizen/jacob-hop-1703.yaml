@@ -1,0 +1,37 @@
+id: jacob-hop-1703
+titel: Militaire reis naar Zeeland, Brabant en Gelderland
+reizigers:
+- jacob-hop
+reistype: militaire reis
+jaren: '1703'
+vertrek: 03-07-1703
+terugkeer: 07-09-1703
+reisdagen: '66'
+gebieden:
+- Nederlandse Republiek
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 03-07-1703
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 07-09-1703
+beschrijving: Maakte in 1702 en 1703 militaire reizen in het gezelschap van zijn zoon Cornelis
+  (1685-1762).
+reisgezellen:
+- naam: Cornelis Hop
+  jaren: 1685–1762
+  opmerkingen: journaalschrijver, zoon
+addenda:
+- type: Reisverslag
+  auteur: Cornelis Hop
+  beschrijving: Reisverslag van Cornelis Hop
+  datum: '1703'
+  taal: Nederlands
+  bron: Hop 1703
+  transcriptie: Nee
+  foto: Ja
+literatuur:
+- BWN, VIII, 1242-1247; NNBW, III, 613-614; RAA.
+bronnen:
+- gemaakt-op-reis-database

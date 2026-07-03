@@ -1,0 +1,87 @@
+id: ezechiel-spanheim-1674-1679
+titel: Diplomatieke reis naar Engeland
+reizigers:
+- ezechiel-spanheim
+reistype: diplomatieke reis
+jaren: 1674-1679
+vertrek: 17-05-1674
+terugkeer: 09-06-1679
+reisdagen: '1849'
+gebieden:
+- Nederlandse Republiek
+- Engeland
+route:
+- plaats: Rotterdam
+  land_modern: Nederlandse Republiek
+  datum: 17-05-1674
+beschrijving: Reisde in 1674 naar Londen als secretaris in het gezantschap van Coenraad van
+  Beuningen (ca. 1622-1693), Willem van Haren (1626-1708), Willem Adriaan van Nassau-Odijck
+  (ca. 1632-1705) en Frederik baron van Reede tot Renswoude (ca. 1630-1715). De reis werd beschreven
+  door Joannes Vollenhove (1631-1708).
+reisgezellen:
+- naam: Coenraad van Beuningen
+  jaren: 1622–1693
+  opmerkingen: extraordinaris ambassadeur
+- naam: Willem van Haren
+  jaren: 1626–1708
+  opmerkingen: extraordinaris ambassadeur
+- naam: Willem Adriaan van Nassau heer van Odijk, Kortgene, van Zeist en Driebergen
+  jaren: 1632–1705
+  opmerkingen: extraordinaris ambassadeur
+- naam: Joannes Vollenhove
+  jaren: 1631–1708
+  opmerkingen: journaalschrijver, predikant
+- naam: Frederik van Reede tot Renswoude baron van Reede, heer van de Lier, eerder van Schonauwen.
+  jaren: 1630–1715
+  opmerkingen: extraordinaris ambassadeur
+- naam: Abel Tassin d'Alonne
+  jaren: 1646–1723
+  opmerkingen: gentilhomme
+- naam: Gerardus Joannes Vossius
+  opmerkingen: secretaris
+brieven:
+- verzender: Isaac Vossius (1618-1689)
+  ontvanger: Coenraad van Beuningen
+  datum: 10-07-1674
+  land_verzender: NL
+  taal: Nederlands
+  bron: Van Beuningen 1674
+  link: http://emlo.bodleian.ox.ac.uk/profile/work/5b40bdfb-51a8-4974-bf3f-bb170145c3da?sort=date-a&rows=50&dat_to_year=1674&people=vossius&dat_from_year=1674&baseurl=/forms/advanced&start=6&type=advanced&numFound=9
+- opmerking: Groot aantal brieven van Joannes Vollenhove (Dibbets 1992, 256-275)
+poezie:
+- titel: Groete van den Teems aan de Vecht, Over d’Inwydinge van den Here Arnoldus Monen tot
+    Leraar der Kerke van den Hardenberg
+  dichter: Joannes Vollenhove
+  aan: Arnoldus Monen
+  datum: 11-09-1674
+  locatie: Londen
+  taal: Nederlands
+  bron: Vollenhove 1685, 158-161
+  link: https://books.google.nl/books?id=ApBFAAAAcAAJ&pg=PA158&lpg=PA158&dq=%22groete+van+den+teems+aan+de+vecht%22&source=bl&ots=9qTKozG5dy&sig=0wby_jjjLpAx6AY9HQEdAT6D5wY&hl=nl&sa=X&ved=2ahUKEwjPoZKz9YXfAhUBb1AKHc_aC-8Q6AEwAnoECAYQAQ#v=onepage&q=%22groete%20van%20den%20teems%20aan%20de%20vecht%22&f=false
+- titel: Brief aan den Heer Simon Simonides, predikant in ‘s Gravenhage
+  dichter: Joannes Vollenhove
+  aan: Simon Simonides (1628-1675)
+  datum: 21-08-1674
+  locatie: Londen
+  taal: Nederlands
+  bron: Vollenhove 1685, 163-166
+  link: https://books.google.nl/books?id=ApBFAAAAcAAJ&pg=PA158&lpg=PA158&dq=%22groete+van+den+teems+aan+de+vecht%22&source=bl&ots=9qTKozG5dy&sig=0wby_jjjLpAx6AY9HQEdAT6D5wY&hl=nl&sa=X&ved=2ahUKEwjPoZKz9YXfAhUBb1AKHc_aC-8Q6AEwAnoECAYQAQ#v=onepage&q=%22groete%20van%20den%20teems%20aan%20de%20vecht%22&f=false
+- titel: Brief aan de Weledele Jongkvrou Cornelia Paauw van Achtienhoven
+  dichter: Joannes Vollenhove
+  aan: Cornelia Paauw van Achtienhoven
+  datum: 16-10-1674
+  locatie: Londen
+  taal: Nederlands
+  bron: Vollenhove 1685, 167-171
+  link: https://books.google.nl/books?id=ApBFAAAAcAAJ&pg=PA158&lpg=PA158&dq=%22groete+van+den+teems+aan+de+vecht%22&source=bl&ots=9qTKozG5dy&sig=0wby_jjjLpAx6AY9HQEdAT6D5wY&hl=nl&sa=X&ved=2ahUKEwjPoZKz9YXfAhUBb1AKHc_aC-8Q6AEwAnoECAYQAQ#v=onepage&q=%22groete%20van%20den%20teems%20aan%20de%20vecht%22&f=false
+- titel: Troostbrief
+  dichter: Joannes Vollenhove
+  datum: 09-10-1674
+  locatie: Londen
+  taal: Nederlands
+  bron: Vollenhove 1685, 553-556
+  link: https://books.google.nl/books?id=ApBFAAAAcAAJ&pg=PA158&lpg=PA158&dq=%22groete+van+den+teems+aan+de+vecht%22&source=bl&ots=9qTKozG5dy&sig=0wby_jjjLpAx6AY9HQEdAT6D5wY&hl=nl&sa=X&ved=2ahUKEwjPoZKz9YXfAhUBb1AKHc_aC-8Q6AEwAnoECAYQAQ#v=onepage&q=%22groete%20van%20den%20teems%20aan%20de%20vecht%22&f=false
+literatuur:
+- Vollenhove 2001, 26.
+bronnen:
+- gemaakt-op-reis-database

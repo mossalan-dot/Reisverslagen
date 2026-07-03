@@ -1,0 +1,44 @@
+id: adrianus-van-overschie-1674-1676
+titel: Journal du voyage de Mr. Adrien Baron d’Overschie en Italie et en Allemagne en 1674 et
+  1675
+reizigers:
+- adrianus-van-overschie
+reistype: educatiereis
+jaren: 1674-1676
+vertrek: 22-09-1674
+terugkeer: 10-11-1676
+reisdagen: '780'
+gebieden:
+- Zuidelijke Nederlanden
+- Nederlandse Republiek
+- Duitsland
+- Oostenrijk
+- Italië
+- Spanje
+- Portugal
+route:
+- plaats: Antwerpen
+  land_modern: Zuidelijke Nederlanden
+  datum: 22-09-1674
+- plaats: Rome
+  land_modern: Italië
+  datum: 10-11-1676
+manuscript: adrianus-van-overschie-1674-1676-hs
+beschrijving: 'Onvolledig verslag van een educatiereis van Adrianus van Overschie (ca. 1650-1724)
+  naar Italië, Spanje en Portugal in 1674-1676. Van Overschie reisde van Antwerpen naar Duitsland
+  en stak over naar Italië. Het verslag eindigt in Rome.
+
+
+  Meertalig (Frans (1-38; 186-230; 254-358; 484-494), Italiaans (38-186; 230-252), Spaans (359-444)
+  en Nederlands (445-483), pp. 494.'
+addenda:
+- beschrijving: Franstalig bericht over de provenance van het verslag
+  bron: '[1]'
+- beschrijving: Lijst van uitgaven
+  bron: '[309-310]'
+- beschrijving: Kladaantekeningen
+  bron: '[311]'
+- beschrijving: Kopie van een aanbevelingsbrief
+  bron: '491'
+bronnen:
+- gemaakt-op-reis-database

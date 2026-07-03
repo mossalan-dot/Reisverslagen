@@ -1,0 +1,40 @@
+id: marcus-drabbe-1723-1724
+titel: Educatiereis naar Frankrijk, Italië en Zwitserland
+reizigers:
+- marcus-drabbe
+reistype: educatiereis
+jaren: 1723-1724
+vertrek: 05-09-1723
+terugkeer: 20-09-1724
+reisdagen: '381'
+gebieden:
+- Nederlandse Republiek
+- Zuidelijke Nederlanden
+- Frankrijk
+- Italië
+- Zwitserland
+route:
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 05-09-1723
+- plaats: Leiden
+  land_modern: Nederlandse Republiek
+  datum: 20-09-1724
+beschrijving: Maakte in 1723 en 1724 een reis naar Frankrijk, Italië en Zwitserland in het gezelschap
+  van Jan Alensoon (1683-1769).
+reisgezellen:
+- naam: Jan Alensoon
+  jaren: 1683–1769
+addenda:
+- type: Reisverslag
+  auteur: Jan Alensoon
+  beschrijving: Reisverslag van Jan Alensoon
+  datum: '1724'
+  taal: Nederlands
+  bron: Alensoon 2014
+  transcriptie: Ja
+  foto: Ja
+literatuur:
+- Vlaardingerbroek 1991, 536-551; Metzelaar 2011, 175-208; Metzelaar 2014, 44-49.
+bronnen:
+- gemaakt-op-reis-database
