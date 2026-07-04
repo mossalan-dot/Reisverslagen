@@ -217,7 +217,75 @@ def hoofd():
     html = sjabloon.replace("__DATA_JSON__", json.dumps(licht, ensure_ascii=False))
     (DOCS / "index.html").write_text(html, encoding="utf-8")
     kb = (DOCS / "index.html").stat().st_size // 1024
-    print(f"Website gebouwd: index.html ({kb} KB, {ingekort} teksten ingekort), data.json volledig.")
+    schrijf_zoekhulp()
+    print(f"Website gebouwd: index.html ({kb} KB, {ingekort} teksten ingekort), "
+          f"data.json en zoekhulp.html.")
+
+
+# Zoektermen die in archiefinventarissen vaak op handgeschreven reisverslagen wijzen.
+ZOEKTERMEN = [
+    "reisjournaal", "reisverslag", "reisdagboek", "reisverhaal", "reisbeschrijving",
+    '"journael van mijn reijse"', "journael reijse", '"reyse naer"', '"reijse door"',
+    "itinerarium", '"dagverhael van mijn reise"', '"beschrijvinge van mijn reijse"',
+    "educatiereis", "grand tour reisverslag", '"reijse naar Italien"',
+    '"reijse door Vranckrijck"', '"voyage" journael handschrift',
+]
+STAANDE_BRONNEN = [
+    ("Repertorium reisverslagen (Lindeman, Scherf en Dekker)", "http://www.egodocument.net/reisverslagen.html"),
+    ("Egodocumenten — reisverslagen 1500–1814", "https://www.egodocumenten.nl/reisverslagen-van-1500-1814/"),
+    ("A. Frank-van Westrienen, De groote tour (handschriftenlijst, DBNL)",
+     "https://www.dbnl.org/tekst/fran014groo01_01/fran014groo01_01_0013.php"),
+    ("Bijzondere Collecties UB Leiden — handschriften", "https://www.bibliotheek.universiteitleiden.nl/bijzondere-collecties"),
+    ("Special Collections UB Utrecht — manuscripts", "https://www.uu.nl/en/special-collections/collections/manuscripts"),
+]
+
+
+def schrijf_zoekhulp():
+    from urllib.parse import quote_plus
+
+    def links(term):
+        q = quote_plus(term)
+        cat = [
+            ("archieven.nl", f"https://www.archieven.nl/nl/zoeken?mivast=0&miview=tbl&milang=nl&mizk_alle={q}"),
+            ("WorldCat", f"https://search.worldcat.org/search?q={q}"),
+            ("Nationaal Archief", f"https://www.google.com/search?q=site%3Anationaalarchief.nl+{q}"),
+            ("Google Boeken", f"https://www.google.com/search?tbm=bks&q={q}"),
+        ]
+        return " · ".join(f'<a href="{u}" target="_blank" rel="noopener">{n}</a>' for n, u in cat)
+
+    rijen = "".join(
+        f'<tr><td class="term">{t}</td><td>{links(t)}</td></tr>' for t in ZOEKTERMEN)
+    bronnen = "".join(
+        f'<li><a href="{u}" target="_blank" rel="noopener">{n}</a></li>' for n, u in STAANDE_BRONNEN)
+    pagina = f"""<!DOCTYPE html><html lang="nl"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zoekhulp — nieuwe reisverslagen vinden</title>
+<style>
+ body{{margin:0;background:#faf7f1;color:#2b2620;font:16px/1.55 Georgia,serif;}}
+ header{{background:#2b2620;color:#f3efe7;padding:1.4rem 1rem;}}
+ .kolom{{max-width:60rem;margin:0 auto;padding:0 1rem;}}
+ h1{{margin:0;font-size:1.5rem;font-weight:normal;}} h2{{font-weight:normal;color:#7a2e2e;}}
+ a{{color:#7a2e2e;}} p{{max-width:44rem;}}
+ table{{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.95rem;}}
+ td{{border-bottom:1px solid #e3dcd0;padding:.5rem .4rem;vertical-align:top;}}
+ td.term{{font-family:system-ui,sans-serif;font-size:.9rem;white-space:nowrap;color:#2b2620;}}
+ .terug{{display:inline-block;margin:1rem 0;}}
+</style></head><body>
+<header><div class="kolom"><h1>Zoekhulp — nieuwe reisverslagen vinden</h1></div></header>
+<main class="kolom">
+<p><a class="terug" href="index.html">← terug naar het compendium</a></p>
+<p>Deze pagina helpt bij het opsporen van handgeschreven reisverslagen die <em>nog niet</em>
+in het compendium staan. Per zoekterm staan kant-en-klare zoekopdrachten in de belangrijkste
+catalogi. Controleer een vondst altijd, en voeg hem toe via de bewerkmodus op de recordpagina's.</p>
+<h2>Zoektermen × catalogi</h2>
+<table><tbody>{rijen}</tbody></table>
+<h2>Staande bronnen en repertoria</h2>
+<ul>{bronnen}</ul>
+<p style="color:#7a715f;font-size:.9rem;">Tip: de meeste onontdekte verslagen zitten in
+archiefinventarissen (familie- en huisarchieven) op archieven.nl en nationaalarchief.nl.
+Zoek daar ook op familienamen van bekende reizigersgeslachten.</p>
+</main></body></html>"""
+    (DOCS / "zoekhulp.html").write_text(pagina, encoding="utf-8")
 
 
 if __name__ == "__main__":
