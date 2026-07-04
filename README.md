@@ -51,10 +51,12 @@ Aanvullingen, correcties, transcripties en scans zijn welkom. Zie [BIJDRAGEN.md]
 - [x] Doorzoekbare website
 - [x] Basisvulling uit de onderzoeksdatabase (310 reizigers, 651 reizen, 196 manuscripten, plus verrijkingen)
 - [x] Publicatie (GitHub Pages)
-- [ ] Signaturen en permalinks controleren bij de instellingen; permalinks per manuscript toevoegen
+- [x] Volledige bibliografie gekoppeld (corpustitels en literatuurverwijzingen)
+- [x] Doorzoekbare tabbladen en filters voor brieven, gedichten, addenda en portretten
+- [x] Bewerkknop per record (opent het bronbestand in GitHub)
+- [ ] Online koppelingen: WorldCat bij literatuur, permalinks naar vindplaatsen bij manuscripten
+- [ ] Afbeeldingen en transcripties toevoegen/hosten (later via een eigen server-applicatie)
+- [ ] Kaartweergave op basis van geodata (coördinaten per route-plaats; KMZ-routes)
 - [ ] Digitaliserings- en transcriptiestatus per manuscript invullen
-- [ ] Kaartweergave op basis van geodata (coördinaten per route-plaats)
-- [ ] Repertorium Lindeman/Scherf/Dekker naast de LSD-nummers leggen ter aanvulling
-- [ ] Suggestieformulier op de website
-- [ ] Uitbreiding naar zestiende en achttiende eeuw
-- [ ] Uitbreiding met gedrukte reisteksten
+- [ ] Eigen bewerk-/beheeromgeving op de Hetzner-server (fase 2)
+- [ ] Uitbreiding naar zestiende en achttiende eeuw en met gedrukte reisteksten

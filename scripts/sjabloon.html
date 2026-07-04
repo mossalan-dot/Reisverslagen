@@ -15,9 +15,9 @@
   h1{margin:0;font-size:1.55rem;font-weight:normal;letter-spacing:.02em;}
   header p{margin:.35rem 0 0;color:#cfc7b8;font-size:.92rem;}
   nav{background:var(--kaart);border-bottom:1px solid var(--rand);position:sticky;top:0;z-index:5;}
-  nav .kolom{display:flex;gap:.15rem;flex-wrap:wrap;}
-  nav button{border:none;background:none;font:inherit;font-size:.93rem;padding:.7rem .8rem;cursor:pointer;
-    color:var(--dempen);border-bottom:3px solid transparent;}
+  nav .kolom{display:flex;gap:.1rem;flex-wrap:wrap;}
+  nav button{border:none;background:none;font:inherit;font-size:.9rem;padding:.65rem .7rem;cursor:pointer;
+    color:var(--dempen);border-bottom:3px solid transparent;white-space:nowrap;}
   nav button.actief{color:var(--accent);border-bottom-color:var(--accent);}
   nav button:hover{color:var(--inkt);}
   .balk{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin:1.1rem 0 .8rem;}
@@ -55,8 +55,11 @@
   details summary{cursor:pointer;font-size:.85rem;color:var(--blauw);font-family:system-ui,sans-serif;}
   .brieftekst{white-space:pre-wrap;font-size:.9rem;background:var(--kaart);border:1px solid var(--rand);
     border-radius:4px;padding:.6rem .8rem;margin-top:.4rem;max-height:24rem;overflow:auto;}
-  .terug{display:inline-block;margin-top:1rem;font-size:.95rem;background:none;border:none;color:var(--accent);
-    font:inherit;cursor:pointer;padding:0;text-decoration:underline;}
+  .acties{margin-top:1rem;display:flex;gap:1rem;align-items:center;flex-wrap:wrap;}
+  .terug{font-size:.95rem;background:none;border:none;color:var(--accent);font:inherit;cursor:pointer;padding:0;text-decoration:underline;}
+  .bewerk{font-family:system-ui,sans-serif;font-size:.82rem;padding:.3rem .7rem;border:1px solid var(--rand);
+    border-radius:5px;color:var(--blauw);text-decoration:none;background:var(--kaart);}
+  .bewerk:hover{border-color:var(--blauw);}
   .suggestie{margin-top:1.2rem;padding-top:.9rem;border-top:1px dashed var(--rand);font-size:.87rem;color:var(--dempen);}
   .leeg{color:var(--dempen);font-style:italic;margin:2rem 0;}
   footer{border-top:1px solid var(--rand);color:var(--dempen);font-size:.84rem;padding:1.2rem 0 2.5rem;margin-top:1rem;}
@@ -73,25 +76,50 @@
 const DATA = __DATA_JSON__;
 let VOL = null; // volledige dataset (nageladen), voor lange teksten
 
-const SOORTEN = {
-  manuscript:{mv:"manuscripten",label:"Manuscripten",enkel:"Manuscript"},
-  reiziger:{mv:"reizigers",label:"Reizigers",enkel:"Reiziger"},
-  reis:{mv:"reizen",label:"Reizen",enkel:"Reis"},
-  instelling:{mv:"instellingen",label:"Instellingen",enkel:"Instelling"},
-};
-const TABS=["manuscript","reiziger","reis","instelling"];
+const REPO="mossalan-dot/Reisverslagen", BRANCH="claude/travel-manuscripts-compendium-reogw5";
 const EMAIL="mossalan@gmail.com";
+const SOORTEN={
+  manuscript:{mv:"manuscripten",label:"Manuscripten",enkel:"Manuscript",map:"manuscripten"},
+  reiziger:{mv:"reizigers",label:"Reizigers",enkel:"Reiziger",map:"reizigers"},
+  reis:{mv:"reizen",label:"Reizen",enkel:"Reis",map:"reizen"},
+  instelling:{mv:"instellingen",label:"Instellingen",enkel:"Instelling",map:"instellingen"},
+  brief:{mv:"brieven",label:"Brieven",enkel:"Brief"},
+  gedicht:{mv:"gedichten",label:"Gedichten",enkel:"Gedicht"},
+  addendum:{mv:"addenda",label:"Addenda",enkel:"Addendum"},
+  portret:{mv:"portretten",label:"Portretten",enkel:"Portret"},
+};
+const TABS=["manuscript","reiziger","reis","instelling","brief","gedicht","addendum","portret"];
 const index={};
-for(const[s,d]of Object.entries(SOORTEN)) index[s]=new Map(DATA[d.mv].map(r=>[r.id,r]));
+for(const[s,d]of Object.entries(SOORTEN)) index[s]=new Map((DATA[d.mv]||[]).map(r=>[r.id,r]));
 const staat={tab:"reiziger",zoek:"",f1:"",f2:"",detail:null};
 
 function esc(t){return String(t).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
 function zoektekst(r){if(!r._z)r._z=JSON.stringify(r).toLowerCase();return r._z;}
 function badge(t,k){return '<span class="badge b-'+k+'">'+esc(t)+'</span>';}
-function naamVan(s,id){const r=index[s].get(id);if(!r)return id;return r.naam||r.titel||r.titel_aanduiding||id;}
-function link(s,id){return '<a href="#/'+s+'/'+encodeURIComponent(id)+'">'+esc(naamVan(s,id))+'</a>';}
 function ext(url,label){return '<a href="'+esc(url)+'" target="_blank" rel="noopener">'+esc(label||url)+'</a>';}
 function jaren(r){const g=r.geboren&&r.geboren.jaar,o=r.overleden&&r.overleden.jaar;if(!g&&!o)return"";return (g||"?")+"–"+(o||"?");}
+function kort(t,n){t=String(t||"");return t.length>n?t.slice(0,n).trim()+"…":t;}
+
+function titelVan(s,r){
+  if(!r)return"";
+  if(s==="brief")return [r.verzender,r.ontvanger].filter(Boolean).join(" → ")||"Brief";
+  if(s==="gedicht")return r.titel||"Gedicht";
+  if(s==="addendum")return kort(r.beschrijving||r.type||"Addendum",90);
+  if(s==="portret")return r.titel||"Portret";
+  return r.naam||r.titel||r.titel_aanduiding||r.id;
+}
+function naamVan(s,id){return titelVan(s,index[s].get(id));}
+function link(s,id){return '<a href="#/'+s+'/'+encodeURIComponent(id)+'">'+esc(naamVan(s,id))+'</a>';}
+
+// volledige (nageladen) versie van een record, indien beschikbaar
+function volledig(s,r){
+  if(VOL&&VOL["_"+s])return VOL["_"+s].get(r.id)||r;
+  return r;
+}
+function kinderen(mv,veld,id){
+  const bron=(VOL&&VOL[mv])?VOL[mv]:DATA[mv];
+  return (bron||[]).filter(x=>x[veld]===id);
+}
 
 // ---- lijstkaartjes ----
 function kaartje(s,r){
@@ -106,21 +134,33 @@ function kaartje(s,r){
   }else if(s==="reiziger"){
     sub=[jaren(r),r.religie,(r.geboren&&r.geboren.plaats)].filter(Boolean).join(" · ");
     const nr=DATA.reizen.filter(x=>(x.reizigers||[]).includes(r.id)).length;
+    const np=DATA.portretten.filter(x=>x.reiziger===r.id).length;
     if(nr)badges+=badge(nr+" reis"+(nr>1?"zen":""),"blauw");
-    if((r.portretten||[]).length)badges+=badge((r.portretten.length)+" portret"+(r.portretten.length>1?"ten":""),"grijs");
+    if(np)badges+=badge(np+" portret"+(np>1?"ten":""),"grijs");
   }else if(s==="reis"){
     sub=[r.jaren,r.reistype,(r.gebieden||[]).join(", ")].filter(Boolean).join(" · ");
-    const b=(r.brieven||[]).length,a=(r.addenda||[]).length,p=(r.poezie||[]).length;
+    const b=DATA.brieven.filter(x=>x.reis===r.id).length,g=DATA.gedichten.filter(x=>x.reis===r.id).length,a=DATA.addenda.filter(x=>x.reis===r.id).length;
     if(b)badges+=badge(b+" brief"+(b>1?"ven":""),"blauw");
-    if(p)badges+=badge(p+" gedicht"+(p>1?"en":""),"blauw");
+    if(g)badges+=badge(g+" gedicht"+(g>1?"en":""),"blauw");
     if(a)badges+=badge(a+" addend"+(a>1?"a":"um"),"grijs");
-  }else{
+  }else if(s==="instelling"){
     const n=DATA.manuscripten.filter(m=>m.instelling===r.id).length;
     sub=[r.plaats,r.land,n+" manuscript"+(n===1?"":"en")].filter(Boolean).join(" · ");
+  }else if(s==="brief"){
+    sub=[r.datum,[r.plaats_verzender,r.plaats_ontvanger].filter(Boolean).join(" → "),r.taal].filter(Boolean).join(" · ");
+    if(r.bron)badges+=badge(r.bron,"grijs");
+  }else if(s==="gedicht"){
+    sub=[r.dichter,r.datum,r.locatie,r.taal].filter(Boolean).join(" · ");
+  }else if(s==="addendum"){
+    sub=[r.type,r.auteur,r.datum].filter(Boolean).join(" · ");
+    if(r.transcriptie==="Ja")badges+=badge("transcriptie","groen");
+    if(r.foto==="Ja")badges+=badge("foto","grijs");
+  }else if(s==="portret"){
+    sub=[r.vervaardiger,r.jaar,r.bron].filter(Boolean).join(" · ");
   }
   if(r.controle_nodig)badges+=badge("controle nodig","accent");
   return '<li onclick="location.hash=\'#/'+s+'/'+encodeURIComponent(r.id)+'\'">'+
-    '<div class="kop">'+esc(naamVan(s,r.id))+'</div>'+(sub?'<div class="sub">'+esc(sub)+'</div>':'')+
+    '<div class="kop">'+esc(titelVan(s,r))+'</div>'+(sub?'<div class="sub">'+esc(sub)+'</div>':'')+
     (badges?'<div class="badges">'+badges+'</div>':'')+'</li>';
 }
 
@@ -132,54 +172,34 @@ function rij(label,inhoud,alHtml){
 }
 function datum(d){if(!d)return"";return [d.datum||d.jaar,[d.plaats,d.provincie].filter(Boolean).join(", ")].filter(Boolean).join(", ");}
 function para(t){return esc(t).replace(/\n\n/g,"<br><br>").replace(/\n/g,"<br>");}
-
-function volReis(id){ // volledige reis (met lange teksten) indien geladen
-  if(VOL&&VOL._reis)return VOL._reis.get(id)||index.reis.get(id);
-  return index.reis.get(id);
-}
-
-function briefBlok(b){
-  const kop=[b.verzender,b.ontvanger].filter(Boolean).join(" → ")||"Brief";
-  const meta=[b.datum,[b.plaats_verzender,b.plaats_ontvanger].filter(Boolean).join(" → "),b.taal].filter(Boolean).join(" · ");
-  let h='<div class="item"><div class="t">'+esc(kop)+'</div>';
-  if(meta)h+='<div class="m">'+esc(meta)+'</div>';
-  if(b.bron||b.link)h+='<div class="m">'+[b.bron?esc(b.bron):"",b.link?ext(b.link,"link"):""].filter(Boolean).join(" · ")+'</div>';
-  if(b.tekst){
-    const laden=b._ingekort?' <em>(volledige tekst wordt geladen…)</em>':'';
-    h+='<details><summary>transcriptie</summary><div class="brieftekst">'+para(b.tekst)+laden+'</div></details>';
-  }
-  return h+'</div>';
-}
-function gedichtBlok(p){
-  const meta=[p.dichter,p.datum,p.locatie,p.taal].filter(Boolean).join(" · ");
-  let h='<div class="item"><div class="t">'+esc(p.titel||"Gedicht")+'</div>';
-  if(meta)h+='<div class="m">'+esc(meta)+'</div>';
-  if(p.beschrijving)h+='<div class="m">'+esc(p.beschrijving)+'</div>';
-  if(p.bron||p.link)h+='<div class="m">'+[p.bron?esc(p.bron):"",p.link?ext(p.link,"link"):""].filter(Boolean).join(" · ")+'</div>';
-  if(p.tekst){
-    const laden=p._ingekort?' <em>(volledige tekst wordt geladen…)</em>':'';
-    h+='<details><summary>tekst</summary><div class="brieftekst">'+para(p.tekst)+laden+'</div></details>';
-  }
-  return h+'</div>';
-}
-function addendumBlok(a){
-  const meta=[a.type,a.auteur,a.datum].filter(Boolean).join(" · ");
-  let h='<div class="item"><div class="t">'+esc(a.beschrijving||a.type||"Addendum")+'</div>';
-  if(meta)h+='<div class="m">'+esc(meta)+'</div>';
-  const r2=[a.bron?esc(a.bron):"",a.transcriptie==="Ja"?"transcriptie":"",a.foto==="Ja"?"foto":"",a.link?ext(a.link,"link"):""].filter(Boolean).join(" · ");
-  if(r2)h+='<div class="m">'+r2+'</div>';
-  return h+'</div>';
-}
-function portretBlok(p){
-  const meta=[p.vervaardiger,p.jaar,p.bron].filter(Boolean).join(" · ");
-  let h='<div class="item"><div class="t">'+(p.link?ext(p.link,p.titel||"Portret"):esc(p.titel||"Portret"))+'</div>';
-  if(meta)h+='<div class="m">'+esc(meta)+'</div>';
-  if(p.beschrijving)h+='<div class="m">'+esc((p.beschrijving||"").slice(0,200))+'</div>';
-  return h+'</div>';
+function bronregel(o){return [o.bron?esc(o.bron):"",o.link?ext(o.link,"link"):""].filter(Boolean).join(" · ");}
+function tekstblok(o,label){
+  if(!o.tekst)return"";
+  const laden=o._ingekort?' <em>(volledige tekst wordt geladen…)</em>':'';
+  return '<details><summary>'+esc(label)+'</summary><div class="brieftekst">'+para(o.tekst)+laden+'</div></details>';
 }
 function sectie(titel,items,fn){
   if(!items||!items.length)return"";
   return '<h3 class="sectie">'+esc(titel)+' ('+items.length+')</h3><div class="kaartjes">'+items.map(fn).join("")+'</div>';
+}
+function itemKaart(s,r){
+  return '<div class="item"><div class="t">'+link(s,r.id)+'</div>'+
+    (kaartSub(s,r)?'<div class="m">'+esc(kaartSub(s,r))+'</div>':'')+'</div>';
+}
+function kaartSub(s,r){
+  if(s==="brief")return [r.datum,[r.plaats_verzender,r.plaats_ontvanger].filter(Boolean).join(" → "),r.taal].filter(Boolean).join(" · ");
+  if(s==="gedicht")return [r.dichter,r.datum,r.taal].filter(Boolean).join(" · ");
+  if(s==="addendum")return [r.type,r.auteur,r.datum].filter(Boolean).join(" · ");
+  if(s==="portret")return [r.vervaardiger,r.jaar,r.bron].filter(Boolean).join(" · ");
+  return "";
+}
+
+function bewerkUrl(s,r){
+  let pad;
+  if(s==="brief"||s==="gedicht"||s==="addendum")pad="data/reizen/"+r.reis+".yaml";
+  else if(s==="portret")pad="data/reizigers/"+r.reiziger+".yaml";
+  else pad="data/"+SOORTEN[s].map+"/"+r.id+".yaml";
+  return "https://github.com/"+REPO+"/edit/"+BRANCH+"/"+pad;
 }
 
 function detail(s,r){
@@ -187,82 +207,118 @@ function detail(s,r){
   if(s==="reiziger"){
     const g=r.genealogie||{};
     rijen+=rij("Volledige naam",r.volledige_naam)+rij("Naamsvarianten",(r.naamsvarianten||[]).join("; "))+
-      rij("Titel",r.titel)+rij("Geslacht",r.geslacht)+
-      rij("Geboren",datum(r.geboren))+rij("Overleden",datum(r.overleden))+rij("Religie",r.religie)+
-      rij("Typering",r.korte_typering);
+      rij("Titel",r.titel)+rij("Geslacht",r.geslacht)+rij("Geboren",datum(r.geboren))+rij("Overleden",datum(r.overleden))+
+      rij("Religie",r.religie)+rij("Typering",r.korte_typering);
     if(r.biografie)rijen+=rij("Biografie",para(r.biografie),true);
     rijen+=rij("Vader",g.vader)+rij("Moeder",g.moeder)+rij("Echtgeno(o)t(e)",g.echtgenoten)+
       rij("Kinderen",g.kinderen)+rij("Broers/zussen",g.broers_zussen)+rij("Andere familie",g.andere_familie);
-    const reizenVan=DATA.reizen.filter(x=>(x.reizigers||[]).includes(r.id));
-    rijen+=rij("Reizen",reizenVan.map(x=>link("reis",x.id)),true);
+    rijen+=rij("Reizen",DATA.reizen.filter(x=>(x.reizigers||[]).includes(r.id)).map(x=>link("reis",x.id)),true);
     rijen+=rij("Literatuur",r.literatuur)+rij("Volledige titels",r.literatuur_volledig);
     extra+=sectie("Opleiding",r.opleiding,e=>{
       const m=[e.universiteit,e.richting,e.datum].filter(Boolean).join(" · ");
       return '<div class="item"><div class="t">'+esc(e.universiteit||e.richting||"Opleiding")+'</div>'+(m?'<div class="m">'+esc(m)+'</div>':'')+(e.opmerking?'<div class="m">'+esc(e.opmerking)+'</div>':'')+'</div>';});
-    extra+=sectie("Portretten en afbeeldingen",r.portretten,portretBlok);
+    extra+=sectie("Portretten en afbeeldingen",kinderen("portretten","reiziger",r.id),p=>itemKaart("portret",p));
   }else if(s==="reis"){
-    const rv=volReis(r.id);
-    rijen+=rij("Reiziger(s)",(r.reizigers||[]).map(id=>link("reiziger",id)),true)+
-      rij("Reistype",r.reistype)+rij("Jaren",r.jaren)+rij("Vertrek",r.vertrek)+rij("Terugkeer",r.terugkeer)+
-      rij("Reisdagen",r.reisdagen)+rij("Gebieden",(r.gebieden||[]).join(", "));
+    rijen+=rij("Reiziger(s)",(r.reizigers||[]).map(id=>link("reiziger",id)),true)+rij("Reistype",r.reistype)+
+      rij("Jaren",r.jaren)+rij("Vertrek",r.vertrek)+rij("Terugkeer",r.terugkeer)+rij("Reisdagen",r.reisdagen)+
+      rij("Gebieden",(r.gebieden||[]).join(", "));
     if(r.route&&r.route.length)rijen+=rij("Route",r.route.map(h=>esc([h.plaats,h.land_modern].filter(Boolean).join(", "))+(h.datum?" — "+esc(h.datum):"")),true);
     if(r.manuscript)rijen+=rij("Manuscript",link("manuscript",r.manuscript),true);
     if(r.beschrijving)rijen+=rij("Beschrijving",para(r.beschrijving),true);
     rijen+=rij("Literatuur",r.literatuur)+rij("Volledige titels",r.literatuur_volledig);
-    if(r.reisgezellen&&r.reisgezellen.length)extra+=sectie("Reisgezellen",r.reisgezellen,g=>'<div class="item"><div class="t">'+esc(g.naam||"Reisgezel")+(g.jaren?" ("+esc(g.jaren)+")":"")+'</div>'+(g.opmerkingen?'<div class="m">'+esc(g.opmerkingen)+'</div>':'')+'</div>');
-    extra+=sectie("Correspondentie",rv.brieven,briefBlok);
-    extra+=sectie("Poëzie",rv.poezie,gedichtBlok);
-    extra+=sectie("Addenda",rv.addenda,addendumBlok);
+    if(r.reisgezellen&&r.reisgezellen.length)extra+=sectie("Reisgezellen",r.reisgezellen,x=>'<div class="item"><div class="t">'+esc(x.naam||"Reisgezel")+(x.jaren?" ("+esc(x.jaren)+")":"")+'</div>'+(x.opmerkingen?'<div class="m">'+esc(x.opmerkingen)+'</div>':'')+'</div>');
+    extra+=sectie("Correspondentie",kinderen("brieven","reis",r.id),x=>itemKaart("brief",x));
+    extra+=sectie("Poëzie",kinderen("gedichten","reis",r.id),x=>itemKaart("gedicht",x));
+    extra+=sectie("Addenda",kinderen("addenda","reis",r.id),x=>itemKaart("addendum",x));
   }else if(s==="manuscript"){
-    rijen+=rij("Volledige titel",r.formele_titel)+
-      rij("Auteur(s)",(r.auteurs||[]).map(id=>link("reiziger",id)),true)+
+    rijen+=rij("Volledige titel",r.formele_titel)+rij("Auteur(s)",(r.auteurs||[]).map(id=>link("reiziger",id)),true)+
       rij("Beschreven reis",(r.reizen||[]).map(id=>link("reis",id)),true)+
-      rij("Bewaarplaats",r.instelling?link("instelling",r.instelling):"",true)+
-      rij("Signatuur",r.signatuur)+rij("Taal",r.taal)+rij("Omvang",r.omvang)+
-      rij("Incompleet",r.incompleet?"ja":"")+
+      rij("Bewaarplaats",r.instelling?link("instelling",r.instelling):"",true)+rij("Signatuur",r.signatuur)+
+      rij("Taal",r.taal)+rij("Omvang",r.omvang)+rij("Incompleet",r.incompleet?"ja":"")+
       rij("Corpusnummer (Gemaakt op reis)",r.corpus_gor)+rij("Repertorium LSD",r.repertorium_lsd)+
       rij("Edities",r.edities)+rij("Volledige titels",r.literatuur_volledig);
     if(r.beschrijving)rijen+=rij("Beschrijving",para(r.beschrijving),true);
     rijen+=rij("Opmerkingen",r.opmerkingen);
-  }else{
+  }else if(s==="instelling"){
     rijen+=rij("Plaats",[r.plaats,r.land].filter(Boolean).join(", "))+rij("Type",r.type)+
-      rij("Website",r.website?ext(r.website):"",true)+rij("Opmerkingen",r.opmerkingen);
-    const mss=DATA.manuscripten.filter(m=>m.instelling===r.id);
-    rijen+=rij("Manuscripten",mss.map(m=>link("manuscript",m.id)),true);
+      rij("Website",r.website?ext(r.website):"",true)+rij("Opmerkingen",r.opmerkingen)+
+      rij("Manuscripten",DATA.manuscripten.filter(m=>m.instelling===r.id).map(m=>link("manuscript",m.id)),true);
+  }else if(s==="brief"){
+    const v=volledig("brief",r);
+    rijen+=rij("Verzender",v.verzender)+rij("Ontvanger",v.ontvanger)+rij("Datum",v.datum)+
+      rij("Van",[v.plaats_verzender,v.land_verzender].filter(Boolean).join(", "))+
+      rij("Naar",[v.plaats_ontvanger,v.land_ontvanger].filter(Boolean).join(", "))+
+      rij("Relatie",v.relatie)+rij("Taal",v.taal)+rij("Bron",bronregel(v),true)+rij("Opmerking",v.opmerking)+
+      rij("Reis",v.reis?link("reis",v.reis):"",true)+rij("Reiziger(s)",(v.reizigers||[]).map(id=>link("reiziger",id)),true);
+    if(v.tekst)extra+='<h3 class="sectie">Transcriptie</h3>'+tekstblok(v,"toon transcriptie");
+  }else if(s==="gedicht"){
+    const v=volledig("gedicht",r);
+    rijen+=rij("Titel",v.titel)+rij("Dichter",v.dichter)+rij("Aan",v.aan)+rij("Datum",v.datum)+
+      rij("Locatie",v.locatie)+rij("Taal",v.taal)+rij("Bron",bronregel(v),true)+rij("Beschrijving",v.beschrijving)+
+      rij("Reis",v.reis?link("reis",v.reis):"",true)+rij("Reiziger(s)",(v.reizigers||[]).map(id=>link("reiziger",id)),true);
+    if(v.tekst)extra+='<h3 class="sectie">Tekst</h3>'+tekstblok(v,"toon tekst");
+  }else if(s==="addendum"){
+    rijen+=rij("Type",r.type)+rij("Auteur",r.auteur)+rij("Beschrijving",r.beschrijving)+rij("Datum",r.datum)+
+      rij("Relatie",r.relatie)+rij("Taal",r.taal)+rij("Locatie",r.locatie)+rij("Bron",bronregel(r),true)+
+      rij("Transcriptie",r.transcriptie)+rij("Foto",r.foto)+
+      rij("Reis",r.reis?link("reis",r.reis):"",true)+rij("Reiziger(s)",(r.reizigers||[]).map(id=>link("reiziger",id)),true);
+  }else if(s==="portret"){
+    rijen+=rij("Titel",r.titel)+rij("Geportretteerde",r.geportretteerde)+rij("Vervaardiger",r.vervaardiger)+
+      rij("Jaar",r.jaar)+rij("Bron",r.bron)+rij("Link",r.link?ext(r.link,"bekijk afbeelding"):"",true)+
+      rij("Beschrijving",r.beschrijving)+rij("Reiziger",r.reiziger?link("reiziger",r.reiziger):"",true);
   }
   const onderwerp=encodeURIComponent("Compendium reisverslagen: "+r.id);
   return "<article><div class='soort'>"+SOORTEN[s].enkel+(r.controle_nodig?" · "+badge("controle nodig","accent"):"")+"</div>"+
-    "<h2>"+esc(naamVan(s,r.id))+"</h2><dl>"+rijen+"</dl>"+extra+
+    "<h2>"+esc(titelVan(s,r))+"</h2><dl>"+rijen+"</dl>"+extra+
     "<div class='suggestie'>Aanvulling of correctie? <a href='mailto:"+EMAIL+"?subject="+onderwerp+"'>Geef een suggestie door</a> onder vermelding van <code>"+esc(r.id)+"</code>.</div>"+
-    "<button class='terug' onclick='history.back()'>← Terug</button></article>";
+    "<div class='acties'><button class='terug' onclick='history.back()'>← Terug</button>"+
+    "<a class='bewerk' href='"+bewerkUrl(s,r)+"' target='_blank' rel='noopener'>✎ Bewerk in GitHub</a></div></article>";
 }
 
-// ---- lijstweergave ----
+// ---- filters ----
+function opties(veld,mv,huidig,vertaal){
+  const w=[...new Set((DATA[mv]||[]).flatMap(r=>{const v=r[veld];return Array.isArray(v)?v:(v?[v]:[]);}).filter(Boolean))].sort((a,b)=>String(a).localeCompare(String(b),"nl"));
+  return '<option value="">alle</option>'+w.map(o=>'<option value="'+esc(o)+'"'+(huidig===String(o)?" selected":"")+'>'+esc(vertaal?vertaal(o):o)+'</option>').join("");
+}
+function selectF(naam,label,html){return '<label>'+label+' <select onchange="zetF(\''+naam+'\',this.value)">'+html+'</select></label>';}
+
 function lijst(){
   const s=staat.tab,def=SOORTEN[s];
-  let recs=DATA[def.mv].slice();
+  let recs=(DATA[def.mv]||[]).slice();
   if(staat.zoek){const q=staat.zoek.toLowerCase();recs=recs.filter(r=>zoektekst(r).includes(q));}
   let filters="";
   if(s==="reis"){
-    const typen=[...new Set(DATA.reizen.map(r=>r.reistype).filter(Boolean))].sort();
     if(staat.f1)recs=recs.filter(r=>r.reistype===staat.f1);
-    filters='<label>reistype <select onchange="zetF(\'f1\',this.value)"><option value="">alle</option>'+
-      typen.map(t=>'<option'+(staat.f1===t?' selected':'')+'>'+esc(t)+'</option>').join("")+'</select></label>';
+    if(staat.f2)recs=recs.filter(r=>(r.gebieden||[]).includes(staat.f2));
+    filters=selectF("f1","reistype",opties("reistype","reizen",staat.f1))+selectF("f2","gebied",opties("gebieden","reizen",staat.f2));
   }else if(s==="manuscript"){
-    const inst=[...new Set(DATA.manuscripten.map(r=>r.instelling).filter(Boolean))].sort((a,b)=>naamVan("instelling",a).localeCompare(naamVan("instelling",b),"nl"));
     if(staat.f1)recs=recs.filter(r=>r.instelling===staat.f1);
     if(staat.f2==="editie")recs=recs.filter(r=>(r.edities||[]).length);
-    filters='<label>bewaarplaats <select onchange="zetF(\'f1\',this.value)"><option value="">alle</option>'+
-      inst.map(i=>'<option value="'+esc(i)+'"'+(staat.f1===i?' selected':'')+'>'+esc(naamVan("instelling",i))+'</option>').join("")+'</select></label>'+
-      '<label>editie <select onchange="zetF(\'f2\',this.value)"><option value="">alle</option><option value="editie"'+(staat.f2==="editie"?" selected":"")+'>met editie</option></select></label>';
+    filters=selectF("f1","bewaarplaats",opties("instelling","manuscripten",staat.f1,id=>naamVan("instelling",id)))+
+      selectF("f2","editie",'<option value="">alle</option><option value="editie"'+(staat.f2==="editie"?" selected":"")+'>met editie</option>');
   }else if(s==="reiziger"){
     if(staat.f1)recs=recs.filter(r=>(r.geslacht||"")===staat.f1);
-    filters='<label>geslacht <select onchange="zetF(\'f1\',this.value)"><option value="">alle</option>'+
-      ["Man","Vrouw"].map(t=>'<option'+(staat.f1===t?' selected':'')+'>'+t+'</option>').join("")+'</select></label>';
+    if(staat.f2)recs=recs.filter(r=>(r.religie||"")===staat.f2);
+    filters=selectF("f1","geslacht",'<option value="">alle</option>'+["Man","Vrouw"].map(t=>'<option'+(staat.f1===t?" selected":"")+'>'+t+'</option>').join(""))+
+      selectF("f2","religie",opties("religie","reizigers",staat.f2));
+  }else if(s==="brief"){
+    if(staat.f1)recs=recs.filter(r=>(r.taal||"")===staat.f1);
+    filters=selectF("f1","taal",opties("taal","brieven",staat.f1));
+  }else if(s==="gedicht"){
+    if(staat.f1)recs=recs.filter(r=>(r.taal||"")===staat.f1);
+    filters=selectF("f1","taal",opties("taal","gedichten",staat.f1));
+  }else if(s==="addendum"){
+    if(staat.f1)recs=recs.filter(r=>(r.type||"")===staat.f1);
+    if(staat.f2==="transcriptie")recs=recs.filter(r=>r.transcriptie==="Ja");
+    filters=selectF("f1","type",opties("type","addenda",staat.f1))+
+      selectF("f2","transcriptie",'<option value="">alle</option><option value="transcriptie"'+(staat.f2==="transcriptie"?" selected":"")+'>met transcriptie</option>');
+  }else if(s==="portret"){
+    if(staat.f1)recs=recs.filter(r=>(r.bron||"")===staat.f1);
+    filters=selectF("f1","bron",opties("bron","portretten",staat.f1));
   }
-  recs.sort((a,b)=>naamVan(s,a.id).localeCompare(naamVan(s,b.id),"nl"));
+  recs.sort((a,b)=>titelVan(s,a).localeCompare(titelVan(s,b),"nl"));
   return '<div class="balk"><input type="search" placeholder="Zoek in '+def.mv+'…" value="'+esc(staat.zoek)+'" oninput="zetZoek(this.value)">'+filters+'</div>'+
-    '<p class="teller">'+recs.length+" van "+DATA[def.mv].length+" "+def.mv+'</p>'+
+    '<p class="teller">'+recs.length+" van "+(DATA[def.mv]||[]).length+" "+def.mv+'</p>'+
     (recs.length?'<ul class="lijst">'+recs.map(r=>kaartje(s,r)).join("")+'</ul>':'<p class="leeg">Geen resultaten.</p>');
 }
 function zetZoek(w){staat.zoek=w;teken(false);}
@@ -270,7 +326,7 @@ function zetF(n,w){staat[n]=w;teken(false);}
 
 function tabbladen(){
   document.getElementById("tabbladen").innerHTML=TABS.map(s=>{const d=SOORTEN[s];
-    return '<button class="'+(staat.tab===s&&!staat.detail?"actief":"")+'" onclick="location.hash=\'#/'+d.mv+'\'">'+d.label+" ("+DATA[d.mv].length+")</button>";}).join("");
+    return '<button class="'+(staat.tab===s&&!staat.detail?"actief":"")+'" onclick="location.hash=\'#/'+d.mv+'\'">'+d.label+" ("+((DATA[d.mv]||[]).length)+")</button>";}).join("");
 }
 function teken(focusHerstel){
   tabbladen();
@@ -297,8 +353,11 @@ document.getElementById("voet").innerHTML="Gegevens gegenereerd op "+esc(DATA.ge
   '<em>Gemaakt op reis</em> (Alan Moss, 2022) en het repertorium van Lindeman, Scherf en Dekker (1994).';
 
 // volledige dataset nalaadt voor lange brief-/gedichtteksten
-fetch("data.json").then(r=>r.json()).then(v=>{VOL=v;VOL._reis=new Map(v.reizen.map(x=>[x.id,x]));
-  if(staat.detail&&staat.detail.soort==="reis")teken(true);}).catch(()=>{});
+fetch("data.json").then(r=>r.json()).then(v=>{VOL=v;
+  VOL._brief=new Map((v.brieven||[]).map(x=>[x.id,x]));
+  VOL._gedicht=new Map((v.gedichten||[]).map(x=>[x.id,x]));
+  if(staat.detail)teken(true);
+}).catch(()=>{});
 
 window.addEventListener("hashchange",lees);
 lees();

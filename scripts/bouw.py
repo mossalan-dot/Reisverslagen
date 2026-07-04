@@ -173,28 +173,46 @@ def hoofd():
     print(f"Bibliografie: {n_titel} manuscripttitels gekoppeld; "
           f"{n_ref_ok} van {n_ref_tot} literatuurverwijzingen aan een volledige titel gekoppeld.")
 
-    def schoon(records):
-        return [{k: v for k, v in r.items() if k != "_bestand"} for r in records]
+    # verrijkingen platslaan tot eigen doorzoekbare secties (met verwijzing terug)
+    brieven, gedichten, addenda, portretten = [], [], [], []
+    for reis in reizen:
+        basis = {"reis": reis["id"], "reizigers": reis.get("reizigers") or []}
+        for i, b in enumerate(reis.get("brieven") or []):
+            brieven.append({**b, "id": f"{reis['id']}-brief-{i + 1}", **basis})
+        for i, p in enumerate(reis.get("poezie") or []):
+            gedichten.append({**p, "id": f"{reis['id']}-gedicht-{i + 1}", **basis})
+        for i, a in enumerate(reis.get("addenda") or []):
+            addenda.append({**a, "id": f"{reis['id']}-addendum-{i + 1}", **basis})
+    for rz in reizigers:
+        for i, p in enumerate(rz.get("portretten") or []):
+            portretten.append({**p, "id": f"{rz['id']}-portret-{i + 1}", "reiziger": rz["id"]})
+
+    def schoon(records, drop=()):
+        return [{k: v for k, v in r.items() if k != "_bestand" and k not in drop}
+                for r in records]
 
     vol = {
         "gegenereerd": date.today().isoformat(),
-        "reizigers": schoon(reizigers), "reizen": schoon(reizen),
+        "reizigers": schoon(reizigers, {"portretten"}),
+        "reizen": schoon(reizen, {"brieven", "poezie", "addenda"}),
         "manuscripten": schoon(manuscripten), "instellingen": schoon(instellingen),
+        "brieven": brieven, "gedichten": gedichten, "addenda": addenda, "portretten": portretten,
     }
+    print(f"Secties: {len(brieven)} brieven, {len(gedichten)} gedichten, "
+          f"{len(addenda)} addenda, {len(portretten)} portretten.")
     DOCS.mkdir(exist_ok=True)
     (DOCS / "data.json").write_text(json.dumps(vol, ensure_ascii=False), encoding="utf-8")
 
     # lichte versie: lange teksten inkorten (worden nageladen uit data.json)
     licht = copy.deepcopy(vol)
     ingekort = 0
-    for reis in licht["reizen"]:
-        for sleutel in ("brieven", "poezie"):
-            for item in reis.get(sleutel, []):
-                t = item.get("tekst") or ""
-                if len(t) > PREVIEW:
-                    item["tekst"] = t[:PREVIEW].rstrip() + "…"
-                    item["_ingekort"] = True
-                    ingekort += 1
+    for sleutel in ("brieven", "gedichten"):
+        for item in licht[sleutel]:
+            t = item.get("tekst") or ""
+            if len(t) > PREVIEW:
+                item["tekst"] = t[:PREVIEW].rstrip() + "…"
+                item["_ingekort"] = True
+                ingekort += 1
     sjabloon = (WORTEL / "scripts" / "sjabloon.html").read_text(encoding="utf-8")
     html = sjabloon.replace("__DATA_JSON__", json.dumps(licht, ensure_ascii=False))
     (DOCS / "index.html").write_text(html, encoding="utf-8")
