@@ -54,9 +54,9 @@ Aanvullingen, correcties, transcripties en scans zijn welkom. Zie [BIJDRAGEN.md]
 - [x] Volledige bibliografie gekoppeld (corpustitels en literatuurverwijzingen)
 - [x] Doorzoekbare tabbladen en filters voor brieven, gedichten, addenda en portretten
 - [x] Bewerkknop per record (opent het bronbestand in GitHub)
-- [ ] Online koppelingen: WorldCat bij literatuur, permalinks naar vindplaatsen bij manuscripten
+- [x] Online koppelingen: WorldCat-zoeklinks bij literatuur/edities en per manuscript, met instellingswebsite; `permalink`-veld per manuscript beschikbaar (zelf in te vullen)
 - [ ] Afbeeldingen en transcripties toevoegen/hosten (later via een eigen server-applicatie)
-- [ ] Kaartweergave op basis van geodata (coördinaten per route-plaats; KMZ-routes)
-- [ ] Digitaliserings- en transcriptiestatus per manuscript invullen
+- [ ] Kaartweergave op basis van geodata (uit de KMZ-routes, zodra die zijn aangeleverd)
+- [ ] Digitaliserings- en transcriptiestatus per manuscript invullen (via de bewerkmodus)
 - [ ] Eigen bewerk-/beheeromgeving op de Hetzner-server (fase 2)
 - [ ] Uitbreiding naar zestiende en achttiende eeuw en met gedrukte reisteksten

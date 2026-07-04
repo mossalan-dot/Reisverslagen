@@ -61,6 +61,7 @@
     border-radius:5px;color:var(--blauw);text-decoration:none;background:var(--kaart);}
   .bewerk:hover{border-color:var(--blauw);}
   .suggestie{margin-top:1.2rem;padding-top:.9rem;border-top:1px dashed var(--rand);font-size:.87rem;color:var(--dempen);}
+  .wc{font-family:system-ui,sans-serif;font-size:.8rem;color:var(--dempen);white-space:nowrap;}
   .leeg{color:var(--dempen);font-style:italic;margin:2rem 0;}
   footer{border-top:1px solid var(--rand);color:var(--dempen);font-size:.84rem;padding:1.2rem 0 2.5rem;margin-top:1rem;}
   @media(max-width:600px){dl{grid-template-columns:1fr;}dt{margin-top:.4rem;}}
@@ -173,6 +174,12 @@ function rij(label,inhoud,alHtml){
 function datum(d){if(!d)return"";return [d.datum||d.jaar,[d.plaats,d.provincie].filter(Boolean).join(", ")].filter(Boolean).join(", ");}
 function para(t){return esc(t).replace(/\n\n/g,"<br><br>").replace(/\n/g,"<br>");}
 function bronregel(o){return [o.bron?esc(o.bron):"",o.link?ext(o.link,"link"):""].filter(Boolean).join(" · ");}
+function worldcat(q){return "https://search.worldcat.org/search?q="+encodeURIComponent(q);}
+function litItem(titel){return esc(titel)+' <span class="wc">· '+ext(worldcat(titel),"WorldCat")+'</span>';}
+function msQuery(r){
+  if(r.formele_titel)return r.formele_titel.split(/\.\s*Ms\./)[0];
+  return [r.titel_aanduiding,(r.auteurs||[]).map(a=>naamVan("reiziger",a)).join(" ")].filter(Boolean).join(" ");
+}
 function tekstblok(o,label){
   if(!o.tekst)return"";
   const laden=o._ingekort?' <em>(volledige tekst wordt geladen…)</em>':'';
@@ -213,7 +220,7 @@ function detail(s,r){
     rijen+=rij("Vader",g.vader)+rij("Moeder",g.moeder)+rij("Echtgeno(o)t(e)",g.echtgenoten)+
       rij("Kinderen",g.kinderen)+rij("Broers/zussen",g.broers_zussen)+rij("Andere familie",g.andere_familie);
     rijen+=rij("Reizen",DATA.reizen.filter(x=>(x.reizigers||[]).includes(r.id)).map(x=>link("reis",x.id)),true);
-    rijen+=rij("Literatuur",r.literatuur)+rij("Volledige titels",r.literatuur_volledig);
+    rijen+=rij("Literatuur",r.literatuur)+rij("Volledige titels",(r.literatuur_volledig||[]).map(litItem),true);
     extra+=sectie("Opleiding",r.opleiding,e=>{
       const m=[e.universiteit,e.richting,e.datum].filter(Boolean).join(" · ");
       return '<div class="item"><div class="t">'+esc(e.universiteit||e.richting||"Opleiding")+'</div>'+(m?'<div class="m">'+esc(m)+'</div>':'')+(e.opmerking?'<div class="m">'+esc(e.opmerking)+'</div>':'')+'</div>';});
@@ -225,7 +232,7 @@ function detail(s,r){
     if(r.route&&r.route.length)rijen+=rij("Route",r.route.map(h=>esc([h.plaats,h.land_modern].filter(Boolean).join(", "))+(h.datum?" — "+esc(h.datum):"")),true);
     if(r.manuscript)rijen+=rij("Manuscript",link("manuscript",r.manuscript),true);
     if(r.beschrijving)rijen+=rij("Beschrijving",para(r.beschrijving),true);
-    rijen+=rij("Literatuur",r.literatuur)+rij("Volledige titels",r.literatuur_volledig);
+    rijen+=rij("Literatuur",r.literatuur)+rij("Volledige titels",(r.literatuur_volledig||[]).map(litItem),true);
     if(r.reisgezellen&&r.reisgezellen.length)extra+=sectie("Reisgezellen",r.reisgezellen,x=>'<div class="item"><div class="t">'+esc(x.naam||"Reisgezel")+(x.jaren?" ("+esc(x.jaren)+")":"")+'</div>'+(x.opmerkingen?'<div class="m">'+esc(x.opmerkingen)+'</div>':'')+'</div>');
     extra+=sectie("Correspondentie",kinderen("brieven","reis",r.id),x=>itemKaart("brief",x));
     extra+=sectie("Poëzie",kinderen("gedichten","reis",r.id),x=>itemKaart("gedicht",x));
@@ -236,7 +243,13 @@ function detail(s,r){
       rij("Bewaarplaats",r.instelling?link("instelling",r.instelling):"",true)+rij("Signatuur",r.signatuur)+
       rij("Taal",r.taal)+rij("Omvang",r.omvang)+rij("Incompleet",r.incompleet?"ja":"")+
       rij("Corpusnummer (Gemaakt op reis)",r.corpus_gor)+rij("Repertorium LSD",r.repertorium_lsd)+
-      rij("Edities",r.edities)+rij("Volledige titels",r.literatuur_volledig);
+      rij("Permalink",r.permalink?ext(r.permalink):"",true)+
+      rij("Edities",(r.edities||[]).map(litItem),true)+
+      rij("Volledige titels",(r.literatuur_volledig||[]).map(litItem),true);
+    const online=[ext(worldcat(msQuery(r)),"Zoek in WorldCat")];
+    const inst=r.instelling?index.instelling.get(r.instelling):null;
+    if(inst&&inst.website)online.push(ext(inst.website,"Website "+inst.naam));
+    rijen+=rij("Online zoeken",online,true);
     if(r.beschrijving)rijen+=rij("Beschrijving",para(r.beschrijving),true);
     rijen+=rij("Opmerkingen",r.opmerkingen);
   }else if(s==="instelling"){
